@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-03T17:56:31.243Z</updated>
+  <updated>2026-09-03T18:01:31.243Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-09-02</title>
+    <link href="https://t.me/sgnl_free/20580"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20580</id>
+    <updated>2026-09-03T18:00:34.147Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-02
+
+Yesterday&apos;s cohort: 32,697 launches
+  🟢 STRONG (score 8+): 404 (1.24%)
+  🟡 MIXED (score 5-7): 10,269 (31.41%)
+  🔴 WEAK  (score 0-4): 22,024 (67.36%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG Pumpdog mcap=88 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG LOVE mcap=63 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG MISSILE mcap=68 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG 1% mcap=64 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG MEMECITY mcap=112 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG GIRAFLUX mcap=63 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG BFONE mcap=70 SOL [mcap60+,tg,tw,desc]
+  🟢 STRONG COPRO mcap=113 SOL [mcap60+,tg,tw,web]
+  🟢 STRONG OTC mcap=85 SOL [mcap60+,tg,tw,web]
+  🟢 STRONG AIPEPE mcap=115 SOL [mcap60+,tg,tw,web]
+
+✓grad = graduated to Raydium within 24h (0 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/20579"/>
@@ -640,21 +670,6 @@ View on Etherscan
 📤 11815 ETH ($29.4M)  ←  Binance 14  Binance 19
 
 7d: $3096M in · $4287M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/20530"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20530</id>
-    <updated>2026-09-03T15:01:43.305Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 2582 ETH ($6.4M)  →  Binance 14  0xeae738…
-📤 5.6M USDT ($5.6M)  ←  Binance 16  0x51c728…
-
-7d: $3089M in · $4282M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
   </entry>
