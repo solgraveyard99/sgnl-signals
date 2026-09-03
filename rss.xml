@@ -5,7 +5,57 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-03T14:56:31.236Z</updated>
+  <updated>2026-09-03T15:01:31.236Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-02</title>
+    <link href="https://t.me/sgnl_free/20529"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20529</id>
+    <updated>2026-09-03T15:00:07.001Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-02
+
+Tokens with liquidity drop ≥50%: 9
+Tokens with liquidity drop ≥90%: 7
+Tokens with liquidity drop ≥75%: 8
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL Pumpdog: -94.5%  $47.9K → $2.6K  in 1.4h
+  🚨 CRITICAL apebutt: -94.5%  $35.6K → $2.0K  in 4.5h
+  🚨 CRITICAL microduck: -94.0%  $30.5K → $1.8K  in 15m
+  🚨 CRITICAL ONLYSOL: -93.2%  $30.0K → $2.0K  in 1.8h
+  🚨 CRITICAL HOTDOG: -92.3%  $34.1K → $2.6K  in 10m
+  🚨 CRITICAL TRUMP STRA: -91.7%  $30.5K → $2.5K  in 9m
+  🚨 CRITICAL LOM COIN: -91.3%  $28.2K → $2.5K  in 20m
+  ⛔ SEVERE BLOSSOM: -89.4%  $21.2K → $2.3K  in 20m
+  ⚠ HIGH PIG: -60.4%  $34.8K → $13.8K  in 4.9h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/20528"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20528</id>
+    <updated>2026-09-03T14:59:51.323Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 686.00 ETH ($1.7M) → 0x77f7b398…
+GSR institutional market-maker
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Jump Trading</title>
+    <link href="https://t.me/sgnl_free/20527"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20527</id>
+    <updated>2026-09-03T14:59:35.601Z</updated>
+    <summary type="text">🧠 SMART MONEY · Jump Trading
+📤 5,000,000 USDC ($5.0M) → 0xed89da9d…
+Jump Trading — large altcoin flows
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/20526"/>
@@ -569,41 +619,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $2976M in · $4347M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/20479"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20479</id>
-    <updated>2026-09-03T11:39:21.086Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 5,700,000 USDT ($5.7M) → 0xfb19085a…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/20478"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20478</id>
-    <updated>2026-09-03T11:39:20.220Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 680.93 ETH ($1.6M) ← 0xa9c61fe5…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/20477"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20477</id>
-    <updated>2026-09-03T11:29:41.039Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 2,029,308 USDT ($2.0M) → 0xbee3211a…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
