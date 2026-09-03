@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-03T08:11:31.204Z</updated>
+  <updated>2026-09-03T08:16:31.205Z</updated>
+  <entry>
+    <title>📊 4 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/20447"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20447</id>
+    <updated>2026-09-03T08:12:41.120Z</updated>
+    <summary type="text">📊 4 inflow-heavy observations detected
+Sample: 4 concurrent observations · $192M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 10 moves, $127M to exchanges
+• 🐋 Large deposit: $29M USDT → Binance 14
+• 🐋 Large deposit: $20M USDT → Binance 14
+• 🐋 Large deposit: $17M USDT → Binance 14
+
+Opposing flow: $62M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/20446"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20446</id>
+    <updated>2026-09-03T08:11:35.911Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 20.0M USDT ($20.0M)  →  Binance 14  0xe69f81…
+
+7d: $2769M in · $4021M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/20445"/>
@@ -625,46 +658,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
-    <link href="https://t.me/sgnl_free/20397"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20397</id>
-    <updated>2026-09-03T03:07:34.066Z</updated>
-    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
-📅 2026-09-02
-
-⏱ Last 24 hours
-🚀 Futures (Hyperliquid): +$6.95 · 9 trades · WR 56%
-🐋 Solana Momentum: -30.69% · 8 trades · WR 25%
-
-📆 Last 7 days
-🚀 Futures: +$22.22 · 60 trades · WR 52%
-🐋 Solana Momentum: -217.04% · 53 trades · WR 28%
-
-📚 Cumulative since 2026-04-06
-🚀 Futures: $26.91 · 1138 trades · WR 52%
-🐋 Solana Momentum: -3435.39% · 796 trades · WR 35%
-🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
-🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
-⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
-
-Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
-Not financial advice. Data for decision support.
-
-📲 t.me/sgnl_free</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/20396"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20396</id>
-    <updated>2026-09-03T03:02:26.599Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-14 cluster-buys within 5 minutes of deploy for AL56..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
   </entry>
 </feed>
