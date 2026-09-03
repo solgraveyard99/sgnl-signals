@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-03T17:11:31.239Z</updated>
+  <updated>2026-09-03T17:16:31.239Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/20572"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20572</id>
+    <updated>2026-09-03T17:14:51.429Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0028 SOL
+• 99th: 0.0157 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/20571"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20571</id>
+    <updated>2026-09-03T17:11:37.314Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 3097 ETH ($7.7M)  →  Binance 14  0xeae738…
+
+7d: $3148M in · $4348M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/20570"/>
@@ -632,29 +665,5 @@ View on Etherscan
 7d: $3097M in · $4268M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/20522"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20522</id>
-    <updated>2026-09-03T14:39:51.082Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 2533.00 ETH ($6.2M) → 0xf8191d98…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/20521"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20521</id>
-    <updated>2026-09-03T14:39:35.430Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 1,107,837 USDT ($1.1M) → 0xbcd98656…
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
