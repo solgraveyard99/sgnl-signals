@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-03T02:56:31.190Z</updated>
+  <updated>2026-09-03T03:01:31.190Z</updated>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-09-02</title>
+    <link href="https://t.me/sgnl_free/20395"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20395</id>
+    <updated>2026-09-03T03:00:10.207Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-09-02
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/20394"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20394</id>
+    <updated>2026-09-03T02:59:13.873Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 7,840,000 USDT ($7.8M) ← 0x5b702b24…
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/20393"/>
