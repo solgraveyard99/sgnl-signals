@@ -5,7 +5,67 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-03T08:56:31.207Z</updated>
+  <updated>2026-09-03T09:01:31.207Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-09-02</title>
+    <link href="https://t.me/sgnl_free/20455"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20455</id>
+    <updated>2026-09-03T09:00:18.020Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-02
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 26
+Median peak spike (top 50): 12.0x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump Pumpooor: 24.0x  vol1h=$1.90M  price1h +876.0%
+  🟢 pump Pumpdog: 24.0x  vol1h=$962.1K  price1h +420.0%
+  🟢 pump FBROS: 24.0x  vol1h=$464.1K  price1h +390.0%
+  🟢 pump PumpCity: 24.0x  vol1h=$334.7K  price1h +249.0%
+  🟢 pump MOGGY: 24.0x  vol1h=$356.8K  price1h +206.0%
+  🟢 pump HOTDOG: 24.0x  vol1h=$423.7K  price1h +161.0%
+  🟢 pump apebutt: 24.0x  vol1h=$361.2K  price1h +154.0%
+  🟢 pump ONLYSOL: 24.0x  vol1h=$408.7K  price1h +99.0%
+  🟢 pump TRUMP STRA: 24.0x  vol1h=$487.8K  price1h +96.3%
+  🟢 pump HAM: 24.0x  vol1h=$63.1K  price1h +74.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-09-02</title>
+    <link href="https://t.me/sgnl_free/20454"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20454</id>
+    <updated>2026-09-03T09:00:02.285Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-09-02
+
+Top 5 whale-cluster events:
+• $218M → CEX | 9 wallets | 04:06Z
+• $218M → CEX | 9 wallets | 04:26Z
+• $213M → CEX | 8 wallets | 04:03Z
+• $203M → CEX | 10 wallets | 13:02Z
+• $201M → CEX | 9 wallets | 06:26Z
+
+Alerts fired (24h):
+• Wash trade: 2757
+• Coord launch: 63
+• Whale-cluster→CEX: 39
+• Whale-cluster←CEX: 38
+• Whale-large→CEX: 17
+• Whale-large←CEX: 11
+
+Historical base rates (last 7d, past events only):
+• Whale-cluster→CEX: 0/648 past events matched hypothesis (0%)
+• Whale-cluster←CEX: 56/312 past events matched hypothesis (18%)
+• Whale-large→CEX: 0/99 past events matched hypothesis (0%)
+• Whale-large←CEX: 32/89 past events matched hypothesis (36%)
+
+Base rates describe past outcomes. Not predictions. Not investment advice.
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/20452"/>
@@ -608,37 +668,6 @@ Updated every 4h · SGNL signal aggregator</summary>
     <summary type="text">🧠 SMART MONEY · Jump Trading
 📤 1,202,621 USDC ($1.2M) → 0x056c1eb7…
 Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/20405"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20405</id>
-    <updated>2026-09-03T03:38:52.912Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0008 SOL
-• 99th: 0.0265 SOL (~$3)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/20404"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20404</id>
-    <updated>2026-09-03T03:29:13.782Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 6,000,000 USDT ($6.0M) → 0xd6a3ce7e…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
