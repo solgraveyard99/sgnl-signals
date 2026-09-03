@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-03T17:51:31.242Z</updated>
+  <updated>2026-09-03T17:56:31.243Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/20579"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20579</id>
+    <updated>2026-09-03T17:52:54.383Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0010 SOL
+• 99th: 0.1308 SOL (~$13)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/20578"/>
@@ -638,31 +657,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3089M in · $4282M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-02</title>
-    <link href="https://t.me/sgnl_free/20529"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20529</id>
-    <updated>2026-09-03T15:00:07.001Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-02
-
-Tokens with liquidity drop ≥50%: 9
-Tokens with liquidity drop ≥90%: 7
-Tokens with liquidity drop ≥75%: 8
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL Pumpdog: -94.5%  $47.9K → $2.6K  in 1.4h
-  🚨 CRITICAL apebutt: -94.5%  $35.6K → $2.0K  in 4.5h
-  🚨 CRITICAL microduck: -94.0%  $30.5K → $1.8K  in 15m
-  🚨 CRITICAL ONLYSOL: -93.2%  $30.0K → $2.0K  in 1.8h
-  🚨 CRITICAL HOTDOG: -92.3%  $34.1K → $2.6K  in 10m
-  🚨 CRITICAL TRUMP STRA: -91.7%  $30.5K → $2.5K  in 9m
-  🚨 CRITICAL LOM COIN: -91.3%  $28.2K → $2.5K  in 20m
-  ⛔ SEVERE BLOSSOM: -89.4%  $21.2K → $2.3K  in 20m
-  ⚠ HIGH PIG: -60.4%  $34.8K → $13.8K  in 4.9h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
   </entry>
 </feed>
