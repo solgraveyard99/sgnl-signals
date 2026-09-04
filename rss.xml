@@ -5,7 +5,56 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-04T00:11:31.261Z</updated>
+  <updated>2026-09-04T00:16:31.263Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/20628"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20628</id>
+    <updated>2026-09-04T00:14:47.906Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $83000 — expiry 4SEP26
+Direction: SELL
+Notional: ~$812K
+Contracts: 10
+Implied vol: 55.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/20627"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20627</id>
+    <updated>2026-09-04T00:14:17.004Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+SOLBROS (FsMM..pump)
+Vol/liquidity: 386x (threshold 50)
+24h: -97.0%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/20626"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20626</id>
+    <updated>2026-09-04T00:11:37.995Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 12044 ETH ($30.2M)  →  Binance 19  Binance 14
+📥 7.5M USDT ($7.5M)  →  Binance 14  0xeae738…
+📥 5.5M USDT ($5.5M)  →  Binance 14  0xeae738…
+
+7d: $3330M in · $4210M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Jump Trading</title>
     <link href="https://t.me/sgnl_free/20625"/>
@@ -703,43 +752,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/20578"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20578</id>
-    <updated>2026-09-03T17:46:36.529Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 40.4M USDT ($40.4M)  →  Binance 15  Binance 14
-
-7d: $3179M in · $4333M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/20577"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20577</id>
-    <updated>2026-09-03T17:39:37.725Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1108.00 ETH ($2.8M) → 0xedc7001e…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/20576"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20576</id>
-    <updated>2026-09-03T17:29:35.312Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 2,424,654 USDT ($2.4M) → 0xc7d3c880…
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
