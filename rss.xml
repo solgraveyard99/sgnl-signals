@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-04T04:36:31.278Z</updated>
+  <updated>2026-09-04T04:41:31.278Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/20684"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20684</id>
+    <updated>2026-09-04T04:40:58.159Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0030 SOL
+• 99th: 0.0126 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/20683"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20683</id>
+    <updated>2026-09-04T04:39:21.900Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 7.0M USDT ($7.0M)  →  Binance 14  0xf6a834…
+
+7d: $3425M in · $4234M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/20682"/>
@@ -691,38 +724,5 @@ View on Etherscan
 Cluster launches often precede fast dumps. Observation only.
 
 #onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/20634"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20634</id>
-    <updated>2026-09-04T00:21:37.048Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 2660 ETH ($6.7M)  →  Binance 14  0xeae738…
-📥 2152 ETH ($5.4M)  →  Binance 14  0xeae738…
-
-7d: $3374M in · $4210M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/20633"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20633</id>
-    <updated>2026-09-04T00:19:54.427Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $83000 — expiry 4SEP26
-Direction: BUY
-Notional: ~$765K
-Contracts: 9.4
-Implied vol: 58.7%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
