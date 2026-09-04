@@ -5,7 +5,63 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-03T23:56:31.262Z</updated>
+  <updated>2026-09-04T00:01:31.262Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/20608"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20608</id>
+    <updated>2026-09-04T00:01:17.024Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+BENNIE (97Pb..pump)
+Vol/liquidity: 407x (threshold 50)
+24h: -97.0%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/20607"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20607</id>
+    <updated>2026-09-04T00:00:15.384Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $81,232 | SOL: $104.06
+Market mood: 90/100 🟢 BULLISH
+Solana activity: ACTIVE
+
+Tomorrow&apos;s outlook: Bullish setup tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-03</title>
+    <link href="https://t.me/sgnl_free/20606"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20606</id>
+    <updated>2026-09-04T00:00:14.344Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-03
+
+24h state transitions tracked: 255
+  💀 Died (gone): 147
+  😴 Went dormant: 88
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 RBM: had $0 liquidity · died at age 12.7d
+  💀 SOLBULL: had $0 liquidity · died at age 12.7d
+  💀 RALPH: had $0 liquidity · died at age 12.7d
+  💀 Monkey: had $0 liquidity · died at age 12.7d
+  💀 1sol: had $0 liquidity · died at age 12.7d
+  💀 ONIGIRI: had $0 liquidity · died at age 12.7d
+  💀 NAIVES: had $0 liquidity · died at age 12.7d
+  💀 HIGHER: had $0 liquidity · died at age 12.7d
+  💀 MMM: had $0 liquidity · died at age 12.7d
+  💀 xD: had $0 liquidity · died at age 12.7d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>🟢 Market Posture · mild bullish</title>
     <link href="https://t.me/sgnl_free/20605"/>
@@ -638,47 +694,6 @@ View on Etherscan
     <updated>2026-09-03T16:29:13.855Z</updated>
     <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
 📥 2,650,000 USDT ($2.6M) ← 0x34e479b3…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 4 large moves</title>
-    <link href="https://t.me/sgnl_free/20558"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20558</id>
-    <updated>2026-09-03T16:26:36.485Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 4 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 11603 ETH ($29.0M)  ←  Binance 14  Binance 15
-📤 4000 ETH ($10.0M)  ←  Binance 14  0xed0c60…
-📤 2500 ETH ($6.3M)  ←  Binance 17  0xb99a2c…
-📥 2416 ETH ($6.0M)  →  Binance 14  0xeae738…
-
-7d: $3136M in · $4303M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/20557"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20557</id>
-    <updated>2026-09-03T16:19:29.467Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 4000.00 ETH ($10.0M) → 0xed0c6079…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/20556"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20556</id>
-    <updated>2026-09-03T16:19:13.829Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 583.00 ETH ($1.5M) → 0x51c72848…
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
