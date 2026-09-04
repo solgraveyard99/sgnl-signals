@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-04T13:46:31.309Z</updated>
+  <updated>2026-09-04T13:51:31.310Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/20776"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20776</id>
+    <updated>2026-09-04T13:49:20.162Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 12317 ETH ($30.1M)  →  Binance 15  Binance 14
+
+7d: $3580M in · $4061M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🏦 CEX Reserves (13 wallets)</title>
     <link href="https://t.me/sgnl_free/20775"/>
@@ -606,31 +620,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3579M in · $4093M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-09-03</title>
-    <link href="https://t.me/sgnl_free/20726"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20726</id>
-    <updated>2026-09-04T09:00:19.633Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-03
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 39
-Median peak spike (top 50): 24.0x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump HOODLESS: 24.0x  vol1h=$495.0K  price1h +967.0%
-  🟢 pump SOLCHUMP: 24.0x  vol1h=$463.8K  price1h +617.0%
-  🟢 pump HIERO: 24.0x  vol1h=$2.35M  price1h +605.0%
-  🟢 pump cat bull: 24.0x  vol1h=$699.5K  price1h +590.0%
-  🟢 pump LAUGH: 24.0x  vol1h=$1.08M  price1h +538.0%
-  🟢 pump SOLOTC: 24.0x  vol1h=$475.1K  price1h +407.0%
-  🟢 pump PUMPLESS: 24.0x  vol1h=$379.9K  price1h +373.0%
-  🟢 pump BIRKINCOIN: 24.0x  vol1h=$384.9K  price1h +350.0%
-  🟢 pump hоmo: 24.0x  vol1h=$83.9K  price1h +326.0%
-  🟢 pump SHITLESS: 24.0x  vol1h=$380.1K  price1h +269.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
