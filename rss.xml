@@ -5,7 +5,62 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-04T03:06:31.272Z</updated>
+  <updated>2026-09-04T03:11:31.274Z</updated>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/20667"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20667</id>
+    <updated>2026-09-04T03:07:48.016Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-09-03
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): +$5.05 · 2 trades · WR 50%
+🐋 Solana Momentum: -231.65% · 5 trades · WR 0%
+
+📆 Last 7 days
+🚀 Futures: +$0.52 · 52 trades · WR 50%
+🐋 Solana Momentum: -445.15% · 50 trades · WR 26%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $21.86 · 1140 trades · WR 52%
+🐋 Solana Momentum: -3667.04% · 801 trades · WR 35%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/20666"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20666</id>
+    <updated>2026-09-04T03:07:17.116Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+17 cluster-buys within 5 minutes of deploy for 52C7..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/20665"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20665</id>
+    <updated>2026-09-04T03:06:38.123Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 7.8M USDT ($7.8M)  ←  Binance 17  0x53bbb7…
+
+7d: $3385M in · $4239M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🚨 Coordinated launch buys observed</title>
     <link href="https://t.me/sgnl_free/20664"/>
@@ -659,59 +714,5 @@ Statistical pattern. Not financial advice.</summary>
 Cluster launches often precede fast dumps. Observation only.
 
 #onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/20617"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20617</id>
-    <updated>2026-09-04T00:04:58.445Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $83000 — expiry 4SEP26
-Direction: BUY
-Notional: ~$650K
-Contracts: 8
-Implied vol: 53.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/20616"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20616</id>
-    <updated>2026-09-04T00:04:57.433Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $83000 — expiry 4SEP26
-Direction: BUY
-Notional: ~$813K
-Contracts: 10
-Implied vol: 53.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/20615"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20615</id>
-    <updated>2026-09-04T00:04:57.079Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $75500 — expiry 5SEP26
-Direction: SELL
-Notional: ~$813K
-Contracts: 10
-Implied vol: 60.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
