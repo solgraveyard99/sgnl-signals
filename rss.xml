@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-04T02:01:31.268Z</updated>
+  <updated>2026-09-04T02:06:31.268Z</updated>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/20653"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20653</id>
+    <updated>2026-09-04T02:02:16.973Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+11 cluster-buys within 5 minutes of deploy for CLpF..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/20652"/>
@@ -723,31 +736,5 @@ Supply change 24h: +$516M
 New supply: $74.21B
 
 New liquidity entering market. Historically bullish — fresh dry powder for risk assets.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-09-02</title>
-    <link href="https://t.me/sgnl_free/20603"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20603</id>
-    <updated>2026-09-03T21:00:03.883Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-02
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 27
-Strong-bias tokens (buy/sell ≥3x): 13
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 Ape1: 9168 buys / 929 sells (9.9x)  vol1h=$333.9K  price1h +48%
-  📈 ONLYSOL: 17417 buys / 3579 sells (4.9x)  vol1h=$408.7K  price1h +77%
-  📈 TRUMP STRA: 9744 buys / 1392 sells (7.0x)  vol1h=$487.8K  price1h +32%
-  📈 FBROS: 14162 buys / 3568 sells (4.0x)  vol1h=$464.1K  price1h +271%
-  📈 Pumpdog: 15443 buys / 4762 sells (3.2x)  vol1h=$962.1K  price1h +153%
-  📈 apebutt: 6330 buys / 935 sells (6.8x)  vol1h=$361.2K  price1h +25%
-  📈 catfish: 3649 buys / 118 sells (20x+)  vol1h=$12.0K  price1h -0%
-  📈 AI: 4806 buys / 665 sells (7.2x)  vol1h=$80.3K  price1h +37%
-  📈 MOGGY: 13681 buys / 6225 sells (2.2x)  vol1h=$249.3K  price1h +99%
-  📈 Pumpooor: 17152 buys / 10137 sells (1.7x)  vol1h=$1.86M  price1h +283%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
