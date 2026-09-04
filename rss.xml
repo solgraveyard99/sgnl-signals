@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-04T17:56:31.326Z</updated>
+  <updated>2026-09-04T18:01:31.327Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-09-03</title>
+    <link href="https://t.me/sgnl_free/20817"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20817</id>
+    <updated>2026-09-04T18:00:39.713Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-03
+
+Yesterday&apos;s cohort: 32,370 launches
+  🟢 STRONG (score 8+): 402 (1.24%)
+  🟡 MIXED (score 5-7): 8,190 (25.30%)
+  🔴 WEAK  (score 0-4): 23,778 (73.46%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG SOLDOG mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG SOLdiers mcap=95 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG KITSU mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG MARSCOIN mcap=70 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG MUCK mcap=107 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG GNR mcap=104 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG COOL mcap=112 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG PXPE mcap=112 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG HIDETRUMP mcap=115 SOL [mcap60+,tg,tw,web]
+  🟢 STRONG EYE mcap=112 SOL [mcap60+,tg,tw,web]
+
+✓grad = graduated to Raydium within 24h (0 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/20816"/>
@@ -636,20 +666,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/20767"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20767</id>
-    <updated>2026-09-04T13:14:17.640Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 14.6M USDT ($14.6M)  →  Binance 14  0xeae738…
-📥 5.0M USDT ($5.0M)  →  Binance 14  0xf39335…
-
-7d: $3552M in · $4039M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
