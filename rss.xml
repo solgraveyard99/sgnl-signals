@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-04T14:56:31.314Z</updated>
+  <updated>2026-09-04T15:01:31.315Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-03</title>
+    <link href="https://t.me/sgnl_free/20793"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20793</id>
+    <updated>2026-09-04T15:00:14.616Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-03
+
+Tokens with liquidity drop ≥50%: 17
+Tokens with liquidity drop ≥90%: 12
+Tokens with liquidity drop ≥75%: 16
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL HOODLESS: -97.1%  $162.6K → $4.7K  in 4.2h
+  🚨 CRITICAL SOLCHUMP: -96.9%  $74.5K → $2.3K  in 25m
+  🚨 CRITICAL cat bull: -96.6%  $61.9K → $2.1K  in 1.2h
+  🚨 CRITICAL BIRKINCOIN: -95.7%  $48.6K → $2.1K  in 55m
+  🚨 CRITICAL USDC: -94.4%  $41.8K → $2.3K  in 3.4h
+  🚨 CRITICAL hоmo: -94.2%  $35.4K → $2.1K  in 1.5h
+  🚨 CRITICAL PEPITO: -94.1%  $41.0K → $2.4K  in 1.9h
+  🚨 CRITICAL SOLDOG: -93.7%  $35.0K → $2.2K  in 50m
+  🚨 CRITICAL HUGGY: -93.1%  $30.4K → $2.1K  in 1.4h
+  🚨 CRITICAL SOLLESS: -93.0%  $30.1K → $2.1K  in 1.8h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/20792"/>
