@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-04T02:16:31.269Z</updated>
+  <updated>2026-09-04T02:21:31.269Z</updated>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/20657"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20657</id>
+    <updated>2026-09-04T02:18:51.656Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+[ARFC] Activate Aave Risk Stewards on Aave V4
+
+DAO: aavedao.eth
+Votes cast: 22
+Total voting power: 107938
+Voting ends: 2026-09-06 15:46 UTC
+
+https://snapshot.org/#/aavedao.eth/proposal/0xf736fa5f6dd1532d0e2825fe528262479949a923427989384e313490ca9d9f18
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/20656"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20656</id>
+    <updated>2026-09-04T02:18:17.018Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+14 cluster-buys within 5 minutes of deploy for 5zmz..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/20655"/>
@@ -698,46 +731,5 @@ Vol/liquidity: 407x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>🌙 SGNL Evening Wrap</title>
-    <link href="https://t.me/sgnl_free/20607"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20607</id>
-    <updated>2026-09-04T00:00:15.384Z</updated>
-    <summary type="text">🌙 SGNL Evening Wrap
-BTC: $81,232 | SOL: $104.06
-Market mood: 90/100 🟢 BULLISH
-Solana activity: ACTIVE
-
-Tomorrow&apos;s outlook: Bullish setup tomorrow
-See you at 8AM for the morning brief ☕</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-03</title>
-    <link href="https://t.me/sgnl_free/20606"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20606</id>
-    <updated>2026-09-04T00:00:14.344Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-03
-
-24h state transitions tracked: 255
-  💀 Died (gone): 147
-  😴 Went dormant: 88
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 RBM: had $0 liquidity · died at age 12.7d
-  💀 SOLBULL: had $0 liquidity · died at age 12.7d
-  💀 RALPH: had $0 liquidity · died at age 12.7d
-  💀 Monkey: had $0 liquidity · died at age 12.7d
-  💀 1sol: had $0 liquidity · died at age 12.7d
-  💀 ONIGIRI: had $0 liquidity · died at age 12.7d
-  💀 NAIVES: had $0 liquidity · died at age 12.7d
-  💀 HIGHER: had $0 liquidity · died at age 12.7d
-  💀 MMM: had $0 liquidity · died at age 12.7d
-  💀 xD: had $0 liquidity · died at age 12.7d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
