@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-05T08:21:31.366Z</updated>
+  <updated>2026-09-05T08:26:31.367Z</updated>
+  <entry>
+    <title>📊 3 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/20919"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20919</id>
+    <updated>2026-09-05T08:25:26.713Z</updated>
+    <summary type="text">📊 3 inflow-heavy observations detected
+Sample: 3 concurrent observations · $142M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 5 moves, $90M to exchanges
+• 🐋 Large deposit: $40M USDT → Binance 18
+• 🐋 Large deposit: $11M USDT → Binance 14
+
+Opposing flow: $28M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/20918"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20918</id>
+    <updated>2026-09-05T08:24:16.301Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 DEPOSIT CLUSTER — 5 large deposits in 6h totaling $90M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
+
+📥 40.2M USDT ($40.2M)  →  Binance 18  Binance 14
+
+7d: $3697M in · $3844M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/20917"/>
@@ -650,35 +682,5 @@ Vol/liquidity: 132x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/20869"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20869</id>
-    <updated>2026-09-05T02:01:57.429Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 427.00 ETH ($1.0M) ← 0xeae7380d…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/20868"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20868</id>
-    <updated>2026-09-05T01:54:38.809Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $88000 — expiry 8SEP26
-Direction: SELL
-Notional: ~$637K
-Contracts: 8
-Implied vol: 47.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
