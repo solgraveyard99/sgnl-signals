@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-05T20:56:31.396Z</updated>
+  <updated>2026-09-05T21:01:31.397Z</updated>
+  <entry>
+    <title>📈 Solana Buy Momentum Digest — 2026-09-04</title>
+    <link href="https://t.me/sgnl_free/20968"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20968</id>
+    <updated>2026-09-05T21:00:04.754Z</updated>
+    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-04
+
+Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 27
+Strong-bias tokens (buy/sell ≥3x): 18
+
+Top 10 by buy momentum (buys × buy/sell ratio):
+  📈 TROLLHOUSE: 12403 buys / 1584 sells (7.8x)  vol1h=$464.2K  price1h +90%
+  📈 WTT: 18454 buys / 4297 sells (4.3x)  vol1h=$419.2K  price1h +42%
+  📈 StonkCat: 12724 buys / 2144 sells (5.9x)  vol1h=$444.9K  price1h +126%
+  📈 trollfone: 7599 buys / 990 sells (7.7x)  vol1h=$311.7K  price1h +21%
+  📈 MEMESZN: 14340 buys / 3624 sells (4.0x)  vol1h=$487.3K  price1h +234%
+  📈 MarsCoin: 12702 buys / 3287 sells (3.9x)  vol1h=$458.3K  price1h +102%
+  📈 CATEUS: 13853 buys / 4443 sells (3.1x)  vol1h=$532.6K  price1h +32%
+  📈 MEMELESS: 8772 buys / 2447 sells (3.6x)  vol1h=$410.3K  price1h +255%
+  📈 TRUMPLESS: 8506 buys / 2319 sells (3.7x)  vol1h=$277.1K  price1h +11%
+  📈 apecat: 7871 buys / 2075 sells (3.8x)  vol1h=$25.6K  price1h +22%
+
+Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
+Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>⚪ Market Posture · neutral</title>
     <link href="https://t.me/sgnl_free/20967"/>
@@ -664,20 +690,6 @@ Top observations (by size):
 • 🐋 Large deposit: $11M USDT → Binance 14
 
 Opposing flow: $28M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/20918"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20918</id>
-    <updated>2026-09-05T08:24:16.301Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 DEPOSIT CLUSTER — 5 large deposits in 6h totaling $90M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
-
-📥 40.2M USDT ($40.2M)  →  Binance 18  Binance 14
-
-7d: $3697M in · $3844M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
   </entry>
