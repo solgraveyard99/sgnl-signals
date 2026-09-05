@@ -5,7 +5,48 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-04T23:56:31.346Z</updated>
+  <updated>2026-09-05T00:01:31.347Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/20829"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20829</id>
+    <updated>2026-09-05T00:00:21.526Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $79,673 | SOL: $101.92
+Market mood: 60/100 🟢 Mildly Bullish
+Solana activity: ACTIVE
+
+Tomorrow&apos;s outlook: Range-bound tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-04</title>
+    <link href="https://t.me/sgnl_free/20828"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20828</id>
+    <updated>2026-09-05T00:00:05.521Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-04
+
+24h state transitions tracked: 211
+  💀 Died (gone): 119
+  😴 Went dormant: 68
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 Pumpcat: had $0 liquidity · died at age 36.0d
+  💀 shrek: had $0 liquidity · died at age 36.0d
+  💀 Totoro: had $0 liquidity · died at age 35.8d
+  💀 Bundle: had $0 liquidity · died at age 35.8d
+  💀 mechanigger: had $0 liquidity · died at age 35.8d
+  💀 1hp: had $0 liquidity · died at age 25.0d
+  💀 Hookpad: had $0 liquidity · died at age 25.0d
+  💀 Kermit: had $0 liquidity · died at age 25.0d
+  💀 ALL/IN: had $0 liquidity · died at age 25.0d
+  💀 sneed: had $0 liquidity · died at age 25.0d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>🟢 STABLECOIN MINT · USDC</title>
     <link href="https://t.me/sgnl_free/20827"/>
@@ -630,29 +671,5 @@ Composite score: 70/100
 
 Raw composite reading. No directional interpretation.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/20779"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20779</id>
-    <updated>2026-09-04T13:52:29.117Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 459.42 ETH ($1.1M) from Binance 14 (exchange withdrawal)
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/20778"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20778</id>
-    <updated>2026-09-04T13:52:13.511Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 1128.00 ETH ($2.8M) → 0x84b38bc6…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
