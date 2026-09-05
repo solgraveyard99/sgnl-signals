@@ -5,7 +5,45 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-05T05:56:31.361Z</updated>
+  <updated>2026-09-05T06:01:31.361Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/20896"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20896</id>
+    <updated>2026-09-05T05:59:52.345Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0002 SOL
+• 99th: 0.0847 SOL (~$8)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/20895"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20895</id>
+    <updated>2026-09-05T05:57:52.149Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0001 SOL
+• 99th: 0.0120 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/20894"/>
@@ -725,33 +763,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/20846"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20846</id>
-    <updated>2026-09-05T00:13:17.654Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-25 cluster-buys within 5 minutes of deploy for D6gw..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/20845"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20845</id>
-    <updated>2026-09-05T00:09:32.374Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-SHITLESS (AK53..pump)
-Vol/liquidity: 117x (threshold 50)
-24h: -98.3%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
