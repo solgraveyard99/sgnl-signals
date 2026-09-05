@@ -5,7 +5,38 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-05T00:11:31.347Z</updated>
+  <updated>2026-09-05T00:16:31.348Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/20847"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20847</id>
+    <updated>2026-09-05T00:14:38.949Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Call — strike $2500 — expiry 6SEP26
+Direction: SELL
+Notional: ~$649K
+Contracts: 264
+Implied vol: 23.2%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/20846"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20846</id>
+    <updated>2026-09-05T00:13:17.654Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+25 cluster-buys within 5 minutes of deploy for D6gw..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/20845"/>
@@ -662,29 +693,5 @@ View on Etherscan
 7d: $3610M in · $4036M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/20797"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20797</id>
-    <updated>2026-09-04T15:21:56.860Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 3,000,000 USDT ($3.0M) → 0x539211af…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/20796"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20796</id>
-    <updated>2026-09-04T15:12:35.620Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1,199,927 USDT ($1.2M) → 0x5f2d3a7e…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
