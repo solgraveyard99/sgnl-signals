@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-05T02:26:31.353Z</updated>
+  <updated>2026-09-05T02:31:31.354Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/20876"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20876</id>
+    <updated>2026-09-05T02:29:17.794Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+ACTPONS (31Y5..pump)
+Vol/liquidity: 961x (threshold 50)
+24h: -93.7%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/20875"/>
@@ -725,31 +740,5 @@ Supply change 24h: +$672M
 New supply: $74.55B
 
 New liquidity entering market. Historically bullish — fresh dry powder for risk assets.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-09-03</title>
-    <link href="https://t.me/sgnl_free/20826"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20826</id>
-    <updated>2026-09-04T21:00:03.846Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-03
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 36
-Strong-bias tokens (buy/sell ≥3x): 15
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 LIKESOL: 21445 buys / 4834 sells (4.4x)  vol1h=$451.5K  price1h +108%
-  📈 SOLDOG: 8687 buys / 901 sells (9.6x)  vol1h=$342.9K  price1h +77%
-  📈 BIRKINCOIN: 17656 buys / 3881 sells (4.5x)  vol1h=$384.9K  price1h +350%
-  📈 SOLCHUMP: 20144 buys / 5107 sells (3.9x)  vol1h=$463.1K  price1h +271%
-  📈 USDC: 17224 buys / 4342 sells (4.0x)  vol1h=$1.07M  price1h +14%
-  📈 SOLLESS: 16832 buys / 4470 sells (3.8x)  vol1h=$483.1K  price1h +77%
-  📈 cat bull: 11848 buys / 2286 sells (5.2x)  vol1h=$699.5K  price1h +233%
-  📈 PEPITO: 17535 buys / 6056 sells (2.9x)  vol1h=$1.30M  price1h +63%
-  📈 SOLBEN: 11760 buys / 3331 sells (3.5x)  vol1h=$410.9K  price1h +127%
-  📈 SOLBROS: 9510 buys / 2239 sells (4.2x)  vol1h=$340.0K  price1h -11%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
