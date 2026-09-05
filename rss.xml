@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-05T01:16:31.352Z</updated>
+  <updated>2026-09-05T01:21:31.351Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/20863"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20863</id>
+    <updated>2026-09-05T01:19:46.050Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $82000 — expiry 7SEP26
+Direction: BUY
+Notional: ~$796K
+Contracts: 10
+Implied vol: 26.7%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/20862"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20862</id>
+    <updated>2026-09-05T01:19:30.459Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+BONZI (A6PV..pump)
+Vol/liquidity: 148x (threshold 50)
+24h: -84.7%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/20861"/>
@@ -687,32 +720,6 @@ Statistical pattern. Not financial advice.</summary>
     <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
 📥 1,007,494 USDT ($1.0M) ← 0xeae7380d…
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/20813"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20813</id>
-    <updated>2026-09-04T17:14:16.261Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 2072 ETH ($5.1M)  ←  Binance 19  0xf8191d…
-
-7d: $3636M in · $4003M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/20812"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20812</id>
-    <updated>2026-09-04T17:12:21.038Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📥 40,092,522 USDT ($40.1M) from Binance 14 (withdrawal)
-GSR institutional market-maker
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
