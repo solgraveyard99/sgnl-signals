@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-05T02:21:31.353Z</updated>
+  <updated>2026-09-05T02:26:31.353Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/20875"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20875</id>
+    <updated>2026-09-05T02:24:38.936Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Put — strike $2420 — expiry 5SEP26
+Direction: SELL
+Notional: ~$758K
+Contracts: 309
+Implied vol: 40.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/20874"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20874</id>
+    <updated>2026-09-05T02:24:22.953Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+WPONS (6VKe..pump)
+Vol/liquidity: 132x (threshold 50)
+24h: -94.4%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/20873"/>
@@ -718,29 +751,5 @@ Top 10 by buy momentum (buys × buy/sell ratio):
 Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
 Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/20825"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20825</id>
-    <updated>2026-09-04T18:32:36.854Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 7,000,000 USDT ($7.0M) → 0x091d1c97…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/20824"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20824</id>
-    <updated>2026-09-04T18:32:36.461Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 818.00 ETH ($2.0M) → 0xbda687cc…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
