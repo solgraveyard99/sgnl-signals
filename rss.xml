@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-05T17:56:31.385Z</updated>
+  <updated>2026-09-05T18:01:31.385Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-09-04</title>
+    <link href="https://t.me/sgnl_free/20961"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20961</id>
+    <updated>2026-09-05T18:00:38.415Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-04
+
+Yesterday&apos;s cohort: 28,834 launches
+  🟢 STRONG (score 8+): 370 (1.28%)
+  🟡 MIXED (score 5-7): 6,098 (21.15%)
+  🔴 WEAK  (score 0-4): 22,366 (77.57%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG ryok.net mcap=61 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG $GOBLIN99 mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG GME mcap=75 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG $GOBLIN99 mcap=114 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG META mcap=105 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ANSEMINU mcap=82 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ANSEMINU mcap=72 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG $GOBLIN99 mcap=114 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ANSEMINU mcap=88 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ZAPPI mcap=110 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (0 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/20960"/>
