@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-05T23:46:31.405Z</updated>
+  <updated>2026-09-05T23:51:31.405Z</updated>
+  <entry>
+    <title>⚪ Market Posture · neutral</title>
+    <link href="https://t.me/sgnl_free/20969"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20969</id>
+    <updated>2026-09-05T23:50:27.074Z</updated>
+    <summary type="text">⚪ Market Posture · neutral
+Bias score: +0
+
+No active signals. Quiet tape.
+
+Updated every 4h · SGNL signal aggregator</summary>
+  </entry>
   <entry>
     <title>📈 Solana Buy Momentum Digest — 2026-09-04</title>
     <link href="https://t.me/sgnl_free/20968"/>
@@ -674,23 +686,5 @@ GSR institutional market-maker
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>📊 3 inflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/20919"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20919</id>
-    <updated>2026-09-05T08:25:26.713Z</updated>
-    <summary type="text">📊 3 inflow-heavy observations detected
-Sample: 3 concurrent observations · $142M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale deposit cluster: 5 moves, $90M to exchanges
-• 🐋 Large deposit: $40M USDT → Binance 18
-• 🐋 Large deposit: $11M USDT → Binance 14
-
-Opposing flow: $28M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
