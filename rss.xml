@@ -5,7 +5,58 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-05T00:16:31.348Z</updated>
+  <updated>2026-09-05T00:21:31.348Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/20851"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20851</id>
+    <updated>2026-09-05T00:21:30.693Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+ACTPONS (31Y5..pump)
+Vol/liquidity: 951x (threshold 50)
+24h: -93.6%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/20850"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20850</id>
+    <updated>2026-09-05T00:19:54.598Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Put — strike $2420 — expiry 5SEP26
+Direction: BUY
+Notional: ~$1414K
+Contracts: 576
+Implied vol: 35.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/20849"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20849</id>
+    <updated>2026-09-05T00:19:38.922Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Put — strike $2420 — expiry 5SEP26
+Direction: BUY
+Notional: ~$584K
+Contracts: 238
+Implied vol: 35.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/20847"/>
@@ -653,45 +704,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/20800"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20800</id>
-    <updated>2026-09-04T15:39:17.575Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 2348 ETH ($5.8M)  →  Binance 14  0xeae738…
-
-7d: $3610M in · $4065M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/20799"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20799</id>
-    <updated>2026-09-04T15:31:57.232Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 2348.00 ETH ($5.8M) ← 0xeae7380d…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/20798"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20798</id>
-    <updated>2026-09-04T15:24:17.441Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 11854 ETH ($29.0M)  ←  Binance 14  Binance 16
-
-7d: $3610M in · $4036M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
