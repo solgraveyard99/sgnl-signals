@@ -5,7 +5,61 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-06T17:56:31.464Z</updated>
+  <updated>2026-09-06T18:01:31.464Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-09-05</title>
+    <link href="https://t.me/sgnl_free/21109"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21109</id>
+    <updated>2026-09-06T18:00:40.124Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-05
+
+Yesterday&apos;s cohort: 20,813 launches
+  🟢 STRONG (score 8+): 284 (1.36%)
+  🟡 MIXED (score 5-7): 4,175 (20.06%)
+  🔴 WEAK  (score 0-4): 16,354 (78.58%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG HOODNEEGY mcap=70 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG BIKEANSON mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG APNK mcap=65 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ALLSTATE mcap=121 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ALLSTATE mcap=81 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ALLSTATE mcap=68 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG BRAINPONS mcap=113 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG PUMP mcap=162 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ANSEMSTRO mcap=114 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG FOMOFVR mcap=114 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (0 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/21108"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21108</id>
+    <updated>2026-09-06T17:59:03.965Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 2,500,000 USDT ($2.5M) ← 0xe67821b7…
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/21107"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21107</id>
+    <updated>2026-09-06T17:58:48.270Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📤 424.93 ETH ($1.1M) → 0xbdb3ba9f…
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/21106"/>
@@ -594,47 +648,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3785M in · $3655M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 3 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/21059"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21059</id>
-    <updated>2026-09-06T10:35:26.926Z</updated>
-    <summary type="text">📊 3 outflow-heavy observations detected
-Sample: 3 concurrent observations · $118M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 3 moves, $80M off exchanges
-• 🐋 Large withdrawal: $20M USDT ← Binance 14
-• 🐋 Large withdrawal: $18M USDT ← Binance 18
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/21058"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21058</id>
-    <updated>2026-09-06T10:34:16.416Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 WITHDRAWAL CLUSTER — 3 large withdrawals in 6h totaling $80M. Prior 30d: top decile of 6h withdrawal concurrence. Descriptive only.
-
-📤 18.0M USDT ($18.0M)  ←  Binance 18  0xb99a2c…
-
-7d: $3785M in · $3681M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/21057"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21057</id>
-    <updated>2026-09-06T10:32:21.613Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 18,000,000 USDT ($18.0M) → 0xb99a2c4c…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
