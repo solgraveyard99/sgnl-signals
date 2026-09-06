@@ -5,7 +5,83 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-06T00:11:31.407Z</updated>
+  <updated>2026-09-06T00:16:31.408Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/20986"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20986</id>
+    <updated>2026-09-06T00:14:49.818Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $83000 — expiry 9SEP26
+Direction: SELL
+Notional: ~$1598K
+Contracts: 20
+Implied vol: 36.2%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/20985"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20985</id>
+    <updated>2026-09-06T00:14:49.406Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $77500 — expiry 9SEP26
+Direction: SELL
+Notional: ~$1598K
+Contracts: 20
+Implied vol: 31.5%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/20984"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20984</id>
+    <updated>2026-09-06T00:14:18.512Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+employim (GLjh..f7CY)
+Vol/liquidity: 104x (threshold 50)
+24h: -93.1%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/20983"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20983</id>
+    <updated>2026-09-06T00:12:20.905Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 868.00 ETH ($2.2M) → 0xbc8a0f5e…
+GSR institutional market-maker
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
+  <entry>
+    <title>🟠 ETH STAKING DROUGHT</title>
+    <link href="https://t.me/sgnl_free/20982"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20982</id>
+    <updated>2026-09-06T00:12:00.650Z</updated>
+    <summary type="text">🟠 ETH STAKING DROUGHT
+
+24h inflow collapsed to 7.6K ETH (~238 validators)
+Rate: 21% of 30-day baseline
+ETH price: $2480
+
+Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/20981"/>
@@ -654,32 +730,6 @@ Statistical pattern. Not financial advice.</summary>
     <updated>2026-09-05T13:01:57.032Z</updated>
     <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
 📥 1,000,000 USDT ($1.0M) ← 0x19eef77e…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/20936"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20936</id>
-    <updated>2026-09-05T12:19:18.550Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 2500 ETH ($6.1M)  ←  Binance 17  0x3ab50d…
-
-7d: $3746M in · $3812M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/20933"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20933</id>
-    <updated>2026-09-05T11:51:57.163Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 3,000,000 USDT ($3.0M) → 0x17dc4d78…
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
