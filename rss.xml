@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-06T03:46:31.422Z</updated>
+  <updated>2026-09-06T03:51:31.422Z</updated>
+  <entry>
+    <title>⚪ Market Posture · neutral</title>
+    <link href="https://t.me/sgnl_free/21026"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21026</id>
+    <updated>2026-09-06T03:50:26.766Z</updated>
+    <summary type="text">⚪ Market Posture · neutral
+Bias score: +0
+
+No active signals. Quiet tape.
+
+Updated every 4h · SGNL signal aggregator</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/21025"/>
@@ -681,24 +693,6 @@ Direction: SELL
 Notional: ~$1006K
 Contracts: 12.6
 Implied vol: 21.7%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/20976"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20976</id>
-    <updated>2026-09-06T00:04:55.151Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $100000 — expiry 27NOV26
-Direction: SELL
-Notional: ~$1118K
-Contracts: 14
-Implied vol: 41.8%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
