@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-06T01:01:31.411Z</updated>
+  <updated>2026-09-06T01:06:31.412Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/20997"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20997</id>
+    <updated>2026-09-06T01:06:28.515Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+employim (GLjh..f7CY)
+Vol/liquidity: 104x (threshold 50)
+24h: -93.2%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/20996"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20996</id>
+    <updated>2026-09-06T01:04:52.365Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.1030 SOL
+• 99th: 0.1166 SOL (~$12)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🚨 Coordinated launch buys observed</title>
     <link href="https://t.me/sgnl_free/20995"/>
@@ -698,46 +732,5 @@ GSR institutional market-maker
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-04</title>
-    <link href="https://t.me/sgnl_free/20947"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20947</id>
-    <updated>2026-09-05T15:00:13.691Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-04
-
-Tokens with liquidity drop ≥50%: 15
-Tokens with liquidity drop ≥90%: 13
-Tokens with liquidity drop ≥75%: 15
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL memestock: -97.9%  $204.3K → $4.2K  in 5m
-  🚨 CRITICAL STONKTROLL: -96.3%  $55.9K → $2.0K  in 30m
-  🚨 CRITICAL TROLLHOUSE: -95.8%  $51.7K → $2.2K  in 55m
-  🚨 CRITICAL ACTPONS: -95.5%  $63.7K → $2.9K  in 2.3h
-  🚨 CRITICAL WTT: -95.1%  $42.6K → $2.1K  in 50m
-  🚨 CRITICAL UNSTABLE: -94.2%  $35.1K → $2.0K  in 15m
-  🚨 CRITICAL TRUMPLESS: -94.1%  $40.2K → $2.4K  in 2.6h
-  🚨 CRITICAL CATEUS: -93.9%  $35.7K → $2.2K  in 1.2h
-  🚨 CRITICAL StonkCat: -93.6%  $33.2K → $2.1K  in 30m
-  🚨 CRITICAL MarsCoin: -93.5%  $34.7K → $2.3K  in 3.3h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/20946"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20946</id>
-    <updated>2026-09-05T14:04:16.820Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 DEPOSIT CLUSTER — 8 large deposits in 6h totaling $119M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
-
-📥 11135 ETH ($27.3M)  →  Binance 15  Binance 14
-
-7d: $3751M in · $3809M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
