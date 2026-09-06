@@ -5,7 +5,49 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-06T10:31:31.436Z</updated>
+  <updated>2026-09-06T10:36:31.437Z</updated>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/21059"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21059</id>
+    <updated>2026-09-06T10:35:26.926Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $118M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 3 moves, $80M off exchanges
+• 🐋 Large withdrawal: $20M USDT ← Binance 14
+• 🐋 Large withdrawal: $18M USDT ← Binance 18
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/21058"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21058</id>
+    <updated>2026-09-06T10:34:16.416Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 WITHDRAWAL CLUSTER — 3 large withdrawals in 6h totaling $80M. Prior 30d: top decile of 6h withdrawal concurrence. Descriptive only.
+
+📤 18.0M USDT ($18.0M)  ←  Binance 18  0xb99a2c…
+
+7d: $3785M in · $3681M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/21057"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21057</id>
+    <updated>2026-09-06T10:32:21.613Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 18,000,000 USDT ($18.0M) → 0xb99a2c4c…
+GSR institutional market-maker
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Jump Trading</title>
     <link href="https://t.me/sgnl_free/21055"/>
@@ -612,37 +654,5 @@ GSR institutional market-maker
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/21009"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21009</id>
-    <updated>2026-09-06T02:00:48.982Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-20 cluster-buys within 5 minutes of deploy for kMoH..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/21007"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21007</id>
-    <updated>2026-09-06T01:46:52.614Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0001 SOL
-• 99th: 0.0154 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
