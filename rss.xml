@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-06T03:01:31.420Z</updated>
+  <updated>2026-09-06T03:06:31.420Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/21022"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21022</id>
+    <updated>2026-09-06T03:04:18.824Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+employim (GLjh..f7CY)
+Vol/liquidity: 105x (threshold 50)
+24h: -93.3%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>🚨 Coordinated launch buys observed</title>
     <link href="https://t.me/sgnl_free/21021"/>
@@ -701,18 +716,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/20972"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20972</id>
-    <updated>2026-09-06T00:01:59.123Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-10 cluster-buys within 5 minutes of deploy for Fv3t..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
   </entry>
 </feed>
