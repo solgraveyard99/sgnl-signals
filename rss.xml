@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-06T13:41:31.449Z</updated>
+  <updated>2026-09-06T13:46:31.450Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/21077"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21077</id>
+    <updated>2026-09-06T13:44:15.947Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 14738 ETH ($36.7M)  ←  Binance 14  Binance 15
+
+7d: $3798M in · $3721M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🏦 CEX Reserves (13 wallets)</title>
+    <link href="https://t.me/sgnl_free/21076"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21076</id>
+    <updated>2026-09-06T13:42:36.194Z</updated>
+    <summary type="text">🏦 CEX Reserves (13 wallets)
+
+Total: $20.24B 📉 -89M (-0.44%)
+
+💠 ETH: 825.1K  ($2057M)
+💵 USDT: $18184M
+💵 USDC: $0M
+💵 DAI: $0M
+
+Tilt: ⚪ Flat
+
+Monitored Binance + Coinbase hot wallets. Aggregated onchain reserves</summary>
+  </entry>
   <entry>
     <title>⛽ Gas Check · 24h</title>
     <link href="https://t.me/sgnl_free/21075"/>
@@ -566,36 +598,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/21027"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21027</id>
-    <updated>2026-09-06T05:19:58.934Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0002 SOL
-• 99th: 0.0202 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚪ Market Posture · neutral</title>
-    <link href="https://t.me/sgnl_free/21026"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21026</id>
-    <updated>2026-09-06T03:50:26.766Z</updated>
-    <summary type="text">⚪ Market Posture · neutral
-Bias score: +0
-
-No active signals. Quiet tape.
-
-Updated every 4h · SGNL signal aggregator</summary>
   </entry>
 </feed>
