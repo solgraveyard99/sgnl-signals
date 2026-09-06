@@ -5,7 +5,32 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-06T02:01:31.417Z</updated>
+  <updated>2026-09-06T02:06:31.418Z</updated>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/21011"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21011</id>
+    <updated>2026-09-06T02:04:48.678Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+12 cluster-buys within 5 minutes of deploy for BG1t..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/21010"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21010</id>
+    <updated>2026-09-06T02:02:25.102Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 513.16 ETH ($1.3M) → 0x7cfa067f…
+GSR institutional market-maker
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
   <entry>
     <title>🚨 Coordinated launch buys observed</title>
     <link href="https://t.me/sgnl_free/21009"/>
@@ -659,49 +684,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-09-04</title>
-    <link href="https://t.me/sgnl_free/20961"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20961</id>
-    <updated>2026-09-05T18:00:38.415Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-04
-
-Yesterday&apos;s cohort: 28,834 launches
-  🟢 STRONG (score 8+): 370 (1.28%)
-  🟡 MIXED (score 5-7): 6,098 (21.15%)
-  🔴 WEAK  (score 0-4): 22,366 (77.57%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG ryok.net mcap=61 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG $GOBLIN99 mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG GME mcap=75 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG $GOBLIN99 mcap=114 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG META mcap=105 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG ANSEMINU mcap=82 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG ANSEMINU mcap=72 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG $GOBLIN99 mcap=114 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG ANSEMINU mcap=88 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG ZAPPI mcap=110 SOL [mcap60+,tg,tw,web,desc]
-
-✓grad = graduated to Raydium within 24h (0 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/20960"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20960</id>
-    <updated>2026-09-05T17:44:16.276Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 11032 ETH ($27.3M)  ←  Binance 14  Binance 17
-
-7d: $3807M in · $3816M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
