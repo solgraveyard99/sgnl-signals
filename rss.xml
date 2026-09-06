@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-06T16:01:31.456Z</updated>
+  <updated>2026-09-06T16:06:31.457Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · SOL</title>
+    <link href="https://t.me/sgnl_free/21098"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21098</id>
+    <updated>2026-09-06T16:03:15.556Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
+Spread: 0.0033%/hr  (28.8% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0023%/hr)
+🔴 SHORT on MEXC  (funding 0.0010%/hr)
+
+Expected net: ~24% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/21097"/>
@@ -608,31 +623,5 @@ GSR institutional market-maker
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-09-05</title>
-    <link href="https://t.me/sgnl_free/21048"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21048</id>
-    <updated>2026-09-06T09:00:18.513Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-05
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 25
-Median peak spike (top 50): 13.6x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump memestonk: 24.0x  vol1h=$2.14M  price1h +683.0%
-  🟢 pump FONELESS: 24.0x  vol1h=$420.2K  price1h +559.0%
-  🟢 pump restless: 24.0x  vol1h=$234.6K  price1h +530.0%
-  🟢 pump GoMeme: 24.0x  vol1h=$475.1K  price1h +504.0%
-  🟢 pump STONKGUY: 24.0x  vol1h=$589.2K  price1h +355.0%
-  🟢 pump memefi: 24.0x  vol1h=$493.7K  price1h +352.0%
-  🟢 pump StonkDoge: 24.0x  vol1h=$452.1K  price1h +181.0%
-  🟢 pump employim: 24.0x  vol1h=$409.2K  price1h +154.0%
-  🟢 pump SOLLESS: 24.0x  vol1h=$466.9K  price1h +152.0%
-  🟢 pump PUMPANY: 24.0x  vol1h=$179.4K  price1h +142.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
