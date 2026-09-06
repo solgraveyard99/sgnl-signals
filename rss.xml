@@ -5,7 +5,48 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-05T23:56:31.405Z</updated>
+  <updated>2026-09-06T00:01:31.406Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/20971"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20971</id>
+    <updated>2026-09-06T00:00:22.958Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $79,874 | SOL: $103.23
+Market mood: 70/100 🟢 BULLISH
+Solana activity: ACTIVE
+
+Tomorrow&apos;s outlook: Range-bound tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-05</title>
+    <link href="https://t.me/sgnl_free/20970"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-20970</id>
+    <updated>2026-09-06T00:00:06.886Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-05
+
+24h state transitions tracked: 240
+  💀 Died (gone): 181
+  😴 Went dormant: 39
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 Fraggle: had $0 liquidity · died at age 36.0d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>⚪ Market Posture · neutral</title>
     <link href="https://t.me/sgnl_free/20969"/>
@@ -660,31 +701,5 @@ Base rates describe past outcomes. Not predictions. Not investment advice.
 All observations timestamped. Methodology public.
 
 #onchain #dailydigest</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/20921"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20921</id>
-    <updated>2026-09-05T08:34:18.822Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 DEPOSIT CLUSTER — 6 large deposits in 6h totaling $100M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
-
-📥 10.0M USDT ($10.0M)  →  Binance 14  0x47057c…
-
-7d: $3737M in · $3844M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/20920"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-20920</id>
-    <updated>2026-09-05T08:32:24.897Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📥 40,228,222 USDT ($40.2M) from Binance 14 (withdrawal)
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
