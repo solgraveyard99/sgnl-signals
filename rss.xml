@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-07T16:06:31.535Z</updated>
+  <updated>2026-09-07T16:11:31.535Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/21259"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21259</id>
+    <updated>2026-09-07T16:09:12.222Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📥 11636.73 ETH ($28.8M) from Binance 14 (exchange withdrawal)
+GSR institutional market-maker
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · SOL</title>
+    <link href="https://t.me/sgnl_free/21258"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21258</id>
+    <updated>2026-09-07T16:08:15.469Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
+Spread: 0.0030%/hr  (26.6% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0022%/hr)
+🔴 SHORT on BingX  (funding 0.0008%/hr)
+
+Expected net: ~22% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/21257"/>
@@ -657,43 +684,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/21209"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21209</id>
-    <updated>2026-09-07T09:29:24.922Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1,854,665 USDT ($1.9M) → 0x75ed8313…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-09-06</title>
-    <link href="https://t.me/sgnl_free/21208"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21208</id>
-    <updated>2026-09-07T09:00:18.284Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-06
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 33
-Median peak spike (top 50): 20.3x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump INDEX: 24.0x  vol1h=$48.4K  price1h +2380.0%
-  🟢 pump ZCASHCAT: 24.0x  vol1h=$2.65M  price1h +750.0%
-  🟢 pump ULCAT: 24.0x  vol1h=$589.9K  price1h +689.0%
-  🟢 pump STONKZCAT: 24.0x  vol1h=$574.9K  price1h +610.0%
-  🟢 pump Mudskipper: 24.0x  vol1h=$267.9K  price1h +508.0%
-  🟢 pump AMC: 24.0x  vol1h=$603.7K  price1h +486.0%
-  🟢 pump BONER: 24.0x  vol1h=$458.2K  price1h +386.0%
-  🟢 pump SLOWLANA: 24.0x  vol1h=$782.5K  price1h +381.0%
-  🟢 pump stonkcat: 24.0x  vol1h=$450.9K  price1h +309.0%
-  🟢 pump stonkfone: 24.0x  vol1h=$307.4K  price1h +270.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
