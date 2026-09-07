@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-07T14:56:31.532Z</updated>
+  <updated>2026-09-07T15:01:31.532Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-06</title>
+    <link href="https://t.me/sgnl_free/21248"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21248</id>
+    <updated>2026-09-07T15:00:03.844Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-06
+
+Tokens with liquidity drop ≥50%: 17
+Tokens with liquidity drop ≥90%: 14
+Tokens with liquidity drop ≥75%: 14
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL ONLYSTICK: -97.7%  $104.6K → $2.4K  in 1.0h
+  🚨 CRITICAL CATBILL: -97.1%  $78.2K → $2.2K  in 1.5h
+  🚨 CRITICAL stonkcat: -96.3%  $62.8K → $2.3K  in 1.6h
+  🚨 CRITICAL AMC: -96.0%  $60.8K → $2.4K  in 1.3h
+  🚨 CRITICAL BONER: -95.5%  $50.4K → $2.2K  in 50m
+  🚨 CRITICAL NERU: -94.9%  $45.8K → $2.3K  in 1.0h
+  🚨 CRITICAL Mudskipper: -94.8%  $44.2K → $2.3K  in 2.9h
+  🚨 CRITICAL SOLDOGE: -94.6%  $40.0K → $2.2K  in 9m
+  🚨 CRITICAL SOLSTONK: -94.1%  $35.2K → $2.1K  in 3.8h
+  🚨 CRITICAL SOLDOG: -94.1%  $35.6K → $2.1K  in 10m
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/21247"/>
@@ -677,18 +704,6 @@ Statistical pattern. Not financial advice.
     <updated>2026-09-07T07:59:01.995Z</updated>
     <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
 📤 68,805,138 USDT ($68.8M) → 0xed9b63d1…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/21198"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21198</id>
-    <updated>2026-09-07T07:59:01.607Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 1,500,000 USDT ($1.5M) → 0xfa5f905d…
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
