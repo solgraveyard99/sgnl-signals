@@ -5,7 +5,48 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-06T23:56:31.483Z</updated>
+  <updated>2026-09-07T00:01:31.483Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/21117"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21117</id>
+    <updated>2026-09-07T00:00:23.840Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $80,534 | SOL: $106.70
+Market mood: 80/100 🟢 BULLISH
+Solana activity: ACTIVE
+
+Tomorrow&apos;s outlook: Range-bound tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-06</title>
+    <link href="https://t.me/sgnl_free/21116"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21116</id>
+    <updated>2026-09-07T00:00:08.143Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-06
+
+24h state transitions tracked: 223
+  💀 Died (gone): 122
+  😴 Went dormant: 51
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 1000: had $0 liquidity · died at age 57.3d
+  💀 LW: had $0 liquidity · died at age 51.7d
+  💀 CASHDOG: had $0 liquidity · died at age 45.2d
+  💀 Baoyongyong: had $0 liquidity · died at age 36.3d
+  💀 Falcon9: had $0 liquidity · died at age 36.3d
+  💀 VITA: had $0 liquidity · died at age 96.5d
+  💀 xBOT: had $0 liquidity · died at age 24.7d
+  💀 LION: had $0 liquidity · died at age 24.7d
+  💀 PIPO: had $0 liquidity · died at age 24.7d
+  💀 Wayo: had $0 liquidity · died at age 24.7d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>📈 Solana Buy Momentum Digest — 2026-09-05</title>
     <link href="https://t.me/sgnl_free/21115"/>
@@ -630,33 +671,5 @@ GSR institutional market-maker
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/21067"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21067</id>
-    <updated>2026-09-06T11:44:15.470Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 10.0M USDT ($10.0M)  →  Binance 14  0xde46bd…
-
-7d: $3802M in · $3709M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/21066"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21066</id>
-    <updated>2026-09-06T11:04:15.955Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 5.0M USDT ($5.0M)  →  Binance 14  0x19c313…
-
-7d: $3797M in · $3709M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
