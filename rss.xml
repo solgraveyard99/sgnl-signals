@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-07T00:26:31.484Z</updated>
+  <updated>2026-09-07T00:31:31.484Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/21138"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21138</id>
+    <updated>2026-09-07T00:30:02.373Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+JUPCAT (DMZH..NYtd)
+Vol/liquidity: 5248x (threshold 50)
+24h: -42.5%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/21137"/>
@@ -694,19 +709,5 @@ Top 10 biggest drops yesterday (peak → trough):
 Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
 Filter: peak liquidity ≥$20K, drop ≥50%.
 Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/21088"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21088</id>
-    <updated>2026-09-06T14:54:16.185Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 3290 ETH ($8.2M)  →  Binance 14  0xeae738…
-
-7d: $3810M in · $3753M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
