@@ -5,7 +5,49 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-07T17:56:31.544Z</updated>
+  <updated>2026-09-07T18:01:31.543Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-09-06</title>
+    <link href="https://t.me/sgnl_free/21273"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21273</id>
+    <updated>2026-09-07T18:00:48.547Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-06
+
+Yesterday&apos;s cohort: 21,922 launches
+  🟢 STRONG (score 8+): 291 (1.33%)
+  🟡 MIXED (score 5-7): 4,295 (19.59%)
+  🔴 WEAK  (score 0-4): 17,336 (79.08%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG DOGI mcap=70 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG DOGI mcap=73 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG Ordihood mcap=157 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ONLINE mcap=111 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG PONSICIAL mcap=109 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ANSEMINU mcap=82 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ANSEMINU mcap=78 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ANSEMINU mcap=82 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG PONS mcap=108 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ZTRUMP mcap=85 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (0 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/21272"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21272</id>
+    <updated>2026-09-07T17:59:12.335Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 1781.00 ETH ($4.4M) → 0xf8191d98…
+GSR institutional market-maker
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/21271"/>
@@ -630,30 +672,6 @@ View on Etherscan
     <summary type="text">🧠 SMART MONEY · Jump Trading
 📤 447.68 ETH ($1.1M) → 0xc7d3c880…
 Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 8 (Hot)</title>
-    <link href="https://t.me/sgnl_free/21223"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21223</id>
-    <updated>2026-09-07T11:49:03.894Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 8 (Hot)
-📥 10,293,140 USDe ($10.3M) from Binance 14 (withdrawal)
-Binance hot — major altcoin deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/21222"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21222</id>
-    <updated>2026-09-07T11:48:48.237Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 10,293,140 USDe ($10.3M) to Binance 8 (exchange — sell intent)
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
