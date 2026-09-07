@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-07T05:21:31.505Z</updated>
+  <updated>2026-09-07T05:26:31.507Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/21185"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21185</id>
+    <updated>2026-09-07T05:24:16.612Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 WITHDRAWAL CLUSTER — 7 large withdrawals in 6h totaling $160M. Prior 30d: top decile of 6h withdrawal concurrence. Descriptive only.
+
+📤 8.1M USDT ($8.1M)  ←  Binance 17  0x619adf…
+
+7d: $3722M in · $3622M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/21184"/>
@@ -655,23 +669,5 @@ Vol/liquidity: 102x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/21135"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21135</id>
-    <updated>2026-09-07T00:19:38.962Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $85000 — expiry 9SEP26
-Direction: SELL
-Notional: ~$513K
-Contracts: 6.4
-Implied vol: 44.0%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
