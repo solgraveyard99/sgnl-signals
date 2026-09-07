@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-07T01:01:31.485Z</updated>
+  <updated>2026-09-07T01:06:31.484Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/21145"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21145</id>
+    <updated>2026-09-07T01:04:49.487Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+VALVA (AG31..pump)
+Vol/liquidity: 105x (threshold 50)
+24h: -91.2%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/21144"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21144</id>
+    <updated>2026-09-07T01:01:52.852Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0001 SOL
+• 99th: 0.0211 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/21143"/>
@@ -669,30 +703,6 @@ Statistical pattern. Not financial advice.</summary>
     <updated>2026-09-06T15:52:18.477Z</updated>
     <summary type="text">🧠 SMART MONEY · Jump Trading
 📤 3,582,870 USDT ($3.6M) → 0xed89da9d…
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/21095"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21095</id>
-    <updated>2026-09-06T15:42:20.636Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 3,268,116 USDT ($3.3M) ← 0x1ab4973a…
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/21094"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21094</id>
-    <updated>2026-09-06T15:42:20.268Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 806.51 ETH ($2.0M) from Binance 16 (exchange withdrawal)
 Jump Trading — large altcoin flows
 View on Etherscan
 📲 t.me/sgnl_free
