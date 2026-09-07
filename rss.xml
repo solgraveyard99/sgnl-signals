@@ -5,7 +5,38 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-07T00:16:31.484Z</updated>
+  <updated>2026-09-07T00:21:31.485Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/21135"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21135</id>
+    <updated>2026-09-07T00:19:38.962Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $85000 — expiry 9SEP26
+Direction: SELL
+Notional: ~$513K
+Contracts: 6.4
+Implied vol: 44.0%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/21134"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21134</id>
+    <updated>2026-09-07T00:18:19.301Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+48 cluster-buys within 5 minutes of deploy for qZN7..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/21132"/>
@@ -692,44 +723,5 @@ Top observations (by size):
 Opposing flow: $56M (filtered — minority)
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/21085"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21085</id>
-    <updated>2026-09-06T14:34:20.651Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 4592 ETH ($11.4M)  →  Binance 14  0xeae738…
-📥 6.7M USDT ($6.7M)  →  Binance 14  0x93b13a…
-
-7d: $3792M in · $3753M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/21084"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21084</id>
-    <updated>2026-09-06T14:32:03.398Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 6,720,000 USDT ($6.7M) ← 0x93b13a84…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/21083"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21083</id>
-    <updated>2026-09-06T14:22:23.884Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1622.00 ETH ($4.0M) → 0x51c72848…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
