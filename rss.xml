@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-07T00:21:31.485Z</updated>
+  <updated>2026-09-07T00:26:31.484Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/21137"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21137</id>
+    <updated>2026-09-07T00:24:49.348Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+VALVA (AG31..pump)
+Vol/liquidity: 102x (threshold 50)
+24h: -90.8%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/21135"/>
@@ -691,36 +706,6 @@ Source: DexScreener Solana scanner. Always check current state before trading.</
 📥 3290 ETH ($8.2M)  →  Binance 14  0xeae738…
 
 7d: $3810M in · $3753M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/21087"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21087</id>
-    <updated>2026-09-06T14:42:25.386Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 1,206,992 USDT ($1.2M) → 0xed89da9d…
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>📊 3 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/21086"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21086</id>
-    <updated>2026-09-06T14:35:27.133Z</updated>
-    <summary type="text">📊 3 outflow-heavy observations detected
-Sample: 3 concurrent observations · $271M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 7 moves, $205M off exchanges
-• 🐋 Large withdrawal: $37M ETH ← Binance 14
-• 🐋 Large withdrawal: $28M USDT ← Binance 16
-
-Opposing flow: $56M (filtered — minority)
 
 Statistical pattern. Not financial advice.</summary>
   </entry>
