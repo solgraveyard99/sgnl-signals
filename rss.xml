@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-07T02:51:31.494Z</updated>
+  <updated>2026-09-07T02:56:31.494Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/21165"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21165</id>
+    <updated>2026-09-07T02:54:16.306Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 WITHDRAWAL CLUSTER — 4 large withdrawals in 6h totaling $80M. Prior 30d: top decile of 6h withdrawal concurrence. Descriptive only.
+
+📤 2567 ETH ($6.5M)  ←  Binance 16  0xf8191d…
+📤 2069 ETH ($5.2M)  ←  Binance 16  0xf8191d…
+
+7d: $3729M in · $3580M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/21163"/>
@@ -662,31 +677,5 @@ How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume
 Companion to morning survival report (06:00 UTC).
 Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
 DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-09-05</title>
-    <link href="https://t.me/sgnl_free/21115"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21115</id>
-    <updated>2026-09-06T21:00:04.042Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-05
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 21
-Strong-bias tokens (buy/sell ≥3x): 10
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 STONKGUY: 11406 buys / 1272 sells (9.0x)  vol1h=$384.0K  price1h +2%
-  📈 employim: 11191 buys / 1367 sells (8.2x)  vol1h=$409.2K  price1h +148%
-  📈 memefi: 12491 buys / 1933 sells (6.5x)  vol1h=$463.0K  price1h +168%
-  📈 StonkDoge: 13673 buys / 2446 sells (5.6x)  vol1h=$445.4K  price1h +90%
-  📈 STONKCHUMP: 16115 buys / 4660 sells (3.5x)  vol1h=$255.0K  price1h +95%
-  📈 nip: 5430 buys / 259 sells (20x+)  vol1h=$21.7K  price1h +10%
-  📈 PUMPLIFE: 8918 buys / 2387 sells (3.7x)  vol1h=$124.1K  price1h +8%
-  📈 SOLLESS: 8851 buys / 2504 sells (3.5x)  vol1h=$384.9K  price1h -46%
-  📈 memestonk: 17218 buys / 10599 sells (1.6x)  vol1h=$2.14M  price1h +462%
-  📈 FONELESS: 7975 buys / 2902 sells (2.7x)  vol1h=$323.5K  price1h +167%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
