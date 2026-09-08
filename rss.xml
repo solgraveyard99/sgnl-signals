@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-08T03:01:31.575Z</updated>
+  <updated>2026-09-08T03:06:31.575Z</updated>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/21322"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21322</id>
+    <updated>2026-09-08T03:01:57.282Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+36 cluster-buys within 5 minutes of deploy for Wv6y..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>🍯 Solana Honeypot / Trap Watch — 2026-09-07</title>
     <link href="https://t.me/sgnl_free/21319"/>
@@ -679,71 +692,5 @@ Base: 21.1%  ·  Rewards: 1.2%  ·  TVL: $5.8M
 ⚠️ protocol freshness unknown — verify audits
 
 pool details ↗</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-09-06</title>
-    <link href="https://t.me/sgnl_free/21273"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21273</id>
-    <updated>2026-09-07T18:00:48.547Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-06
-
-Yesterday&apos;s cohort: 21,922 launches
-  🟢 STRONG (score 8+): 291 (1.33%)
-  🟡 MIXED (score 5-7): 4,295 (19.59%)
-  🔴 WEAK  (score 0-4): 17,336 (79.08%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG DOGI mcap=70 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG DOGI mcap=73 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG Ordihood mcap=157 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG ONLINE mcap=111 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG PONSICIAL mcap=109 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG ANSEMINU mcap=82 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG ANSEMINU mcap=78 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG ANSEMINU mcap=82 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG PONS mcap=108 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG ZTRUMP mcap=85 SOL [mcap60+,tg,tw,web,desc]
-
-✓grad = graduated to Raydium within 24h (0 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/21272"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21272</id>
-    <updated>2026-09-07T17:59:12.335Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1781.00 ETH ($4.4M) → 0xf8191d98…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/21271"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21271</id>
-    <updated>2026-09-07T17:29:14.730Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1,437,474 USDT ($1.4M) → 0xa7af2a15…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/21270"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21270</id>
-    <updated>2026-09-07T17:18:54.896Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 2,000,000 USDT ($2.0M) → 0xf9820463…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
