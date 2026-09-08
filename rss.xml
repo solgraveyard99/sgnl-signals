@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-08T03:06:31.575Z</updated>
+  <updated>2026-09-08T03:11:31.574Z</updated>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/21325"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21325</id>
+    <updated>2026-09-08T03:07:28.421Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-09-07
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): $4.70 · 7 trades · WR 57%
+🐋 Solana Momentum: -55.73% · 8 trades · WR 38%
+⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
+
+📆 Last 7 days
+🚀 Futures: $13.10 · 51 trades · WR 49%
+🐋 Solana Momentum: -729.11% · 50 trades · WR 32%
+⚙️ Other Strategy: +0.00% · 7 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $44.97 · 1172 trades · WR 52%
+🐋 Solana Momentum: -4237.59% · 830 trades · WR 35%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 55 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 47 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/21324"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21324</id>
+    <updated>2026-09-08T03:06:32.523Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+10 cluster-buys within 5 minutes of deploy for Funt..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>🚨 Coordinated launch buys observed</title>
     <link href="https://t.me/sgnl_free/21322"/>
@@ -674,23 +720,5 @@ Top 10 by buy momentum (buys × buy/sell ratio):
 Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
 Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>💰 ETH/LST YIELD · 22.3% APY</title>
-    <link href="https://t.me/sgnl_free/21275"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21275</id>
-    <updated>2026-09-07T18:33:14.956Z</updated>
-    <summary type="text">💰 ETH/LST YIELD · 22.3% APY
-fusion-by-ipor / CBETH on Base
-Base: 21.1%  ·  Rewards: 1.2%  ·  TVL: $5.8M
-
-💡 +18.3% vs typical lending (4%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-pool details ↗</summary>
   </entry>
 </feed>
