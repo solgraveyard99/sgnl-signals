@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-08T13:36:31.604Z</updated>
+  <updated>2026-09-08T13:41:31.604Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/21412"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21412</id>
+    <updated>2026-09-08T13:39:19.225Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 1,176,822 USDT ($1.2M) → 0x5cf1bba4…
+GSR institutional market-maker
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
+  <entry>
+    <title>🏦 CEX Reserves (13 wallets)</title>
+    <link href="https://t.me/sgnl_free/21411"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21411</id>
+    <updated>2026-09-08T13:39:03.379Z</updated>
+    <summary type="text">🏦 CEX Reserves (13 wallets)
+
+Total: $20.53B 📈 +124M (+0.61%)
+
+💠 ETH: 840.4K  ($2066M)
+💵 USDT: $18463M
+💵 USDC: $0M
+💵 DAI: $0M
+
+Tilt: ⚪ Flat
+
+Monitored Binance + Coinbase hot wallets. Aggregated onchain reserves</summary>
+  </entry>
   <entry>
     <title>⛽ Gas Check · 24h</title>
     <link href="https://t.me/sgnl_free/21410"/>
@@ -638,36 +668,5 @@ View on Etherscan
 7d: $3401M in · $3356M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/21362"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21362</id>
-    <updated>2026-09-08T07:48:48.457Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 6230.00 ETH ($15.4M) → 0xfc82b422…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/21361"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21361</id>
-    <updated>2026-09-08T07:44:53.272Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0007 SOL
-• 99th: 0.0179 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
