@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-08T01:16:31.566Z</updated>
+  <updated>2026-09-08T01:21:31.566Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/21305"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21305</id>
+    <updated>2026-09-08T01:19:50.179Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+SNP500 (BrPy..pump)
+Vol/liquidity: 564x (threshold 50)
+24h: -97.5%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>🚨 Coordinated launch buys observed</title>
     <link href="https://t.me/sgnl_free/21304"/>
@@ -700,21 +715,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3583M in · $3293M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚪ Market Posture · neutral</title>
-    <link href="https://t.me/sgnl_free/21255"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21255</id>
-    <updated>2026-09-07T15:52:16.492Z</updated>
-    <summary type="text">⚪ Market Posture · neutral
-Bias score: +0
-
-4 active signals (top 5 by size):
-• 🐋 Whale deposit cluster: 11 moves, $162M to exchanges
-• 🐋 Whale withdrawal cluster: 9 moves, $146M off exchanges
-• 🐋 Large deposit: $50M ETH → Binance 14
-• 🐋 Large deposit: $42M USDT → Binance 15
-
-Updated every 4h · SGNL signal aggregator</summary>
   </entry>
 </feed>
