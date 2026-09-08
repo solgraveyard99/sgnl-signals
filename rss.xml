@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-08T08:01:31.588Z</updated>
+  <updated>2026-09-08T08:06:31.589Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/21367"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21367</id>
+    <updated>2026-09-08T08:04:53.404Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0010 SOL
+• 99th: 0.0112 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/21365"/>
@@ -622,20 +641,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/21317"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21317</id>
-    <updated>2026-09-08T02:25:00.539Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-DUNALDU (BtGS..pump)
-Vol/liquidity: 696x (threshold 50)
-24h: -97.4%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
