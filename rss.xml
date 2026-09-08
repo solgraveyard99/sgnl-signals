@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-08T03:11:31.574Z</updated>
+  <updated>2026-09-08T03:16:31.575Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/21326"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21326</id>
+    <updated>2026-09-08T03:14:26.594Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 DEPOSIT CLUSTER — 3 large deposits in 6h totaling $74M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
+
+📥 6.6M USDT ($6.6M)  →  Binance 14  0xf6a834…
+
+7d: $3469M in · $3337M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
     <link href="https://t.me/sgnl_free/21325"/>
@@ -694,31 +708,5 @@ How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume
 Companion to morning survival report (06:00 UTC).
 Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
 DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-09-06</title>
-    <link href="https://t.me/sgnl_free/21276"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21276</id>
-    <updated>2026-09-07T21:00:03.894Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-06
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 37
-Strong-bias tokens (buy/sell ≥3x): 20
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 ONLYSTICK: 21045 buys / 4177 sells (5.0x)  vol1h=$694.0K  price1h +248%
-  📈 STONKGUY: 12276 buys / 1943 sells (6.3x)  vol1h=$698.1K  price1h -74%
-  📈 STONKZCAT: 16529 buys / 4713 sells (3.5x)  vol1h=$574.9K  price1h +569%
-  📈 stonkcat: 8910 buys / 1822 sells (4.9x)  vol1h=$310.4K  price1h -70%
-  📈 AMC: 8318 buys / 1594 sells (5.2x)  vol1h=$603.7K  price1h +475%
-  📈 SOLDOGE: 11754 buys / 3443 sells (3.4x)  vol1h=$464.8K  price1h +175%
-  📈 CATBILL: 9874 buys / 2784 sells (3.5x)  vol1h=$338.5K  price1h +267%
-  📈 nip: 3380 buys / 173 sells (19.5x)  vol1h=$18.9K  price1h +16%
-  📈 zcatfone: 5830 buys / 1025 sells (5.7x)  vol1h=$305.7K  price1h +158%
-  📈 ZCASHCAT: 17340 buys / 9269 sells (1.9x)  vol1h=$2.65M  price1h +289%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
