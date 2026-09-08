@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-08T03:56:31.577Z</updated>
+  <updated>2026-09-08T04:01:31.577Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/21330"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21330</id>
+    <updated>2026-09-08T04:01:06.631Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0043 SOL
+• 99th: 0.0776 SOL (~$8)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/21328"/>
@@ -672,31 +691,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/21280"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21280</id>
-    <updated>2026-09-08T00:04:15.584Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📥 40.6M USDT ($40.6M)  →  Binance 18  Binance 14
-📤 5500 ETH ($13.7M)  ←  Binance 18  0xb99a2c…
-
-7d: $3381M in · $3310M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/21279"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21279</id>
-    <updated>2026-09-08T00:01:20.156Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-16 cluster-buys within 5 minutes of deploy for 5iX5..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
   </entry>
 </feed>
