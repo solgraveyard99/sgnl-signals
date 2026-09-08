@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-08T19:01:31.621Z</updated>
+  <updated>2026-09-08T19:06:31.621Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/21467"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21467</id>
+    <updated>2026-09-08T19:04:16.291Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 44.0M USDT ($44.0M)  ←  Binance 14  Binance 18
+
+7d: $3613M in · $3364M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/21466"/>
@@ -642,25 +656,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>📊 5 inflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/21417"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21417</id>
-    <updated>2026-09-08T14:07:16.583Z</updated>
-    <summary type="text">📊 5 inflow-heavy observations detected
-Sample: 5 concurrent observations · $302M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale deposit cluster: 13 moves, $226M to exchanges
-• 🐋 Large deposit: $40M USDT → Binance 18
-• 🐋 Large deposit: $15M USDT → Binance 14
-• 🐋 Large deposit: $11M ETH → Binance 14
-• 🐋 Large deposit: $10M ETH → Binance 14
-
-Opposing flow: $80M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
