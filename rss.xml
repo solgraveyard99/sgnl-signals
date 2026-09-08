@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-08T20:56:31.627Z</updated>
+  <updated>2026-09-08T21:01:31.627Z</updated>
+  <entry>
+    <title>📈 Solana Buy Momentum Digest — 2026-09-07</title>
+    <link href="https://t.me/sgnl_free/21473"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21473</id>
+    <updated>2026-09-08T21:00:05.430Z</updated>
+    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-07
+
+Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 53
+Strong-bias tokens (buy/sell ≥3x): 19
+
+Top 10 by buy momentum (buys × buy/sell ratio):
+  📈 SNP500: 18430 buys / 2312 sells (8.0x)  vol1h=$621.7K  price1h +460%
+  📈 TESLASS: 17669 buys / 2454 sells (7.2x)  vol1h=$633.9K  price1h +23%
+  📈 NVIDUCK: 17037 buys / 2321 sells (7.3x)  vol1h=$488.0K  price1h +225%
+  📈 FRENCHFRIE: 11435 buys / 1318 sells (8.7x)  vol1h=$565.7K  price1h +228%
+  📈 USDG: 13587 buys / 1970 sells (6.9x)  vol1h=$469.7K  price1h +284%
+  📈 ASSDAQ: 10607 buys / 1486 sells (7.1x)  vol1h=$619.6K  price1h +57%
+  📈 CATFLIX: 18147 buys / 6261 sells (2.9x)  vol1h=$480.6K  price1h +222%
+  📈 LULU: 5523 buys / 596 sells (9.3x)  vol1h=$54.7K  price1h +85%
+  📈 zcatfone: 11783 buys / 2735 sells (4.3x)  vol1h=$710.4K  price1h +104%
+  📈 CATIFY: 16433 buys / 5453 sells (3.0x)  vol1h=$467.6K  price1h +137%
+
+Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
+Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Jump Trading</title>
     <link href="https://t.me/sgnl_free/21472"/>
@@ -644,17 +670,5 @@ Source: DexScreener Solana scanner. Always check current state before trading.</
 7d: $3572M in · $3267M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/21423"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21423</id>
-    <updated>2026-09-08T14:29:14.723Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 1,987,131 USDT ($2.0M) ← 0x1ab4973a…
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
