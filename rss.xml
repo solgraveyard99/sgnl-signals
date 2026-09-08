@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-08T14:56:31.607Z</updated>
+  <updated>2026-09-08T15:01:31.608Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-07</title>
+    <link href="https://t.me/sgnl_free/21425"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21425</id>
+    <updated>2026-09-08T15:00:03.798Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-07
+
+Tokens with liquidity drop ≥50%: 34
+Tokens with liquidity drop ≥90%: 26
+Tokens with liquidity drop ≥75%: 30
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL SNP500: -97.5%  $88.5K → $2.2K  in 1.1h
+  🚨 CRITICAL USDG: -97.4%  $89.8K → $2.3K  in 1.3h
+  🚨 CRITICAL CATFLIX: -96.7%  $68.4K → $2.2K  in 40m
+  🚨 CRITICAL ZTRUMP: -95.8%  $51.5K → $2.2K  in 1.0h
+  🚨 CRITICAL STONKTRUMP: -95.8%  $59.7K → $2.5K  in 2.6h
+  🚨 CRITICAL ASSDAQ: -95.7%  $50.8K → $2.2K  in 45m
+  🚨 CRITICAL NASCAT: -95.7%  $52.3K → $2.3K  in 1.9h
+  🚨 CRITICAL NVIDOG: -95.4%  $53.9K → $2.5K  in 40m
+  🚨 CRITICAL NVIDOG: -95.2%  $53.9K → $2.6K  in 50m
+  🚨 CRITICAL Meowta: -95.1%  $49.4K → $2.4K  in 30m
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/21424"/>
@@ -634,31 +661,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3396M in · $3369M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-09-07</title>
-    <link href="https://t.me/sgnl_free/21375"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21375</id>
-    <updated>2026-09-08T09:00:06.005Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-07
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 58
-Median peak spike (top 50): 24.0x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump LEVERHEDGE: 24.0x  vol1h=$6.78M  price1h +7303.0%
-  🟢 pump VC: 24.0x  vol1h=$1.54M  price1h +6753.0%
-  🟢 pump TRONK: 24.0x  vol1h=$2.96M  price1h +1352.0%
-  🟢 pump SCAT: 24.0x  vol1h=$100.4K  price1h +1304.0%
-  🟢 pump USTONK: 24.0x  vol1h=$1.27M  price1h +1124.0%
-  🟢 pump DUNALDU: 24.0x  vol1h=$830.5K  price1h +856.0%
-  🟢 pump FRENCHFRIE: 24.0x  vol1h=$626.8K  price1h +732.0%
-  🟢 pump SNP500: 24.0x  vol1h=$645.0K  price1h +626.0%
-  🟢 pump Cutecat: 24.0x  vol1h=$927.6K  price1h +592.0%
-  🟢 pump JR2000: 24.0x  vol1h=$596.0K  price1h +576.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
