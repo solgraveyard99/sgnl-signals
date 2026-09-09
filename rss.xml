@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-09T02:56:31.642Z</updated>
+  <updated>2026-09-09T03:01:31.643Z</updated>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-09-08</title>
+    <link href="https://t.me/sgnl_free/21527"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21527</id>
+    <updated>2026-09-09T03:00:08.521Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-09-08
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/21526"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21526</id>
+    <updated>2026-09-09T02:59:12.666Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 3,000,000 USDT ($3.0M) → 0xc333e80e…
+GSR institutional market-maker
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/21525"/>
@@ -684,42 +717,6 @@ Direction: SELL
 Notional: ~$3140K
 Contracts: 40
 Implied vol: 32.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/21477"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21477</id>
-    <updated>2026-09-09T00:04:42.821Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $79500 — expiry 10SEP26
-Direction: SELL
-Notional: ~$3140K
-Contracts: 40
-Implied vol: 35.5%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/21476"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21476</id>
-    <updated>2026-09-09T00:04:42.439Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $78500 — expiry 10SEP26
-Direction: BUY
-Notional: ~$3140K
-Contracts: 40
-Implied vol: 34.4%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
