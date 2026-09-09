@@ -5,7 +5,57 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-09T00:26:31.636Z</updated>
+  <updated>2026-09-09T00:31:31.636Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/21498"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21498</id>
+    <updated>2026-09-09T00:29:45.678Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $82000 — expiry 12SEP26
+Direction: BUY
+Notional: ~$629K
+Contracts: 8
+Implied vol: 44.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/21497"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21497</id>
+    <updated>2026-09-09T00:29:30.064Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+10 cluster-buys within 5 minutes of deploy for ANKA..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/21496"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21496</id>
+    <updated>2026-09-09T00:27:53.528Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0145 SOL
+• 99th: 0.0798 SOL (~$8)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/21495"/>
@@ -667,31 +717,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/21448"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21448</id>
-    <updated>2026-09-08T17:04:27.405Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 5.3M USDT ($5.3M)  ←  Binance 18  0xb5e4d2…
-
-7d: $3608M in · $3301M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>☀️ SGNL Midday Check-in</title>
-    <link href="https://t.me/sgnl_free/21446"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21446</id>
-    <updated>2026-09-08T17:00:19.829Z</updated>
-    <summary type="text">☀️ SGNL Midday Check-in
-BTC: $78,805 | SOL: $104.27
-Market mood: 60/100 🟢 Mildly Bullish
-Scanned ? tokens · Entered 0 trades today
-
-Stay sharp. Full signals in SGNL VIP 👆</summary>
   </entry>
 </feed>
