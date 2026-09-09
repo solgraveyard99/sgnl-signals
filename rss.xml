@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-09T09:11:31.657Z</updated>
+  <updated>2026-09-09T09:16:31.657Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/21571"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21571</id>
+    <updated>2026-09-09T09:14:25.903Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 9.4M USDT ($9.4M)  ←  Binance 17  0xc7d6f0…
+📥 5.7M USDT ($5.7M)  →  Binance 14  0xeae738…
+
+7d: $3472M in · $3515M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/21570"/>
@@ -691,24 +706,5 @@ Vol/liquidity: 167x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/21521"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21521</id>
-    <updated>2026-09-09T02:14:02.306Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0002 SOL
-• 99th: 0.0127 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
