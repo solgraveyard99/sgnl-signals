@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-09T01:11:31.637Z</updated>
+  <updated>2026-09-09T01:16:31.635Z</updated>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/21507"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21507</id>
+    <updated>2026-09-09T01:14:51.035Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+12 cluster-buys within 5 minutes of deploy for 99tg..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/21506"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21506</id>
+    <updated>2026-09-09T01:14:15.745Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 8.0M USDT ($8.0M)  ←  Binance 14  0xeeefe8…
+
+7d: $3441M in · $3435M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/21505"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21505</id>
+    <updated>2026-09-09T01:13:12.378Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0001 SOL
+• 99th: 0.0200 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🚨 Coordinated launch buys observed</title>
     <link href="https://t.me/sgnl_free/21504"/>
@@ -671,59 +717,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/21457"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21457</id>
-    <updated>2026-09-08T18:09:11.743Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 1,185,876 USDC ($1.2M) → 0x30f2864e…
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/21456"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21456</id>
-    <updated>2026-09-08T18:08:56.108Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1,346,923 USDT ($1.3M) ← 0x06fd4ba7…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-09-07</title>
-    <link href="https://t.me/sgnl_free/21455"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21455</id>
-    <updated>2026-09-08T18:00:37.477Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-07
-
-Yesterday&apos;s cohort: 26,477 launches
-  🟢 STRONG (score 8+): 377 (1.42%)
-  🟡 MIXED (score 5-7): 8,093 (30.57%)
-  🔴 WEAK  (score 0-4): 18,007 (68.01%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG PUMPKEY mcap=74 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG $GOBLIN99 mcap=114 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG PSMG mcap=77 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG KESTREL mcap=72 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG dnazo  mcap=318 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG RUSTY mcap=80 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG BANKA mcap=67 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG moonkey mcap=79 SOL [mcap60+,tg,tw,web]
-  🟢 STRONG PIGEON mcap=113 SOL [mcap60+,tg,tw,web]
-  🟢 STRONG CATCOIN mcap=60 SOL [mcap60+,tg,tw,web]
-
-✓grad = graduated to Raydium within 24h (0 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
