@@ -5,7 +5,48 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-08T23:56:31.632Z</updated>
+  <updated>2026-09-09T00:01:31.633Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/21475"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21475</id>
+    <updated>2026-09-09T00:00:25.347Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $78,448 | SOL: $103.46
+Market mood: 60/100 🟢 Mildly Bullish
+Solana activity: ACTIVE
+
+Tomorrow&apos;s outlook: Range-bound tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-08</title>
+    <link href="https://t.me/sgnl_free/21474"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21474</id>
+    <updated>2026-09-09T00:00:09.719Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-08
+
+24h state transitions tracked: 299
+  💀 Died (gone): 163
+  😴 Went dormant: 81
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 Hugo: had $0 liquidity · died at age 24.7d
+  💀 Dame: had $0 liquidity · died at age 24.7d
+  💀 ARTCOIN: had $0 liquidity · died at age 24.7d
+  💀 Momota: had $0 liquidity · died at age 24.7d
+  💀 CAJETAN: had $0 liquidity · died at age 24.7d
+  💀 GOATSE: had $0 liquidity · died at age 24.7d
+  💀 Spider: had $0 liquidity · died at age 24.7d
+  💀 RATIO: had $0 liquidity · died at age 24.7d
+  💀 Saher: had $0 liquidity · died at age 24.7d
+  💀 CLANS: had $0 liquidity · died at age 12.3d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>📈 Solana Buy Momentum Digest — 2026-09-07</title>
     <link href="https://t.me/sgnl_free/21473"/>
@@ -627,47 +668,6 @@ View on Etherscan
 📥 10831 ETH ($26.9M)  →  Binance 15  Binance 14
 
 7d: $3565M in · $3274M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-07</title>
-    <link href="https://t.me/sgnl_free/21425"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21425</id>
-    <updated>2026-09-08T15:00:03.798Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-07
-
-Tokens with liquidity drop ≥50%: 34
-Tokens with liquidity drop ≥90%: 26
-Tokens with liquidity drop ≥75%: 30
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL SNP500: -97.5%  $88.5K → $2.2K  in 1.1h
-  🚨 CRITICAL USDG: -97.4%  $89.8K → $2.3K  in 1.3h
-  🚨 CRITICAL CATFLIX: -96.7%  $68.4K → $2.2K  in 40m
-  🚨 CRITICAL ZTRUMP: -95.8%  $51.5K → $2.2K  in 1.0h
-  🚨 CRITICAL STONKTRUMP: -95.8%  $59.7K → $2.5K  in 2.6h
-  🚨 CRITICAL ASSDAQ: -95.7%  $50.8K → $2.2K  in 45m
-  🚨 CRITICAL NASCAT: -95.7%  $52.3K → $2.3K  in 1.9h
-  🚨 CRITICAL NVIDOG: -95.4%  $53.9K → $2.5K  in 40m
-  🚨 CRITICAL NVIDOG: -95.2%  $53.9K → $2.6K  in 50m
-  🚨 CRITICAL Meowta: -95.1%  $49.4K → $2.4K  in 30m
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/21424"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21424</id>
-    <updated>2026-09-08T14:44:16.770Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 40.3M USDT ($40.3M)  ←  Binance 14  Binance 15
-
-7d: $3572M in · $3267M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
   </entry>
