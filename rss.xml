@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-09T03:06:31.642Z</updated>
+  <updated>2026-09-09T03:11:31.643Z</updated>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/21530"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21530</id>
+    <updated>2026-09-09T03:07:14.828Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-09-08
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): $2.32 · 11 trades · WR 45%
+🐋 Solana Momentum: -287.84% · 9 trades · WR 22%
+⚙️ Other Strategy: +0.00% · 2 trades · WR 0%
+
+📆 Last 7 days
+🚀 Futures: $13.43 · 54 trades · WR 48%
+🐋 Solana Momentum: -1120.73% · 51 trades · WR 25%
+⚙️ Other Strategy: +0.00% · 8 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $47.29 · 1183 trades · WR 52%
+🐋 Solana Momentum: -4525.43% · 839 trades · WR 34%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 57 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 47 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/21529"/>
@@ -698,20 +731,5 @@ Jump Trading — large altcoin flows
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/21480"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21480</id>
-    <updated>2026-09-09T00:04:59.312Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-MAG7 (Fwm1..DSUs)
-Vol/liquidity: 113x (threshold 50)
-24h: -92.9%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
