@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-09T20:56:31.692Z</updated>
+  <updated>2026-09-09T21:01:31.692Z</updated>
+  <entry>
+    <title>📈 Solana Buy Momentum Digest — 2026-09-08</title>
+    <link href="https://t.me/sgnl_free/21664"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21664</id>
+    <updated>2026-09-09T21:00:03.980Z</updated>
+    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-08
+
+Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 43
+Strong-bias tokens (buy/sell ≥3x): 17
+
+Top 10 by buy momentum (buys × buy/sell ratio):
+  📈 FAT: 17876 buys / 1793 sells (10.0x)  vol1h=$501.5K  price1h -70%
+  📈 STONKLESS: 20821 buys / 3175 sells (6.6x)  vol1h=$627.1K  price1h +44%
+  📈 Nascat: 18399 buys / 2697 sells (6.8x)  vol1h=$682.3K  price1h -26%
+  📈 ASSDAQ: 15657 buys / 2154 sells (7.3x)  vol1h=$714.2K  price1h +61%
+  📈 ONLYPUMP: 23813 buys / 5072 sells (4.7x)  vol1h=$820.8K  price1h +655%
+  📈 HAPPYCAT: 12449 buys / 1753 sells (7.1x)  vol1h=$719.0K  price1h +162%
+  📈 MSFT: 13554 buys / 2461 sells (5.5x)  vol1h=$364.4K  price1h +77%
+  📈 POINTLESS: 14310 buys / 2928 sells (4.9x)  vol1h=$916.9K  price1h +92%
+  📈 APPLECAT: 10895 buys / 1805 sells (6.0x)  vol1h=$744.9K  price1h +130%
+  📈 ZMOLE: 10334 buys / 1650 sells (6.3x)  vol1h=$418.7K  price1h -13%
+
+Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
+Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/21663"/>
@@ -625,21 +651,6 @@ Statistical pattern. Not financial advice.</summary>
 Composite score: 70/100
 
 Raw composite reading. No directional interpretation.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/21614"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21614</id>
-    <updated>2026-09-09T13:54:16.768Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 29.4M USDT ($29.4M)  ←  Binance 17  0x98adef…
-📤 2008 ETH ($5.0M)  ←  Binance 15  0x98adef…
-
-7d: $3528M in · $3482M out · net flow: inflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
