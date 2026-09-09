@@ -5,7 +5,36 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-09T01:21:31.636Z</updated>
+  <updated>2026-09-09T01:26:31.638Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/21512"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21512</id>
+    <updated>2026-09-09T01:24:51.071Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+MAXI (4xSf..ZisB)
+Vol/liquidity: 103x (threshold 50)
+24h: 4326.0%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/21511"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21511</id>
+    <updated>2026-09-09T01:24:17.039Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 11.4M USDT ($11.4M)  ←  Binance 14  0x549d83…
+
+7d: $3441M in · $3443M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/21510"/>
@@ -704,31 +733,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/21462"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21462</id>
-    <updated>2026-09-08T18:29:13.561Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📥 12861.90 ETH ($32.2M) from Binance 14 (exchange withdrawal)
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/21461"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21461</id>
-    <updated>2026-09-08T18:24:16.118Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 12862 ETH ($32.1M)  →  Binance 18  Binance 14
-
-7d: $3603M in · $3305M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
