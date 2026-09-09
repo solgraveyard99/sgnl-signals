@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-09T02:26:31.640Z</updated>
+  <updated>2026-09-09T02:31:31.642Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/21525"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21525</id>
+    <updated>2026-09-09T02:29:51.075Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+STONKLESS (8epB..pump)
+Vol/liquidity: 1107x (threshold 50)
+24h: -97.3%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/21524"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21524</id>
+    <updated>2026-09-09T02:27:20.027Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $144M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 6 moves, $89M off exchanges
+• 🐋 Large withdrawal: $43M USDT ← Binance 14
+• 🐋 Large withdrawal: $11M USDT ← Binance 14
+
+Opposing flow: $42M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🚨 Coordinated launch buys observed</title>
     <link href="https://t.me/sgnl_free/21523"/>
@@ -692,46 +725,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🌙 SGNL Evening Wrap</title>
-    <link href="https://t.me/sgnl_free/21475"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21475</id>
-    <updated>2026-09-09T00:00:25.347Z</updated>
-    <summary type="text">🌙 SGNL Evening Wrap
-BTC: $78,448 | SOL: $103.46
-Market mood: 60/100 🟢 Mildly Bullish
-Solana activity: ACTIVE
-
-Tomorrow&apos;s outlook: Range-bound tomorrow
-See you at 8AM for the morning brief ☕</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-08</title>
-    <link href="https://t.me/sgnl_free/21474"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21474</id>
-    <updated>2026-09-09T00:00:09.719Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-08
-
-24h state transitions tracked: 299
-  💀 Died (gone): 163
-  😴 Went dormant: 81
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 Hugo: had $0 liquidity · died at age 24.7d
-  💀 Dame: had $0 liquidity · died at age 24.7d
-  💀 ARTCOIN: had $0 liquidity · died at age 24.7d
-  💀 Momota: had $0 liquidity · died at age 24.7d
-  💀 CAJETAN: had $0 liquidity · died at age 24.7d
-  💀 GOATSE: had $0 liquidity · died at age 24.7d
-  💀 Spider: had $0 liquidity · died at age 24.7d
-  💀 RATIO: had $0 liquidity · died at age 24.7d
-  💀 Saher: had $0 liquidity · died at age 24.7d
-  💀 CLANS: had $0 liquidity · died at age 12.3d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
