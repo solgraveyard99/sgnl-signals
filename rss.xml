@@ -5,7 +5,64 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-10T17:56:31.773Z</updated>
+  <updated>2026-09-10T18:01:31.772Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-09-09</title>
+    <link href="https://t.me/sgnl_free/21884"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21884</id>
+    <updated>2026-09-10T18:01:04.175Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-09
+
+Yesterday&apos;s cohort: 31,882 launches
+  🟢 STRONG (score 8+): 353 (1.11%)
+  🟡 MIXED (score 5-7): 9,391 (29.46%)
+  🔴 WEAK  (score 0-4): 22,138 (69.44%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG Robin67 mcap=112 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ABULL mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG NasChill mcap=111 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG BULLSTONKS mcap=111 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG CHROME mcap=90 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ZDOOMER mcap=111 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG STONKSIAL mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ANSEMINU mcap=87 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG STONKLESS mcap=100 SOL [mcap60+,tg,tw,web]
+  🟢 STRONG RSIGMA mcap=106 SOL [mcap60+,tg,tw,web]
+
+✓grad = graduated to Raydium within 24h (196 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/21883"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21883</id>
+    <updated>2026-09-10T17:59:27.973Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 3452 ETH ($8.5M)  →  Binance 14  0xeae738…
+📤 2767 ETH ($6.8M)  ←  Binance 18  0xf8191d…
+
+7d: $3549M in · $3434M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/21882"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21882</id>
+    <updated>2026-09-10T17:59:12.330Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 2767.00 ETH ($6.8M) → 0xf8191d98…
+GSR institutional market-maker
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/21881"/>
@@ -648,45 +705,5 @@ GSR institutional market-maker
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/21834"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21834</id>
-    <updated>2026-09-10T13:59:10.297Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 670.40 ETH ($1.6M) ← 0x1ab4973a…
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/21833"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21833</id>
-    <updated>2026-09-10T13:58:48.358Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 5958.00 ETH ($14.5M) → 0x77f7b398…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 3 large moves</title>
-    <link href="https://t.me/sgnl_free/21832"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21832</id>
-    <updated>2026-09-10T13:54:27.508Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 3 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 10.0M USDT ($10.0M)  ←  Binance 16  0x236f96…
-📤 2420 ETH ($5.9M)  ←  Binance 16  0x77f7b3…
-📤 2088 ETH ($5.1M)  ←  Binance 16  0x77f7b3…
-
-7d: $3405M in · $3310M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
