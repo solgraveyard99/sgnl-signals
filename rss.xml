@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-10T01:11:31.712Z</updated>
+  <updated>2026-09-10T01:16:31.711Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/21698"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21698</id>
+    <updated>2026-09-10T01:14:51.841Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+baton (4ars..pump)
+Vol/liquidity: 210x (threshold 50)
+24h: -61.8%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>📊 4 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/21697"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21697</id>
+    <updated>2026-09-10T01:12:30.315Z</updated>
+    <summary type="text">📊 4 inflow-heavy observations detected
+Sample: 4 concurrent observations · $199M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 7 moves, $112M to exchanges
+• 🐋 Large deposit: $31M ETH → Binance 15
+• 🐋 Large deposit: $28M ETH → Binance 17
+• 🐋 Large deposit: $28M ETH → Binance 19
+
+Opposing flow: $64M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/21696"/>
@@ -702,30 +736,6 @@ Statistical pattern. Not financial advice.</summary>
     <summary type="text">🧠 SMART MONEY · GSR Markets
 📤 1,747,896 USDT ($1.7M) → 0xf8191d98…
 GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/21648"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21648</id>
-    <updated>2026-09-09T16:39:10.490Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 1,194,910 USDC ($1.2M) → 0x056c1eb7…
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/21647"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21647</id>
-    <updated>2026-09-09T16:38:48.511Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 2,841,622 USDT ($2.8M) → 0x51c72848…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
