@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-10T16:06:31.765Z</updated>
+  <updated>2026-09-10T16:11:31.766Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · ETH</title>
+    <link href="https://t.me/sgnl_free/21863"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21863</id>
+    <updated>2026-09-10T16:08:15.683Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · ETH
+Spread: 0.0033%/hr  (28.7% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0027%/hr)
+🔴 SHORT on BingX  (funding 0.0006%/hr)
+
+Expected net: ~24% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/21862"/>
@@ -669,32 +684,5 @@ Jump Trading — large altcoin flows
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🌅 Morning Brief · 2026-09-10</title>
-    <link href="https://t.me/sgnl_free/21813"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21813</id>
-    <updated>2026-09-10T13:03:55.748Z</updated>
-    <summary type="text">🌅 Morning Brief · 2026-09-10
-
-🐋 Whale flow (24h)
-64 large moves · net -$4M balanced
-Tilt: neutral
-
-⚡ Perp funding snapshot
-BTC ⚪ neutral funding (HL)
-ETH ⚪ neutral funding (HL)
-SOL ⚪ neutral funding (HL)
-
-💰 Top yields right now
-Stables: 18.0% · avantis/USDC @ Base
-ETH/LST: 7.3% · fusion-by-ipor/CBETH @ Base
-
-⚪ Funding regime: Insufficient data
-
-Statistical pattern. Not financial advice.
-Bias: no action — wait for next brief
-
-Not financial advice · SGNL daily brief</summary>
   </entry>
 </feed>
