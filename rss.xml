@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-10T14:56:31.760Z</updated>
+  <updated>2026-09-10T15:01:31.760Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-09</title>
+    <link href="https://t.me/sgnl_free/21854"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21854</id>
+    <updated>2026-09-10T15:00:04.210Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-09
+
+Tokens with liquidity drop ≥50%: 18
+Tokens with liquidity drop ≥90%: 13
+Tokens with liquidity drop ≥75%: 14
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL discat: -96.3%  $64.8K → $2.4K  in 1.2h
+  🚨 CRITICAL MEMELESS: -95.5%  $55.0K → $2.5K  in 1.9h
+  🚨 CRITICAL CHROME: -95.2%  $51.7K → $2.5K  in 1.7h
+  🚨 CRITICAL COH: -95.0%  $45.6K → $2.3K  in 1.4h
+  🚨 CRITICAL RIKA: -94.9%  $42.0K → $2.2K  in 1.2h
+  🚨 CRITICAL LAPTOP: -94.7%  $46.0K → $2.4K  in 3.4h
+  🚨 CRITICAL LEPTEP: -94.5%  $46.0K → $2.5K  in 55m
+  🚨 CRITICAL StockPad: -93.9%  $41.5K → $2.5K  in 1.3h
+  🚨 CRITICAL STONKLESS: -93.6%  $44.0K → $2.8K  in 1.2h
+  🚨 CRITICAL STKLYNX: -93.4%  $38.2K → $2.5K  in 2.3h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/21853"/>
@@ -658,18 +685,6 @@ View on Etherscan
     <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
 📥 7041.00 ETH ($17.2M) ← 0xeae7380d…
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/21804"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21804</id>
-    <updated>2026-09-10T12:29:12.385Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1,999,988 USDT ($2.0M) → 0xcca54ed7…
-GSR institutional market-maker
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
