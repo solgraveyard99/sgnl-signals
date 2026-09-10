@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-10T16:31:31.765Z</updated>
+  <updated>2026-09-10T16:36:31.765Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/21871"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21871</id>
+    <updated>2026-09-10T16:34:23.675Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 3000 ETH ($7.3M)  ←  Binance 16  0x77f7b3…
+📤 2180 ETH ($5.3M)  ←  Binance 16  0xf8191d…
+📤 5.0M USDT ($5.0M)  ←  Binance 18  0x109ec8…
+
+7d: $3619M in · $3356M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/21870"/>
@@ -669,19 +685,5 @@ Monitored Binance + Coinbase hot wallets. Aggregated onchain reserves</summary>
 7d: $3356M in · $3296M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/21821"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21821</id>
-    <updated>2026-09-10T13:32:52.001Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.564270224 gwei (fast)  ·  🟢 cheap
-Safe: 0.384095445  ·  Propose: 0.384538954  ·  BaseFee: 0.3841
-
-24h range: 0.05–1.01 gwei  (avg 0.17)
-
-Simple transfer cost now: ~$0.0296</summary>
   </entry>
 </feed>
