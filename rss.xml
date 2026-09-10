@@ -5,7 +5,38 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-10T11:51:31.751Z</updated>
+  <updated>2026-09-10T11:56:31.750Z</updated>
+  <entry>
+    <title>⚪ Market Posture · neutral</title>
+    <link href="https://t.me/sgnl_free/21799"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21799</id>
+    <updated>2026-09-10T11:52:16.793Z</updated>
+    <summary type="text">⚪ Market Posture · neutral
+Bias score: +0
+
+6 active signals (top 5 by size):
+• 🐋 Whale deposit cluster: 12 moves, $256M to exchanges
+• 🐋 Large deposit: $51M USDT → Binance 15
+• 🐋 Large deposit: $40M USDT → Binance 18
+• 🐋 Whale withdrawal cluster: 4 moves, $36M off exchanges
+• 🐋 Large deposit: $32M ETH → Binance 15
+…and 1 more
+
+Updated every 4h · SGNL signal aggregator</summary>
+  </entry>
+  <entry>
+    <title>📅 Day-ahead · 🟡 Medium impact</title>
+    <link href="https://t.me/sgnl_free/21798"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21798</id>
+    <updated>2026-09-10T11:51:58.022Z</updated>
+    <summary type="text">📅 Day-ahead · 🟡 Medium impact
+ECB Rate Decision macro
+When: Fri, 11 Sep 2026 12:15:00 UTC
+
+EUR/USD moves affect DXY, which moves BTC.
+
+details ↗</summary>
+  </entry>
   <entry>
     <title>📊 4 inflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/21797"/>
@@ -640,16 +671,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🔴 DELISTING · Binance</title>
-    <link href="https://t.me/sgnl_free/21748"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21748</id>
-    <updated>2026-09-10T06:02:03.645Z</updated>
-    <summary type="text">🔴 DELISTING · Binance
-Binance Will Delist USDP on 2026-09-24
-Published 2min ago
-Token removed from Binance. Typically dumps 20–50% in 24h. Exit risk.
-announcement ↗</summary>
   </entry>
 </feed>
