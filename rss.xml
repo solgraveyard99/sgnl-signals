@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-10T11:41:31.750Z</updated>
+  <updated>2026-09-10T11:46:31.751Z</updated>
+  <entry>
+    <title>📊 4 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/21797"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21797</id>
+    <updated>2026-09-10T11:42:17.831Z</updated>
+    <summary type="text">📊 4 inflow-heavy observations detected
+Sample: 4 concurrent observations · $380M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 12 moves, $256M to exchanges
+• 🐋 Large deposit: $51M USDT → Binance 15
+• 🐋 Large deposit: $40M USDT → Binance 18
+• 🐋 Large deposit: $32M ETH → Binance 15
+
+Opposing flow: $52M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/21796"/>
@@ -632,29 +651,5 @@ Binance Will Delist USDP on 2026-09-24
 Published 2min ago
 Token removed from Binance. Typically dumps 20–50% in 24h. Exit risk.
 announcement ↗</summary>
-  </entry>
-  <entry>
-    <title>🪦 Pump.fun Daily Survival Report — 2026-09-09</title>
-    <link href="https://t.me/sgnl_free/21747"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21747</id>
-    <updated>2026-09-10T06:00:52.497Z</updated>
-    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-09-09
-
-Last 24h cohort: 6,407 launches
-  Graduated to Raydium: 196 (3.059%)
-  Timed out at 24h: 6,211 (96.941%)
-
-When tokens DO graduate, they graduate fast:
-  Median time-to-graduation: 1.5 min
-  Max observed today: 3.0 min
-  Graduations after 6 min: 0
-
-Cumulative since 2026-05-08 (122 days):
-  Cohort: 2,996,848
-  Total graduations: 19,527 (0.6516%)
-  Total timeouts: 2,977,321 (99.3484%)
-
-Source: Pump.fun on-chain + DexScreener
-Survival ≠ profitability. DYOR.</summary>
   </entry>
 </feed>
