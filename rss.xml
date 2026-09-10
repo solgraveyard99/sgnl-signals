@@ -5,7 +5,67 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-10T03:06:31.720Z</updated>
+  <updated>2026-09-10T03:11:31.724Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/21725"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21725</id>
+    <updated>2026-09-10T03:09:51.896Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+CatWifPump (6zt9..pump)
+Vol/liquidity: 129x (threshold 50)
+24h: -96.2%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/21724"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21724</id>
+    <updated>2026-09-10T03:09:13.864Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📥 42,785,605 USDT ($42.8M) from Binance 14 (withdrawal)
+GSR institutional market-maker
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/21723"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21723</id>
+    <updated>2026-09-10T03:07:23.766Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-09-09
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): +$3.70 · 7 trades · WR 57%
+⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
+🐋 Solana Momentum: -13.54% · 2 trades · WR 0%
+
+📆 Last 7 days
+🚀 Futures: $16.68 · 52 trades · WR 48%
+⚙️ Other Strategy: +0.00% · 7 trades · WR 0%
+🐋 Solana Momentum: -1103.58% · 45 trades · WR 24%
+⚙️ Other Strategy: +0.00% · 2 trades · WR 0%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $43.59 · 1190 trades · WR 52%
+🐋 Solana Momentum: -4538.97% · 841 trades · WR 34%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 57 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/21722"/>
@@ -710,60 +770,6 @@ Direction: BUY
 Notional: ~$3911K
 Contracts: 50
 Implied vol: 43.0%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/21675"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21675</id>
-    <updated>2026-09-10T00:04:56.638Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $70000 — expiry 13SEP26
-Direction: SELL
-Notional: ~$782K
-Contracts: 10
-Implied vol: 61.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/21674"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21674</id>
-    <updated>2026-09-10T00:04:56.264Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $70000 — expiry 13SEP26
-Direction: SELL
-Notional: ~$782K
-Contracts: 10
-Implied vol: 61.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/21673"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21673</id>
-    <updated>2026-09-10T00:04:55.845Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $72000 — expiry 18SEP26
-Direction: SELL
-Notional: ~$3913K
-Contracts: 50
-Implied vol: 45.4%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
