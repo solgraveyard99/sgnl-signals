@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-11T02:21:31.804Z</updated>
+  <updated>2026-09-11T02:26:31.802Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/21938"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21938</id>
+    <updated>2026-09-11T02:24:52.663Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+TESTICLE (3wRM..pump)
+Vol/liquidity: 984x (threshold 50)
+24h: -96.7%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>🚨 Coordinated launch buys observed</title>
     <link href="https://t.me/sgnl_free/21937"/>
@@ -742,19 +757,5 @@ Top 10 by buy momentum (buys × buy/sell ratio):
 Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
 Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/21888"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21888</id>
-    <updated>2026-09-10T19:14:19.542Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 4000 ETH ($9.9M)  →  Binance 14  0x3284ac…
-
-7d: $3492M in · $3374M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
