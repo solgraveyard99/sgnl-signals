@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-11T03:31:31.806Z</updated>
+  <updated>2026-09-11T03:36:31.806Z</updated>
+  <entry>
+    <title>📊 4 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/21953"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21953</id>
+    <updated>2026-09-11T03:32:24.895Z</updated>
+    <summary type="text">📊 4 outflow-heavy observations detected
+Sample: 4 concurrent observations · $760M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 8 moves, $430M off exchanges
+• 🐋 Large withdrawal: $244M ETH ← Binance Cold 8
+• 🐋 Large withdrawal: $53M ETH ← Binance 14
+• 🐋 Large withdrawal: $32M ETH ← Binance 14
+
+Opposing flow: $205M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/21952"/>
@@ -718,20 +737,5 @@ Jump Trading — large altcoin flows
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/21903"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21903</id>
-    <updated>2026-09-11T00:04:59.494Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-supercycle (8Avv..pump)
-Vol/liquidity: 100x (threshold 50)
-24h: -95.0%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
