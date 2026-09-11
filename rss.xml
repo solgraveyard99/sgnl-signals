@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-11T15:46:31.849Z</updated>
+  <updated>2026-09-11T15:51:31.849Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/22096"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22096</id>
+    <updated>2026-09-11T15:49:16.553Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 2350 ETH ($6.1M)  →  Binance 14  0xeae738…
+
+7d: $3746M in · $4365M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/22095"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22095</id>
+    <updated>2026-09-11T15:48:52.301Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 2350.00 ETH ($6.1M) ← 0xeae7380d…
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/22094"/>
@@ -653,38 +679,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3534M in · $3712M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/22046"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22046</id>
-    <updated>2026-09-11T13:33:54.925Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0012 SOL
-• 99th: 0.0450 SOL (~$5)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/22045"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22045</id>
-    <updated>2026-09-11T13:32:41.562Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.339248919 gwei (fast)  ·  🟢 cheap
-Safe: 0.282637995  ·  Propose: 0.282750583  ·  BaseFee: 0.2826
-
-24h range: 0.05–1.10 gwei  (avg 0.17)
-
-Simple transfer cost now: ~$0.0178</summary>
   </entry>
 </feed>
