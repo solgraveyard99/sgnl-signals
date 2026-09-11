@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-11T02:36:31.803Z</updated>
+  <updated>2026-09-11T02:41:31.803Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/21939"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21939</id>
+    <updated>2026-09-11T02:39:12.284Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 3,673,948 USDT ($3.7M) → 0x55a84827…
+GSR institutional market-maker
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/21938"/>
@@ -731,31 +743,5 @@ Bias score: +0
 • 🐋 Whale withdrawal cluster: 30 moves, $367M off exchanges
 
 Updated every 4h · SGNL signal aggregator</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-09-09</title>
-    <link href="https://t.me/sgnl_free/21889"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21889</id>
-    <updated>2026-09-10T21:00:03.582Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-09
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 25
-Strong-bias tokens (buy/sell ≥3x): 8
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 RIKA: 13247 buys / 1402 sells (9.4x)  vol1h=$617.2K  price1h +118%
-  📈 STKLYNX: 11266 buys / 2930 sells (3.8x)  vol1h=$197.7K  price1h +29%
-  📈 LEPTEP: 15944 buys / 7450 sells (2.1x)  vol1h=$1.38M  price1h -38%
-  📈 discat: 14297 buys / 6474 sells (2.2x)  vol1h=$1.35M  price1h -5%
-  📈 CHROME: 13395 buys / 5690 sells (2.4x)  vol1h=$1.25M  price1h +108%
-  📈 LAPTOP: 13940 buys / 6586 sells (2.1x)  vol1h=$1.28M  price1h +68%
-  📈 SPCX: 8057 buys / 2604 sells (3.1x)  vol1h=$344.0K  price1h +204%
-  📈 MEMELESS: 7994 buys / 2605 sells (3.1x)  vol1h=$369.3K  price1h +187%
-  📈 USELESSLAP: 3973 buys / 941 sells (4.2x)  vol1h=$80.3K  price1h +85%
-  📈 STONKLESS: 5908 buys / 2945 sells (2.0x)  vol1h=$151.5K  price1h -83%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
