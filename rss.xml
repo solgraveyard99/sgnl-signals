@@ -5,7 +5,48 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-10T23:56:31.796Z</updated>
+  <updated>2026-09-11T00:01:31.796Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/21892"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21892</id>
+    <updated>2026-09-11T00:00:20.104Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $76,752 | SOL: $99.09
+Market mood: 50/100 ⚪ Neutral
+Solana activity: QUIET
+
+Tomorrow&apos;s outlook: Range-bound tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-10</title>
+    <link href="https://t.me/sgnl_free/21891"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-21891</id>
+    <updated>2026-09-11T00:00:04.017Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-10
+
+24h state transitions tracked: 256
+  💀 Died (gone): 124
+  😴 Went dormant: 78
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 POKO: had $0 liquidity · died at age 76.4d
+  💀 HATCH: had $0 liquidity · died at age 54.2d
+  💀 TSUTSUJI: had $0 liquidity · died at age 37.3d
+  💀 Manlets: had $0 liquidity · died at age 37.3d
+  💀 THESIS: had $0 liquidity · died at age 37.3d
+  💀 COIN: had $0 liquidity · died at age 37.3d
+  💀 HENRY: had $0 liquidity · died at age 37.3d
+  💀 Coin: had $0 liquidity · died at age 37.3d
+  💀 ket: had $0 liquidity · died at age 37.0d
+  💀 Martian: had $0 liquidity · died at age 37.0d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>⚪ Market Posture · neutral</title>
     <link href="https://t.me/sgnl_free/21890"/>
@@ -682,29 +723,5 @@ View on Etherscan
 7d: $3466M in · $3363M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/21842"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21842</id>
-    <updated>2026-09-10T14:19:28.358Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1346.12 ETH ($3.3M) → 0x1a720ce7…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/21841"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-21841</id>
-    <updated>2026-09-10T14:19:12.659Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 700.00 ETH ($1.7M) → 0xa53b1ac5…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
