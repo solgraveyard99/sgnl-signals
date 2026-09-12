@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-12T07:51:22.671Z</updated>
+  <updated>2026-09-12T07:56:22.670Z</updated>
+  <entry>
+    <title>⚪ Market Posture · neutral</title>
+    <link href="https://t.me/sgnl_free/22233"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22233</id>
+    <updated>2026-09-12T07:56:12.173Z</updated>
+    <summary type="text">⚪ Market Posture · neutral
+Bias score: +0
+
+10 active signals (top 5 by size):
+• 🐋 Whale withdrawal cluster: 4 moves, $94M off exchanges
+• 🐋 Large deposit: $51M USDT → Binance 14
+• 🐋 Large deposit: $42M USDT → Binance 16
+• 🐋 Large deposit: $42M ETH → Binance 18
+• 🐋 Large deposit: $31M ETH → Binance 19
+…and 5 more
+
+Updated every 4h · SGNL signal aggregator</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/22232"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22232</id>
+    <updated>2026-09-12T07:51:36.303Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 51.0M USDT ($51.0M)  →  Binance 14  0xcde5d4…
+
+7d: $3983M in · $4569M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🆕 FRESH WALLET FUNDED</title>
     <link href="https://t.me/sgnl_free/22231"/>
@@ -741,32 +773,5 @@ Vol/liquidity: 197x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/22183"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22183</id>
-    <updated>2026-09-12T01:17:23.643Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-14 cluster-buys within 5 minutes of deploy for CjYi..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/22182"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22182</id>
-    <updated>2026-09-12T01:14:24.574Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 2744 ETH ($6.9M)  →  Binance 14  0xeae738…
-
-7d: $3830M in · $4519M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
