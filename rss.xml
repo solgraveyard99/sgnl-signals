@@ -5,7 +5,31 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-12T05:56:31.897Z</updated>
+  <updated>2026-09-12T06:01:31.899Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-09-11</title>
+    <link href="https://t.me/sgnl_free/22217"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22217</id>
+    <updated>2026-09-12T06:00:59.822Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-09-11
+
+Last 24h cohort: 6,862 launches
+  Graduated to Raydium: 553 (8.059%)
+  Timed out at 24h: 6,309 (91.941%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.5 min
+  Max observed today: 3.5 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (124 days):
+  Cohort: 3,059,405
+  Total graduations: 20,711 (0.6770%)
+  Total timeouts: 3,038,694 (99.3230%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/22216"/>
@@ -767,20 +791,5 @@ Statistical pattern. Not financial advice.
 7d: $3830M in · $4476M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/22167"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22167</id>
-    <updated>2026-09-12T00:24:55.725Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-Amazoon (6bnk..pump)
-Vol/liquidity: 960x (threshold 50)
-24h: -96.8%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
