@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-12T10:41:22.677Z</updated>
+  <updated>2026-09-12T10:46:22.678Z</updated>
+  <entry>
+    <title>🆕 FRESH WALLET FUNDED</title>
+    <link href="https://t.me/sgnl_free/22246"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22246</id>
+    <updated>2026-09-12T10:41:34.326Z</updated>
+    <summary type="text">🆕 FRESH WALLET FUNDED
+
+Binance 15 → fresh wallet
+Wallet: 0x091d…8336 (tx count unavailable)
+Amount: $4.00M USDT
+Tier: TIER2
+
+Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
+
+Statistical pattern. Not financial advice.
+
+Tx: https://etherscan.io/tx/0xee0ca19bf8cd8e5deb39dd54a1b0878fc818d6aad36cdf63c3c86b19b2cb8194
+Wallet: https://etherscan.io/address/0x091d1c972cb1648537a2ba78eaba371b1ce18336</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/22245"/>
@@ -761,24 +780,5 @@ Statistical pattern. Not financial advice.</summary>
 Cluster launches often precede fast dumps. Observation only.
 
 #onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/22196"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22196</id>
-    <updated>2026-09-12T03:01:54.866Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0011 SOL
-• 75th: 0.0051 SOL
-• 95th: 0.0197 SOL
-• 99th: 0.0274 SOL (~$3)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
