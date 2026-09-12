@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-12T12:56:22.680Z</updated>
+  <updated>2026-09-12T13:01:22.682Z</updated>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/22260"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22260</id>
+    <updated>2026-09-12T13:01:11.912Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $314M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 5 moves, $166M off exchanges
+• 🐋 Large withdrawal: $127M ETH ← Binance Cold 8
+• 🐋 Large withdrawal: $22M USDT ← Binance 14
+
+Opposing flow: $88M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/22259"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22259</id>
+    <updated>2026-09-12T12:56:36.851Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 21.8M USDT ($21.8M)  ←  Binance 14  0x98adef…
+
+7d: $3948M in · $4678M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/22258"/>
@@ -758,29 +790,5 @@ Statistical pattern. Not financial advice.
 7d: $3878M in · $4560M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22210"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22210</id>
-    <updated>2026-09-12T04:29:17.637Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 4,500,000 USDT ($4.5M) → 0xcd405326…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22209"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22209</id>
-    <updated>2026-09-12T04:29:17.233Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📥 42,028,893 USDT ($42.0M) from Binance 14 (withdrawal)
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
