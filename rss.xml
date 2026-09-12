@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-12T11:56:22.679Z</updated>
+  <updated>2026-09-12T12:01:22.679Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-09-11</title>
+    <link href="https://t.me/sgnl_free/22251"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22251</id>
+    <updated>2026-09-12T12:00:04.735Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-11
+
+Yesterday&apos;s Jupiter route fee market (287 samples × 5min):
+  Median: 10.0K μlamp
+  P90:    169.8K μlamp
+  Max:    20.70M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): 5.0K μlamp
+  Medium (~5s):   10.0K μlamp
+  Fast (high probability): 169.8K μlamp
+
+vs prior 6-day baseline: ↓ 57% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: 10.0K μlamp | Raydium: 529.3K μlamp | Orca: 497.4K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/22250"/>
@@ -754,18 +780,6 @@ View on Etherscan
     <summary type="text">🧠 SMART MONEY · Binance 8 (Hot)
 📥 10,180,781 USDe ($10.2M) from Binance 14 (withdrawal)
 Binance hot — major altcoin deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/22201"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22201</id>
-    <updated>2026-09-12T03:08:48.346Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 10,180,781 USDe ($10.2M) to Binance 8 (exchange — sell intent)
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
