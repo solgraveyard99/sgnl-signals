@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-12T06:50:46.247Z</updated>
+  <updated>2026-09-12T06:51:22.780Z</updated>
+  <entry>
+    <title>🆕 FRESH WALLET FUNDED</title>
+    <link href="https://t.me/sgnl_free/22225"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22225</id>
+    <updated>2026-09-12T06:50:46.856Z</updated>
+    <summary type="text">🆕 FRESH WALLET FUNDED
+
+Binance 14 → fresh wallet
+Wallet: 0x9696…6976 (tx count unavailable)
+Amount: $37.96M ETH
+Tier: TIER3
+
+Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
+
+Statistical pattern. Not financial advice.
+
+Tx: https://etherscan.io/tx/0x4916f059afead4cdd9dc15707acfa09fc8363e84087aa365a6805e8cef32f49f
+Wallet: https://etherscan.io/address/0x9696f59e4d72e237be84ffd425dcad154bf96976</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/22224"/>
@@ -752,23 +771,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/22175"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22175</id>
-    <updated>2026-09-12T00:44:55.452Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $77000 — expiry 30OCT26
-Direction: BUY
-Notional: ~$1545K
-Contracts: 20
-Implied vol: 36.0%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
