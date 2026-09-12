@@ -5,7 +5,79 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-12T00:41:31.879Z</updated>
+  <updated>2026-09-12T00:46:31.878Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/22175"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22175</id>
+    <updated>2026-09-12T00:44:55.452Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $77000 — expiry 30OCT26
+Direction: BUY
+Notional: ~$1545K
+Contracts: 20
+Implied vol: 36.0%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/22174"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22174</id>
+    <updated>2026-09-12T00:44:54.849Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $72000 — expiry 30OCT26
+Direction: SELL
+Notional: ~$3091K
+Contracts: 40
+Implied vol: 36.7%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/22173"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22173</id>
+    <updated>2026-09-12T00:44:54.430Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $84000 — expiry 30OCT26
+Direction: SELL
+Notional: ~$3091K
+Contracts: 40
+Implied vol: 36.2%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/22172"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22172</id>
+    <updated>2026-09-12T00:44:53.779Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $78000 — expiry 30OCT26
+Direction: BUY
+Notional: ~$1545K
+Contracts: 20
+Implied vol: 36.0%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/22171"/>
@@ -621,73 +693,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/22125"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22125</id>
-    <updated>2026-09-11T18:08:48.842Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 396.00 ETH ($1.0M) → 0x51c72848…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-09-10</title>
-    <link href="https://t.me/sgnl_free/22124"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22124</id>
-    <updated>2026-09-11T18:00:58.372Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-10
-
-Yesterday&apos;s cohort: 30,636 launches
-  🟢 STRONG (score 8+): 498 (1.63%)
-  🟡 MIXED (score 5-7): 8,742 (28.54%)
-  🔴 WEAK  (score 0-4): 21,396 (69.84%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG LAPTOPJAK mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG LAPRETARD mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG MemeStonks mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG MemeStonks mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG MemeStonks mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG PUP mcap=171 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG PONSISLAND mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG StonksGuy mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG VC mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG TRUMBATON mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-
-✓grad = graduated to Raydium within 24h (586 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/22123"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22123</id>
-    <updated>2026-09-11T17:58:58.937Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 406.00 ETH ($1.0M) → 0xb115fe9a…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/22122"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22122</id>
-    <updated>2026-09-11T17:49:19.751Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 2324 ETH ($6.0M)  →  Binance 14  0xeae738…
-
-7d: $3824M in · $4416M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
