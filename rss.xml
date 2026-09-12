@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-12T13:31:22.680Z</updated>
+  <updated>2026-09-12T13:36:22.682Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/22262"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22262</id>
+    <updated>2026-09-12T13:36:12.037Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.065135523 gwei (fast)  ·  🟢 cheap
+Safe: 0.056183001  ·  Propose: 0.056316334  ·  BaseFee: 0.0562
+
+24h range: 0.05–8.11 gwei  (avg 0.55)
+
+Simple transfer cost now: ~$0.0034</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/22261"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22261</id>
+    <updated>2026-09-12T13:32:59.613Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 1083.00 ETH ($2.8M) ← 0xeae7380d…
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
   <entry>
     <title>📊 3 outflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/22260"/>
@@ -757,38 +783,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/22212"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22212</id>
-    <updated>2026-09-12T05:12:06.288Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0008 SOL
-• 99th: 0.2204 SOL (~$22)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/22211"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22211</id>
-    <updated>2026-09-12T04:34:16.465Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 2401 ETH ($6.0M)  →  Binance 14  0xeae738…
-
-7d: $3878M in · $4560M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
