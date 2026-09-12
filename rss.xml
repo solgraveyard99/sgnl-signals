@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-12T11:41:22.679Z</updated>
+  <updated>2026-09-12T11:46:22.679Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/22250"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22250</id>
+    <updated>2026-09-12T11:43:23.825Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0026 SOL
+• 99th: 0.0117 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/22249"/>
@@ -750,38 +769,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
-    <link href="https://t.me/sgnl_free/22200"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22200</id>
-    <updated>2026-09-12T03:07:29.631Z</updated>
-    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
-📅 2026-09-11
-
-⏱ Last 24 hours
-🚀 Futures (Hyperliquid): $57.37 · 9 trades · WR 33%
-⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
-🐋 Solana Momentum: -275.11% · 7 trades · WR 29%
-
-📆 Last 7 days
-🚀 Futures: $40.67 · 59 trades · WR 49%
-🐋 Solana Momentum: -938.46% · 52 trades · WR 37%
-⚙️ Other Strategy: +0.00% · 8 trades · WR 0%
-⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
-
-📚 Cumulative since 2026-04-06
-🚀 Futures: $87.62 · 1207 trades · WR 52%
-🐋 Solana Momentum: -4725.70% · 856 trades · WR 35%
-🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
-🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
-⚙️ Other Strategy: +0.00% · 60 trades · WR 0%
-⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
-⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
-
-Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
-Not financial advice. Data for decision support.
-
-📲 t.me/sgnl_free</summary>
   </entry>
 </feed>
