@@ -5,7 +5,63 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-11T23:56:31.874Z</updated>
+  <updated>2026-09-12T00:01:31.877Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/22149"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22149</id>
+    <updated>2026-09-12T00:00:53.524Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+MORE (8FZY..EnqK)
+Vol/liquidity: 2517x (threshold 50)
+24h: -90.8%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/22148"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22148</id>
+    <updated>2026-09-12T00:00:19.614Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $77,193 | SOL: $102.35
+Market mood: 70/100 🟢 BULLISH
+Solana activity: ACTIVE
+
+Tomorrow&apos;s outlook: Range-bound tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-11</title>
+    <link href="https://t.me/sgnl_free/22147"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22147</id>
+    <updated>2026-09-12T00:00:03.970Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-11
+
+24h state transitions tracked: 251
+  💀 Died (gone): 104
+  😴 Went dormant: 82
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 CUPSETTA: had $0 liquidity · died at age 65.0d
+  💀 SUKI: had $0 liquidity · died at age 47.2d
+  💀 Cameuh: had $0 liquidity · died at age 37.3d
+  💀 سنفور: had $0 liquidity · died at age 37.3d
+  💀 Koo: had $0 liquidity · died at age 37.3d
+  💀 ANSEMCOIN: had $0 liquidity · died at age 37.3d
+  💀 Kiongozi: had $0 liquidity · died at age 37.3d
+  💀 SHARTCOIN: had $0 liquidity · died at age 37.3d
+  💀 CHULUD: had $0 liquidity · died at age 37.3d
+  💀 Nude: had $0 liquidity · died at age 37.3d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>⚪ Market Posture · neutral</title>
     <link href="https://t.me/sgnl_free/22146"/>
@@ -618,44 +674,5 @@ Spread: 0.0034%/hr  (30.2% APR gross)
 Expected net: ~25% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
 monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/22099"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22099</id>
-    <updated>2026-09-11T16:08:48.519Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1044.00 ETH ($2.7M) ← 0xeae7380d…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · BTC</title>
-    <link href="https://t.me/sgnl_free/22098"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22098</id>
-    <updated>2026-09-11T16:08:15.834Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · BTC
-Spread: 0.0034%/hr  (29.7% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0023%/hr)
-🔴 SHORT on BingX  (funding 0.0011%/hr)
-
-Expected net: ~25% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/22097"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22097</id>
-    <updated>2026-09-11T15:58:55.948Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 499.80 ETH ($1.3M) → 0x652a2ade…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
