@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T00:36:22.705Z</updated>
+  <updated>2026-09-13T00:41:22.707Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/22310"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22310</id>
+    <updated>2026-09-13T00:38:24.892Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+stonkbaton (66aB..pump)
+Vol/liquidity: 660x (threshold 50)
+24h: -97.6%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/22309"/>
@@ -777,23 +792,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>📊 3 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/22260"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22260</id>
-    <updated>2026-09-12T13:01:11.912Z</updated>
-    <summary type="text">📊 3 outflow-heavy observations detected
-Sample: 3 concurrent observations · $314M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 5 moves, $166M off exchanges
-• 🐋 Large withdrawal: $127M ETH ← Binance Cold 8
-• 🐋 Large withdrawal: $22M USDT ← Binance 14
-
-Opposing flow: $88M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
