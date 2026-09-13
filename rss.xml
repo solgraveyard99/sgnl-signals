@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T02:26:22.707Z</updated>
+  <updated>2026-09-13T02:31:22.709Z</updated>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/22336"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22336</id>
+    <updated>2026-09-13T02:30:54.907Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+29 cluster-buys within 5 minutes of deploy for ESpz..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/22335"/>
@@ -727,33 +740,5 @@ Solana activity: ACTIVE
 
 Tomorrow&apos;s outlook: Range-bound tomorrow
 See you at 8AM for the morning brief ☕</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-12</title>
-    <link href="https://t.me/sgnl_free/22286"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22286</id>
-    <updated>2026-09-13T00:00:04.939Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-12
-
-24h state transitions tracked: 263
-  💀 Died (gone): 182
-  😴 Went dormant: 45
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 PEW: had $0 liquidity · died at age 37.3d
-  💀 4chan: had $0 liquidity · died at age 37.3d
-  💀 サル: had $0 liquidity · died at age 37.3d
-  💀 HERO: had $0 liquidity · died at age 25.2d
-  💀 CALVIN: had $0 liquidity · died at age 25.2d
-  💀 JOSE: had $0 liquidity · died at age 25.2d
-  💀 BULLDOG: had $0 liquidity · died at age 25.2d
-  💀 RABBIT: had $0 liquidity · died at age 25.2d
-  💀 HORNET: had $0 liquidity · died at age 25.2d
-  💀 retard: had $0 liquidity · died at age 25.2d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
