@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T14:56:22.742Z</updated>
+  <updated>2026-09-13T15:01:22.742Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-12</title>
+    <link href="https://t.me/sgnl_free/22430"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22430</id>
+    <updated>2026-09-13T15:00:12.610Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-12
+
+Tokens with liquidity drop ≥50%: 21
+Tokens with liquidity drop ≥90%: 20
+Tokens with liquidity drop ≥75%: 21
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL ALLDOG: -97.1%  $93.9K → $2.7K  in 1.3h
+  🚨 CRITICAL NEKO: -96.6%  $77.9K → $2.7K  in 2.6h
+  🚨 CRITICAL caton: -96.3%  $59.4K → $2.2K  in 1.8h
+  🚨 CRITICAL PUMPTHING: -95.3%  $49.3K → $2.3K  in 35m
+  🚨 CRITICAL PUMPCAT: -94.9%  $40.9K → $2.1K  in 55m
+  🚨 CRITICAL faucat: -94.9%  $48.6K → $2.5K  in 1.8h
+  🚨 CRITICAL FRONTIER: -94.7%  $44.0K → $2.3K  in 25m
+  🚨 CRITICAL OnlyCats: -94.7%  $43.7K → $2.3K  in 1.0h
+  🚨 CRITICAL のび子: -94.3%  $38.2K → $2.2K  in 1.8h
+  🚨 CRITICAL Maple: -94.2%  $34.9K → $2.0K  in 3.7h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/22429"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22429</id>
+    <updated>2026-09-13T14:59:16.635Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 2,400,000 USDT ($2.4M) → 0x091d1c97…
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0x6fe86c493d17b43e3d6ba89765a6f3e3a7749048d1753b37e20d283364918630
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/22428"/>
@@ -693,30 +732,6 @@ Statistical pattern. Not financial advice.</summary>
     <updated>2026-09-13T08:43:14.848Z</updated>
     <summary type="text">🧠 SMART MONEY · GSR Markets
 📥 11410.52 ETH ($28.5M) from Binance 14 (exchange withdrawal)
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22380"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22380</id>
-    <updated>2026-09-13T08:33:31.730Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 420.00 ETH ($1.1M) → 0xd59d7a96…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22379"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22379</id>
-    <updated>2026-09-13T08:33:30.742Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 892.00 ETH ($2.2M) → 0x51c72848…
 GSR institutional market-maker
 View on Etherscan
 📲 t.me/sgnl_free
