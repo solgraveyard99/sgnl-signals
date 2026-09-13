@@ -5,7 +5,35 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T03:51:22.713Z</updated>
+  <updated>2026-09-13T03:56:22.713Z</updated>
+  <entry>
+    <title>⚪ Market Posture · neutral</title>
+    <link href="https://t.me/sgnl_free/22348"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22348</id>
+    <updated>2026-09-13T03:56:12.060Z</updated>
+    <summary type="text">⚪ Market Posture · neutral
+Bias score: +0
+
+2 active signals (top 5 by size):
+• 🐋 Whale deposit cluster: 3 moves, $52M to exchanges
+• 🐋 Whale withdrawal cluster: 4 moves, $21M off exchanges
+
+Updated every 4h · SGNL signal aggregator</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/22347"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22347</id>
+    <updated>2026-09-13T03:51:36.578Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 WITHDRAWAL CLUSTER — 4 large withdrawals in 6h totaling $21M. Prior 30d: top decile of 6h withdrawal concurrence. Descriptive only.
+
+📤 5.0M USDT ($5.0M)  ←  Binance 15  0x9a4ce8…
+
+7d: $3920M in · $4705M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/22346"/>
@@ -704,36 +732,5 @@ Jump Trading — large altcoin flows
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/22298"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22298</id>
-    <updated>2026-09-13T00:02:00.671Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-14 cluster-buys within 5 minutes of deploy for En9o..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/22297"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22297</id>
-    <updated>2026-09-13T00:01:44.957Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Call — strike $2600 — expiry 25SEP26
-Direction: BUY
-Notional: ~$907K
-Contracts: 360
-Implied vol: 50.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
