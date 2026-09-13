@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T07:11:22.726Z</updated>
+  <updated>2026-09-13T07:16:22.729Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/22367"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22367</id>
+    <updated>2026-09-13T07:12:30.386Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0195 SOL
+• 99th: 0.0279 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/22366"/>
@@ -735,20 +754,5 @@ GSR institutional market-maker
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/22317"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22317</id>
-    <updated>2026-09-13T01:12:37.902Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-stonkbaton (66aB..pump)
-Vol/liquidity: 660x (threshold 50)
-24h: -97.6%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
