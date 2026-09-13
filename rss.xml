@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T02:16:22.707Z</updated>
+  <updated>2026-09-13T02:21:22.708Z</updated>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/22332"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22332</id>
+    <updated>2026-09-13T02:17:54.958Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+15 cluster-buys within 5 minutes of deploy for Gj8P..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/22331"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22331</id>
+    <updated>2026-09-13T02:16:37.187Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 DEPOSIT CLUSTER — 3 large deposits in 6h totaling $52M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
+
+📥 2186 ETH ($5.5M)  →  Binance 14  0xeae738…
+
+7d: $3914M in · $4705M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/22330"/>
@@ -732,35 +759,5 @@ Jump Trading — large altcoin flows
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/22282"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22282</id>
-    <updated>2026-09-12T18:21:37.379Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 9.0M USDT ($9.0M)  ←  Binance 16  0xed0c60…
-
-7d: $3910M in · $4685M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/22281"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22281</id>
-    <updated>2026-09-12T18:21:21.625Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.050929155 gwei  ·  Safe: 0.050795822 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
