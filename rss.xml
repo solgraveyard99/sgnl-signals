@@ -5,7 +5,32 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T02:11:22.707Z</updated>
+  <updated>2026-09-13T02:16:22.707Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/22330"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22330</id>
+    <updated>2026-09-13T02:13:24.943Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+PAD (9iKA..zpad)
+Vol/liquidity: 154x (threshold 50)
+24h: -45.2%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>📤 WITHDRAWAL · Binance 16</title>
+    <link href="https://t.me/sgnl_free/22329"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22329</id>
+    <updated>2026-09-13T02:11:37.208Z</updated>
+    <summary type="text">📤 WITHDRAWAL · Binance 16
+2545 ETH  ($6.4M)  ←  0xf8191d…
+⚪ Routine withdrawal
+tx ↗</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/22328"/>
@@ -737,47 +762,5 @@ Optimal time for routine tx:
 • Approve revocations
 
 Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-09-11</title>
-    <link href="https://t.me/sgnl_free/22280"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22280</id>
-    <updated>2026-09-12T18:00:58.350Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-11
-
-Yesterday&apos;s cohort: 28,080 launches
-  🟢 STRONG (score 8+): 504 (1.79%)
-  🟡 MIXED (score 5-7): 6,850 (24.39%)
-  🔴 WEAK  (score 0-4): 20,726 (73.81%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG UNSTABLE mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG JUGGER67 mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG C00 mcap=62 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG TRUMPx mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG Quan mcap=294 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG $GOBLIN99 mcap=114 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG XCAT mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG C00 mcap=68 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG CPZ mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG NasMichi mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-
-✓grad = graduated to Raydium within 24h (553 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/22279"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22279</id>
-    <updated>2026-09-12T17:43:12.590Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 794.66 ETH ($2.0M) → 0xed89da9d…
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
