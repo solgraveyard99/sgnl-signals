@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T11:56:22.736Z</updated>
+  <updated>2026-09-13T12:01:22.736Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-09-12</title>
+    <link href="https://t.me/sgnl_free/22408"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22408</id>
+    <updated>2026-09-13T12:00:18.291Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-12
+
+Yesterday&apos;s Jupiter route fee market (290 samples × 5min):
+  Median: 40.8K μlamp
+  P90:    199.7K μlamp
+  Max:    1580.89M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): 20.4K μlamp
+  Medium (~5s):   40.8K μlamp
+  Fast (high probability): 199.7K μlamp
+
+vs prior 6-day baseline: ↑ 26% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: 40.8K μlamp | Raydium: 757.4K μlamp | Orca: 648.8K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Jump Trading</title>
     <link href="https://t.me/sgnl_free/22407"/>
@@ -706,17 +732,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/22358"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22358</id>
-    <updated>2026-09-13T05:53:15.047Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 486.80 ETH ($1.2M) from Binance 17 (exchange withdrawal)
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
