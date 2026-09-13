@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T02:21:22.708Z</updated>
+  <updated>2026-09-13T02:26:22.707Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/22335"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22335</id>
+    <updated>2026-09-13T02:23:24.825Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+PURRLTR (CmXS..fmpx)
+Vol/liquidity: 101x (threshold 50)
+24h: -88.0%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/22334"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22334</id>
+    <updated>2026-09-13T02:22:51.102Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📤 550.00 ETH ($1.4M) → 0x32d4703e…
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+View on Etherscan
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/22333"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22333</id>
+    <updated>2026-09-13T02:22:27.370Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0001 SOL
+• 99th: 0.0111 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🚨 Coordinated launch buys observed</title>
     <link href="https://t.me/sgnl_free/22332"/>
@@ -709,55 +755,5 @@ How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume
 Companion to morning survival report (06:00 UTC).
 Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
 DYOR.</summary>
-  </entry>
-  <entry>
-    <title>⚪ Market Posture · neutral</title>
-    <link href="https://t.me/sgnl_free/22285"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22285</id>
-    <updated>2026-09-12T23:56:11.971Z</updated>
-    <summary type="text">⚪ Market Posture · neutral
-Bias score: +0
-
-No active signals. Quiet tape.
-
-Updated every 4h · SGNL signal aggregator</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-09-11</title>
-    <link href="https://t.me/sgnl_free/22284"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22284</id>
-    <updated>2026-09-12T21:00:04.648Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-11
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 40
-Strong-bias tokens (buy/sell ≥3x): 19
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 EMBERCHUMP: 23557 buys / 3838 sells (6.1x)  vol1h=$557.4K  price1h +146%
-  📈 HELIUSCAT: 16771 buys / 1952 sells (8.6x)  vol1h=$756.8K  price1h +372%
-  📈 minecat: 13158 buys / 1199 sells (11.0x)  vol1h=$418.6K  price1h +31%
-  📈 TRUMPCAT: 11889 buys / 1763 sells (6.7x)  vol1h=$589.3K  price1h +89%
-  📈 EMBERANSEM: 11128 buys / 1660 sells (6.7x)  vol1h=$520.9K  price1h +216%
-  📈 holyfrog: 5574 buys / 237 sells (20x+)  vol1h=$28.5K  price1h +65%
-  📈 USESTONK: 10254 buys / 1965 sells (5.2x)  vol1h=$522.7K  price1h +17%
-  📈 PHANCAT: 6365 buys / 768 sells (8.3x)  vol1h=$308.4K  price1h +140%
-  📈 ORCAT: 8026 buys / 1232 sells (6.5x)  vol1h=$350.8K  price1h -11%
-  📈 PUMPCAT: 6529 buys / 900 sells (7.3x)  vol1h=$344.1K  price1h +93%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/22283"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22283</id>
-    <updated>2026-09-12T18:33:17.467Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 621.69 ETH ($1.6M) ← 0x1ab4973a…
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
