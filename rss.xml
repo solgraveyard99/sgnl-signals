@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T17:56:22.752Z</updated>
+  <updated>2026-09-13T18:01:22.752Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-09-12</title>
+    <link href="https://t.me/sgnl_free/22441"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22441</id>
+    <updated>2026-09-13T18:00:36.641Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-12
+
+Yesterday&apos;s cohort: 28,329 launches
+  🟢 STRONG (score 8+): 563 (1.99%)
+  🟡 MIXED (score 5-7): 7,126 (25.15%)
+  🔴 WEAK  (score 0-4): 20,640 (72.86%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG WOJAKBRAIN mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG WIFFLY mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG PiPo mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG PEPEBRAIN mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG $HUG mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG KABBALAH mcap=1106 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG SY2 mcap=2390 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG NASP mcap=109 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG EMBPONS mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG BATONUSD mcap=115 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (0 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/22440"/>
@@ -701,17 +731,5 @@ pool details ↗</summary>
 7d: $4029M in · $4733M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22391"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22391</id>
-    <updated>2026-09-13T09:43:14.892Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 498.96 ETH ($1.2M) → 0x652a2ade…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
