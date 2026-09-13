@@ -5,7 +5,17 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T00:06:22.705Z</updated>
+  <updated>2026-09-13T00:11:22.706Z</updated>
+  <entry>
+    <title>📥 DEPOSIT · Binance 14</title>
+    <link href="https://t.me/sgnl_free/22306"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22306</id>
+    <updated>2026-09-13T00:06:37.666Z</updated>
+    <summary type="text">📥 DEPOSIT · Binance 14
+2182 ETH  ($5.5M)  →  0xeae738…
+⚪ Routine deposit
+tx ↗</summary>
+  </entry>
   <entry>
     <title>📊 Week in Review · ending 2026-09-13</title>
     <link href="https://t.me/sgnl_free/22305"/>
@@ -781,21 +791,5 @@ View on Etherscan
 7d: $3953M in · $4673M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/22256"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22256</id>
-    <updated>2026-09-12T12:21:12.213Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.058439894 gwei  ·  Safe: 0.053023484 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
