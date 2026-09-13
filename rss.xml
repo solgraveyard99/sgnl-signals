@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T02:51:22.709Z</updated>
+  <updated>2026-09-13T02:56:22.709Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/22340"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22340</id>
+    <updated>2026-09-13T02:51:24.257Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0001 SOL
+• 99th: 0.1196 SOL (~$12)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/22339"/>
@@ -711,24 +730,6 @@ Direction: BUY
 Notional: ~$618K
 Contracts: 8
 Implied vol: 22.4%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/22290"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22290</id>
-    <updated>2026-09-13T00:01:40.779Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $78000 — expiry 18SEP26
-Direction: BUY
-Notional: ~$664K
-Contracts: 8.6
-Implied vol: 35.0%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
