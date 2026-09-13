@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T16:11:22.746Z</updated>
+  <updated>2026-09-13T16:16:22.745Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · ETH</title>
+    <link href="https://t.me/sgnl_free/22433"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22433</id>
+    <updated>2026-09-13T16:11:29.227Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · ETH
+Spread: 0.0034%/hr  (29.5% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0021%/hr)
+🔴 SHORT on BingX  (funding 0.0013%/hr)
+
+Expected net: ~24% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Jump Trading</title>
     <link href="https://t.me/sgnl_free/22432"/>
@@ -727,17 +742,5 @@ Top observations (by size):
 Opposing flow: $41M (filtered — minority)
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/22383"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22383</id>
-    <updated>2026-09-13T08:52:53.986Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 5,370,559 USDT ($5.4M) ← 0xeae7380d…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
