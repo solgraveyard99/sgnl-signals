@@ -5,7 +5,67 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T08:56:22.731Z</updated>
+  <updated>2026-09-13T09:01:22.731Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-09-12</title>
+    <link href="https://t.me/sgnl_free/22386"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22386</id>
+    <updated>2026-09-13T09:00:18.489Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-12
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 33
+Median peak spike (top 50): 22.1x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump PURRLTR: 24.0x  vol1h=$516.8K  price1h +855.0%
+  🟢 pump caton: 24.0x  vol1h=$432.8K  price1h +588.0%
+  🟢 pump ALLDOG: 24.0x  vol1h=$1.67M  price1h +539.0%
+  🟢 pump PUMPTHING: 24.0x  vol1h=$1.06M  price1h +319.0%
+  🟢 pump FRONTIER: 24.0x  vol1h=$917.5K  price1h +238.0%
+  🟢 pump OnlyCats: 24.0x  vol1h=$1.05M  price1h +231.0%
+  🟢 pump faucat: 24.0x  vol1h=$710.7K  price1h +212.0%
+  🟢 pump WALLY: 24.0x  vol1h=$245.1K  price1h +211.0%
+  🟢 pump PUMPCAT: 24.0x  vol1h=$534.4K  price1h +201.0%
+  🟢 pump STONKJITO: 24.0x  vol1h=$1.15M  price1h +196.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-09-12</title>
+    <link href="https://t.me/sgnl_free/22385"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22385</id>
+    <updated>2026-09-13T09:00:02.571Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-09-12
+
+Top 5 whale-cluster events:
+• $242M → CEX | 7 wallets | 09:11Z
+• $242M → CEX | 7 wallets | 09:26Z
+• $200M → CEX | 6 wallets | 12:10Z
+• $200M → CEX | 6 wallets | 10:36Z
+• $200M → CEX | 6 wallets | 12:43Z
+
+Alerts fired (24h):
+• Wash trade: 1361
+• Coord launch: 160
+• Whale-cluster←CEX: 21
+• Whale-cluster→CEX: 17
+• Whale-large→CEX: 5
+• Whale-large←CEX: 4
+
+Historical base rates (last 7d, past events only):
+• Whale-cluster→CEX: 0/222 past events matched hypothesis (0%)
+• Whale-cluster←CEX: 26/147 past events matched hypothesis (18%)
+• Whale-large→CEX: 4/59 past events matched hypothesis (7%)
+• Whale-large←CEX: 6/43 past events matched hypothesis (14%)
+
+Base rates describe past outcomes. Not predictions. Not investment advice.
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>📊 4 inflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/22384"/>
@@ -715,33 +775,5 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 View on Etherscan
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/22336"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22336</id>
-    <updated>2026-09-13T02:30:54.907Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-29 cluster-buys within 5 minutes of deploy for ESpz..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/22335"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22335</id>
-    <updated>2026-09-13T02:23:24.825Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-PURRLTR (CmXS..fmpx)
-Vol/liquidity: 101x (threshold 50)
-24h: -88.0%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
