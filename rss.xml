@@ -5,7 +5,42 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-13T09:46:22.733Z</updated>
+  <updated>2026-09-13T09:51:22.732Z</updated>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 19.3% APY</title>
+    <link href="https://t.me/sgnl_free/22393"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22393</id>
+    <updated>2026-09-13T09:51:14.347Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 19.3% APY
+avantis / USDC on Base
+Base: 19.3%  ·  Rewards: n/a  ·  TVL: $10.5M
+
+💡 +12.3% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ protocol freshness unknown — verify audits
+
+pool details ↗</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 5 large moves</title>
+    <link href="https://t.me/sgnl_free/22392"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22392</id>
+    <updated>2026-09-13T09:46:52.097Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 5 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 5228 ETH ($13.0M)  →  Binance 14  0xeae738…
+📥 3385 ETH ($8.4M)  →  Binance 14  0xeae738…
+📥 2960 ETH ($7.3M)  →  Binance 14  0xeae738…
+📥 2399 ETH ($6.0M)  →  Binance 14  0xeae738…
+📥 5.4M USDT ($5.4M)  →  Binance 14  0xeae738…
+
+7d: $4029M in · $4733M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/22391"/>
@@ -727,39 +762,5 @@ Every trade is logged and published. Paper mode until validation targets hit (30
 Not financial advice. Data for decision support.
 
 📲 t.me/sgnl_free</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/22343"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22343</id>
-    <updated>2026-09-13T03:00:27.824Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-12 cluster-buys within 5 minutes of deploy for 7Yvc..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>🍯 Solana Honeypot / Trap Watch — 2026-09-12</title>
-    <link href="https://t.me/sgnl_free/22342"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22342</id>
-    <updated>2026-09-13T03:00:12.026Z</updated>
-    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-09-12
-
-Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
-Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
-
-Top 0 suspicious patterns yesterday:
-  (none flagged — quiet honeypot day)
-
-How to read:
-  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
-  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
-
-NOT a guarantee — thin sell side can be legitimate for very fresh launches.
-Always test with small amount before sizing up. Use rugcheck.xyz to verify.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
