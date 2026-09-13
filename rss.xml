@@ -5,7 +5,48 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-12T23:56:22.705Z</updated>
+  <updated>2026-09-13T00:01:22.706Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/22287"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22287</id>
+    <updated>2026-09-13T00:00:21.108Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $77,250 | SOL: $101.77
+Market mood: 60/100 🟢 Mildly Bullish
+Solana activity: ACTIVE
+
+Tomorrow&apos;s outlook: Range-bound tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-12</title>
+    <link href="https://t.me/sgnl_free/22286"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22286</id>
+    <updated>2026-09-13T00:00:04.939Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-12
+
+24h state transitions tracked: 263
+  💀 Died (gone): 182
+  😴 Went dormant: 45
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 PEW: had $0 liquidity · died at age 37.3d
+  💀 4chan: had $0 liquidity · died at age 37.3d
+  💀 サル: had $0 liquidity · died at age 37.3d
+  💀 HERO: had $0 liquidity · died at age 25.2d
+  💀 CALVIN: had $0 liquidity · died at age 25.2d
+  💀 JOSE: had $0 liquidity · died at age 25.2d
+  💀 BULLDOG: had $0 liquidity · died at age 25.2d
+  💀 RABBIT: had $0 liquidity · died at age 25.2d
+  💀 HORNET: had $0 liquidity · died at age 25.2d
+  💀 retard: had $0 liquidity · died at age 25.2d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>⚪ Market Posture · neutral</title>
     <link href="https://t.me/sgnl_free/22285"/>
@@ -733,65 +774,5 @@ Statistical pattern. Not financial advice.
 
 Tx: https://etherscan.io/tx/0x103f1cc251d895f060f83febb55a308aa29d908bc552eb520018c320f017daba
 Wallet: https://etherscan.io/address/0x84b38bc60f3bd82640ecefa320dab2be62e2da15</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-09-11</title>
-    <link href="https://t.me/sgnl_free/22237"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22237</id>
-    <updated>2026-09-12T09:00:03.778Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-11
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 49
-Median peak spike (top 50): 24.0x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump XRPCAT: 24.0x  vol1h=$416.6K  price1h +1809.0%
-  🟢 pump Stunk: 24.0x  vol1h=$1.36M  price1h +814.0%
-  🟢 pump AMD: 24.0x  vol1h=$1.46M  price1h +804.0%
-  🟢 pump HELIUSCAT: 24.0x  vol1h=$756.8K  price1h +792.0%
-  🟢 pump Amazoon: 24.0x  vol1h=$1.80M  price1h +719.0%
-  🟢 pump CATAI: 24.0x  vol1h=$518.0K  price1h +487.0%
-  🟢 pump EMBERANSEM: 24.0x  vol1h=$520.9K  price1h +469.0%
-  🟢 pump computer: 24.0x  vol1h=$232.8K  price1h +461.0%
-  🟢 pump TRUMPCAT: 24.0x  vol1h=$589.3K  price1h +458.0%
-  🟢 pump STONKY: 24.0x  vol1h=$296.3K  price1h +398.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-09-11</title>
-    <link href="https://t.me/sgnl_free/22236"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22236</id>
-    <updated>2026-09-12T09:00:03.336Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-09-11
-
-Top 5 whale-cluster events:
-• $910M ← CEX | 29 wallets | 18:49Z
-• $910M ← CEX | 29 wallets | 18:39Z
-• $901M ← CEX | 28 wallets | 18:19Z
-• $901M ← CEX | 28 wallets | 17:44Z
-• $901M ← CEX | 28 wallets | 17:49Z
-
-Alerts fired (24h):
-• Wash trade: 2110
-• Coord launch: 155
-• Whale-cluster←CEX: 55
-• Whale-cluster→CEX: 53
-• Whale-large→CEX: 26
-• Whale-large←CEX: 21
-
-Historical base rates (last 7d, past events only):
-• Whale-cluster→CEX: 0/200 past events matched hypothesis (0%)
-• Whale-cluster←CEX: 1/133 past events matched hypothesis (1%)
-• Whale-large→CEX: 5/57 past events matched hypothesis (9%)
-• Whale-large←CEX: 1/38 past events matched hypothesis (3%)
-
-Base rates describe past outcomes. Not predictions. Not investment advice.
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
