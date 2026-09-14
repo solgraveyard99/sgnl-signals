@@ -5,7 +5,112 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T00:31:22.772Z</updated>
+  <updated>2026-09-14T00:36:22.772Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/22471"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22471</id>
+    <updated>2026-09-14T00:33:56.032Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+Trio (J3BN..pump)
+Vol/liquidity: 114x (threshold 50)
+24h: -85.3%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/22470"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22470</id>
+    <updated>2026-09-14T00:31:39.610Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $76000 — expiry 25SEP26
+Direction: BUY
+Notional: ~$1169K
+Contracts: 15.3
+Implied vol: 37.3%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/22469"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22469</id>
+    <updated>2026-09-14T00:31:39.193Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $90000 — expiry 25SEP26
+Direction: SELL
+Notional: ~$2294K
+Contracts: 30
+Implied vol: 47.4%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/22468"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22468</id>
+    <updated>2026-09-14T00:31:38.815Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $76000 — expiry 25SEP26
+Direction: BUY
+Notional: ~$597K
+Contracts: 7.8
+Implied vol: 37.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/22467"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22467</id>
+    <updated>2026-09-14T00:31:38.323Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $76500 — expiry 14SEP26
+Direction: BUY
+Notional: ~$1630K
+Contracts: 21.3
+Implied vol: 27.6%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/22466"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22466</id>
+    <updated>2026-09-14T00:31:37.953Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $78000 — expiry 15SEP26
+Direction: BUY
+Notional: ~$1913K
+Contracts: 25
+Implied vol: 33.2%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>📊 3 inflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/22465"/>
@@ -697,79 +802,5 @@ Rate: 27% of 30-day baseline
 ETH price: $2478
 
 Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/22421"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22421</id>
-    <updated>2026-09-13T13:36:12.121Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.063964683 gwei (fast)  ·  🟢 cheap
-Safe: 0.057149712  ·  Propose: 0.057249712  ·  BaseFee: 0.0571
-
-24h range: 0.04–0.17 gwei  (avg 0.06)
-
-Simple transfer cost now: ~$0.0034</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22420"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22420</id>
-    <updated>2026-09-13T13:33:32.154Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 934.00 ETH ($2.3M) → 0x77f7b398…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22419"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22419</id>
-    <updated>2026-09-13T13:33:31.738Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 590.00 ETH ($1.5M) → 0x51c72848…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22418"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22418</id>
-    <updated>2026-09-13T13:33:31.221Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1065.00 ETH ($2.6M) → 0x77f7b398…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22417"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22417</id>
-    <updated>2026-09-13T13:33:15.500Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 948.00 ETH ($2.3M) → 0x77f7b398…
-GSR institutional market-maker
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/22416"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22416</id>
-    <updated>2026-09-13T13:32:54.868Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1930.00 ETH ($4.8M) ← 0xeae7380d…
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
