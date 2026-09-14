@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T02:01:22.777Z</updated>
+  <updated>2026-09-14T02:06:22.777Z</updated>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/22497"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22497</id>
+    <updated>2026-09-14T02:03:25.903Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+13 cluster-buys within 5 minutes of deploy for 2z2a..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/22496"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22496</id>
+    <updated>2026-09-14T02:01:24.527Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0075 SOL
+• 99th: 0.0255 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/22495"/>
@@ -764,46 +796,5 @@ Bias score: +0
 No active signals. Quiet tape.
 
 Updated every 4h · SGNL signal aggregator</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-09-12</title>
-    <link href="https://t.me/sgnl_free/22447"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22447</id>
-    <updated>2026-09-13T21:00:04.005Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-12
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 50
-Strong-bias tokens (buy/sell ≥3x): 19
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 faucat: 22850 buys / 2737 sells (8.3x)  vol1h=$708.8K  price1h +113%
-  📈 ORECAT: 14426 buys / 1592 sells (9.1x)  vol1h=$563.3K  price1h +59%
-  📈 caton: 9123 buys / 1796 sells (5.1x)  vol1h=$288.0K  price1h -18%
-  📈 STONKJITO: 15276 buys / 5080 sells (3.0x)  vol1h=$1.15M  price1h -28%
-  📈 DATADOG: 16240 buys / 6128 sells (2.7x)  vol1h=$1.21M  price1h +17%
-  📈 WALLY: 12015 buys / 3431 sells (3.5x)  vol1h=$233.5K  price1h +138%
-  📈 ALLDOG: 16474 buys / 7350 sells (2.2x)  vol1h=$1.51M  price1h +332%
-  📈 HODL: 14165 buys / 5435 sells (2.6x)  vol1h=$1.10M  price1h +2%
-  📈 stonkbaton: 8851 buys / 2140 sells (4.1x)  vol1h=$340.3K  price1h +45%
-  📈 PUMPDOG: 5150 buys / 736 sells (7.0x)  vol1h=$67.7K  price1h +80%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/22446"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22446</id>
-    <updated>2026-09-13T18:33:16.922Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 1,000,329 USDT ($1.0M) → 0x5f2d3a7e…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 44588 moves in 7d · 44648 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xeb96fc6bad59b0f017a72767c6130baad2250886680087050e3d71786f170101
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
