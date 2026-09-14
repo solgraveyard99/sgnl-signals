@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T01:11:22.775Z</updated>
+  <updated>2026-09-14T01:16:22.774Z</updated>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/22487"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22487</id>
+    <updated>2026-09-14T01:14:08.994Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+22 cluster-buys within 5 minutes of deploy for HdkH..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/22486"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22486</id>
+    <updated>2026-09-14T01:12:32.719Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0008 SOL
+• 99th: 0.0297 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/22485"/>
@@ -786,35 +818,5 @@ Market mood: 60/100 🟢 Mildly Bullish
 Scanned ? tokens · Entered 0 trades today
 
 Stay sharp. Full signals in SGNL VIP 👆</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22437"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22437</id>
-    <updated>2026-09-13T16:33:39.134Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 499.72 ETH ($1.3M) → 0x652a2ade…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 30466 moves in 7d · 30512 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x5c02c42f5c40724ffbbbb03574e2c620109b4c5b64ed80d6e0ae0418612c3f79
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/22436"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22436</id>
-    <updated>2026-09-13T16:33:14.917Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 3,000,000 USDT ($3.0M) ← 0x2b5431e0…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 44603 moves in 7d · 44684 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x1fcf66e4e76a63b8465b845310718abc219cefd1186d23d192dd667cb514682e
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
