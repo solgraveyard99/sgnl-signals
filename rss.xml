@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T05:46:22.786Z</updated>
+  <updated>2026-09-14T05:51:22.789Z</updated>
+  <entry>
+    <title>📊 4 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/22528"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22528</id>
+    <updated>2026-09-14T05:47:47.428Z</updated>
+    <summary type="text">📊 4 inflow-heavy observations detected
+Sample: 4 concurrent observations · $296M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 8 moves, $166M to exchanges
+• 🐋 Large deposit: $80M USDT → Binance 14
+• 🐋 Large deposit: $40M USDT → Binance 15
+• 🐋 Large deposit: $10M USDT → Binance 14
+
+Opposing flow: $85M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/22527"/>
@@ -760,20 +779,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22478"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22478</id>
-    <updated>2026-09-14T00:48:59.566Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 411.21 ETH ($1.0M) → 0xa8c733fc…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 30583 moves in 7d · 30594 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xb365db50215c65f1d23898a0531512765cabce7ffd79f99c7a613315b2cae358
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
