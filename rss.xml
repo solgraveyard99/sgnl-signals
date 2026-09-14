@@ -5,7 +5,47 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T00:06:22.773Z</updated>
+  <updated>2026-09-14T00:11:22.774Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · Jump Trading</title>
+    <link href="https://t.me/sgnl_free/22458"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22458</id>
+    <updated>2026-09-14T00:09:05.154Z</updated>
+    <summary type="text">🧠 SMART MONEY · Jump Trading
+📤 2,732,424 USDT ($2.7M) → 0xc7d3c880…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 2568 moves in 7d · 2568 in 30d.
+Jump Trading — large altcoin flows
+Tx: https://etherscan.io/tx/0xff8e13b9c697f2579a5f782aa5b6d551725a7a5e3543f133009ff64f89c20fad
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/22457"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22457</id>
+    <updated>2026-09-14T00:09:04.731Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+Trio (J3BN..pump)
+Vol/liquidity: 105x (threshold 50)
+24h: -83.3%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>📥 DEPOSIT · Binance 14</title>
+    <link href="https://t.me/sgnl_free/22456"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22456</id>
+    <updated>2026-09-14T00:06:48.349Z</updated>
+    <summary type="text">📥 DEPOSIT · Binance 14
+15.5M USDT  ($15.5M)  →  0xc29bf2…
+⚪ Routine deposit
+tx ↗</summary>
+  </entry>
   <entry>
     <title>🚨 Coordinated launch buys observed</title>
     <link href="https://t.me/sgnl_free/22455"/>
@@ -718,55 +758,5 @@ View on Etherscan
 7d: $4154M in · $4682M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-09-12</title>
-    <link href="https://t.me/sgnl_free/22408"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22408</id>
-    <updated>2026-09-13T12:00:18.291Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-12
-
-Yesterday&apos;s Jupiter route fee market (290 samples × 5min):
-  Median: 40.8K μlamp
-  P90:    199.7K μlamp
-  Max:    1580.89M μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): 20.4K μlamp
-  Medium (~5s):   40.8K μlamp
-  Fast (high probability): 199.7K μlamp
-
-vs prior 6-day baseline: ↑ 26% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: 40.8K μlamp | Raydium: 757.4K μlamp | Orca: 648.8K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/22407"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22407</id>
-    <updated>2026-09-13T11:43:15.053Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 1,421,636 USDT ($1.4M) ← 0x1ab4973a…
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/22406"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22406</id>
-    <updated>2026-09-13T11:13:28.122Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 2,254,309 USDT ($2.3M) → 0xed89da9d…
-Jump Trading — large altcoin flows
-View on Etherscan
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
