@@ -5,7 +5,111 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T08:56:22.792Z</updated>
+  <updated>2026-09-14T09:01:22.793Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-09-13</title>
+    <link href="https://t.me/sgnl_free/22566"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22566</id>
+    <updated>2026-09-14T09:00:19.552Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-13
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 49
+Median peak spike (top 50): 24.0x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump PUMPNINA: 24.0x  vol1h=$1.71M  price1h +1826.0%
+  🟢 pump ONCHAIN: 24.0x  vol1h=$692.7K  price1h +771.0%
+  🟢 pump Mizzy: 24.0x  vol1h=$1.77M  price1h +750.0%
+  🟢 pump CATFLIGHT: 24.0x  vol1h=$652.3K  price1h +519.0%
+  🟢 pump batonguy: 24.0x  vol1h=$406.6K  price1h +513.0%
+  🟢 pump niketyson: 24.0x  vol1h=$635.2K  price1h +323.0%
+  🟢 pump AMC: 24.0x  vol1h=$324.8K  price1h +319.0%
+  🟢 pump CATFLIX: 24.0x  vol1h=$844.8K  price1h +307.0%
+  🟢 pump TTNB: 24.0x  vol1h=$1.02M  price1h +293.0%
+  🟢 pump MCAT: 24.0x  vol1h=$1.24M  price1h +275.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-09-13</title>
+    <link href="https://t.me/sgnl_free/22565"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22565</id>
+    <updated>2026-09-14T09:00:03.645Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-09-13
+
+Top 5 whale-cluster events:
+• $297M → CEX | 18 wallets | 13:07Z
+• $292M → CEX | 17 wallets | 13:51Z
+• $276M ← CEX | 13 wallets | 08:23Z
+• $251M → CEX | 17 wallets | 12:52Z
+• $251M → CEX | 17 wallets | 12:06Z
+
+Alerts fired (24h):
+• Wash trade: 832
+• Coord launch: 183
+• Whale-cluster→CEX: 35
+• Whale-cluster←CEX: 30
+• Whale-large→CEX: 14
+• Whale-large←CEX: 9
+
+Historical base rates (last 7d, past events only):
+• Whale-cluster→CEX: 0/241 past events matched hypothesis (0%)
+• Whale-cluster←CEX: 41/167 past events matched hypothesis (25%)
+• Whale-large→CEX: 4/68 past events matched hypothesis (6%)
+• Whale-large←CEX: 7/45 past events matched hypothesis (16%)
+
+Base rates describe past outcomes. Not predictions. Not investment advice.
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/22564"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22564</id>
+    <updated>2026-09-14T08:58:57.849Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 3000 ETH ($7.6M)  ←  Binance 15  0xb99a2c…
+
+7d: $4266M in · $4582M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/22563"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22563</id>
+    <updated>2026-09-14T08:58:42.098Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 1,728,677 USDT ($1.7M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 44455 moves in 7d · 44512 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x2623d11c04648c1ec87755247ad3932394690bdbf034ed648f7e6dd161e6d253
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/22562"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22562</id>
+    <updated>2026-09-14T08:58:41.665Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 834.00 ETH ($2.1M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 44439 moves in 7d · 44496 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xd809f09c2d2e1a44aa7e3e9f4a326c2186128c6be239b269775ee6c09c0ae62b
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/22561"/>
@@ -694,93 +798,5 @@ Statistical pattern. Not financial advice.
 7d: $4228M in · $4483M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/22516"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22516</id>
-    <updated>2026-09-14T03:18:49.822Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 877.00 ETH ($2.2M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 44662 moves in 7d · 44718 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x3c1c4b70722c6e5fe484ae20f629caf33f047fdcef0bb5860717aabe6944db62
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/22515"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22515</id>
-    <updated>2026-09-14T03:10:55.996Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-35 cluster-buys within 5 minutes of deploy for 7HvF..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/22514"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22514</id>
-    <updated>2026-09-14T03:08:35.792Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 554.00 ETH ($1.4M) → 0x32d4703e…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 44645 moves in 7d · 44712 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xf53750a7e4bd3c65dd33787c28fa55aaf2cd5b3e219207e82b44db0ec617eb74
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/22513"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22513</id>
-    <updated>2026-09-14T03:06:25.691Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-17 cluster-buys within 5 minutes of deploy for DhM9..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
-    <link href="https://t.me/sgnl_free/22512"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22512</id>
-    <updated>2026-09-14T03:02:48.035Z</updated>
-    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
-📅 2026-09-13
-
-⏱ Last 24 hours
-🚀 Futures (Hyperliquid): $12.32 · 8 trades · WR 38%
-🐋 Solana Momentum: -114.45% · 3 trades · WR 0%
-
-📆 Last 7 days
-🚀 Futures: $50.29 · 61 trades · WR 51%
-🐋 Solana Momentum: -743.50% · 41 trades · WR 37%
-⚙️ Other Strategy: +0.00% · 7 trades · WR 0%
-⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
-
-📚 Cumulative since 2026-04-06
-🚀 Futures: $90.56 · 1226 trades · WR 52%
-🐋 Solana Momentum: -4925.36% · 863 trades · WR 35%
-🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
-🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
-⚙️ Other Strategy: +0.00% · 61 trades · WR 0%
-⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
-⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
-
-Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
-Not financial advice. Data for decision support.
-
-📲 t.me/sgnl_free</summary>
   </entry>
 </feed>
