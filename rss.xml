@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T15:21:22.811Z</updated>
+  <updated>2026-09-14T15:26:22.810Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/22648"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22648</id>
+    <updated>2026-09-14T15:23:43.480Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 7.0M USDT ($7.0M)  ←  Binance 15  0xed0c60…
+
+7d: $4231M in · $4686M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/22647"/>
@@ -762,31 +776,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $4245M in · $4614M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-09-13</title>
-    <link href="https://t.me/sgnl_free/22598"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22598</id>
-    <updated>2026-09-14T12:00:03.815Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-13
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: 29.3K μlamp
-  P90:    230.5K μlamp
-  Max:    168.05M μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): 14.7K μlamp
-  Medium (~5s):   29.3K μlamp
-  Fast (high probability): 230.5K μlamp
-
-vs prior 6-day baseline: ↓ 20% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: 29.3K μlamp | Raydium: 524.2K μlamp | Orca: 530.5K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
