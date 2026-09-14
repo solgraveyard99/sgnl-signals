@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T02:26:22.780Z</updated>
+  <updated>2026-09-14T02:31:22.780Z</updated>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/22504"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22504</id>
+    <updated>2026-09-14T02:29:08.493Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+35 cluster-buys within 5 minutes of deploy for fMF1..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/22503"/>
@@ -770,24 +783,5 @@ tx ↗</summary>
 Cluster launches often precede fast dumps. Observation only.
 
 #onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/22454"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22454</id>
-    <updated>2026-09-14T00:04:24.472Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0100 SOL
-• 99th: 0.0820 SOL (~$8)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
