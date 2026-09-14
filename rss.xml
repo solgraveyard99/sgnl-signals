@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T01:31:22.775Z</updated>
+  <updated>2026-09-14T01:36:22.778Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/22494"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22494</id>
+    <updated>2026-09-14T01:35:24.374Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0090 SOL
+• 99th: 0.0100 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🚨 Coordinated launch buys observed</title>
     <link href="https://t.me/sgnl_free/22493"/>
@@ -787,21 +806,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $4145M in · $4566M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/22444"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22444</id>
-    <updated>2026-09-13T18:21:12.847Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.051907439 gwei  ·  Safe: 0.047028754 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
