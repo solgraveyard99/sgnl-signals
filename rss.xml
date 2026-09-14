@@ -5,7 +5,75 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T00:56:22.773Z</updated>
+  <updated>2026-09-14T01:01:22.774Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · Jump Trading</title>
+    <link href="https://t.me/sgnl_free/22482"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22482</id>
+    <updated>2026-09-14T00:59:10.904Z</updated>
+    <summary type="text">🧠 SMART MONEY · Jump Trading
+📤 416.46 ETH ($1.0M) → 0x2e9f9d57…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 2555 moves in 7d · 2555 in 30d.
+Jump Trading — large altcoin flows
+Tx: https://etherscan.io/tx/0x72b2c276ae271c9f68ecc2c9542a73edc25c333c05b3d85fabe8706deb152492
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/22481"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22481</id>
+    <updated>2026-09-14T00:58:55.015Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 DEPOSIT CLUSTER — 7 large deposits in 6h totaling $77M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
+
+📥 2874 ETH ($7.1M)  →  Binance 14  0xeae738…
+📥 5.2M USDT ($5.2M)  →  Binance 14  0xeae738…
+📥 5.0M USDT ($5.0M)  →  Binance 14  0xde46bd…
+
+7d: $4210M in · $4544M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/22480"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22480</id>
+    <updated>2026-09-14T00:56:38.524Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Put — strike $2400 — expiry 27NOV26
+Direction: SELL
+Notional: ~$2484K
+Contracts: 1000
+Implied vol: 53.0%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/22479"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22479</id>
+    <updated>2026-09-14T00:56:38.121Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0011 SOL
+• 99th: 0.0145 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/22478"/>
@@ -751,73 +819,5 @@ Spread: 0.0034%/hr  (29.5% APR gross)
 Expected net: ~24% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
 monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/22432"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22432</id>
-    <updated>2026-09-13T16:03:50.740Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 1,059,454 USDT ($1.1M) → 0xc7d3c880…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 2510 moves in 7d · 2510 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0x646ca56e1afe9f286b212e4e7246be257bdd27fbdb38f6d4bf3ea86b8ad9fefa
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚪ Market Posture · neutral</title>
-    <link href="https://t.me/sgnl_free/22431"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22431</id>
-    <updated>2026-09-13T15:56:12.090Z</updated>
-    <summary type="text">⚪ Market Posture · neutral
-Bias score: +0
-
-2 active signals (top 5 by size):
-• 🐋 Whale deposit cluster: 17 moves, $292M to exchanges
-• 🐋 Whale withdrawal cluster: 3 moves, $78M off exchanges
-
-Updated every 4h · SGNL signal aggregator</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-12</title>
-    <link href="https://t.me/sgnl_free/22430"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22430</id>
-    <updated>2026-09-13T15:00:12.610Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-12
-
-Tokens with liquidity drop ≥50%: 21
-Tokens with liquidity drop ≥90%: 20
-Tokens with liquidity drop ≥75%: 21
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL ALLDOG: -97.1%  $93.9K → $2.7K  in 1.3h
-  🚨 CRITICAL NEKO: -96.6%  $77.9K → $2.7K  in 2.6h
-  🚨 CRITICAL caton: -96.3%  $59.4K → $2.2K  in 1.8h
-  🚨 CRITICAL PUMPTHING: -95.3%  $49.3K → $2.3K  in 35m
-  🚨 CRITICAL PUMPCAT: -94.9%  $40.9K → $2.1K  in 55m
-  🚨 CRITICAL faucat: -94.9%  $48.6K → $2.5K  in 1.8h
-  🚨 CRITICAL FRONTIER: -94.7%  $44.0K → $2.3K  in 25m
-  🚨 CRITICAL OnlyCats: -94.7%  $43.7K → $2.3K  in 1.0h
-  🚨 CRITICAL のび子: -94.3%  $38.2K → $2.2K  in 1.8h
-  🚨 CRITICAL Maple: -94.2%  $34.9K → $2.0K  in 3.7h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22429"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22429</id>
-    <updated>2026-09-13T14:59:16.635Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 2,400,000 USDT ($2.4M) → 0x091d1c97…
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x6fe86c493d17b43e3d6ba89765a6f3e3a7749048d1753b37e20d283364918630
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
