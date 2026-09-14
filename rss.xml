@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T01:21:22.775Z</updated>
+  <updated>2026-09-14T01:26:22.775Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/22492"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22492</id>
+    <updated>2026-09-14T01:23:26.455Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0009 SOL
+• 99th: 0.0241 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/22491"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22491</id>
+    <updated>2026-09-14T01:22:55.581Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+24 cluster-buys within 5 minutes of deploy for 9n6p..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/22490"/>
@@ -773,54 +805,5 @@ Tx: https://etherscan.io/tx/0x08ea016e995fc9215c9eb502176e14a7ef5ef6f7112bc31b34
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/22442"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22442</id>
-    <updated>2026-09-13T18:11:36.554Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 14 → fresh wallet
-Wallet: 0x51c7…2a7f (1 prior txs)
-Amount: $2.21M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x08ea016e995fc9215c9eb502176e14a7ef5ef6f7112bc31b3450f5cf15899819
-Wallet: https://etherscan.io/address/0x51c72848c68a965f66fa7a88855f9f7784502a7f</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-09-12</title>
-    <link href="https://t.me/sgnl_free/22441"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22441</id>
-    <updated>2026-09-13T18:00:36.641Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-12
-
-Yesterday&apos;s cohort: 28,329 launches
-  🟢 STRONG (score 8+): 563 (1.99%)
-  🟡 MIXED (score 5-7): 7,126 (25.15%)
-  🔴 WEAK  (score 0-4): 20,640 (72.86%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG WOJAKBRAIN mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG WIFFLY mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG PiPo mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG PEPEBRAIN mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG $HUG mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG KABBALAH mcap=1106 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG SY2 mcap=2390 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG NASP mcap=109 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG EMBPONS mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG BATONUSD mcap=115 SOL [mcap60+,tg,tw,web,desc]
-
-✓grad = graduated to Raydium within 24h (0 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
