@@ -5,7 +5,35 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T02:16:22.779Z</updated>
+  <updated>2026-09-14T02:21:22.778Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · Jump Trading</title>
+    <link href="https://t.me/sgnl_free/22502"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22502</id>
+    <updated>2026-09-14T02:18:56.990Z</updated>
+    <summary type="text">🧠 SMART MONEY · Jump Trading
+📤 1,401,552 USDT ($1.4M) → 0xed89da9d…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 2546 moves in 7d · 2554 in 30d.
+Jump Trading — large altcoin flows
+Tx: https://etherscan.io/tx/0x5faecd7135794ad292ad261ae3373d7ab04555a98fadda677f80d4bfea10592d
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/22501"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22501</id>
+    <updated>2026-09-14T02:17:59.782Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+20 cluster-buys within 5 minutes of deploy for 6Jos..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/22500"/>
@@ -756,38 +784,5 @@ Statistical pattern. Not financial advice.
 10787 ETH  ($26.7M)  →  Binance 14
 ⚪ Routine deposit
 tx ↗</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/22452"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22452</id>
-    <updated>2026-09-14T00:01:32.393Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $80500 — expiry 15SEP26
-Direction: SELL
-Notional: ~$576K
-Contracts: 7.5
-Implied vol: 41.0%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · SOL</title>
-    <link href="https://t.me/sgnl_free/22451"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22451</id>
-    <updated>2026-09-14T00:01:16.510Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
-Spread: 0.0033%/hr  (28.5% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0026%/hr)
-🔴 SHORT on BingX  (funding 0.0006%/hr)
-
-Expected net: ~23% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
   </entry>
 </feed>
