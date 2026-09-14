@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T17:56:22.819Z</updated>
+  <updated>2026-09-14T18:01:22.824Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-09-13</title>
+    <link href="https://t.me/sgnl_free/22670"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22670</id>
+    <updated>2026-09-14T18:00:43.930Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-13
+
+Yesterday&apos;s cohort: 24,529 launches
+  🟢 STRONG (score 8+): 669 (2.73%)
+  🟡 MIXED (score 5-7): 5,370 (21.89%)
+  🔴 WEAK  (score 0-4): 18,490 (75.38%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG BOB mcap=8996 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG WOJAKGPT mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG CATGEMINI mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG GPTStunk mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG Dmomo mcap=99 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG KEYCAT mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG POKEMON mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG CATGIRL mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG CATGIRL mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG DONALDKAI mcap=64 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (0 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/22669"/>
@@ -760,21 +790,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $4308M in · $4644M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22620"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22620</id>
-    <updated>2026-09-14T13:39:08.829Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 933.00 ETH ($2.3M) → 0x51c72848…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 30536 moves in 7d · 30586 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x1fb57bca23971071615f3577c00eeff73609a560999a02a05a288493c47189b4
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
