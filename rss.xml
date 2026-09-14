@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T16:01:22.813Z</updated>
+  <updated>2026-09-14T16:06:22.812Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · SOL</title>
+    <link href="https://t.me/sgnl_free/22652"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22652</id>
+    <updated>2026-09-14T16:01:32.188Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
+Spread: 0.0033%/hr  (29.1% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0021%/hr)
+🔴 SHORT on MEXC  (funding 0.0013%/hr)
+
+Expected net: ~24% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>🔀 CROSS-VENUE CARRY · ETH</title>
     <link href="https://t.me/sgnl_free/22651"/>
@@ -764,21 +779,6 @@ Windows like this typically last 30-60 min. Act now.</summary>
 
 7d: $4251M in · $4621M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22602"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22602</id>
-    <updated>2026-09-14T12:09:11.509Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 10,000,000 USDT ($10.0M) → 0xf8191d98…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 30564 moves in 7d · 30602 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xa076788674d7e77b5227419cd6bc67100bb5f93f77d0d794d90b1d2f1f8fe37f
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
