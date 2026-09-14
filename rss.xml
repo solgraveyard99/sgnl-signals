@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T19:06:22.828Z</updated>
+  <updated>2026-09-14T19:11:22.828Z</updated>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/22689"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22689</id>
+    <updated>2026-09-14T19:07:48.120Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $334M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 18 moves, $289M off exchanges
+• 🐋 Large withdrawal: $32M ETH ← Binance 14
+• 🐋 Large withdrawal: $12M USDT ← Binance 15
+
+Opposing flow: $70M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔴 CEX BALANCE DISTRIBUTION</title>
     <link href="https://t.me/sgnl_free/22688"/>
@@ -772,24 +790,5 @@ Tx: https://etherscan.io/tx/0xeac75cb5f4b0af9f86fb3ae4422c13b4ba7e1761d74e2acb6f
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/22639"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22639</id>
-    <updated>2026-09-14T14:41:35.894Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 14 → fresh wallet
-Wallet: 0xe92e…a03f (tx count unavailable)
-Amount: $3.30M USDT
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0xd80f82b258c9b82844145c9c87088e1f5ac518d1375140c3767c34c8eb1ae89a
-Wallet: https://etherscan.io/address/0xe92e65049b3c2ca12806e9567b08895118c5a03f</summary>
   </entry>
 </feed>
