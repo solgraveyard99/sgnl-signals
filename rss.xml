@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-14T02:31:22.780Z</updated>
+  <updated>2026-09-14T02:36:22.779Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/22506"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22506</id>
+    <updated>2026-09-14T02:33:58.197Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+TripleB (Ai8u..pump)
+Vol/liquidity: 245x (threshold 50)
+24h: -96.6%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/22505"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22505</id>
+    <updated>2026-09-14T02:33:42.393Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 4066 ETH ($10.2M)  →  Binance 14  0xeae738…
+📤 2742 ETH ($6.9M)  ←  Binance 19  0xf8191d…
+
+7d: $4227M in · $4515M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🚨 Coordinated launch buys observed</title>
     <link href="https://t.me/sgnl_free/22504"/>
@@ -760,28 +790,5 @@ Vol/liquidity: 105x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>📥 DEPOSIT · Binance 14</title>
-    <link href="https://t.me/sgnl_free/22456"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22456</id>
-    <updated>2026-09-14T00:06:48.349Z</updated>
-    <summary type="text">📥 DEPOSIT · Binance 14
-15.5M USDT  ($15.5M)  →  0xc29bf2…
-⚪ Routine deposit
-tx ↗</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/22455"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22455</id>
-    <updated>2026-09-14T00:04:56.691Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-37 cluster-buys within 5 minutes of deploy for CYSx..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
   </entry>
 </feed>
