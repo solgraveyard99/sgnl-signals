@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-15T19:56:22.901Z</updated>
+  <updated>2026-09-15T20:01:22.901Z</updated>
+  <entry>
+    <title>⚪ Market Posture · neutral</title>
+    <link href="https://t.me/sgnl_free/22946"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22946</id>
+    <updated>2026-09-15T19:57:47.786Z</updated>
+    <summary type="text">⚪ Market Posture · neutral
+Bias score: +0
+
+4 active signals (top 5 by size):
+• 🐋 Whale withdrawal cluster: 25 moves, $350M off exchanges
+• 🐋 Whale deposit cluster: 21 moves, $292M to exchanges
+• 🐋 Large withdrawal: $33M ETH ← Binance 14
+• 🐋 Large deposit: $30M ETH → Binance 17
+
+Updated every 4h · SGNL signal aggregator</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Jump Trading</title>
     <link href="https://t.me/sgnl_free/22945"/>
@@ -752,32 +768,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $4462M in · $5098M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-14</title>
-    <link href="https://t.me/sgnl_free/22896"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22896</id>
-    <updated>2026-09-15T15:00:04.325Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-14
-
-Tokens with liquidity drop ≥50%: 34
-Tokens with liquidity drop ≥90%: 26
-Tokens with liquidity drop ≥75%: 30
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL NAMI: -97.1%  $91.7K → $2.7K  in 2.3h
-  🚨 CRITICAL MEMEBACK: -97.0%  $92.3K → $2.8K  in 2.4h
-  🚨 CRITICAL BABYCATE: -96.7%  $72.3K → $2.4K  in 2.3h
-  🚨 CRITICAL CATEUS: -96.5%  $70.5K → $2.5K  in 2.2h
-  🚨 CRITICAL bikenina: -96.5%  $65.8K → $2.3K  in 45m
-  🚨 CRITICAL mictyson: -96.4%  $59.3K → $2.1K  in 35m
-  🚨 CRITICAL POKECOIN: -96.0%  $55.8K → $2.2K  in 3.7h
-  🚨 CRITICAL TRUMPET: -95.9%  $54.7K → $2.3K  in 2.2h
-  🚨 CRITICAL BIKELUGA: -95.9%  $56.6K → $2.3K  in 30m
-  🚨 CRITICAL uncle: -95.2%  $55.5K → $2.7K  in 3.3h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
   </entry>
 </feed>
