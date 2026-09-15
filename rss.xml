@@ -5,7 +5,51 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-15T17:56:22.891Z</updated>
+  <updated>2026-09-15T18:01:22.890Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-09-14</title>
+    <link href="https://t.me/sgnl_free/22927"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22927</id>
+    <updated>2026-09-15T18:01:04.361Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-14
+
+Yesterday&apos;s cohort: 29,179 launches
+  🟢 STRONG (score 8+): 526 (1.80%)
+  🟡 MIXED (score 5-7): 6,728 (23.06%)
+  🔴 WEAK  (score 0-4): 21,925 (75.14%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG PTWINE mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ch mcap=1001 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG mictyson mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG GOAT mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ElonMusket mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ACW mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG MISHNAH mcap=15052 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG 富贵67 mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG MIDRASH mcap=15052 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG HALAKHAH mcap=15052 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (58 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/22926"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22926</id>
+    <updated>2026-09-15T17:58:42.097Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 2565 ETH ($6.2M)  ←  Binance 15  0xedc700…
+
+7d: $4559M in · $5185M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Jump Trading</title>
     <link href="https://t.me/sgnl_free/22925"/>
@@ -734,39 +778,6 @@ Wallet: https://etherscan.io/address/0x7671270a2f3db82e30ee6330e9e049babb757231<
 📤 5000 ETH ($12.3M)  ←  Binance 17  0x767127…
 
 7d: $4456M in · $5085M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 4 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/22877"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22877</id>
-    <updated>2026-09-15T14:07:47.671Z</updated>
-    <summary type="text">📊 4 outflow-heavy observations detected
-Sample: 4 concurrent observations · $303M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 12 moves, $222M off exchanges
-• 🐋 Large withdrawal: $41M USDT ← Binance 14
-• 🐋 Large withdrawal: $29M ETH ← Binance 14
-• 🐋 Large withdrawal: $13M ETH ← Binance 16
-
-Opposing flow: $75M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/22876"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22876</id>
-    <updated>2026-09-15T14:03:52.280Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 9313 ETH ($22.8M)  →  Binance 14  0xeae738…
-
-7d: $4433M in · $5085M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
   </entry>
