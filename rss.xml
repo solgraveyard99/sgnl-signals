@@ -5,7 +5,35 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-15T01:26:22.845Z</updated>
+  <updated>2026-09-15T01:31:22.845Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/22739"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22739</id>
+    <updated>2026-09-15T01:28:59.911Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 932.00 ETH ($2.3M) → 0xbc8a0f5e…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 30737 moves in 7d · 30741 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0x9bd52c9867708dd12995a1e08c8d73944df45385ad595b953248c967b9bffc58
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/22738"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22738</id>
+    <updated>2026-09-15T01:26:26.457Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+14 cluster-buys within 5 minutes of deploy for 5FhK..C1fP.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/22737"/>
@@ -777,35 +805,5 @@ Top 10 by buy momentum (buys × buy/sell ratio):
 Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
 Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📊 3 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/22689"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22689</id>
-    <updated>2026-09-14T19:07:48.120Z</updated>
-    <summary type="text">📊 3 outflow-heavy observations detected
-Sample: 3 concurrent observations · $334M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 18 moves, $289M off exchanges
-• 🐋 Large withdrawal: $32M ETH ← Binance 14
-• 🐋 Large withdrawal: $12M USDT ← Binance 15
-
-Opposing flow: $70M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔴 CEX BALANCE DISTRIBUTION</title>
-    <link href="https://t.me/sgnl_free/22688"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22688</id>
-    <updated>2026-09-14T19:05:30.374Z</updated>
-    <summary type="text">🔴 CEX BALANCE DISTRIBUTION
-Monitored reserves changed +8.08% in 24h
-Delta: +$1520M
-New total: $20.34B
-
-Capital flooding into CEXs — deposit dominance.</summary>
   </entry>
 </feed>
