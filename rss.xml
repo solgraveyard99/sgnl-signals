@@ -5,7 +5,48 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-15T11:56:22.877Z</updated>
+  <updated>2026-09-15T12:01:22.878Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-09-14</title>
+    <link href="https://t.me/sgnl_free/22846"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22846</id>
+    <updated>2026-09-15T12:00:04.665Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-14
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: 75.2K μlamp
+  P90:    253.2K μlamp
+  Max:    29.96M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): 37.6K μlamp
+  Medium (~5s):   75.2K μlamp
+  Fast (high probability): 253.2K μlamp
+
+vs prior 6-day baseline: ↑ 121% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: 75.2K μlamp | Raydium: 440.8K μlamp | Orca: 399.9K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/22845"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22845</id>
+    <updated>2026-09-15T11:58:44.262Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 1,960,147 USDT ($2.0M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 44349 moves in 7d · 44405 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xe5d17ad0e886d8ee0b8f33c10e695a38b90ceadcf7ba9c8c0d537e4c21c40972
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/22844"/>
@@ -785,33 +826,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/22796"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22796</id>
-    <updated>2026-09-15T06:53:42.554Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 6.2M USDT ($6.2M)  ←  Binance 16  0xab5a9f…
-
-7d: $4478M in · $4931M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/22795"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22795</id>
-    <updated>2026-09-15T06:43:42.934Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 4500 ETH ($11.2M)  ←  Binance 14  0xb99a2c…
-
-7d: $4518M in · $4919M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
