@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-15T06:31:22.858Z</updated>
+  <updated>2026-09-15T06:36:22.854Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/22793"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22793</id>
+    <updated>2026-09-15T06:33:48.153Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 14519 ETH ($36.1M)  ←  Binance 14  Binance 19
+📥 7.0M USDT ($7.0M)  →  Binance 14  0xde46bd…
+📤 7.0M USDT ($7.0M)  ←  Binance 17  0xab5a9f…
+
+7d: $4538M in · $4876M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
     <link href="https://t.me/sgnl_free/22792"/>
@@ -772,24 +788,5 @@ Tx: https://etherscan.io/tx/0x1eaa8c52e9477e01460d9b9f3e66cc3117f609ad7e3ebd04df
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/22743"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22743</id>
-    <updated>2026-09-15T01:51:40.980Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 15 → fresh wallet
-Wallet: 0xf42b…2b51 (tx count unavailable)
-Amount: $2.52M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x8d77089a2928405f6007ddd801781e5876930a2ec8c117c3c3dcc4a5a9161d7e
-Wallet: https://etherscan.io/address/0xf42bcfd3dd5fcdd984d24fd2787383195c7f2b51</summary>
   </entry>
 </feed>
