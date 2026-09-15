@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-15T14:06:22.886Z</updated>
+  <updated>2026-09-15T14:11:22.887Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/22878"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22878</id>
+    <updated>2026-09-15T14:08:43.630Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 5000 ETH ($12.3M)  ←  Binance 17  0x767127…
+
+7d: $4456M in · $5085M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>📊 4 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/22877"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22877</id>
+    <updated>2026-09-15T14:07:47.671Z</updated>
+    <summary type="text">📊 4 outflow-heavy observations detected
+Sample: 4 concurrent observations · $303M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 12 moves, $222M off exchanges
+• 🐋 Large withdrawal: $41M USDT ← Binance 14
+• 🐋 Large withdrawal: $29M ETH ← Binance 14
+• 🐋 Large withdrawal: $13M ETH ← Binance 16
+
+Opposing flow: $75M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/22876"/>
@@ -787,58 +820,5 @@ Top 10 by peak spike ratio (volume1h / avg-hourly):
 Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
 Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-09-14</title>
-    <link href="https://t.me/sgnl_free/22828"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22828</id>
-    <updated>2026-09-15T09:00:02.977Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-09-14
-
-Top 5 whale-cluster events:
-• $372M → CEX | 23 wallets | 08:36Z
-• $367M → CEX | 22 wallets | 08:13Z
-• $350M → CEX | 20 wallets | 08:03Z
-• $324M ← CEX | 21 wallets | 17:16Z
-• $319M ← CEX | 20 wallets | 17:23Z
-
-Alerts fired (24h):
-• Wash trade: 1296
-• Coord launch: 167
-• Whale-cluster→CEX: 69
-• Whale-cluster←CEX: 64
-• Whale-large←CEX: 25
-• Whale-large→CEX: 21
-
-Historical base rates (last 7d, past events only):
-• Whale-cluster→CEX: 0/236 past events matched hypothesis (0%)
-• Whale-cluster←CEX: 47/177 past events matched hypothesis (27%)
-• Whale-large→CEX: 1/63 past events matched hypothesis (2%)
-• Whale-large←CEX: 9/52 past events matched hypothesis (17%)
-
-Base rates describe past outcomes. Not predictions. Not investment advice.
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/22827"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22827</id>
-    <updated>2026-09-15T08:41:35.238Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 14 → fresh wallet
-Wallet: 0x480a…ad4e (1 prior txs)
-Amount: $24.73M ETH
-Tier: TIER3
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x38c358da12a54a1cdffc498f4b8f99c4cca0cdab44b6e6d39e6c59e1906ef53c
-Wallet: https://etherscan.io/address/0x480aa53b140d6ccff7c7ba9ce78d64e03802ad4e</summary>
   </entry>
 </feed>
