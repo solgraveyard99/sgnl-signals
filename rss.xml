@@ -5,7 +5,36 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-15T03:36:22.849Z</updated>
+  <updated>2026-09-15T03:41:22.848Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/22770"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22770</id>
+    <updated>2026-09-15T03:38:51.291Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 DEPOSIT CLUSTER — 12 large deposits in 6h totaling $152M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
+
+📥 10.0M USDT ($10.0M)  →  Binance 14  0xf39335…
+
+7d: $4473M in · $4880M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/22769"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22769</id>
+    <updated>2026-09-15T03:38:35.648Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 3,499,037 USDT ($3.5M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 44345 moves in 7d · 44406 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xcbb83b24c397a691f3a97673442f47c1d5b49e2436eb2b81a54058bb1e656ad9
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/22768"/>
@@ -745,35 +774,5 @@ Statistical pattern only. No accusation.
 7d: $4319M in · $4837M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
-    <link href="https://t.me/sgnl_free/22720"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22720</id>
-    <updated>2026-09-15T00:21:14.756Z</updated>
-    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
-
-24h inflow: 69.9K ETH (~2,185 new validators)
-USD value: $175.5M
-Rate: 2.0× 30-day baseline
-ETH price: $2510
-
-Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/22719"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22719</id>
-    <updated>2026-09-15T00:21:14.333Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.077796913 gwei  ·  Safe: 0.072420674 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
