@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-15T14:11:22.887Z</updated>
+  <updated>2026-09-15T14:16:22.885Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/22880"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22880</id>
+    <updated>2026-09-15T14:14:06.551Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 7428 ETH ($18.2M)  ←  Binance 14  0x767127…
+
+7d: $4456M in · $5098M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🆕 FRESH WALLET FUNDED</title>
+    <link href="https://t.me/sgnl_free/22879"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22879</id>
+    <updated>2026-09-15T14:11:40.292Z</updated>
+    <summary type="text">🆕 FRESH WALLET FUNDED
+
+Binance 14 → fresh wallet
+Wallet: 0x7671…7231 (3 prior txs)
+Amount: $18.17M ETH
+Tier: TIER3
+
+Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
+
+Statistical pattern. Not financial advice.
+
+Tx: https://etherscan.io/tx/0x6d2d7e6a1fd7b1eaaacdbb2dc0a0b2c6a2010d8f853e15ebccf45b93db63b0c6
+Wallet: https://etherscan.io/address/0x7671270a2f3db82e30ee6330e9e049babb757231</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/22878"/>
@@ -780,45 +813,5 @@ Tx: https://etherscan.io/tx/0x717d3193566ed0991d4a889311adffcdc73343cf5cf21498ce
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/22830"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22830</id>
-    <updated>2026-09-15T09:38:49.190Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 10.0M USDT ($10.0M)  ←  Binance 18  0xd6a3ce…
-
-7d: $4570M in · $4900M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-09-14</title>
-    <link href="https://t.me/sgnl_free/22829"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22829</id>
-    <updated>2026-09-15T09:00:18.726Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-14
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 49
-Median peak spike (top 50): 24.0x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump CATOSHI: 24.0x  vol1h=$931.9K  price1h +1556.0%
-  🟢 pump Humanity: 24.0x  vol1h=$569.5K  price1h +1256.0%
-  🟢 pump MEMEBACK: 24.0x  vol1h=$1.62M  price1h +1006.0%
-  🟢 pump NAMI: 24.0x  vol1h=$1.37M  price1h +866.0%
-  🟢 pump CATEUS: 24.0x  vol1h=$1.43M  price1h +757.0%
-  🟢 pump TESSERACT: 24.0x  vol1h=$624.7K  price1h +605.0%
-  🟢 pump WHEEL TYSO: 24.0x  vol1h=$1.08M  price1h +576.0%
-  🟢 pump mictyson: 24.0x  vol1h=$407.8K  price1h +558.0%
-  🟢 pump MEWCATI: 24.0x  vol1h=$681.0K  price1h +426.0%
-  🟢 pump POKECOIN: 24.0x  vol1h=$972.7K  price1h +409.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
