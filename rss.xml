@@ -5,7 +5,56 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-16T00:26:22.917Z</updated>
+  <updated>2026-09-16T00:31:22.919Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/22981"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22981</id>
+    <updated>2026-09-16T00:28:58.804Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+CCOIN (69fm..pump)
+Vol/liquidity: 188x (threshold 50)
+24h: -93.5%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/22980"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22980</id>
+    <updated>2026-09-16T00:28:43.134Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 10.0M USDT ($10.0M)  →  Binance 14  0x342802…
+📤 3173 ETH ($7.6M)  ←  Binance 17  0xedc700…
+
+7d: $4754M in · $5120M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/22979"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22979</id>
+    <updated>2026-09-16T00:26:25.339Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0003 SOL
+• 99th: 0.0201 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/22978"/>
@@ -764,50 +813,5 @@ Optimal time for routine tx:
 • Approve revocations
 
 Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22931"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22931</id>
-    <updated>2026-09-15T18:09:13.555Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📥 13517.27 ETH ($33.0M) from Binance 14 (exchange withdrawal)
-Market-maker wallet · withdrawal from CEX Binance 14. Descriptive observation.
-Wallet activity: 31233 moves in 7d · 31288 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xc5f30d6de3d1a4f765e7d091e9c74f62de61be4f2f0e63874e3521f470bd3922
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/22930"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22930</id>
-    <updated>2026-09-15T18:08:57.651Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 1,404,910 USDT ($1.4M) ← 0x1ab4973a…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 2748 moves in 7d · 2752 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0x4b163989f1daae01449a73147f90c9423fd4cfc3c522db8982dfdfa7087bb25b
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/22929"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22929</id>
-    <updated>2026-09-15T18:08:40.760Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 2,857,966 USDT ($2.9M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 44303 moves in 7d · 44356 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x93a9b9299b1625cd152f04c0ec775954c00fccfb1104c6e191975e32a26f5640
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
