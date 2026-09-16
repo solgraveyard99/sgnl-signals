@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-16T02:16:22.925Z</updated>
+  <updated>2026-09-16T02:21:22.925Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/23009"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23009</id>
+    <updated>2026-09-16T02:19:10.517Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 3,000,000 USDT ($3.0M) → 0xfb19085a…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 31291 moves in 7d · 31320 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0x1bd682425866a8e1cb45e6a0d29b747bc56662175e263af11878257fd13e855e
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23008"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23008</id>
+    <updated>2026-09-16T02:19:10.139Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+DOOM (GE2j..doom)
+Vol/liquidity: 344x (threshold 50)
+24h: -56.1%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/23007"/>
@@ -747,39 +777,5 @@ Vol/liquidity: 375x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 3 large moves</title>
-    <link href="https://t.me/sgnl_free/22959"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22959</id>
-    <updated>2026-09-16T00:03:42.743Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 3 large moves
-📊 DEPOSIT CLUSTER — 6 large deposits in 6h totaling $117M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
-
-📥 40.7M USDT ($40.7M)  →  Binance 16  Binance 14
-📥 12238 ETH ($29.3M)  →  Binance 16  Binance 14
-📤 3051 ETH ($7.3M)  ←  Binance 19  0xedc700…
-
-7d: $4560M in · $5111M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/22958"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22958</id>
-    <updated>2026-09-16T00:01:44.621Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $2360 — expiry 16SEP26
-Direction: BUY
-Notional: ~$660K
-Contracts: 274
-Implied vol: 55.8%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
