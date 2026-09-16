@@ -5,7 +5,69 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-16T03:01:22.924Z</updated>
+  <updated>2026-09-16T03:06:22.926Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23019"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23019</id>
+    <updated>2026-09-16T03:03:59.702Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+onepage (gB4N..pump)
+Vol/liquidity: 215x (threshold 50)
+24h: -93.9%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/23018"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23018</id>
+    <updated>2026-09-16T03:03:43.900Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 10.0M USDT ($10.0M)  →  Binance 14  0x31a2ee…
+
+7d: $4805M in · $5070M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/23017"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23017</id>
+    <updated>2026-09-16T03:02:47.980Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-09-15
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): $1.93 · 8 trades · WR 38%
+🐋 Solana Momentum: -307.67% · 4 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
+
+📆 Last 7 days
+🚀 Futures: $50.58 · 59 trades · WR 47%
+⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
+🐋 Solana Momentum: -1199.60% · 35 trades · WR 31%
+⚙️ Other Strategy: +0.00% · 7 trades · WR 0%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $97.87 · 1242 trades · WR 52%
+🐋 Solana Momentum: -5725.03% · 874 trades · WR 34%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 64 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🍯 Solana Honeypot / Trap Watch — 2026-09-15</title>
     <link href="https://t.me/sgnl_free/23016"/>
@@ -731,54 +793,6 @@ Top observations (by size):
 
 Opposing flow: $26M (filtered — minority)
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/22969"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22969</id>
-    <updated>2026-09-16T00:11:31.209Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $74000 — expiry 25SEP26
-Direction: SELL
-Notional: ~$658K
-Contracts: 8.7
-Implied vol: 38.6%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/22968"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22968</id>
-    <updated>2026-09-16T00:09:14.781Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 3,325,579 USDT ($3.3M) → 0xd9381427…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 31233 moves in 7d · 31233 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x9900a8ad19443db06ecc93f64ec54719a11e9eaad6aee9e79e74026f68032c34
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/22967"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22967</id>
-    <updated>2026-09-16T00:09:14.338Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 3,652,968 USDT ($3.7M) → 0xbcd98656…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 2794 moves in 7d · 2794 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0x8f163d58d66e7f68c191f5920af5f6b339afd36e0f168b7922988241e57a25e5
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
