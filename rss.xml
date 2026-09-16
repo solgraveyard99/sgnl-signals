@@ -5,7 +5,82 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-16T08:56:22.951Z</updated>
+  <updated>2026-09-16T09:01:22.951Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-09-15</title>
+    <link href="https://t.me/sgnl_free/23096"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23096</id>
+    <updated>2026-09-16T09:00:12.794Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-15
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 34
+Median peak spike (top 50): 24.0x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump LELD: 24.0x  vol1h=$673.6K  price1h +1466.0%
+  🟢 pump CASHCAT: 24.0x  vol1h=$1.03M  price1h +546.0%
+  🟢 pump BIKE MJ: 24.0x  vol1h=$172.1K  price1h +497.0%
+  🟢 pump JUDE: 24.0x  vol1h=$627.9K  price1h +330.0%
+  🟢 pump JENSENHUH: 24.0x  vol1h=$565.7K  price1h +278.0%
+  🟢 pump FART: 24.0x  vol1h=$328.6K  price1h +276.0%
+  🟢 pump BULLISHCAT: 24.0x  vol1h=$1.03M  price1h +275.0%
+  🟢 pump Pilly: 24.0x  vol1h=$710.5K  price1h +261.0%
+  🟢 pump STEALF: 24.0x  vol1h=$1.15M  price1h +248.0%
+  🟢 pump STOC: 24.0x  vol1h=$21.6K  price1h +245.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-09-15</title>
+    <link href="https://t.me/sgnl_free/23095"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23095</id>
+    <updated>2026-09-16T09:00:12.024Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-09-15
+
+Top 5 whale-cluster events:
+• $391M ← CEX | 26 wallets | 18:08Z
+• $360M ← CEX | 23 wallets | 17:23Z
+• $358M ← CEX | 25 wallets | 17:58Z
+• $357M ← CEX | 25 wallets | 17:48Z
+• $356M ← CEX | 26 wallets | 18:38Z
+
+Alerts fired (24h):
+• Wash trade: 1867
+• Coord launch: 111
+• Whale-cluster→CEX: 64
+• Whale-cluster←CEX: 62
+• Whale-large→CEX: 21
+• Whale-large←CEX: 16
+
+Historical base rates (last 7d, past events only):
+• Whale-cluster→CEX: 0/247 past events matched hypothesis (0%)
+• Whale-cluster←CEX: 49/185 past events matched hypothesis (26%)
+• Whale-large→CEX: 0/75 past events matched hypothesis (0%)
+• Whale-large←CEX: 9/57 past events matched hypothesis (16%)
+
+Base rates describe past outcomes. Not predictions. Not investment advice.
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/23094"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23094</id>
+    <updated>2026-09-16T08:58:35.768Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📤 1,000,000 USDT ($1.0M) → 0x515cc41a…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 44255 moves in 7d · 44312 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x15a74d351d1a58a19ec89524dd54e4dbfa07bff0b556f6a4fc6ded2d0787bbec
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/23093"/>
@@ -738,49 +813,6 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x83011a990f2778a4f22b3197222424778e5ad9921267144d4c802eb1a1cb31f4
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/23046"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23046</id>
-    <updated>2026-09-16T06:33:54.376Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 DEPOSIT CLUSTER — 6 large deposits in 6h totaling $96M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
-
-📥 7.2M USDT ($7.2M)  →  Binance 14  0xcde5d4…
-
-7d: $4830M in · $4996M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/23045"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23045</id>
-    <updated>2026-09-16T06:28:56.982Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 1,233,163 USDT ($1.2M) from Binance 17 (withdrawal)
-Market-maker wallet · withdrawal from CEX Binance 17. Descriptive observation.
-Wallet activity: 2799 moves in 7d · 2799 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0x799bef9db19ad757eb8cf739be88be5640211f9dd0f381d3b90f15164bf7fcd3
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/23044"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23044</id>
-    <updated>2026-09-16T06:23:43.242Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 16798 ETH ($40.3M)  →  Binance 14  0xcde5d4…
-
-7d: $4790M in · $4996M out · net flow: outflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
