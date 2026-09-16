@@ -5,7 +5,52 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-16T17:56:22.983Z</updated>
+  <updated>2026-09-16T18:01:22.980Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-09-15</title>
+    <link href="https://t.me/sgnl_free/23164"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23164</id>
+    <updated>2026-09-16T18:01:05.041Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-15
+
+Yesterday&apos;s cohort: 33,521 launches
+  🟢 STRONG (score 8+): 591 (1.76%)
+  🟡 MIXED (score 5-7): 8,391 (25.03%)
+  🔴 WEAK  (score 0-4): 24,539 (73.20%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG WOJAKTYSON mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG BatonTrump mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG $SIRUS mcap=62 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG OURO mcap=998 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG PVE mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG $Nana mcap=103 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG $MSTONKS mcap=114 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG $MSTONKS mcap=114 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG CHILLGPT mcap=103 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG MEOWERO mcap=88 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (476 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/23163"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23163</id>
+    <updated>2026-09-16T17:58:36.267Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 1,097,059 USDT ($1.1M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 44198 moves in 7d · 44250 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xf3cd0660cd20de7aaf75fdbb90f67e356b2a69b498b60a3ea891f7ad9c9c42d4
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/23162"/>
@@ -725,36 +770,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $4857M in · $5079M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/23114"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23114</id>
-    <updated>2026-09-16T11:18:38.900Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 5,012,804 USDT ($5.0M) ← 0xc7faf7b3…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 44261 moves in 7d · 44316 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x02a901a7d23f0c57d033484c488739734bc814d4b22b4930cd29f0a6e85fea2c
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/23113"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23113</id>
-    <updated>2026-09-16T11:08:59.707Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 3,000,000 USDT ($3.0M) → 0x3ce2d2f9…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 31417 moves in 7d · 31428 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x5e9a6098068865390b3996eb2829c29d6f2a1c2c8ae8eba38c7d7d5564a5b3d3
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
