@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-16T01:41:22.921Z</updated>
+  <updated>2026-09-16T01:46:22.920Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/22998"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22998</id>
+    <updated>2026-09-16T01:43:43.547Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 11640 ETH ($27.9M)  →  Binance 19  Binance 14
+
+7d: $4773M in · $5113M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/22997"/>
@@ -791,31 +805,5 @@ Bias score: +0
 • 🐋 Whale deposit cluster: 21 moves, $292M to exchanges
 
 Updated every 4h · SGNL signal aggregator</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-09-14</title>
-    <link href="https://t.me/sgnl_free/22948"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22948</id>
-    <updated>2026-09-15T21:00:11.202Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-14
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 48
-Strong-bias tokens (buy/sell ≥3x): 24
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 BABYCATE: 16949 buys / 1943 sells (8.7x)  vol1h=$827.8K  price1h +288%
-  📈 WTF: 13327 buys / 1831 sells (7.3x)  vol1h=$500.3K  price1h +42%
-  📈 POKECOIN: 19363 buys / 4592 sells (4.2x)  vol1h=$972.7K  price1h +57%
-  📈 GOLDGOOSE: 18438 buys / 4187 sells (4.4x)  vol1h=$619.9K  price1h +214%
-  📈 ANAI: 10798 buys / 1617 sells (6.7x)  vol1h=$784.0K  price1h -21%
-  📈 CATEWIF: 6688 buys / 636 sells (10.5x)  vol1h=$351.3K  price1h +143%
-  📈 AdamSandr: 9445 buys / 1394 sells (6.8x)  vol1h=$410.2K  price1h +133%
-  📈 CATESZN: 16365 buys / 4472 sells (3.7x)  vol1h=$919.2K  price1h +19%
-  📈 TRUMPET: 9468 buys / 1643 sells (5.8x)  vol1h=$331.0K  price1h -35%
-  📈 PUMPCATE: 10580 buys / 2265 sells (4.7x)  vol1h=$497.8K  price1h +25%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
