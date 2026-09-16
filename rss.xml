@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-16T01:31:22.924Z</updated>
+  <updated>2026-09-16T01:36:22.925Z</updated>
+  <entry>
+    <title>🔴 Circle BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/22996"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-22996</id>
+    <updated>2026-09-16T01:32:59.689Z</updated>
+    <summary type="text">🔴 Circle BURN · USDC
+
+-$562.3M in last 24h
+Tier: TIER2
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/22995"/>
@@ -799,21 +811,5 @@ New supply: $73.83B
 Net supply contraction event. Descriptive observation only.
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚪ Market Posture · neutral</title>
-    <link href="https://t.me/sgnl_free/22946"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-22946</id>
-    <updated>2026-09-15T19:57:47.786Z</updated>
-    <summary type="text">⚪ Market Posture · neutral
-Bias score: +0
-
-4 active signals (top 5 by size):
-• 🐋 Whale withdrawal cluster: 25 moves, $350M off exchanges
-• 🐋 Whale deposit cluster: 21 moves, $292M to exchanges
-• 🐋 Large withdrawal: $33M ETH ← Binance 14
-• 🐋 Large deposit: $30M ETH → Binance 17
-
-Updated every 4h · SGNL signal aggregator</summary>
   </entry>
 </feed>
