@@ -5,7 +5,51 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-16T12:06:22.963Z</updated>
+  <updated>2026-09-16T12:11:22.961Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/23126"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23126</id>
+    <updated>2026-09-16T12:08:54.631Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 5.3M USDT ($5.3M)  ←  Binance 16  0x99e5d4…
+
+7d: $4807M in · $5111M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/23125"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23125</id>
+    <updated>2026-09-16T12:08:38.845Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📤 1,199,954 ENA ($1.2M) → 0x566b3047…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 44217 moves in 7d · 44274 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x73f3ec5ced911d31ebb9feb9b635e045b25a2b88270962e87e446e5d743e84c7
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/23124"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23124</id>
+    <updated>2026-09-16T12:08:38.398Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📤 860.00 ETH ($2.1M) → 0x38b7d42b…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 44206 moves in 7d · 44263 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xeeb4433b954ecf795d45f816f19637df0ba756764943b9b0d76c22bcd1db83e8
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🟢 CEX BALANCE ACCUMULATION</title>
     <link href="https://t.me/sgnl_free/23123"/>
@@ -764,69 +808,5 @@ Spread: 0.0033%/hr  (29.1% APR gross)
 Expected net: ~24% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
 monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 4 large moves</title>
-    <link href="https://t.me/sgnl_free/23076"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23076</id>
-    <updated>2026-09-16T08:03:51.580Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 4 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 11977 ETH ($28.7M)  ←  Binance 14  Binance 15
-📥 7.2M USDT ($7.2M)  →  Binance 14  0x0b2fdf…
-📥 6.0M USDT ($6.0M)  →  Binance 14  0x842641…
-📥 5.6M USDT ($5.6M)  →  Binance 14  0x0b2fdf…
-
-7d: $4852M in · $5044M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/23075"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23075</id>
-    <updated>2026-09-16T08:01:34.904Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 15 → fresh wallet
-Wallet: 0xbc8a…5ce0 (tx count unavailable)
-Amount: $2.21M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x811a0eb1740552e01598687a5a5e26369c911c8e493744847c36941b4ab22f47
-Wallet: https://etherscan.io/address/0xbc8a0f5e41857292d12ef620e2a5895ce65a5ce0</summary>
-  </entry>
-  <entry>
-    <title>📡 SGNL Daily Digest · 2026-09-15</title>
-    <link href="https://t.me/sgnl_free/23074"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23074</id>
-    <updated>2026-09-16T08:00:16.829Z</updated>
-    <summary type="text">📡 SGNL Daily Digest · 2026-09-15
-What 30+ SGNL observers caught in the last 24h
-
-⚡ Aave V3 liquidations (24h, 15 total)
-USDT 14544.34 → 6.4390 WETH
-USDT 4799.49 → 2.0438 WETH
-0x40d16f… 4578.04 → 1.7451 rETH
-
-🤖 AI cluster index -6.74% / 24h
-FET -9.5% · AKT -8.6% · AIOZ -8.1% · AGIX -8.0%
-
-🌉 Cross-chain (Wormhole, 24h)
-$16.1M across 9801 txs · top route Solana → Solana
-
-📈 Velocity alerts (24h)
-eutbl rank -5
-render rank -5
-jtrsy rank -5
-btw rank +21
-
-
-Free signals · No advice · t.me/sgnl_free</summary>
   </entry>
 </feed>
