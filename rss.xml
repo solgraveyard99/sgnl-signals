@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-16T18:41:22.982Z</updated>
+  <updated>2026-09-16T18:46:22.984Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/23172"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23172</id>
+    <updated>2026-09-16T18:43:54.800Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 8.9M USDT ($8.9M)  →  Binance 14  0xeae738…
+📤 2654 ETH ($6.4M)  ←  Binance 14  0xf8191d…
+
+7d: $4814M in · $4864M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Jump Trading</title>
     <link href="https://t.me/sgnl_free/23171"/>
@@ -745,31 +760,5 @@ Delta: $-17154M
 New total: $3.16B
 
 Capital leaving CEXs — withdrawals dominate deposits.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-09-15</title>
-    <link href="https://t.me/sgnl_free/23122"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23122</id>
-    <updated>2026-09-16T12:00:03.874Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-15
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: 69.5K μlamp
-  P90:    270.8K μlamp
-  Max:    337.50M μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): 34.8K μlamp
-  Medium (~5s):   69.5K μlamp
-  Fast (high probability): 270.8K μlamp
-
-vs prior 6-day baseline: ↑ 64% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: 69.5K μlamp | Raydium: 349.3K μlamp | Orca: 359.5K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
