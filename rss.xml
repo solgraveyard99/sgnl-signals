@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-17T18:21:23.062Z</updated>
+  <updated>2026-09-17T18:26:23.061Z</updated>
+  <entry>
+    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
+    <link href="https://t.me/sgnl_free/23410"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23410</id>
+    <updated>2026-09-17T18:21:27.925Z</updated>
+    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
+
+24h inflow: 97.7K ETH (~3,052 new validators)
+USD value: $240.3M
+Rate: 2.7× 30-day baseline
+ETH price: $2460
+
+Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/23409"/>
@@ -755,21 +769,6 @@ GSR institutional market-maker
 Tx: https://etherscan.io/tx/0x7af7d0fab2bd4c0f2280322982ea51f965f50be39664c8ce3983105f3c3469cb
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/23360"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23360</id>
-    <updated>2026-09-17T14:18:51.651Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 2765 ETH ($6.8M)  →  Binance 14  0xeae738…
-📤 2201 ETH ($5.4M)  ←  Binance 18  0xf8191d…
-
-7d: $4790M in · $5019M out · net flow: outflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
