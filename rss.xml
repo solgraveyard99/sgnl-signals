@@ -5,7 +5,42 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-17T00:41:23.007Z</updated>
+  <updated>2026-09-17T00:46:23.009Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/23214"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23214</id>
+    <updated>2026-09-17T00:45:25.896Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0009 SOL
+• 99th: 0.0150 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/23213"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23213</id>
+    <updated>2026-09-17T00:43:45.342Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 3121 ETH ($7.6M)  →  Binance 14  0xeae738…
+📥 2629 ETH ($6.4M)  →  Binance 14  0xeae738…
+📤 2540 ETH ($6.1M)  ←  Binance 14  0xf8191d…
+
+7d: $4824M in · $5027M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/23212"/>
@@ -784,51 +819,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $4788M in · $4864M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-09-15</title>
-    <link href="https://t.me/sgnl_free/23164"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23164</id>
-    <updated>2026-09-16T18:01:05.041Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-15
-
-Yesterday&apos;s cohort: 33,521 launches
-  🟢 STRONG (score 8+): 591 (1.76%)
-  🟡 MIXED (score 5-7): 8,391 (25.03%)
-  🔴 WEAK  (score 0-4): 24,539 (73.20%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG WOJAKTYSON mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG BatonTrump mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG $SIRUS mcap=62 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG OURO mcap=998 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG PVE mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG $Nana mcap=103 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG $MSTONKS mcap=114 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG $MSTONKS mcap=114 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG CHILLGPT mcap=103 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG MEOWERO mcap=88 SOL [mcap60+,tg,tw,web,desc]
-
-✓grad = graduated to Raydium within 24h (476 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/23163"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23163</id>
-    <updated>2026-09-16T17:58:36.267Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1,097,059 USDT ($1.1M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 44198 moves in 7d · 44250 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xf3cd0660cd20de7aaf75fdbb90f67e356b2a69b498b60a3ea891f7ad9c9c42d4
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
