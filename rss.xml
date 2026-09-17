@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-17T11:21:23.041Z</updated>
+  <updated>2026-09-17T11:26:23.042Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/23320"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23320</id>
+    <updated>2026-09-17T11:23:50.998Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 22456 ETH ($54.7M)  →  Binance 15  Binance 14
+📤 17000 ETH ($41.4M)  ←  Binance 15  0x43b772…
+
+7d: $4846M in · $5039M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🆕 FRESH WALLET FUNDED</title>
+    <link href="https://t.me/sgnl_free/23319"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23319</id>
+    <updated>2026-09-17T11:21:34.561Z</updated>
+    <summary type="text">🆕 FRESH WALLET FUNDED
+
+Binance 15 → fresh wallet
+Wallet: 0x43b7…803b (2 prior txs)
+Amount: $41.36M ETH
+Tier: TIER3
+
+Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
+
+Statistical pattern. Not financial advice.
+
+Tx: https://etherscan.io/tx/0x66202988daaf394ca5952a1d6f3c40c6b9ea187fa4569eb374c83e6dc8bdb345
+Wallet: https://etherscan.io/address/0x43b772534a26710abf607bc0183c38862700803b</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/23318"/>
@@ -775,40 +809,5 @@ Tx: https://etherscan.io/tx/0xefdc0bc66c8b59f0872258d844039e11c29e61af4c1525d00f
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/23270"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23270</id>
-    <updated>2026-09-17T06:30:25.912Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0048 SOL
-• 99th: 0.0100 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/23269"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23269</id>
-    <updated>2026-09-17T06:21:21.215Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.049081161 gwei  ·  Safe: 0.048081161 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
