@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-17T02:56:23.016Z</updated>
+  <updated>2026-09-17T03:01:23.018Z</updated>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-09-16</title>
+    <link href="https://t.me/sgnl_free/23243"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23243</id>
+    <updated>2026-09-17T03:00:04.401Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-09-16
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/23242"/>
@@ -760,21 +781,6 @@ Market-maker wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 2852 moves in 7d · 2852 in 30d.
 Jump Trading — large altcoin flows
 Tx: https://etherscan.io/tx/0xbbf44714dd6a9ada9e504d0f9971d141906de9e521b73cee60e6d8d397ac02d2
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/23193"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23193</id>
-    <updated>2026-09-17T00:08:59.498Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 2,212,432 USDT ($2.2M) ← 0x3b98b9e9…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 2851 moves in 7d · 2851 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0xfa7080fdb3b0b1df4890c9803d4831edf9a08b698c07003908c3b2bb620f6170
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
