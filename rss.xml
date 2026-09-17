@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-17T13:46:23.048Z</updated>
+  <updated>2026-09-17T13:51:23.048Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/23354"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23354</id>
+    <updated>2026-09-17T13:48:51.557Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📤 1,000,561 USDT ($1.0M) → 0x8a0dd715…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 44096 moves in 7d · 44117 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xadf12072ae4c70ec8af5c6f84b0567052047a0175b15063e981d6d0a5e501a28
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/23353"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23353</id>
+    <updated>2026-09-17T13:48:35.918Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 5,349,128 USDT ($5.3M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 44088 moves in 7d · 44109 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xd959720f620ac94441312aa315c1ae4d3e7f5a123750e58e7e61ae70768274e8
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/23352"/>
@@ -736,45 +766,5 @@ Tx: https://etherscan.io/tx/0x1f12e71a4acc4c65122801a07b7876c8e2c928f74af0a2037d
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/23304"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23304</id>
-    <updated>2026-09-17T09:08:42.279Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 41.7M USDT ($41.7M)  →  Binance 17  Binance 14
-
-7d: $4886M in · $5054M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-09-16</title>
-    <link href="https://t.me/sgnl_free/23303"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23303</id>
-    <updated>2026-09-17T09:00:18.603Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-16
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 20
-Median peak spike (top 50): 5.2x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump XDOGE: 24.0x  vol1h=$1.07M  price1h +611.0%
-  🟢 pump CRYPTOTRUM: 24.0x  vol1h=$1.19M  price1h +557.0%
-  🟢 pump PAIDDOGE: 24.0x  vol1h=$995.2K  price1h +410.0%
-  🟢 pump casinu: 24.0x  vol1h=$366.2K  price1h +379.0%
-  🟢 pump ARCSOL: 24.0x  vol1h=$196.0K  price1h +361.0%
-  🟢 pump ELONIUS: 24.0x  vol1h=$736.6K  price1h +263.0%
-  🟢 pump ElonRWA: 24.0x  vol1h=$743.8K  price1h +261.0%
-  🟢 pump lockcat: 24.0x  vol1h=$490.1K  price1h +200.0%
-  🟢 pump CROWN: 24.0x  vol1h=$473.7K  price1h +123.0%
-  🟢 pump BOBY: 24.0x  vol1h=$64.8K  price1h +121.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
