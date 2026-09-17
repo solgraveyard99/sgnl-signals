@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-17T01:16:23.008Z</updated>
+  <updated>2026-09-17T01:21:23.011Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23219"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23219</id>
+    <updated>2026-09-17T01:19:06.908Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+x-0 (TW16..dum1)
+Vol/liquidity: 163x (threshold 50)
+24h: -93.5%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/23218"/>
@@ -805,21 +820,5 @@ Tx: https://etherscan.io/tx/0x286c47671415df4ca1f1a7456c0af3117bdc1bf5c7a6795294
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/23169"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23169</id>
-    <updated>2026-09-16T18:21:13.754Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.747615987 gwei  ·  Safe: 0.657288304 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
