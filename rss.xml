@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-17T11:06:23.041Z</updated>
+  <updated>2026-09-17T11:11:23.041Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/23318"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23318</id>
+    <updated>2026-09-17T11:08:59.746Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 2,800,000 USDT ($2.8M) → 0x5d32a5f6…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 31991 moves in 7d · 32040 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0x288bc6d56912d0e3ead798b5b50da42d22ac2a572e3c13db3005a64eb9100cdc
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 21.2% APY</title>
+    <link href="https://t.me/sgnl_free/23317"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23317</id>
+    <updated>2026-09-17T11:08:22.886Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 21.2% APY
+avantis / USDC on Base
+Base: 21.2%  ·  Rewards: n/a  ·  TVL: $10.0M
+
+💡 +14.2% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/23316"/>
@@ -778,48 +810,5 @@ Optimal time for routine tx:
 • Approve revocations
 
 Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/23268"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23268</id>
-    <updated>2026-09-17T06:07:40.338Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0000 SOL
-• 99th: 0.0951 SOL (~$10)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🪦 Pump.fun Daily Survival Report — 2026-09-16</title>
-    <link href="https://t.me/sgnl_free/23267"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23267</id>
-    <updated>2026-09-17T06:00:41.963Z</updated>
-    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-09-16
-
-Last 24h cohort: 8,812 launches
-  Graduated to Raydium: 521 (5.912%)
-  Timed out at 24h: 8,291 (94.088%)
-
-When tokens DO graduate, they graduate fast:
-  Median time-to-graduation: 1.5 min
-  Max observed today: 4.2 min
-  Graduations after 6 min: 0
-
-Cumulative since 2026-05-08 (129 days):
-  Cohort: 3,164,110
-  Total graduations: 22,538 (0.7123%)
-  Total timeouts: 3,141,572 (99.2877%)
-
-Source: Pump.fun on-chain + DexScreener
-Survival ≠ profitability. DYOR.</summary>
   </entry>
 </feed>
