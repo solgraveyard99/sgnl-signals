@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-18T11:56:23.110Z</updated>
+  <updated>2026-09-18T12:01:23.106Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-09-17</title>
+    <link href="https://t.me/sgnl_free/23574"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23574</id>
+    <updated>2026-09-18T12:00:03.120Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-17
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: 32.8K μlamp
+  P90:    218.5K μlamp
+  Max:    9.91M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): 16.4K μlamp
+  Medium (~5s):   32.8K μlamp
+  Fast (high probability): 218.5K μlamp
+
+vs prior 6-day baseline: ↓ 30% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: 32.8K μlamp | Raydium: 380.2K μlamp | Orca: 392.6K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/23573"/>
@@ -782,21 +808,6 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0xab1204eb8bb83a713be6b9dc58dd40b69fee643f7cd80dde16128ac72a0f01f6
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/23524"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23524</id>
-    <updated>2026-09-18T07:08:43.266Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 19.9M USDT ($19.9M)  →  Binance 14  0x13f12f…
-📥 2919 ETH ($7.3M)  →  Binance 14  0xeae738…
-
-7d: $4768M in · $4372M out · net flow: inflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
