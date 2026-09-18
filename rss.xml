@@ -5,7 +5,60 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-18T05:56:23.094Z</updated>
+  <updated>2026-09-18T06:01:23.093Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-09-17</title>
+    <link href="https://t.me/sgnl_free/23514"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23514</id>
+    <updated>2026-09-18T06:00:44.975Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-09-17
+
+Last 24h cohort: 440 launches
+  Graduated to Raydium: 440 (100.000%)
+  Timed out at 24h: 0 (0.000%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.5 min
+  Max observed today: 4.7 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (129 days):
+  Cohort: 3,185,852
+  Total graduations: 22,868 (0.7178%)
+  Total timeouts: 3,162,984 (99.2822%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Jump Trading</title>
+    <link href="https://t.me/sgnl_free/23513"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23513</id>
+    <updated>2026-09-18T05:58:59.153Z</updated>
+    <summary type="text">🧠 SMART MONEY · Jump Trading
+📤 1,101,524 USDT ($1.1M) → 0xc7d3c880…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 2750 moves in 7d · 2750 in 30d.
+Jump Trading — large altcoin flows
+Tx: https://etherscan.io/tx/0xc3bc7bbb469154adf9cba21686d32ac7fb3cb1c4ee366efe121350c032e16811
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/23512"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23512</id>
+    <updated>2026-09-18T05:58:43.506Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 10.0M USDT ($10.0M)  →  Binance 14  0x842641…
+
+7d: $4843M in · $4457M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/23511"/>
@@ -742,49 +795,5 @@ Vol/liquidity: 133x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/23464"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23464</id>
-    <updated>2026-09-18T02:08:59.637Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 5,446,910 USDT ($5.4M) → 0x5909842f…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 32215 moves in 7d · 32249 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x097877fbcd7df26d97d292f5631c7c61c262e069d8a06d56853e9fff9026da8e
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/23463"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23463</id>
-    <updated>2026-09-18T02:08:00.388Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-PIMSY (DuUb..pump)
-Vol/liquidity: 123x (threshold 50)
-24h: -64.8%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/23462"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23462</id>
-    <updated>2026-09-18T02:03:43.258Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 5.4M USDT ($5.4M)  ←  Binance 18  0x590984…
-
-7d: $4864M in · $4802M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
