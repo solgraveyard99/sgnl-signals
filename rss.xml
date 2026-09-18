@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-18T03:01:23.089Z</updated>
+  <updated>2026-09-18T03:06:23.089Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23480"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23480</id>
+    <updated>2026-09-18T03:03:03.843Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+Cover (8Ko3..pump)
+Vol/liquidity: 119x (threshold 50)
+24h: -70.1%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/23479"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23479</id>
+    <updated>2026-09-18T03:02:48.069Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-09-17
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): +$10.25 · 7 trades · WR 71%
+🐋 Solana Momentum: -331.52% · 5 trades · WR 0%
+
+📆 Last 7 days
+🚀 Futures: $72.38 · 61 trades · WR 44%
+⚙️ Other Strategy: +0.00% · 5 trades · WR 0%
+🐋 Solana Momentum: -1715.88% · 33 trades · WR 15%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $102.63 · 1259 trades · WR 52%
+🐋 Solana Momentum: -6166.47% · 882 trades · WR 34%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 64 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🍯 Solana Honeypot / Trap Watch — 2026-09-17</title>
     <link href="https://t.me/sgnl_free/23478"/>
@@ -744,38 +790,5 @@ Statistical pattern only. No accusation.
 7d: $4719M in · $4737M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/23430"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23430</id>
-    <updated>2026-09-18T00:03:12.613Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-Meme (CWxd..Xwk3)
-Vol/liquidity: 104x (threshold 50)
-24h: -94.7%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/23429"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23429</id>
-    <updated>2026-09-18T00:01:36.404Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Call — strike $2550 — expiry 27NOV26
-Direction: BUY
-Notional: ~$825K
-Contracts: 338
-Implied vol: 51.6%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
