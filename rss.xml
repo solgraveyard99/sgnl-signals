@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-18T02:06:23.086Z</updated>
+  <updated>2026-09-18T02:11:23.086Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/23464"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23464</id>
+    <updated>2026-09-18T02:08:59.637Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 5,446,910 USDT ($5.4M) → 0x5909842f…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 32215 moves in 7d · 32249 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0x097877fbcd7df26d97d292f5631c7c61c262e069d8a06d56853e9fff9026da8e
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23463"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23463</id>
+    <updated>2026-09-18T02:08:00.388Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+PIMSY (DuUb..pump)
+Vol/liquidity: 123x (threshold 50)
+24h: -64.8%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/23462"/>
@@ -785,33 +815,5 @@ Top 10 by buy momentum (buys × buy/sell ratio):
 Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
 Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🟢 STABLECOIN MINT · USDC</title>
-    <link href="https://t.me/sgnl_free/23414"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23414</id>
-    <updated>2026-09-17T19:51:12.095Z</updated>
-    <summary type="text">🟢 STABLECOIN MINT · USDC
-Supply change 24h: +$1415M
-New supply: $75.06B
-
-Net supply expansion event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/23413"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23413</id>
-    <updated>2026-09-17T19:08:59.740Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1,500,000 USDT ($1.5M) → 0xdca499ec…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 32306 moves in 7d · 32350 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x4506e5589e380206a8e46bf906e78cea38a99c946d17d2671da868304f8bbe32
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
