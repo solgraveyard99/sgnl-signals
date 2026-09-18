@@ -5,7 +5,54 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-18T20:06:23.128Z</updated>
+  <updated>2026-09-18T20:11:23.128Z</updated>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 18.9% APY</title>
+    <link href="https://t.me/sgnl_free/23702"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23702</id>
+    <updated>2026-09-18T20:08:38.459Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 18.9% APY
+ember-protocol / USDC on Ethereum
+Base: 18.9%  ·  Rewards: n/a  ·  TVL: $6.1M
+
+💡 +11.9% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/d85a7f5f-3624-4b6b-b3a7-eefb42b2a5e9</summary>
+  </entry>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 24.0% APY</title>
+    <link href="https://t.me/sgnl_free/23701"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23701</id>
+    <updated>2026-09-18T20:08:22.846Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 24.0% APY
+ember-protocol / USDC on Ethereum
+Base: 24.0%  ·  Rewards: n/a  ·  TVL: $17.4M
+
+💡 +17.0% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/4ae1f481-ae46-5a2c-82a2-13e192180594</summary>
+  </entry>
+  <entry>
+    <title>🟢 CEX BALANCE ACCUMULATION</title>
+    <link href="https://t.me/sgnl_free/23700"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23700</id>
+    <updated>2026-09-18T20:06:44.011Z</updated>
+    <summary type="text">🟢 CEX BALANCE ACCUMULATION
+Monitored reserves changed -100.00% in 24h
+Delta: $-20329M
+New total: $0.00B
+
+Capital leaving CEXs — withdrawals dominate deposits.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/23699"/>
@@ -721,51 +768,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $4835M in · $3719M out · net flow: inflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/23652"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23652</id>
-    <updated>2026-09-18T16:28:35.839Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 4188.00 ETH ($10.9M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 43725 moves in 7d · 43778 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xcf830e7cd515f340c01e402c5fd16e0b5d566ef785ad86dd5e5b4f766668b180
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/23651"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23651</id>
-    <updated>2026-09-18T16:18:35.716Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1459.00 ETH ($3.8M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 43774 moves in 7d · 43828 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xa70e35886520a2fe4423606eaebb373eaba1123617de7d2074ab1e7b58e36026
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/23650"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23650</id>
-    <updated>2026-09-18T16:09:12.217Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📥 14095.99 ETH ($36.4M) from Binance 14 (exchange withdrawal)
-Market-maker wallet · withdrawal from CEX Binance 14. Descriptive observation.
-Wallet activity: 32642 moves in 7d · 32642 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xdbcac3f22f37f7a0812bbb7b605ed11bd1adf82d2cbbfdedc6e510f0f7151db2
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
