@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-18T01:41:23.084Z</updated>
+  <updated>2026-09-18T01:46:23.082Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/23459"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23459</id>
+    <updated>2026-09-18T01:43:45.324Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 40.3M USDT ($40.3M)  →  Binance 16  Binance 14
+
+7d: $4861M in · $4802M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/23458"/>
@@ -799,21 +813,5 @@ Rate: 2.7× 30-day baseline
 ETH price: $2460
 
 Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/23409"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23409</id>
-    <updated>2026-09-17T18:21:12.242Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.125683559 gwei  ·  Safe: 0.124683559 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
