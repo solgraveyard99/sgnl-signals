@@ -5,7 +5,52 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-18T17:56:23.127Z</updated>
+  <updated>2026-09-18T18:01:23.123Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-09-17</title>
+    <link href="https://t.me/sgnl_free/23674"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23674</id>
+    <updated>2026-09-18T18:00:54.396Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-17
+
+Yesterday&apos;s cohort: 34,664 launches
+  🟢 STRONG (score 8+): 438 (1.26%)
+  🟡 MIXED (score 5-7): 11,983 (34.57%)
+  🔴 WEAK  (score 0-4): 22,243 (64.17%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG WIFDUKE mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG HEAD mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG TYSCOIN mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG TRANSPAID mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG $LOTTERY mcap=15179 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG XPAY mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG wangwifout mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG wangwifout mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG Chillcoin mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG SADD mcap=115 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (0 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/23673"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23673</id>
+    <updated>2026-09-18T17:58:37.949Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 1,001,885 USDT ($1.0M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 43660 moves in 7d · 43718 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x787aa530890d3231473ea71fcbb286d1e9f1ec3d526f57884ef4341bbef3e912
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/23672"/>
@@ -711,36 +756,6 @@ Market-maker wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 32635 moves in 7d · 32639 in 30d.
 GSR institutional market-maker
 Tx: https://etherscan.io/tx/0xc6f722d9381790a66d2b1d4c6403762058eae5217abfe4538247290aef210a92
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/23624"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23624</id>
-    <updated>2026-09-18T15:09:08.375Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 3,500,000 USDT ($3.5M) → 0xe92e6504…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 32634 moves in 7d · 32638 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xff66e90c5f7c0a1db94a536fe5d26b565c64757494a65c63bb964c39c2d69360
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/23623"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23623</id>
-    <updated>2026-09-18T15:09:07.717Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 541.66 ETH ($1.4M) → 0xed89da9d…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 2798 moves in 7d · 2804 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0x3afd70ce418886fd4e886cc822f66c0db4a4e7d464843cfaec4f71d00836c5e6
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
