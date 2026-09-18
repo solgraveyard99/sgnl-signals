@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-18T03:06:23.089Z</updated>
+  <updated>2026-09-18T03:11:23.090Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23481"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23481</id>
+    <updated>2026-09-18T03:08:01.398Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+PIMSY (DuUb..pump)
+Vol/liquidity: 126x (threshold 50)
+24h: -66.0%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/23480"/>
@@ -775,20 +790,5 @@ Vol/liquidity: 103x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/23431"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23431</id>
-    <updated>2026-09-18T00:03:41.805Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 DEPOSIT CLUSTER — 4 large deposits in 6h totaling $87M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
-
-📥 47.5M USDT ($47.5M)  →  Binance 18  Binance 14
-📤 10.0M USDT ($10.0M)  ←  Binance 18  0x2d880c…
-
-7d: $4719M in · $4737M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
