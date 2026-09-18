@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-18T19:06:23.134Z</updated>
+  <updated>2026-09-18T19:11:23.131Z</updated>
+  <entry>
+    <title>📊 4 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/23695"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23695</id>
+    <updated>2026-09-18T19:08:00.620Z</updated>
+    <summary type="text">📊 4 inflow-heavy observations detected
+Sample: 4 concurrent observations · $627M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 38 moves, $540M to exchanges
+• 🐋 Large deposit: $40M USDT → Binance 17
+• 🐋 Large deposit: $36M ETH → Binance 15
+• 🐋 Large deposit: $12M ETH → Binance 14
+
+Opposing flow: $204M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/23694"/>
@@ -748,20 +767,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $4836M in · $3729M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · SOL</title>
-    <link href="https://t.me/sgnl_free/23645"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23645</id>
-    <updated>2026-09-18T16:01:24.479Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
-Spread: 0.0147%/hr  (128.9% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0135%/hr)
-🔴 SHORT on MEXC  (funding 0.0013%/hr)
-
-Expected net: ~124% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
   </entry>
 </feed>
