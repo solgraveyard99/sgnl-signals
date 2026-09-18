@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-18T02:21:23.085Z</updated>
+  <updated>2026-09-18T02:26:23.088Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23469"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23469</id>
+    <updated>2026-09-18T02:23:08.870Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+STOPAI (B8pR..aM4M)
+Vol/liquidity: 133x (threshold 50)
+24h: -86.8%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/23468"/>
@@ -779,20 +794,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · SOL</title>
-    <link href="https://t.me/sgnl_free/23419"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23419</id>
-    <updated>2026-09-18T00:01:16.745Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
-Spread: 0.0031%/hr  (27.3% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0019%/hr)
-🔴 SHORT on MEXC  (funding 0.0013%/hr)
-
-Expected net: ~22% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
   </entry>
 </feed>
