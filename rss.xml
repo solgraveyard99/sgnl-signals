@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-19T17:36:23.188Z</updated>
+  <updated>2026-09-19T17:41:23.187Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/23862"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23862</id>
+    <updated>2026-09-19T17:38:35.982Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 3,532,428 USDT ($3.5M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 41782 moves in 7d · 41847 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x733c816bdc3e6151e3b16ab10ff441733b01133739d385295be54278ce7b92e0
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/23861"/>
@@ -784,39 +799,5 @@ Top 10 by peak spike ratio (volume1h / avg-hourly):
 Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
 Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-09-18</title>
-    <link href="https://t.me/sgnl_free/23812"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23812</id>
-    <updated>2026-09-19T09:00:03.267Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-09-18
-
-Top 5 whale-cluster events:
-• $540M → CEX | 38 wallets | 19:03Z
-• $530M → CEX | 37 wallets | 19:19Z
-• $508M → CEX | 38 wallets | 17:13Z
-• $507M → CEX | 38 wallets | 18:48Z
-• $502M → CEX | 37 wallets | 18:43Z
-
-Alerts fired (24h):
-• Wash trade: 1699
-• Whale-cluster←CEX: 72
-• Whale-cluster→CEX: 72
-• Coord launch: 30
-• Whale-large→CEX: 30
-• Whale-large←CEX: 11
-
-Historical base rates (last 7d, past events only):
-• Whale-cluster→CEX: 1/274 past events matched hypothesis (0%)
-• Whale-cluster←CEX: 104/215 past events matched hypothesis (48%)
-• Whale-large→CEX: 2/78 past events matched hypothesis (3%)
-• Whale-large←CEX: 12/64 past events matched hypothesis (19%)
-
-Base rates describe past outcomes. Not predictions. Not investment advice.
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
