@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-19T12:06:23.172Z</updated>
+  <updated>2026-09-19T12:11:23.169Z</updated>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 21.1% APY</title>
+    <link href="https://t.me/sgnl_free/23829"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23829</id>
+    <updated>2026-09-19T12:08:22.999Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 21.1% APY
+avantis / USDC on Base
+Base: 21.1%  ·  Rewards: n/a  ·  TVL: $10.0M
+
+💡 +14.1% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-09-18</title>
     <link href="https://t.me/sgnl_free/23828"/>
@@ -799,24 +817,5 @@ Tx: https://etherscan.io/tx/0xc270b407470d649dae86035774fb113222a5c09f9d4f91da0b
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/23779"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23779</id>
-    <updated>2026-09-19T04:53:28.491Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0002 SOL
-• 99th: 0.0115 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
