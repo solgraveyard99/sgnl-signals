@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-19T00:21:23.142Z</updated>
+  <updated>2026-09-19T00:26:23.137Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23730"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23730</id>
+    <updated>2026-09-19T00:23:04.152Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+Repaid (3qdZ..pump)
+Vol/liquidity: 289x (threshold 50)
+24h: -94.9%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/23729"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23729</id>
+    <updated>2026-09-19T00:21:27.870Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $82500 — expiry 21SEP26
+Direction: BUY
+Notional: ~$2431K
+Contracts: 30
+Implied vol: 30.9%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/23728"/>
@@ -779,37 +812,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 43683 moves in 7d · 43736 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0xb32f84bb0fcdc3873b0aab8d7fcca77aae5ff4fa4bc352c56b4edd0d55bbcb01
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/23680"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23680</id>
-    <updated>2026-09-18T18:21:24.983Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.335714928 gwei  ·  Safe: 0.325714927 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/23679"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23679</id>
-    <updated>2026-09-18T18:19:08.457Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 536.00 ETH ($1.4M) → 0x32d4703e…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 32724 moves in 7d · 32773 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xa1033d2b6a797c9215dc9874b9f78b96dd2a7419f8b4ae7a4be3273dcc474ea1
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
