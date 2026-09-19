@@ -5,7 +5,48 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-19T11:56:23.170Z</updated>
+  <updated>2026-09-19T12:01:23.170Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-09-18</title>
+    <link href="https://t.me/sgnl_free/23828"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23828</id>
+    <updated>2026-09-19T12:00:03.942Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-18
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: 23.5K μlamp
+  P90:    191.5K μlamp
+  Max:    733.98M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): 11.8K μlamp
+  Medium (~5s):   23.5K μlamp
+  Fast (high probability): 191.5K μlamp
+
+vs prior 6-day baseline: ↓ 52% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: 23.5K μlamp | Raydium: 281.8K μlamp | Orca: 336.3K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Jump Trading</title>
+    <link href="https://t.me/sgnl_free/23827"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23827</id>
+    <updated>2026-09-19T11:58:57.201Z</updated>
+    <summary type="text">🧠 SMART MONEY · Jump Trading
+📤 887.26 ETH ($2.3M) → 0xed89da9d…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 2854 moves in 7d · 2859 in 30d.
+Jump Trading — large altcoin flows
+Tx: https://etherscan.io/tx/0x70e413487349c68c54da11558290e38ac7edaa51c13fa1245433bbe9acc3af48
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/23826"/>
@@ -771,38 +812,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0000 SOL
 • 95th: 0.0002 SOL
 • 99th: 0.0115 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🟢 STABLECOIN MINT · USDC</title>
-    <link href="https://t.me/sgnl_free/23778"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23778</id>
-    <updated>2026-09-19T04:51:11.902Z</updated>
-    <summary type="text">🟢 STABLECOIN MINT · USDC
-Supply change 24h: +$514M
-New supply: $74.43B
-
-Net supply expansion event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/23777"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23777</id>
-    <updated>2026-09-19T04:45:26.596Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0300 SOL
-• 99th: 0.0300 SOL (~$3)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
