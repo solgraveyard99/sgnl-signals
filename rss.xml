@@ -5,7 +5,68 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-19T03:01:23.153Z</updated>
+  <updated>2026-09-19T03:06:23.152Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/23766"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23766</id>
+    <updated>2026-09-19T03:03:57.428Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 2134 ETH ($5.6M)  ←  Binance 19  0xf8191d…
+
+7d: $5032M in · $3628M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23765"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23765</id>
+    <updated>2026-09-19T03:03:01.546Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+FINN (AkbF..pump)
+Vol/liquidity: 140x (threshold 50)
+24h: -92.1%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/23764"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23764</id>
+    <updated>2026-09-19T03:03:01.183Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-09-18
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): +$40.31 · 7 trades · WR 100%
+⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
+🐋 Solana Momentum: -36.25% · 4 trades · WR 50%
+
+📆 Last 7 days
+🚀 Futures: +$25.30 · 59 trades · WR 53%
+⚙️ Other Strategy: +0.00% · 5 trades · WR 0%
+🐋 Solana Momentum: -1477.02% · 30 trades · WR 17%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $62.32 · 1266 trades · WR 52%
+🐋 Solana Momentum: -6202.72% · 886 trades · WR 34%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 65 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🍯 Solana Honeypot / Trap Watch — 2026-09-18</title>
     <link href="https://t.me/sgnl_free/23763"/>
@@ -754,58 +815,6 @@ Statistical pattern. Not financial advice.</summary>
 📤 2130 ETH ($5.6M)  ←  Binance 15  0xedc700…
 
 7d: $4919M in · $3654M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/23716"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23716</id>
-    <updated>2026-09-19T00:07:59.641Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-ATOM (5iSD..pump)
-Vol/liquidity: 139x (threshold 50)
-24h: -94.2%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/23715"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23715</id>
-    <updated>2026-09-19T00:06:40.053Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $78000 — expiry 25SEP26
-Direction: SELL
-Notional: ~$1051K
-Contracts: 13
-Implied vol: 32.7%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 12 large moves</title>
-    <link href="https://t.me/sgnl_free/23714"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23714</id>
-    <updated>2026-09-19T00:03:43.334Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 12 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 14266 ETH ($37.2M)  →  Binance 19  Binance 14
-📤 12840 ETH ($33.5M)  ←  Binance 14  Binance 16
-📥 12350 ETH ($32.2M)  →  Binance 18  Binance 14
-📥 4180 ETH ($10.9M)  →  Binance 14  0x9a21cf…
-📥 3957 ETH ($10.3M)  →  Binance 14  0xeae738…
-…and 7 more
-
-7d: $4822M in · $3582M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
   </entry>
