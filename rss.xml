@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-19T02:31:23.143Z</updated>
+  <updated>2026-09-19T02:36:23.143Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/23757"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23757</id>
+    <updated>2026-09-19T02:33:42.841Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 2972 ETH ($7.8M)  →  Binance 14  0xeae738…
+📤 2126 ETH ($5.6M)  ←  Binance 14  0xedc700…
+
+7d: $5024M in · $3664M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23756"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23756</id>
+    <updated>2026-09-19T02:32:44.161Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+KMS (HbNy..pump)
+Vol/liquidity: 259x (threshold 50)
+24h: -97.0%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/23755"/>
@@ -762,42 +792,6 @@ Direction: BUY
 Notional: ~$1054K
 Contracts: 13
 Implied vol: 37.4%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/23707"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23707</id>
-    <updated>2026-09-19T00:01:41.000Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $80000 — expiry 30OCT26
-Direction: SELL
-Notional: ~$567K
-Contracts: 7
-Implied vol: 34.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/23706"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23706</id>
-    <updated>2026-09-19T00:01:25.265Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $77500 — expiry 19SEP26
-Direction: BUY
-Notional: ~$2427K
-Contracts: 30
-Implied vol: 64.7%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
