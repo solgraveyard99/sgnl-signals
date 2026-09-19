@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-19T02:01:23.143Z</updated>
+  <updated>2026-09-19T02:06:23.141Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23751"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23751</id>
+    <updated>2026-09-19T02:02:59.862Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+GUMBUS (692M..pump)
+Vol/liquidity: 805x (threshold 50)
+24h: -97.5%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/23750"/>
@@ -813,22 +828,5 @@ Base: 18.9%  ·  Rewards: n/a  ·  TVL: $6.1M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/d85a7f5f-3624-4b6b-b3a7-eefb42b2a5e9</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 24.0% APY</title>
-    <link href="https://t.me/sgnl_free/23701"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23701</id>
-    <updated>2026-09-18T20:08:22.846Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 24.0% APY
-ember-protocol / USDC on Ethereum
-Base: 24.0%  ·  Rewards: n/a  ·  TVL: $17.4M
-
-💡 +17.0% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/4ae1f481-ae46-5a2c-82a2-13e192180594</summary>
   </entry>
 </feed>
