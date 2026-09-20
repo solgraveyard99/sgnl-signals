@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-20T00:21:23.210Z</updated>
+  <updated>2026-09-20T00:26:23.207Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23894"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23894</id>
+    <updated>2026-09-20T00:23:04.529Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+HUNG (Exjk..qQvL)
+Vol/liquidity: 105x (threshold 50)
+24h: -88.8%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/23893"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23893</id>
+    <updated>2026-09-20T00:21:28.359Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $88000 — expiry 2OCT26
+Direction: SELL
+Notional: ~$1730K
+Contracts: 21.3
+Implied vol: 38.4%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/23892"/>
@@ -794,40 +827,6 @@ Statistical pattern. Not financial advice.
 Composite score: 80/100
 
 Raw composite reading. No directional interpretation.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/23844"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23844</id>
-    <updated>2026-09-19T13:57:31.923Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0011 SOL
-• 99th: 0.0113 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/23843"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23843</id>
-    <updated>2026-09-19T13:39:09.363Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 400.00 ETH ($1.1M) → 0xd59d7a96…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 32968 moves in 7d · 33012 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x0b05eb73262ce4c44219be587094bbc63225508fd75658d2c39b8196a55d0779
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
