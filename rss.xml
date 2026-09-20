@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-20T01:16:23.212Z</updated>
+  <updated>2026-09-20T01:21:23.210Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/23908"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23908</id>
+    <updated>2026-09-20T01:18:28.883Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0022 SOL
+• 99th: 0.0307 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23907"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23907</id>
+    <updated>2026-09-20T01:18:13.206Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+TWIPPED (7LXa..pump)
+Vol/liquidity: 155x (threshold 50)
+24h: -91.3%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/23906"/>
@@ -809,32 +843,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $5106M in · $3575M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/23858"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23858</id>
-    <updated>2026-09-19T17:13:43.906Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 2444 ETH ($6.5M)  ←  Binance 19  0xf8191d…
-📥 2326 ETH ($6.2M)  →  Binance 14  0xeae738…
-
-7d: $5099M in · $3568M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>☀️ SGNL Midday Check-in</title>
-    <link href="https://t.me/sgnl_free/23857"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23857</id>
-    <updated>2026-09-19T17:00:21.948Z</updated>
-    <summary type="text">☀️ SGNL Midday Check-in
-BTC: $81,856 | SOL: $111.77
-Market mood: 80/100 🟢 BULLISH
-Scanned ? tokens · Entered 0 trades today
-
-Stay sharp. Full signals in SGNL VIP 👆</summary>
   </entry>
 </feed>
