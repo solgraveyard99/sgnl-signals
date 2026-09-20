@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-20T02:26:23.212Z</updated>
+  <updated>2026-09-20T02:31:23.214Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · Jump Trading</title>
+    <link href="https://t.me/sgnl_free/23925"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23925</id>
+    <updated>2026-09-20T02:29:06.134Z</updated>
+    <summary type="text">🧠 SMART MONEY · Jump Trading
+📥 1,187,972 USDT ($1.2M) ← 0x1ab4973a…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 2922 moves in 7d · 2924 in 30d.
+Jump Trading — large altcoin flows
+Tx: https://etherscan.io/tx/0x29b88f5899642975c7abd552b4fc1233813e48f4a07115517f5cee0cc066558d
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23924"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23924</id>
+    <updated>2026-09-20T02:28:09.268Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+tek (3WcP..D6Mp)
+Vol/liquidity: 105x (threshold 50)
+24h: -93.2%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/23923"/>
@@ -791,59 +821,5 @@ Solana activity: ACTIVE
 
 Tomorrow&apos;s outlook: Range-bound tomorrow
 See you at 8AM for the morning brief ☕</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-19</title>
-    <link href="https://t.me/sgnl_free/23875"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23875</id>
-    <updated>2026-09-20T00:00:08.037Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-19
-
-24h state transitions tracked: 252
-  💀 Died (gone): 140
-  😴 Went dormant: 59
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-09-18</title>
-    <link href="https://t.me/sgnl_free/23874"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23874</id>
-    <updated>2026-09-19T21:00:03.763Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-18
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 34
-Strong-bias tokens (buy/sell ≥3x): 15
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 CALLCAT: 16099 buys / 1916 sells (8.4x)  vol1h=$545.1K  price1h +105%
-  📈 XCHAN: 18711 buys / 2862 sells (6.5x)  vol1h=$720.1K  price1h +325%
-  📈 黃阿瑪: 17809 buys / 3410 sells (5.2x)  vol1h=$769.5K  price1h +159%
-  📈 KMS: 9696 buys / 1358 sells (7.1x)  vol1h=$638.5K  price1h +102%
-  📈 BabyCorn: 12399 buys / 3199 sells (3.9x)  vol1h=$441.8K  price1h -44%
-  📈 LTC: 4556 buys / 506 sells (9.0x)  vol1h=$160.9K  price1h +82%
-  📈 Norman: 13813 buys / 5341 sells (2.6x)  vol1h=$844.3K  price1h +150%
-  📈 MOONSHOT: 12871 buys / 5343 sells (2.4x)  vol1h=$1.15M  price1h +398%
-  📈 pogg: 4181 buys / 567 sells (7.4x)  vol1h=$151.3K  price1h +86%
-  📈 XDOG: 7150 buys / 2234 sells (3.2x)  vol1h=$408.3K  price1h +16%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
