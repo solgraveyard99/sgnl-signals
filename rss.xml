@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-20T02:16:23.214Z</updated>
+  <updated>2026-09-20T02:21:23.212Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23922"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23922</id>
+    <updated>2026-09-20T02:18:13.493Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+tek (3WcP..D6Mp)
+Vol/liquidity: 105x (threshold 50)
+24h: -93.2%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/23921"/>
@@ -832,17 +847,5 @@ Base: 24.0%  ·  Rewards: n/a  ·  TVL: $17.4M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/4ae1f481-ae46-5a2c-82a2-13e192180594</summary>
-  </entry>
-  <entry>
-    <title>🟢 CEX BALANCE ACCUMULATION</title>
-    <link href="https://t.me/sgnl_free/23872"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23872</id>
-    <updated>2026-09-19T20:06:57.526Z</updated>
-    <summary type="text">🟢 CEX BALANCE ACCUMULATION
-Monitored reserves changed -100.00% in 24h
-Delta: $-20703M
-New total: $0.00B
-
-Capital leaving CEXs — withdrawals dominate deposits.</summary>
   </entry>
 </feed>
