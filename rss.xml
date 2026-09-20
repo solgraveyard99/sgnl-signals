@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-20T00:36:23.209Z</updated>
+  <updated>2026-09-20T00:41:23.208Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/23901"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23901</id>
+    <updated>2026-09-20T00:36:36.893Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $82000 — expiry 2OCT26
+Direction: SELL
+Notional: ~$1219K
+Contracts: 15
+Implied vol: 34.7%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/23900"/>
@@ -818,19 +836,5 @@ Bias score: +0
 • 🐋 Whale withdrawal cluster: 4 moves, $39M off exchanges
 
 Updated every 4h · SGNL signal aggregator</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/23851"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23851</id>
-    <updated>2026-09-19T15:28:53.189Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 2918 ETH ($7.7M)  →  Binance 14  0xeae738…
-
-7d: $5063M in · $3590M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
