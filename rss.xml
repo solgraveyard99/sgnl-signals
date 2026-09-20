@@ -5,7 +5,124 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-20T00:01:23.209Z</updated>
+  <updated>2026-09-20T00:06:23.209Z</updated>
+  <entry>
+    <title>📊 Week in Review · ending 2026-09-20</title>
+    <link href="https://t.me/sgnl_free/23882"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23882</id>
+    <updated>2026-09-20T00:06:12.678Z</updated>
+    <summary type="text">📊 Week in Review · ending 2026-09-20
+
+🐋 Whale Flows (7d)
+582 large moves
+Net CEX flow (7d): $-1557M (positive = withdrawn from CEXs)
+Biggest withdrawal: $54M USDT from Binance 14
+
+⚡ Perp Funding Regime
+BTC avg: 0.0010%/hr (~9% APR)
+ETH avg: 0.0010%/hr (~9% APR)
+SOL avg: 0.0008%/hr (~7% APR)
+
+💰 Best Yields Right Now
+Stables: 24.0% — ember-protocol/USDC @ Ethereum
+ETH/LST: 6.2% — fusion-by-ipor/STETH @ Ethereum
+
+📅 Events That Hit This Week
+• FOMC Rate Decision + SEP Update
+
+🔭 Week Ahead
+Quiet calendar — no major events tracked
+
+Not financial advice · SGNL weekly recap</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23881"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23881</id>
+    <updated>2026-09-20T00:03:00.681Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+ZOE (CauB..Ppja)
+Vol/liquidity: 107x (threshold 50)
+24h: -79.0%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/23880"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23880</id>
+    <updated>2026-09-20T00:01:41.976Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0003 SOL
+• 99th: 0.0102 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/23879"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23879</id>
+    <updated>2026-09-20T00:01:41.567Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Put — strike $1600 — expiry 30OCT26
+Direction: BUY
+Notional: ~$1139K
+Contracts: 433
+Implied vol: 71.8%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/23878"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23878</id>
+    <updated>2026-09-20T00:01:40.886Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $80500 — expiry 21SEP26
+Direction: BUY
+Notional: ~$1616K
+Contracts: 19.9
+Implied vol: 20.7%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/23877"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23877</id>
+    <updated>2026-09-20T00:01:25.261Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $83000 — expiry 22SEP26
+Direction: SELL
+Notional: ~$658K
+Contracts: 8.1
+Implied vol: 34.4%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>🌙 SGNL Evening Wrap</title>
     <link href="https://t.me/sgnl_free/23876"/>
@@ -713,111 +830,6 @@ Market-maker wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 33008 moves in 7d · 33062 in 30d.
 GSR institutional market-maker
 Tx: https://etherscan.io/tx/0x8907d6d2c2139e0c12a88ae279b0d6ee589703627da91c54b1a32a51535cad71
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/23832"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23832</id>
-    <updated>2026-09-19T12:21:14.630Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.11073611 gwei  ·  Safe: 0.100535858 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/23831"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23831</id>
-    <updated>2026-09-19T12:18:58.193Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 1,340,721 USDT ($1.3M) → 0xd6b38bea…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 2860 moves in 7d · 2860 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0xcc5a9127d2ab3f30d19aed3e8a7edb467bde14f49ce3d70a32a4ef3f45a0589a
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/23830"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23830</id>
-    <updated>2026-09-19T12:18:42.564Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 599.01 ETH ($1.6M) ← 0xf39335da…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 42156 moves in 7d · 42213 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x0ec97965a5aabc839ea9018716c02d32bfc78c139b9e65d27dea237f624891f3
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 21.1% APY</title>
-    <link href="https://t.me/sgnl_free/23829"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23829</id>
-    <updated>2026-09-19T12:08:22.999Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 21.1% APY
-avantis / USDC on Base
-Base: 21.1%  ·  Rewards: n/a  ·  TVL: $10.0M
-
-💡 +14.1% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-09-18</title>
-    <link href="https://t.me/sgnl_free/23828"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23828</id>
-    <updated>2026-09-19T12:00:03.942Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-18
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: 23.5K μlamp
-  P90:    191.5K μlamp
-  Max:    733.98M μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): 11.8K μlamp
-  Medium (~5s):   23.5K μlamp
-  Fast (high probability): 191.5K μlamp
-
-vs prior 6-day baseline: ↓ 52% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: 23.5K μlamp | Raydium: 281.8K μlamp | Orca: 336.3K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/23827"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23827</id>
-    <updated>2026-09-19T11:58:57.201Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 887.26 ETH ($2.3M) → 0xed89da9d…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 2854 moves in 7d · 2859 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0x70e413487349c68c54da11558290e38ac7edaa51c13fa1245433bbe9acc3af48
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
