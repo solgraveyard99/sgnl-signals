@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-20T02:21:23.212Z</updated>
+  <updated>2026-09-20T02:26:23.212Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23923"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23923</id>
+    <updated>2026-09-20T02:23:10.970Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+PHILANDOG (Ad88..pump)
+Vol/liquidity: 107x (threshold 50)
+24h: -91.4%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/23922"/>
@@ -830,22 +845,5 @@ Top 10 by buy momentum (buys × buy/sell ratio):
 Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
 Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 24.0% APY</title>
-    <link href="https://t.me/sgnl_free/23873"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23873</id>
-    <updated>2026-09-19T20:08:33.755Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 24.0% APY
-ember-protocol / USDC on Ethereum
-Base: 24.0%  ·  Rewards: n/a  ·  TVL: $17.4M
-
-💡 +17.0% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/4ae1f481-ae46-5a2c-82a2-13e192180594</summary>
   </entry>
 </feed>
