@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-20T03:06:23.217Z</updated>
+  <updated>2026-09-20T03:11:23.216Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/23933"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23933</id>
+    <updated>2026-09-20T03:08:01.258Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+tek (3WcP..D6Mp)
+Vol/liquidity: 108x (threshold 50)
+24h: -93.3%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/23932"/>
@@ -811,20 +826,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $5129M in · $3572M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/23883"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23883</id>
-    <updated>2026-09-20T00:08:00.515Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-TWIPPED (7LXa..pump)
-Vol/liquidity: 141x (threshold 50)
-24h: -90.2%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
