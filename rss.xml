@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-20T05:21:23.226Z</updated>
+  <updated>2026-09-20T05:26:23.224Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/23945"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23945</id>
+    <updated>2026-09-20T05:23:50.390Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 2689 ETH ($6.9M)  ←  Binance 18  0xf8191d…
+
+7d: $5197M in · $3730M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/23944"/>
@@ -816,23 +830,5 @@ Vol/liquidity: 152x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/23895"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23895</id>
-    <updated>2026-09-20T00:26:25.283Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $2620 — expiry 20SEP26
-Direction: SELL
-Notional: ~$544K
-Contracts: 207
-Implied vol: 20.7%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
