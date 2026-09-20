@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-20T02:56:23.218Z</updated>
+  <updated>2026-09-20T03:01:23.216Z</updated>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-09-19</title>
+    <link href="https://t.me/sgnl_free/23930"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23930</id>
+    <updated>2026-09-20T03:00:11.970Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-09-19
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 1
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 1
+
+Top 1 suspicious patterns yesterday:
+  ⚠ HONEYPOT? Internet: 5823:47 buys:sells  vol1h=$4.6K  liq=$57.9K  price1h +26%
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/23929"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-23929</id>
+    <updated>2026-09-20T02:58:35.806Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 4654.01 ETH ($12.0M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 41317 moves in 7d · 41371 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xf7e176db5bb8794ea1363fba0b436cf632cffb0d114dd2caddd67fb86d882978
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/23928"/>
@@ -788,42 +824,5 @@ Vol/liquidity: 107x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/23880"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23880</id>
-    <updated>2026-09-20T00:01:41.976Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0003 SOL
-• 99th: 0.0102 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/23879"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-23879</id>
-    <updated>2026-09-20T00:01:41.567Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $1600 — expiry 30OCT26
-Direction: BUY
-Notional: ~$1139K
-Contracts: 433
-Implied vol: 71.8%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
