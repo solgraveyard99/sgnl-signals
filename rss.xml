@@ -5,7 +5,35 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-21T13:31:23.319Z</updated>
+  <updated>2026-09-21T13:36:23.321Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/24230"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24230</id>
+    <updated>2026-09-21T13:36:12.370Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.989826837 gwei (fast)  ·  🟢 cheap
+Safe: 0.789826838  ·  Propose: 0.799826837  ·  BaseFee: 0.7898
+
+24h range: 0.05–1.32 gwei  (avg 0.24)
+
+Simple transfer cost now: ~$0.0520</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/24229"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24229</id>
+    <updated>2026-09-21T13:33:43.597Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 2713 ETH ($7.4M)  ←  Binance 17  0x51c728…
+
+7d: $5776M in · $3819M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/24228"/>
@@ -752,40 +780,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 39364 moves in 7d · 39369 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0xf53f624624299b24f5663b8b94b02d8235feaf659fd028a1409788a0b703c41d
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/24180"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24180</id>
-    <updated>2026-09-21T09:41:35.235Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 15 → fresh wallet
-Wallet: 0x51c7…2a7f (1 prior txs)
-Amount: $3.51M USDT
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x5e19e4989890f8a4439fc6bc4c510e48a29748acf499c5ade4e882afc50863e1
-Wallet: https://etherscan.io/address/0x51c72848c68a965f66fa7a88855f9f7784502a7f</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/24179"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24179</id>
-    <updated>2026-09-21T09:39:13.136Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 1,469,895 USDT ($1.5M) from Binance 14 (withdrawal)
-Market-maker wallet · withdrawal from CEX Binance 14. Descriptive observation.
-Wallet activity: 3013 moves in 7d · 3013 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0x8431e6f0bb2ab125d9d0635d5145418ecd20aab589c4af514084098128397dac
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
