@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-21T17:56:23.338Z</updated>
+  <updated>2026-09-21T18:01:23.344Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-09-20</title>
+    <link href="https://t.me/sgnl_free/24305"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24305</id>
+    <updated>2026-09-21T18:01:22.225Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-20
+
+Yesterday&apos;s cohort: 29,290 launches
+  🟢 STRONG (score 8+): 447 (1.53%)
+  🟡 MIXED (score 5-7): 8,820 (30.11%)
+  🔴 WEAK  (score 0-4): 20,023 (68.36%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG FEELSBAD mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG FeelsWif mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG BURP mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG FEELS mcap=99 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG OUCH mcap=998 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG PHILANTRUMP mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG FOLKCAT mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG PUMPPEPE mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG OnlyCats mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG OnlyCats mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+
+✓grad = graduated to Raydium within 24h (570 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/24304"/>
@@ -732,20 +762,6 @@ Jump Trading — large altcoin flows
 Tx: https://etherscan.io/tx/0x2f7c9c4657401725c1f1d811b8c15c34bb20066abd6a267c620cc87e3ce562ce
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/24255"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24255</id>
-    <updated>2026-09-21T15:28:45.286Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 2035 ETH ($5.6M)  ←  Binance 15  0xedc700…
-
-7d: $5848M in · $3858M out · net flow: inflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
