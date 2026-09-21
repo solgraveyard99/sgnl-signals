@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-21T20:56:23.352Z</updated>
+  <updated>2026-09-21T21:01:23.348Z</updated>
+  <entry>
+    <title>📈 Solana Buy Momentum Digest — 2026-09-20</title>
+    <link href="https://t.me/sgnl_free/24328"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24328</id>
+    <updated>2026-09-21T21:00:03.755Z</updated>
+    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-20
+
+Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 32
+Strong-bias tokens (buy/sell ≥3x): 17
+
+Top 10 by buy momentum (buys × buy/sell ratio):
+  📈 JEANTRUMP: 18448 buys / 2616 sells (7.1x)  vol1h=$592.7K  price1h +124%
+  📈 bullcoin: 24671 buys / 9319 sells (2.6x)  vol1h=$37.5K  price1h +32%
+  📈 JEANSEM: 8379 buys / 1086 sells (7.7x)  vol1h=$324.0K  price1h +72%
+  📈 dogwifclai: 13548 buys / 3235 sells (4.2x)  vol1h=$754.9K  price1h +60%
+  📈 JEAN: 8412 buys / 1326 sells (6.3x)  vol1h=$267.9K  price1h -63%
+  📈 DogWifTipp: 13399 buys / 4160 sells (3.2x)  vol1h=$536.0K  price1h -1%
+  📈 discat: 12657 buys / 3822 sells (3.3x)  vol1h=$710.2K  price1h +89%
+  📈 XPAY: 12796 buys / 4287 sells (3.0x)  vol1h=$757.4K  price1h +171%
+  📈 OnlyCats: 12489 buys / 4554 sells (2.7x)  vol1h=$782.4K  price1h +84%
+  📈 TIKCAT: 7755 buys / 1782 sells (4.4x)  vol1h=$413.9K  price1h +0%
+
+Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
+Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🟢 CEX BALANCE ACCUMULATION</title>
     <link href="https://t.me/sgnl_free/24327"/>
@@ -743,21 +769,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $6005M in · $3848M out · net flow: inflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/24278"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24278</id>
-    <updated>2026-09-21T16:38:40.610Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 764.00 ETH ($2.1M) → 0x51c72848…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 39163 moves in 7d · 39235 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x11e0b7912d1de62d763e54291980d7645fc107d97606252e69992895f20a85ff
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
