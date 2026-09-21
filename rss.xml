@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-21T20:06:23.345Z</updated>
+  <updated>2026-09-21T20:11:23.348Z</updated>
+  <entry>
+    <title>🟢 CEX BALANCE ACCUMULATION</title>
+    <link href="https://t.me/sgnl_free/24327"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24327</id>
+    <updated>2026-09-21T20:06:47.371Z</updated>
+    <summary type="text">🟢 CEX BALANCE ACCUMULATION
+Monitored reserves changed -100.00% in 24h
+Delta: $-20639M
+New total: $0.00B
+
+Capital leaving CEXs — withdrawals dominate deposits.</summary>
+  </entry>
   <entry>
     <title>⚪ Market Posture · neutral</title>
     <link href="https://t.me/sgnl_free/24326"/>
@@ -746,20 +758,6 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x11e0b7912d1de62d763e54291980d7645fc107d97606252e69992895f20a85ff
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/24277"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24277</id>
-    <updated>2026-09-21T16:33:42.755Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 2000 ETH ($5.5M)  ←  Binance 16  0xed0c60…
-
-7d: $6005M in · $3848M out · net flow: inflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
