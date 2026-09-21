@@ -5,7 +5,42 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-21T02:21:23.285Z</updated>
+  <updated>2026-09-21T02:26:23.284Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/24094"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24094</id>
+    <updated>2026-09-21T02:23:03.844Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+INU (sdyK..pump)
+Vol/liquidity: 130x (threshold 50)
+24h: -70.8%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>📊 5 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/24093"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24093</id>
+    <updated>2026-09-21T02:22:48.115Z</updated>
+    <summary type="text">📊 5 inflow-heavy observations detected
+Sample: 5 concurrent observations · $368M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 9 moves, $227M to exchanges
+• 🐋 Large deposit: $45M USDT → Binance 16
+• 🐋 Large deposit: $42M ETH → Binance 15
+• 🐋 Large deposit: $40M USDT → Binance 15
+• 🐋 Large deposit: $15M ETH → Binance 14
+
+Opposing flow: $110M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/24092"/>
@@ -740,38 +775,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/24044"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24044</id>
-    <updated>2026-09-21T00:03:01.558Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-DogWifTipped (CACh..pump)
-Vol/liquidity: 237x (threshold 50)
-24h: -96.7%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/24043"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24043</id>
-    <updated>2026-09-21T00:01:44.390Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $80000 — expiry 25SEP26
-Direction: BUY
-Notional: ~$1380K
-Contracts: 17
-Implied vol: 37.0%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
