@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-21T19:56:23.344Z</updated>
+  <updated>2026-09-21T20:01:23.344Z</updated>
+  <entry>
+    <title>⚪ Market Posture · neutral</title>
+    <link href="https://t.me/sgnl_free/24326"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24326</id>
+    <updated>2026-09-21T19:57:48.449Z</updated>
+    <summary type="text">⚪ Market Posture · neutral
+Bias score: +0
+
+5 active signals (top 5 by size):
+• 🐋 Whale deposit cluster: 25 moves, $405M to exchanges
+• 🐋 Whale withdrawal cluster: 25 moves, $302M off exchanges
+• 🐋 Large deposit: $42M USDT → Binance 16
+• 🐋 Large withdrawal: $39M ETH ← Binance 14
+• 🔀 Cross-venue funding divergence: SOL 29% APR spread
+
+Updated every 4h · SGNL signal aggregator</summary>
+  </entry>
   <entry>
     <title>🟢 STABLECOIN MINT · USDC</title>
     <link href="https://t.me/sgnl_free/24325"/>
@@ -743,21 +760,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $6005M in · $3848M out · net flow: inflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/24276"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24276</id>
-    <updated>2026-09-21T16:29:05.554Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 1,147,338 USDT ($1.1M) ← 0x1ab4973a…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 3046 moves in 7d · 3046 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0x15dfdb131c856309e7b6625192227603f2b7e80072df06b2526d5be57d85f5d5
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
