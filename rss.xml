@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-21T09:06:23.302Z</updated>
+  <updated>2026-09-21T09:11:23.307Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/24172"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24172</id>
+    <updated>2026-09-21T09:09:04.659Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 1,344,197 USDT ($1.3M) → 0xf8191d98…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 33682 moves in 7d · 33682 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0x2516058975338f9b0ef1822abf874a87c12b7dee799fa6092aa718b4a055c42f
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/24171"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24171</id>
+    <updated>2026-09-21T09:07:27.435Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0030 SOL
+• 99th: 0.0160 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/24170"/>
@@ -772,43 +806,5 @@ Top observations (by size):
 Opposing flow: $52M (filtered — minority)
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/24122"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24122</id>
-    <updated>2026-09-21T06:03:48.225Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 40.8M USDT ($40.8M)  →  Binance 17  Binance 14
-
-7d: $5146M in · $3842M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Pump.fun Daily Survival Report — 2026-09-20</title>
-    <link href="https://t.me/sgnl_free/24121"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24121</id>
-    <updated>2026-09-21T06:00:51.434Z</updated>
-    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-09-20
-
-Last 24h cohort: 7,037 launches
-  Graduated to Raydium: 570 (8.100%)
-  Timed out at 24h: 6,467 (91.900%)
-
-When tokens DO graduate, they graduate fast:
-  Median time-to-graduation: 1.6 min
-  Max observed today: 4.0 min
-  Graduations after 6 min: 0
-
-Cumulative since 2026-05-08 (133 days):
-  Cohort: 3,247,474
-  Total graduations: 23,747 (0.7312%)
-  Total timeouts: 3,223,727 (99.2688%)
-
-Source: Pump.fun on-chain + DexScreener
-Survival ≠ profitability. DYOR.</summary>
   </entry>
 </feed>
