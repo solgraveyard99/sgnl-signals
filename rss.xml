@@ -5,7 +5,38 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-21T13:06:23.324Z</updated>
+  <updated>2026-09-21T13:11:23.318Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/24222"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24222</id>
+    <updated>2026-09-21T13:08:42.954Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 14011 ETH ($38.3M)  ←  Binance 14  Binance 19
+
+7d: $5778M in · $3815M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 20.9% APY</title>
+    <link href="https://t.me/sgnl_free/24221"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24221</id>
+    <updated>2026-09-21T13:08:22.794Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 20.9% APY
+avantis / USDC on Base
+Base: 20.9%  ·  Rewards: n/a  ·  TVL: $10.0M
+
+💡 +13.9% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Jump Trading</title>
     <link href="https://t.me/sgnl_free/24220"/>
@@ -756,39 +787,5 @@ Tx: https://etherscan.io/tx/0x7f42811505972282583ead5f685571ba9c9bfa6681a22b5f58
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/24172"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24172</id>
-    <updated>2026-09-21T09:09:04.659Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1,344,197 USDT ($1.3M) → 0xf8191d98…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 33682 moves in 7d · 33682 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x2516058975338f9b0ef1822abf874a87c12b7dee799fa6092aa718b4a055c42f
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/24171"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24171</id>
-    <updated>2026-09-21T09:07:27.435Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0030 SOL
-• 99th: 0.0160 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
