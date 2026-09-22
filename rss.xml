@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-22T03:26:23.372Z</updated>
+  <updated>2026-09-22T03:31:23.370Z</updated>
+  <entry>
+    <title>📊 3 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/24396"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24396</id>
+    <updated>2026-09-22T03:27:48.049Z</updated>
+    <summary type="text">📊 3 inflow-heavy observations detected
+Sample: 3 concurrent observations · $221M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 9 moves, $167M to exchanges
+• 🐋 Large deposit: $40M USDT → Binance 18
+• 🐋 Large deposit: $13M ETH → Binance 14
+
+Opposing flow: $69M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/24395"/>
@@ -794,20 +812,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/24346"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24346</id>
-    <updated>2026-09-22T00:13:02.488Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-RUNE (ExgY..hovp)
-Vol/liquidity: 110x (threshold 50)
-24h: -91.1%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
