@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-22T00:11:23.361Z</updated>
+  <updated>2026-09-22T00:16:23.361Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/24347"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24347</id>
+    <updated>2026-09-22T00:13:33.461Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0010 SOL
+• 99th: 0.0100 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/24346"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24346</id>
+    <updated>2026-09-22T00:13:02.488Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+RUNE (ExgY..hovp)
+Vol/liquidity: 110x (threshold 50)
+24h: -91.1%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Jump Trading</title>
     <link href="https://t.me/sgnl_free/24345"/>
@@ -784,35 +818,6 @@ Market-maker wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 33505 moves in 7d · 33564 in 30d.
 GSR institutional market-maker
 Tx: https://etherscan.io/tx/0x31f09c0056d1fb516a56b93e9b6ad897015c0dc03d744f4db9c1d0a9700ec618
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/24297"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24297</id>
-    <updated>2026-09-21T17:18:52.318Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 2320 ETH ($6.4M)  →  Binance 14  0xeae738…
-
-7d: $6045M in · $3820M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/24296"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24296</id>
-    <updated>2026-09-21T17:18:51.905Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 380.00 ETH ($1.0M) → 0xd59d7a96…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 39172 moves in 7d · 39257 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xb52fbf7ca771bd80f38e9a4902d7e1f049db649a0e2321ca8c18266ed6c92548
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
