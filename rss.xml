@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-22T11:58:02.917Z</updated>
+  <updated>2026-09-22T12:03:02.917Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-09-21</title>
+    <link href="https://t.me/sgnl_free/24459"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24459</id>
+    <updated>2026-09-22T12:00:03.149Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-21
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: 70.1K μlamp
+  P90:    333.3K μlamp
+  Max:    5.39M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): 35.0K μlamp
+  Medium (~5s):   70.1K μlamp
+  Fast (high probability): 333.3K μlamp
+
+vs prior 6-day baseline: ↑ 81% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: 70.1K μlamp | Raydium: 415.6K μlamp | Orca: 384.9K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/24458"/>
@@ -791,20 +817,6 @@ GSR institutional market-maker
 Tx: https://etherscan.io/tx/0x981095a4ddc3f6880c8b83ca3594322471e6dff8392d39c75770f1cc4681b612
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/24409"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24409</id>
-    <updated>2026-09-22T05:18:43.141Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 5.0M USDT ($5.0M)  ←  Binance 18  0xba2752…
-
-7d: $5944M in · $3939M out · net flow: inflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
