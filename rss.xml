@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-22T14:53:02.929Z</updated>
+  <updated>2026-09-22T14:58:02.924Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/24489"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24489</id>
+    <updated>2026-09-22T14:53:13.017Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 40.5M USDT ($40.5M)  →  Binance 16  Binance 14
+
+7d: $5907M in · $3737M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/24488"/>
@@ -747,31 +761,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $5800M in · $3846M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-09-21</title>
-    <link href="https://t.me/sgnl_free/24439"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24439</id>
-    <updated>2026-09-22T09:00:18.381Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-21
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 40
-Median peak spike (top 50): 21.0x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump SATOSHINU: 24.0x  vol1h=$968.5K  price1h +1486.0%
-  🟢 pump PUMPCAT: 24.0x  vol1h=$912.8K  price1h +567.0%
-  🟢 pump LOOONGCAT: 24.0x  vol1h=$1.28M  price1h +528.0%
-  🟢 pump NautiloCat: 24.0x  vol1h=$776.2K  price1h +432.0%
-  🟢 pump NATTY: 24.0x  vol1h=$39.0K  price1h +327.0%
-  🟢 pump SUPERTRUMP: 24.0x  vol1h=$838.6K  price1h +303.0%
-  🟢 pump ZOOKO: 24.0x  vol1h=$705.4K  price1h +259.0%
-  🟢 pump COPPERCAT: 24.0x  vol1h=$983.7K  price1h +249.0%
-  🟢 pump PFDOG: 24.0x  vol1h=$530.3K  price1h +246.0%
-  🟢 pump JEANCAT: 24.0x  vol1h=$363.5K  price1h +208.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
