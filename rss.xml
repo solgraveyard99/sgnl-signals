@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-22T04:56:23.373Z</updated>
+  <updated>2026-09-22T05:01:23.373Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/24405"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24405</id>
+    <updated>2026-09-22T04:59:27.892Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0029 SOL
+• 99th: 0.0151 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/24404"/>
@@ -782,24 +801,5 @@ Vol/liquidity: 110x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/24355"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24355</id>
-    <updated>2026-09-22T00:21:44.846Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 15 → fresh wallet
-Wallet: 0xbc8a…5ce0 (tx count unavailable)
-Amount: $2.11M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0xf05335a8c328e921ecfeaf35c76b19d5d5798caf64abfa198d500a21c59e5eac
-Wallet: https://etherscan.io/address/0xbc8a0f5e41857292d12ef620e2a5895ce65a5ce0</summary>
   </entry>
 </feed>
