@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-22T17:28:02.931Z</updated>
+  <updated>2026-09-22T17:33:02.930Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/24509"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24509</id>
+    <updated>2026-09-22T17:29:29.495Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 2,804,688 USDT ($2.8M) ← 0xc17a4085…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 38797 moves in 7d · 38852 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x33c21f0940b5100fa2880003009e1a2f8e6096f8298aab71f9f6fd77a2ad642c
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/24508"/>
@@ -750,31 +765,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $5887M in · $3787M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-09-21</title>
-    <link href="https://t.me/sgnl_free/24459"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24459</id>
-    <updated>2026-09-22T12:00:03.149Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-21
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: 70.1K μlamp
-  P90:    333.3K μlamp
-  Max:    5.39M μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): 35.0K μlamp
-  Medium (~5s):   70.1K μlamp
-  Fast (high probability): 333.3K μlamp
-
-vs prior 6-day baseline: ↑ 81% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: 70.1K μlamp | Raydium: 415.6K μlamp | Orca: 384.9K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
