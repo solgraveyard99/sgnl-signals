@@ -5,7 +5,45 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-22T05:56:23.381Z</updated>
+  <updated>2026-09-22T06:01:23.377Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-09-21</title>
+    <link href="https://t.me/sgnl_free/24414"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24414</id>
+    <updated>2026-09-22T06:01:01.051Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-09-21
+
+Last 24h cohort: 7,105 launches
+  Graduated to Raydium: 502 (7.065%)
+  Timed out at 24h: 6,603 (92.935%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.5 min
+  Max observed today: 4.2 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (134 days):
+  Cohort: 3,276,821
+  Total graduations: 24,247 (0.7400%)
+  Total timeouts: 3,252,574 (99.2600%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/24413"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24413</id>
+    <updated>2026-09-22T05:58:44.583Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 5.0M USDT ($5.0M)  →  Binance 14  0xeae738…
+
+7d: $5927M in · $3904M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/24412"/>
@@ -773,36 +811,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 39048 moves in 7d · 39062 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0xdaa570ae1596669d7117d0238fbf9d76b5f3488c3c60af9378985c96362ffeed
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/24364"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24364</id>
-    <updated>2026-09-22T00:43:55.298Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 7216 ETH ($20.0M)  ←  Binance 14  0x4cee61…
-📥 2126 ETH ($5.9M)  →  Binance 14  0xeae738…
-
-7d: $5951M in · $3888M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/24363"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24363</id>
-    <updated>2026-09-22T00:38:57.859Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 1,417,927 USDT ($1.4M) ← 0x1ab4973a…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 3088 moves in 7d · 3097 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0x4353e63cb3326e5ea8f8122fc1f4300f5240c06ecca80bec0fa32c54934c27f2
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
