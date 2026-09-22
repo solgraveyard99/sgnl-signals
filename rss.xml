@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-22T01:31:23.366Z</updated>
+  <updated>2026-09-22T01:36:23.367Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/24379"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24379</id>
+    <updated>2026-09-22T01:31:27.786Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0001 SOL
+• 99th: 0.0100 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/24378"/>
@@ -808,22 +827,5 @@ How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume
 Companion to morning survival report (06:00 UTC).
 Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
 DYOR.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 24.0% APY</title>
-    <link href="https://t.me/sgnl_free/24329"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24329</id>
-    <updated>2026-09-21T21:08:22.876Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 24.0% APY
-ember-protocol / USDC on Ethereum
-Base: 24.0%  ·  Rewards: n/a  ·  TVL: $17.7M
-
-💡 +17.0% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/4ae1f481-ae46-5a2c-82a2-13e192180594</summary>
   </entry>
 </feed>
