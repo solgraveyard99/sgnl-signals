@@ -5,7 +5,32 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-22T07:58:02.902Z</updated>
+  <updated>2026-09-22T08:03:02.902Z</updated>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-09-21</title>
+    <link href="https://t.me/sgnl_free/24424"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24424</id>
+    <updated>2026-09-22T08:00:18.782Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-09-21
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 15 total)
+USDT 791.97 → 814.0706 0x9f5609…
+WETH 238.91 → 662130.1551 USDT
+DAI 15.44 → 15.9920 USDC
+
+🌉 Cross-chain (Wormhole, 24h)
+$795407.4M across 14685 txs · top route chain_48 → BSC
+
+📈 Velocity alerts (24h)
+hbar vol 3.03x
+m rank +6
+usdg rank -6
+tao rank +6
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/24423"/>
@@ -796,20 +821,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/24374"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24374</id>
-    <updated>2026-09-22T01:23:43.168Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 14159 ETH ($38.9M)  ←  Binance 14  Binance 15
-📥 2069 ETH ($5.7M)  →  Binance 14  0xeae738…
-
-7d: $5916M in · $3908M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
