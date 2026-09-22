@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-22T20:58:02.940Z</updated>
+  <updated>2026-09-22T21:03:02.946Z</updated>
+  <entry>
+    <title>📈 Solana Buy Momentum Digest — 2026-09-21</title>
+    <link href="https://t.me/sgnl_free/24523"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24523</id>
+    <updated>2026-09-22T21:00:04.193Z</updated>
+    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-21
+
+Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 40
+Strong-bias tokens (buy/sell ≥3x): 20
+
+Top 10 by buy momentum (buys × buy/sell ratio):
+  📈 fomocat: 16879 buys / 2120 sells (8.0x)  vol1h=$557.6K  price1h +65%
+  📈 PFDOG: 18806 buys / 3681 sells (5.1x)  vol1h=$463.1K  price1h +92%
+  📈 LOOONGCAT: 17484 buys / 4043 sells (4.3x)  vol1h=$1.28M  price1h +271%
+  📈 JEANCAT: 7756 buys / 1114 sells (7.0x)  vol1h=$356.5K  price1h +50%
+  📈 NautiloCat: 15070 buys / 4245 sells (3.6x)  vol1h=$776.2K  price1h +212%
+  📈 bub: 4688 buys / 450 sells (10.4x)  vol1h=$122.9K  price1h +41%
+  📈 JEAN: 7561 buys / 1226 sells (6.2x)  vol1h=$279.4K  price1h -40%
+  📈 BULLCAT: 4515 buys / 356 sells (12.7x)  vol1h=$32.7K  price1h +40%
+  📈 bullcoin: 16866 buys / 6898 sells (2.4x)  vol1h=$39.5K  price1h -56%
+  📈 SUPERTRUMP: 12720 buys / 4202 sells (3.0x)  vol1h=$838.6K  price1h +112%
+
+Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
+Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/24522"/>
@@ -754,21 +780,6 @@ Market-maker wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 33733 moves in 7d · 33783 in 30d.
 GSR institutional market-maker
 Tx: https://etherscan.io/tx/0x05b913ec137d878ee1841161727cb73f55ae9c1d7f57d56baeefb9f6ddded479
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/24473"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24473</id>
-    <updated>2026-09-22T12:59:30.925Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 1,300,000 USDT ($1.3M) → 0xfb19085a…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 38709 moves in 7d · 38760 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x8a2cddb1fa39b1ff6189fb87dc04fc2e700d5dbb75132ad02fb23dd1f02628b7
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
