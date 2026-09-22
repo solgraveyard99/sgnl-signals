@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-22T23:53:02.952Z</updated>
+  <updated>2026-09-22T23:58:02.952Z</updated>
+  <entry>
+    <title>⚪ Market Posture · neutral</title>
+    <link href="https://t.me/sgnl_free/24526"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24526</id>
+    <updated>2026-09-22T23:57:49.902Z</updated>
+    <summary type="text">⚪ Market Posture · neutral
+Bias score: +0
+
+2 active signals (top 5 by size):
+• 🐋 Whale deposit cluster: 11 moves, $226M to exchanges
+• 🐋 Whale withdrawal cluster: 8 moves, $122M off exchanges
+
+Updated every 4h · SGNL signal aggregator</summary>
+  </entry>
   <entry>
     <title>🟢 STABLECOIN MINT · USDC</title>
     <link href="https://t.me/sgnl_free/24525"/>
@@ -766,23 +780,5 @@ Simple transfer cost now: ~$0.0275</summary>
 7d: $5898M in · $3821M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 20.9% APY</title>
-    <link href="https://t.me/sgnl_free/24476"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24476</id>
-    <updated>2026-09-22T13:17:50.873Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 20.9% APY
-veranta / USDC on Base
-Base: 20.9%  ·  Rewards: n/a  ·  TVL: $10.0M
-
-💡 +13.9% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
   </entry>
 </feed>
