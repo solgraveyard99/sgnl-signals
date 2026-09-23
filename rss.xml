@@ -5,7 +5,36 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-23T13:18:02.995Z</updated>
+  <updated>2026-09-23T13:23:02.993Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/24694"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24694</id>
+    <updated>2026-09-23T13:19:28.858Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 5,155,425 USDT ($5.2M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 38813 moves in 7d · 38865 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xaafeb4b664457cf1bf21434770dbe195ed1d5bcf8d0df3626dfb40a4f48975c1
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/24693"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24693</id>
+    <updated>2026-09-23T13:18:13.698Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 9.6M USDT ($9.6M)  ←  Binance 15  0x98adef…
+
+7d: $5722M in · $3730M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 20.8% APY</title>
     <link href="https://t.me/sgnl_free/24692"/>
@@ -740,48 +769,5 @@ Tx: https://etherscan.io/tx/0xd203087ad64ebb38b7fdc1b66f302ffcc9cfd25627f08d183a
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 4 large moves</title>
-    <link href="https://t.me/sgnl_free/24644"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24644</id>
-    <updated>2026-09-23T09:08:12.585Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 4 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 20.0M USDT ($20.0M)  →  Binance 14  0xaefb07…
-📥 10.0M USDT ($10.0M)  →  Binance 14  0xecf0e8…
-📥 8.0M USDT ($8.0M)  →  Binance 14  0x884a46…
-📥 1955 ETH ($5.3M)  →  Binance 14  0xeae738…
-
-7d: $5626M in · $3680M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-09-22</title>
-    <link href="https://t.me/sgnl_free/24643"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24643</id>
-    <updated>2026-09-23T09:00:10.331Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-22
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 38
-Median peak spike (top 50): 24.0x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump KCAT: 24.0x  vol1h=$912.9K  price1h +814.0%
-  🟢 pump SUITINU: 24.0x  vol1h=$1.03M  price1h +572.0%
-  🟢 pump KITTY : 24.0x  vol1h=$203.7K  price1h +408.0%
-  🟢 pump TIKCAT: 24.0x  vol1h=$738.4K  price1h +384.0%
-  🟢 pump ACAT: 24.0x  vol1h=$534.8K  price1h +357.0%
-  🟢 pump Archi: 24.0x  vol1h=$552.4K  price1h +321.0%
-  🟢 pump CashFrog: 24.0x  vol1h=$362.1K  price1h +287.0%
-  🟢 pump NALA: 24.0x  vol1h=$994.4K  price1h +194.0%
-  🟢 pump SOL: 24.0x  vol1h=$538.8K  price1h +171.0%
-  🟢 pump STONKY: 24.0x  vol1h=$152.6K  price1h +168.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
