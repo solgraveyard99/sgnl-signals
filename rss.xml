@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-23T02:03:02.959Z</updated>
+  <updated>2026-09-23T02:08:02.964Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/24573"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24573</id>
+    <updated>2026-09-23T02:05:47.151Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+PUMPDRUG (5dLr..pump)
+Vol/liquidity: 692x (threshold 50)
+24h: -92.7%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/24572"/>
@@ -801,31 +816,5 @@ Base: 31.3%  ·  Rewards: n/a  ·  TVL: $17.7M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/4ae1f481-ae46-5a2c-82a2-13e192180594</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-09-21</title>
-    <link href="https://t.me/sgnl_free/24523"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24523</id>
-    <updated>2026-09-22T21:00:04.193Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-21
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 40
-Strong-bias tokens (buy/sell ≥3x): 20
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 fomocat: 16879 buys / 2120 sells (8.0x)  vol1h=$557.6K  price1h +65%
-  📈 PFDOG: 18806 buys / 3681 sells (5.1x)  vol1h=$463.1K  price1h +92%
-  📈 LOOONGCAT: 17484 buys / 4043 sells (4.3x)  vol1h=$1.28M  price1h +271%
-  📈 JEANCAT: 7756 buys / 1114 sells (7.0x)  vol1h=$356.5K  price1h +50%
-  📈 NautiloCat: 15070 buys / 4245 sells (3.6x)  vol1h=$776.2K  price1h +212%
-  📈 bub: 4688 buys / 450 sells (10.4x)  vol1h=$122.9K  price1h +41%
-  📈 JEAN: 7561 buys / 1226 sells (6.2x)  vol1h=$279.4K  price1h -40%
-  📈 BULLCAT: 4515 buys / 356 sells (12.7x)  vol1h=$32.7K  price1h +40%
-  📈 bullcoin: 16866 buys / 6898 sells (2.4x)  vol1h=$39.5K  price1h -56%
-  📈 SUPERTRUMP: 12720 buys / 4202 sells (3.0x)  vol1h=$838.6K  price1h +112%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
