@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-23T13:28:02.999Z</updated>
+  <updated>2026-09-23T13:33:02.994Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/24695"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24695</id>
+    <updated>2026-09-23T13:32:50.218Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.394906844 gwei (fast)  ·  🟢 cheap
+Safe: 0.335161272  ·  Propose: 0.336161272  ·  BaseFee: 0.3352
+
+24h range: 0.05–1.64 gwei  (avg 0.47)
+
+Simple transfer cost now: ~$0.0207</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/24694"/>
@@ -754,20 +768,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/24645"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24645</id>
-    <updated>2026-09-23T09:09:28.621Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 2,172,251 USDT ($2.2M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 38804 moves in 7d · 38857 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xd203087ad64ebb38b7fdc1b66f302ffcc9cfd25627f08d183a89f708c53cc231
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
