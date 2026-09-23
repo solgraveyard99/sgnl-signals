@@ -5,7 +5,70 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-23T19:08:03.020Z</updated>
+  <updated>2026-09-23T19:13:03.019Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/24762"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24762</id>
+    <updated>2026-09-23T19:09:52.980Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📥 40,996,240 USDT ($41.0M) from Binance 14 (withdrawal)
+Market-maker wallet · withdrawal from CEX Binance 14. Descriptive observation.
+Wallet activity: 33759 moves in 7d · 33759 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0x80220ee02a374b1331b0b7e236cec779fe4dce6f7876fd9f2d2d55ab5b05f2f0
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/24761"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24761</id>
+    <updated>2026-09-23T19:09:30.882Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 3,635,498 USDT ($3.6M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 38868 moves in 7d · 38868 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xc587b596ac4b9085eba163e96df1506081aa746381449416ddacd152606d161e
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/24760"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24760</id>
+    <updated>2026-09-23T19:08:34.952Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 41.0M USDT ($41.0M)  →  Binance 17  Binance 14
+
+7d: $5772M in · $3898M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🆕 FRESH WALLET FUNDED</title>
+    <link href="https://t.me/sgnl_free/24759"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24759</id>
+    <updated>2026-09-23T19:08:19.257Z</updated>
+    <summary type="text">🆕 FRESH WALLET FUNDED
+
+Binance 15 → fresh wallet
+Wallet: 0xb5e4…c24e (tx count unavailable)
+Amount: $2.50M USDT
+Tier: TIER2
+
+Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
+
+Statistical pattern. Not financial advice.
+
+Tx: https://etherscan.io/tx/0x8f236c48e61d58d89881bdae4b872175a71edc5dc3a4be84a76c591507744051
+Wallet: https://etherscan.io/address/0xb5e4d21240e9356cafc3a1261d10383f62dfc24e</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/24758"/>
@@ -709,77 +772,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $5741M in · $3789M out · net flow: inflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-22</title>
-    <link href="https://t.me/sgnl_free/24712"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24712</id>
-    <updated>2026-09-23T15:00:05.909Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-22
-
-Tokens with liquidity drop ≥50%: 15
-Tokens with liquidity drop ≥90%: 9
-Tokens with liquidity drop ≥75%: 12
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL SUITINU: -96.1%  $69.6K → $2.7K  in 4.9h
-  🚨 CRITICAL BUFFETT: -95.8%  $71.0K → $2.9K  in 27m
-  🚨 CRITICAL TIKCAT: -95.2%  $59.4K → $2.9K  in 1.2h
-  🚨 CRITICAL CashFrog: -94.7%  $49.1K → $2.6K  in 1.2h
-  🚨 CRITICAL SOL: -94.4%  $45.1K → $2.5K  in 2.3h
-  🚨 CRITICAL BetCat: -94.2%  $40.6K → $2.3K  in 20m
-  🚨 CRITICAL NALA: -94.1%  $45.0K → $2.7K  in 2.5h
-  🚨 CRITICAL DEDICATE: -92.2%  $45.5K → $3.6K  in 1.1h
-  🚨 CRITICAL ORACLE: -90.4%  $48.8K → $4.7K  in 5.8h
-  ⛔ SEVERE Uptober: -90.0%  $30.3K → $3.0K  in 1.5h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/24711"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24711</id>
-    <updated>2026-09-23T14:59:50.120Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 1,242,317 USDT ($1.2M) ← 0x1ab4973a…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 3121 moves in 7d · 3129 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0x16825042d884a2d9fbb9d74d780070120efd32fc7fdc8d37961353b509261ec2
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/24710"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24710</id>
-    <updated>2026-09-23T14:53:26.902Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 6.0M USDT ($6.0M)  ←  Binance 17  0xed0c60…
-
-7d: $5752M in · $3783M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/24709"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24709</id>
-    <updated>2026-09-23T14:49:49.985Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 1,635,279 USDT ($1.6M) → 0xed89da9d…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 3124 moves in 7d · 3125 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0x73ec4166777e5533b00435fa65862a71aecddbb7d476547731a040720c8960c1
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
