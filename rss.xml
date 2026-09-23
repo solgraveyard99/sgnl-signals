@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-23T01:18:02.963Z</updated>
+  <updated>2026-09-23T01:23:02.960Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/24564"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24564</id>
+    <updated>2026-09-23T01:20:34.433Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+ZKSVM (AjnP..pump)
+Vol/liquidity: 115x (threshold 50)
+24h: -93.7%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/24563"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24563</id>
+    <updated>2026-09-23T01:19:28.522Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 974.10 ETH ($2.7M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 38905 moves in 7d · 38917 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xcdf48801bcdf92e2ec0bebde6bdde59e255f6d97380bdd0e8d313bec8c23116e
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/24562"/>
@@ -783,50 +813,5 @@ Tx: https://etherscan.io/tx/0x8b894814a62f401139f6cf758c12c0a4f57add96dcae45cc18
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/24514"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24514</id>
-    <updated>2026-09-22T18:09:31.212Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 17,783,843 USDe ($17.8M) from Binance 8 (withdrawal)
-Tracked-whale wallet · withdrawal from CEX Binance 8. Descriptive observation.
-Wallet activity: 38797 moves in 7d · 38854 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x8b894814a62f401139f6cf758c12c0a4f57add96dcae45cc18601650e736c79c
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-09-21</title>
-    <link href="https://t.me/sgnl_free/24513"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24513</id>
-    <updated>2026-09-22T18:01:12.361Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-21
-
-Yesterday&apos;s cohort: 32,781 launches
-  🟢 STRONG (score 8+): 528 (1.61%)
-  🟡 MIXED (score 5-7): 9,281 (28.31%)
-  🔴 WEAK  (score 0-4): 22,972 (70.08%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG GLC mcap=62 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG WojakPhil mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG COGI mcap=70 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG LONER mcap=95 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG STAMPCAT mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG 英伟达 mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG $BITFOOT mcap=114 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG ZINU mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG PUMPCAT mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG PUMPCAT mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-
-✓grad = graduated to Raydium within 24h (502 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
