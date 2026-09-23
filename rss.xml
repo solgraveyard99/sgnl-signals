@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-23T06:18:02.979Z</updated>
+  <updated>2026-09-23T06:23:02.976Z</updated>
+  <entry>
+    <title>🔴 CEX BALANCE DISTRIBUTION</title>
+    <link href="https://t.me/sgnl_free/24609"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24609</id>
+    <updated>2026-09-23T06:19:58.475Z</updated>
+    <summary type="text">🔴 CEX BALANCE DISTRIBUTION
+Monitored reserves changed +9.12% in 24h
+Delta: +$1757M
+New total: $21.01B
+
+Capital flooding into CEXs — deposit dominance.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/24608"/>
@@ -809,24 +821,5 @@ Vol/liquidity: 115x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>📊 4 inflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/24559"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24559</id>
-    <updated>2026-09-23T01:07:50.059Z</updated>
-    <summary type="text">📊 4 inflow-heavy observations detected
-Sample: 4 concurrent observations · $220M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale deposit cluster: 6 moves, $119M to exchanges
-• 🐋 Large deposit: $44M USDT → Binance 16
-• 🐋 Large deposit: $42M USDT → Binance 18
-• 🐋 Large deposit: $15M ETH → Binance 14
-
-Opposing flow: $27M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
