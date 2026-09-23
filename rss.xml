@@ -5,7 +5,96 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-23T08:58:02.987Z</updated>
+  <updated>2026-09-23T09:03:02.982Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-09-22</title>
+    <link href="https://t.me/sgnl_free/24643"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24643</id>
+    <updated>2026-09-23T09:00:10.331Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-22
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 38
+Median peak spike (top 50): 24.0x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump KCAT: 24.0x  vol1h=$912.9K  price1h +814.0%
+  🟢 pump SUITINU: 24.0x  vol1h=$1.03M  price1h +572.0%
+  🟢 pump KITTY : 24.0x  vol1h=$203.7K  price1h +408.0%
+  🟢 pump TIKCAT: 24.0x  vol1h=$738.4K  price1h +384.0%
+  🟢 pump ACAT: 24.0x  vol1h=$534.8K  price1h +357.0%
+  🟢 pump Archi: 24.0x  vol1h=$552.4K  price1h +321.0%
+  🟢 pump CashFrog: 24.0x  vol1h=$362.1K  price1h +287.0%
+  🟢 pump NALA: 24.0x  vol1h=$994.4K  price1h +194.0%
+  🟢 pump SOL: 24.0x  vol1h=$538.8K  price1h +171.0%
+  🟢 pump STONKY: 24.0x  vol1h=$152.6K  price1h +168.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-09-22</title>
+    <link href="https://t.me/sgnl_free/24642"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24642</id>
+    <updated>2026-09-23T09:00:09.897Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-09-22
+
+Top 5 whale-cluster events:
+• $314M ← CEX | 16 wallets | 13:23Z
+• $314M ← CEX | 16 wallets | 13:33Z
+• $287M ← CEX | 15 wallets | 12:53Z
+• $287M ← CEX | 15 wallets | 13:13Z
+• $280M → CEX | 14 wallets | 12:03Z
+
+Alerts fired (24h):
+• Wash trade: 899
+• Whale-cluster→CEX: 54
+• Whale-cluster←CEX: 51
+• Whale-large→CEX: 17
+• Whale-large←CEX: 13
+
+Historical base rates (last 7d, past events only):
+• Whale-cluster→CEX: 12/193 past events matched hypothesis (6%)
+• Whale-cluster←CEX: 63/152 past events matched hypothesis (41%)
+• Whale-large→CEX: 5/46 past events matched hypothesis (11%)
+• Whale-large←CEX: 6/47 past events matched hypothesis (13%)
+
+Base rates describe past outcomes. Not predictions. Not investment advice.
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/24641"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24641</id>
+    <updated>2026-09-23T08:59:52.979Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 3,900,000 USDT ($3.9M) → 0x539211af…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 33865 moves in 7d · 33913 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0xc1747b8fe423af9b344629466ad537ecb3403cc79d9e6ccddf8e1573211c9995
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/24640"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24640</id>
+    <updated>2026-09-23T08:59:28.624Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 1955.00 ETH ($5.3M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 38798 moves in 7d · 38853 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xb8f10f11e1620a7e7402ee87c5261a22a2e0b4aaa261d9c63677cfa85e7ae077
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/24639"/>
@@ -735,69 +824,5 @@ Top observations (by size):
 Opposing flow: $86M (filtered — minority)
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/24593"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24593</id>
-    <updated>2026-09-23T04:23:13.594Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 43.0M USDT ($43.0M)  ←  Binance 14  Binance 17
-📤 14722 ETH ($40.8M)  ←  Binance 14  Binance 18
-
-7d: $5715M in · $3646M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/24592"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24592</id>
-    <updated>2026-09-23T04:19:52.402Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 979.00 ETH ($2.7M) → 0x51c72848…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 33766 moves in 7d · 33794 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x9313f6f44f77a8bc0df8f92294fb137f8f08f6509f61827a1718b07fbc451e40
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/24591"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24591</id>
-    <updated>2026-09-23T04:03:21.642Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 15037 ETH ($41.7M)  ←  Binance 14  Binance 15
-📥 10.0M USDT ($10.0M)  →  Binance 14  0xa53918…
-
-7d: $5705M in · $3611M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/24590"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24590</id>
-    <updated>2026-09-23T04:01:05.230Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0000 SOL
-• 99th: 0.0168 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
