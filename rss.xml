@@ -5,7 +5,49 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-23T14:58:03.000Z</updated>
+  <updated>2026-09-23T15:03:03.000Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-22</title>
+    <link href="https://t.me/sgnl_free/24712"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24712</id>
+    <updated>2026-09-23T15:00:05.909Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-22
+
+Tokens with liquidity drop ≥50%: 15
+Tokens with liquidity drop ≥90%: 9
+Tokens with liquidity drop ≥75%: 12
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL SUITINU: -96.1%  $69.6K → $2.7K  in 4.9h
+  🚨 CRITICAL BUFFETT: -95.8%  $71.0K → $2.9K  in 27m
+  🚨 CRITICAL TIKCAT: -95.2%  $59.4K → $2.9K  in 1.2h
+  🚨 CRITICAL CashFrog: -94.7%  $49.1K → $2.6K  in 1.2h
+  🚨 CRITICAL SOL: -94.4%  $45.1K → $2.5K  in 2.3h
+  🚨 CRITICAL BetCat: -94.2%  $40.6K → $2.3K  in 20m
+  🚨 CRITICAL NALA: -94.1%  $45.0K → $2.7K  in 2.5h
+  🚨 CRITICAL DEDICATE: -92.2%  $45.5K → $3.6K  in 1.1h
+  🚨 CRITICAL ORACLE: -90.4%  $48.8K → $4.7K  in 5.8h
+  ⛔ SEVERE Uptober: -90.0%  $30.3K → $3.0K  in 1.5h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Jump Trading</title>
+    <link href="https://t.me/sgnl_free/24711"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24711</id>
+    <updated>2026-09-23T14:59:50.120Z</updated>
+    <summary type="text">🧠 SMART MONEY · Jump Trading
+📥 1,242,317 USDT ($1.2M) ← 0x1ab4973a…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 3121 moves in 7d · 3129 in 30d.
+Jump Trading — large altcoin flows
+Tx: https://etherscan.io/tx/0x16825042d884a2d9fbb9d74d780070120efd32fc7fdc8d37961353b509261ec2
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/24710"/>
@@ -724,36 +766,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 38800 moves in 7d · 38856 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0xbf0752223ce46495c3fa73cf70d094209d494ad09e76d21936a79e40482003a0
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/24662"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24662</id>
-    <updated>2026-09-23T10:00:01.161Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 766.00 ETH ($2.1M) → 0xbc8a0f5e…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 33835 moves in 7d · 33880 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x115e1f38b8f30c5bfd85a79d56c6e35f69d05acfde5ba563665f2796cebcbbbc
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/24661"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24661</id>
-    <updated>2026-09-23T10:00:00.431Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 1,818,676 USDT ($1.8M) → 0xed89da9d…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 3065 moves in 7d · 3067 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0x078a388db907441ef89f0a50492afabf57d309f1e9fc73b81a1b179e30e83fef
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
