@@ -5,7 +5,27 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-23T01:28:02.965Z</updated>
+  <updated>2026-09-23T01:33:02.961Z</updated>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/24567"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24567</id>
+    <updated>2026-09-23T01:33:02.769Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+[ARFC] Revision of ETH &amp; BTC Collateral Efficiency on Aave
+
+DAO: aavedao.eth
+Votes cast: 21
+Total voting power: 54259
+Voting ends: 2026-09-25 13:54 UTC
+
+https://snapshot.org/#/aavedao.eth/proposal/0x0845fbf2d49ec5ad85f8a569e51ce7014f6f4c6dfc34e3b6cd28ef3f9037d586
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/24566"/>
@@ -796,21 +816,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $5874M in · $3611M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/24517"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24517</id>
-    <updated>2026-09-22T18:32:50.173Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.180914938 gwei  ·  Safe: 0.167406668 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
