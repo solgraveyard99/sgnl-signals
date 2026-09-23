@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-23T02:18:02.962Z</updated>
+  <updated>2026-09-23T02:23:02.962Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/24576"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24576</id>
+    <updated>2026-09-23T02:20:39.489Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+ZKSVM (AjnP..pump)
+Vol/liquidity: 115x (threshold 50)
+24h: -93.7%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/24575"/>
@@ -802,19 +817,5 @@ How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume
 Companion to morning survival report (06:00 UTC).
 Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
 DYOR.</summary>
-  </entry>
-  <entry>
-    <title>⚪ Market Posture · neutral</title>
-    <link href="https://t.me/sgnl_free/24526"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24526</id>
-    <updated>2026-09-22T23:57:49.902Z</updated>
-    <summary type="text">⚪ Market Posture · neutral
-Bias score: +0
-
-2 active signals (top 5 by size):
-• 🐋 Whale deposit cluster: 11 moves, $226M to exchanges
-• 🐋 Whale withdrawal cluster: 8 moves, $122M off exchanges
-
-Updated every 4h · SGNL signal aggregator</summary>
   </entry>
 </feed>
