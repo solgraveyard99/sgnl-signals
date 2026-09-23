@@ -5,7 +5,63 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-22T23:58:02.952Z</updated>
+  <updated>2026-09-23T00:03:02.953Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/24529"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24529</id>
+    <updated>2026-09-23T00:00:38.395Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+ZKSVM (AjnP..pump)
+Vol/liquidity: 113x (threshold 50)
+24h: -93.5%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/24528"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24528</id>
+    <updated>2026-09-23T00:00:22.758Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $86,197 | SOL: $118.42
+Market mood: 70/100 🟢 BULLISH
+Solana activity: ACTIVE
+
+Tomorrow&apos;s outlook: Range-bound tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-22</title>
+    <link href="https://t.me/sgnl_free/24527"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24527</id>
+    <updated>2026-09-23T00:00:06.985Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-22
+
+24h state transitions tracked: 293
+  💀 Died (gone): 216
+  😴 Went dormant: 32
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 SOLFROG: had $0 liquidity · died at age 11.0d
+  💀 STNKSCRN: had $0 liquidity · died at age 11.0d
+  💀 BRAIN: had $0 liquidity · died at age 11.0d
+  💀 ETH: had $0 liquidity · died at age 11.0d
+  💀 NOISE: had $0 liquidity · died at age 11.0d
+  💀 GRND: had $0 liquidity · died at age 11.0d
+  💀 CNUT: had $0 liquidity · died at age 11.0d
+  💀 cashback: had $0 liquidity · died at age 11.0d
+  💀 ALON: had $0 liquidity · died at age 11.0d
+  💀 FKH: had $0 liquidity · died at age 11.0d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>⚪ Market Posture · neutral</title>
     <link href="https://t.me/sgnl_free/24526"/>
@@ -735,50 +791,6 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x1656c9d262a83c8b492a6e08aa80519ced6e5e7a62691b5f23dd0320885fa9ee
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/24479"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24479</id>
-    <updated>2026-09-22T13:33:12.991Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 16.8M USDT ($16.8M)  →  Binance 14  0x0069d7…
-📥 8.0M USDT ($8.0M)  →  Binance 14  0xa53918…
-
-7d: $5938M in · $3848M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/24478"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24478</id>
-    <updated>2026-09-22T13:32:50.250Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.524044486 gwei (fast)  ·  🟢 cheap
-Safe: 0.302778023  ·  Propose: 0.302939309  ·  BaseFee: 0.3028
-
-24h range: 0.07–2.79 gwei  (avg 0.46)
-
-Simple transfer cost now: ~$0.0275</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/24477"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24477</id>
-    <updated>2026-09-22T13:23:28.578Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 14364 ETH ($39.6M)  →  Binance 17  Binance 14
-📤 26.8M USDT ($26.8M)  ←  Binance 18  0x98adef…
-
-7d: $5898M in · $3821M out · net flow: inflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
