@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-23T05:58:02.974Z</updated>
+  <updated>2026-09-23T06:03:02.973Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-09-22</title>
+    <link href="https://t.me/sgnl_free/24606"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24606</id>
+    <updated>2026-09-23T06:01:04.698Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-09-22
+
+Last 24h cohort: 7,003 launches
+  Graduated to Raydium: 561 (8.011%)
+  Timed out at 24h: 6,442 (91.989%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.6 min
+  Max observed today: 4.6 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (135 days):
+  Cohort: 3,309,517
+  Total graduations: 24,828 (0.7502%)
+  Total timeouts: 3,284,689 (99.2498%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/24605"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24605</id>
+    <updated>2026-09-23T05:59:28.542Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 1,199,999 USDT ($1.2M) ← 0x0b2fdf41…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 38860 moves in 7d · 38921 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x475cd2a9ae45140a8a2ce53ef83826018fd7e8fb8dc3060665e30be7f2f823f1
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/24604"/>
@@ -793,36 +832,6 @@ Statistical pattern only. No accusation.
 
 7d: $5641M in · $3598M out · net flow: inflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/24556"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24556</id>
-    <updated>2026-09-23T01:00:34.386Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-ZKSVM (AjnP..pump)
-Vol/liquidity: 115x (threshold 50)
-24h: -93.7%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/24555"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24555</id>
-    <updated>2026-09-23T00:39:49.850Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 2,109,874 USDT ($2.1M) ← 0x1ab4973a…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 3095 moves in 7d · 3095 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0x9a60b92f1627dac166981d157d07395b9043d4ba1f2b8e8f948aba2978e5b8c8
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
