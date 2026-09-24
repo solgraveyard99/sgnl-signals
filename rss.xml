@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-24T02:13:03.040Z</updated>
+  <updated>2026-09-24T02:18:03.038Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/24816"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24816</id>
+    <updated>2026-09-24T02:15:35.220Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+SCANNY (G8TT..pump)
+Vol/liquidity: 102x (threshold 50)
+24h: -70.1%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/24815"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24815</id>
+    <updated>2026-09-24T02:13:13.749Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 2158 ETH ($5.8M)  →  Binance 14  0xeae738…
+📥 5.1M USDT ($5.1M)  →  Binance 14  0xeae738…
+
+7d: $5794M in · $3673M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/24814"/>
@@ -727,47 +757,5 @@ Solana activity: QUIET
 
 Tomorrow&apos;s outlook: Cautious tomorrow
 See you at 8AM for the morning brief ☕</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-23</title>
-    <link href="https://t.me/sgnl_free/24766"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24766</id>
-    <updated>2026-09-24T00:00:05.408Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-23
-
-24h state transitions tracked: 223
-  💀 Died (gone): 61
-  😴 Went dormant: 80
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 CMNY: had $0 liquidity · died at age 10.9d
-  💀 SHARKCAT: had $0 liquidity · died at age 58.2d
-  💀 Ansem: had $0 liquidity · died at age 36.2d
-  💀 SEMAN: had $0 liquidity · died at age 36.2d
-  💀 CRYPT: had $0 liquidity · died at age 36.2d
-  💀 PEPE: had $0 liquidity · died at age 36.2d
-  💀 WINNIE: had $0 liquidity · died at age 35.9d
-  💀 Otter: had $0 liquidity · died at age 35.9d
-  💀 Slingtard: had $0 liquidity · died at age 35.9d
-  💀 NIGGABUTT: had $0 liquidity · died at age 35.9d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
-  </entry>
-  <entry>
-    <title>⚪ Market Posture · neutral</title>
-    <link href="https://t.me/sgnl_free/24765"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24765</id>
-    <updated>2026-09-23T23:58:05.007Z</updated>
-    <summary type="text">⚪ Market Posture · neutral
-Bias score: +0
-
-2 active signals (top 5 by size):
-• 🐋 Whale withdrawal cluster: 16 moves, $241M off exchanges
-• 🐋 Whale deposit cluster: 15 moves, $228M to exchanges
-
-Updated every 4h · SGNL signal aggregator</summary>
   </entry>
 </feed>
