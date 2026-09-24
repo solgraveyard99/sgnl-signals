@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-24T01:13:03.037Z</updated>
+  <updated>2026-09-24T01:18:03.035Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/24802"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24802</id>
+    <updated>2026-09-24T01:15:35.268Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+MONKINU (58TY..pump)
+Vol/liquidity: 293x (threshold 50)
+24h: -94.7%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/24801"/>
@@ -767,35 +782,5 @@ Tx: https://etherscan.io/tx/0x948bf7a4f84c713fd3f3f26d99eb39b67f72e074f2d0d9950f
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-09-22</title>
-    <link href="https://t.me/sgnl_free/24752"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24752</id>
-    <updated>2026-09-23T18:01:12.570Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-22
-
-Yesterday&apos;s cohort: 31,156 launches
-  🟢 STRONG (score 8+): 432 (1.39%)
-  🟡 MIXED (score 5-7): 9,758 (31.32%)
-  🔴 WEAK  (score 0-4): 20,966 (67.29%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG JEANPAID mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG NVDA mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG Yung mcap=693 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG SDOGS mcap=5019 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG TIGROUSDC mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG PUMPBACK mcap=1631 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG LSCENE mcap=16419 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG LOOONGC137 mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG SOL mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG LUNA mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-
-✓grad = graduated to Raydium within 24h (561 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
