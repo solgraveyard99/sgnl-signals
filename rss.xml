@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-24T16:13:03.091Z</updated>
+  <updated>2026-09-24T16:18:03.089Z</updated>
+  <entry>
+    <title>🔴 STABLECOIN BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/24976"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24976</id>
+    <updated>2026-09-24T16:18:02.383Z</updated>
+    <summary type="text">🔴 STABLECOIN BURN · USDC
+Supply change 24h: -$516M
+New supply: $75.34B
+
+Net supply contraction event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/24975"/>
@@ -731,21 +744,5 @@ Tx: https://etherscan.io/tx/0x43c01c45dbd4c16840a9cbacf386b197ad86dc4802d9f637b5
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/24926"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24926</id>
-    <updated>2026-09-24T12:32:50.284Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.812414693 gwei  ·  Safe: 0.484282502 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
