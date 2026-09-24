@@ -5,7 +5,88 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-24T03:03:03.039Z</updated>
+  <updated>2026-09-24T03:08:03.039Z</updated>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/24830"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24830</id>
+    <updated>2026-09-24T03:08:01.725Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-09-23
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): $28.15 · 10 trades · WR 50%
+⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
+🐋 Solana Momentum: -357.71% · 8 trades · WR 38%
+
+📆 Last 7 days
+🚀 Futures: +$48.07 · 53 trades · WR 64%
+🐋 Solana Momentum: -1748.28% · 39 trades · WR 28%
+⚙️ Other Strategy: +0.00% · 4 trades · WR 0%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $64.81 · 1305 trades · WR 52%
+🐋 Solana Momentum: -7583.23% · 916 trades · WR 34%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 68 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/24829"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24829</id>
+    <updated>2026-09-24T03:07:05.588Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0018 SOL
+• 99th: 0.0816 SOL (~$8)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/24828"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24828</id>
+    <updated>2026-09-24T03:05:35.264Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+SCANNY (G8TT..pump)
+Vol/liquidity: 105x (threshold 50)
+24h: -71.3%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/24827"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24827</id>
+    <updated>2026-09-24T03:03:13.123Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 15160 ETH ($40.7M)  ←  Binance 14  Binance 18
+📥 2682 ETH ($7.2M)  →  Binance 14  0xeae738…
+
+7d: $5806M in · $3627M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/24826"/>
@@ -678,70 +759,5 @@ Tx: https://etherscan.io/tx/0xd137c1283fcdd78099fa7f8c559aa7c8e50c5aea73ddbe6607
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/24780"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24780</id>
-    <updated>2026-09-24T00:08:12.639Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 DEPOSIT CLUSTER — 3 large deposits in 6h totaling $120M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
-
-📥 14255 ETH ($38.3M)  →  Binance 15  Binance 14
-
-7d: $5759M in · $3679M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/24779"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24779</id>
-    <updated>2026-09-24T00:05:40.414Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-BLUFCAT (AYzP..pump)
-Vol/liquidity: 302x (threshold 50)
-24h: -97.3%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/24778"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24778</id>
-    <updated>2026-09-24T00:03:23.350Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $81000 — expiry 25SEP26
-Direction: BUY
-Notional: ~$1798K
-Contracts: 21.3
-Implied vol: 55.8%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/24777"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24777</id>
-    <updated>2026-09-24T00:03:22.954Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $81000 — expiry 25SEP26
-Direction: BUY
-Notional: ~$1688K
-Contracts: 20
-Implied vol: 55.8%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
