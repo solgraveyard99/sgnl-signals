@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-24T13:28:03.076Z</updated>
+  <updated>2026-09-24T13:33:03.074Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/24939"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24939</id>
+    <updated>2026-09-24T13:32:51.855Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 1.294375156 gwei (fast)  ·  🟢 cheap
+Safe: 1.194432744  ·  Propose: 1.194432744  ·  BaseFee: 1.1944
+
+24h range: 0.06–4.21 gwei  (avg 0.50)
+
+Simple transfer cost now: ~$0.0680</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/24938"/>
@@ -780,23 +794,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $5814M in · $3697M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌉 BRIDGE FLOW · Base</title>
-    <link href="https://t.me/sgnl_free/24889"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24889</id>
-    <updated>2026-09-24T09:32:55.091Z</updated>
-    <summary type="text">🌉 BRIDGE FLOW · Base
-Net 1h: -$50.4M (ETH ← Base)
-Bridge TVL: 767K ETH · $2.04B
-
-24h cross-L2 breakdown:
-  🟣 Polygon: -$135K
-  🟦 Base: -$31.7M
-
-Capital leaving Base. Watch for user migration to alt-L2 or mainnet.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych</summary>
   </entry>
 </feed>
