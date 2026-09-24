@@ -5,7 +5,62 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-24T07:58:03.058Z</updated>
+  <updated>2026-09-24T08:03:03.060Z</updated>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-09-23</title>
+    <link href="https://t.me/sgnl_free/24868"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24868</id>
+    <updated>2026-09-24T08:00:15.775Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-09-23
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 7 total)
+USDC 16927.71 → 6.5086 WETH
+USDC 1644.60 → 0.6323 WETH
+USDC 111.05 → 115.0481 USDC
+
+🌉 Cross-chain (Wormhole, 24h)
+$31.1M across 14439 txs · top route Solana → Solana
+
+📈 Velocity alerts (24h)
+rain rank -5
+usd1 rank -5
+vvv rank +7
+bcap rank -8
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/24867"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24867</id>
+    <updated>2026-09-24T07:59:43.214Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 1,030,000 USDT ($1.0M) ← 0xb1db8229…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 39148 moves in 7d · 39203 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xfd1eb849a8a13d65f6a4b8afb6f36f990f83ed9b47e429b005251089a785717a
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/24866"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24866</id>
+    <updated>2026-09-24T07:59:42.813Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 792.00 ETH ($2.1M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 39097 moves in 7d · 39152 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xd7c6dfc897b9fc6e17b9b0973a1914b2b56fa91498da523423321c041245ce49
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/24865"/>
@@ -759,50 +814,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $5798M in · $3633M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/24818"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24818</id>
-    <updated>2026-09-24T02:25:45.335Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-MONKINU (58TY..pump)
-Vol/liquidity: 293x (threshold 50)
-24h: -94.7%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/24817"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24817</id>
-    <updated>2026-09-24T02:20:47.930Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-CMC (FVsZ..gMHr)
-Vol/liquidity: 107x (threshold 50)
-24h: -78.6%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/24816"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24816</id>
-    <updated>2026-09-24T02:15:35.220Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-SCANNY (G8TT..pump)
-Vol/liquidity: 102x (threshold 50)
-24h: -70.1%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
