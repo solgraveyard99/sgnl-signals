@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-24T02:08:03.041Z</updated>
+  <updated>2026-09-24T02:13:03.040Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/24814"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24814</id>
+    <updated>2026-09-24T02:10:35.828Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+CMC (FVsZ..gMHr)
+Vol/liquidity: 108x (threshold 50)
+24h: -78.9%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/24813"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24813</id>
+    <updated>2026-09-24T02:10:05.324Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 788.00 ETH ($2.1M) → 0x51c72848…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 33721 moves in 7d · 33757 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0xf9fd9a8b738d5a3a8c0664dbe02d8d77ceae6292d053c3b1d64debc0bebed122
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/24812"/>
@@ -739,48 +769,5 @@ Bias score: +0
 • 🐋 Whale deposit cluster: 15 moves, $228M to exchanges
 
 Updated every 4h · SGNL signal aggregator</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 21.3% APY</title>
-    <link href="https://t.me/sgnl_free/24764"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24764</id>
-    <updated>2026-09-23T22:17:51.112Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 21.3% APY
-ember-protocol / USDC on Ethereum
-Base: 21.3%  ·  Rewards: n/a  ·  TVL: $17.7M
-
-💡 +14.3% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/4ae1f481-ae46-5a2c-82a2-13e192180594</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-09-22</title>
-    <link href="https://t.me/sgnl_free/24763"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24763</id>
-    <updated>2026-09-23T21:00:03.939Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-22
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 28
-Strong-bias tokens (buy/sell ≥3x): 14
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 ACAT: 11779 buys / 1915 sells (6.2x)  vol1h=$452.7K  price1h +263%
-  📈 BITCOINU: 9698 buys / 1478 sells (6.6x)  vol1h=$444.5K  price1h +95%
-  📈 JEANCAT: 7271 buys / 1059 sells (6.9x)  vol1h=$310.3K  price1h +35%
-  📈 SUITINU: 14143 buys / 4375 sells (3.2x)  vol1h=$1.03M  price1h +514%
-  📈 NALA: 13376 buys / 4253 sells (3.1x)  vol1h=$994.4K  price1h -27%
-  📈 TIKCAT: 13242 buys / 4185 sells (3.2x)  vol1h=$711.6K  price1h +152%
-  📈 UPTOBER: 3845 buys / 462 sells (8.3x)  vol1h=$39.9K  price1h -17%
-  📈 CATEWALK: 8313 buys / 2613 sells (3.2x)  vol1h=$825.5K  price1h +116%
-  📈 BetCat: 6948 buys / 2185 sells (3.2x)  vol1h=$476.7K  price1h +98%
-  📈 SOL: 6677 buys / 2046 sells (3.3x)  vol1h=$538.8K  price1h +120%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
