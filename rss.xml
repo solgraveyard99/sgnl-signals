@@ -5,7 +5,60 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-25T01:58:03.118Z</updated>
+  <updated>2026-09-25T02:03:03.119Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/25041"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25041</id>
+    <updated>2026-09-25T02:02:05.905Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0002 SOL
+• 95th: 0.0020 SOL
+• 99th: 0.0288 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/25040"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25040</id>
+    <updated>2026-09-25T02:01:07.068Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0038 SOL
+• 75th: 0.0125 SOL
+• 95th: 0.0578 SOL
+• 99th: 0.0692 SOL (~$7)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25039"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25039</id>
+    <updated>2026-09-25T02:00:36.134Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+CMC (Bxdf..JNnY)
+Vol/liquidity: 140x (threshold 50)
+24h: -88.6%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/25038"/>
@@ -774,67 +827,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $5851M in · $4353M out · net flow: inflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/24991"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24991</id>
-    <updated>2026-09-24T18:32:58.727Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 2.314011029 gwei  ·  Safe: 2.172008291 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-09-23</title>
-    <link href="https://t.me/sgnl_free/24990"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24990</id>
-    <updated>2026-09-24T18:01:10.009Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-23
-
-Yesterday&apos;s cohort: 32,696 launches
-  🟢 STRONG (score 8+): 541 (1.65%)
-  🟡 MIXED (score 5-7): 10,095 (30.88%)
-  🔴 WEAK  (score 0-4): 22,060 (67.47%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG CRAFTY mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG BCAT mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG FLOOF mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG BCAT mcap=73 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG PWNED mcap=109 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG $BITFOOTS mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG $BITFOOTS mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG BASEDCAT mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG $BITFOOTS mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG $BITFOOTS mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-
-✓grad = graduated to Raydium within 24h (571 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/24989"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24989</id>
-    <updated>2026-09-24T17:49:53.118Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1,233,239 USDT ($1.2M) → 0x5f2d3a7e…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 33742 moves in 7d · 33791 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x8cbbb780768de829486a1fe0a0ce4feaf32fba91258fd7425a4bffdf91d8e7e2
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
