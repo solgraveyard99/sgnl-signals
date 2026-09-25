@@ -5,7 +5,51 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-25T00:18:03.110Z</updated>
+  <updated>2026-09-25T00:23:03.116Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25019"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25019</id>
+    <updated>2026-09-25T00:20:37.810Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+dap (8LHg..pump)
+Vol/liquidity: 130x (threshold 50)
+24h: -53.1%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/25018"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25018</id>
+    <updated>2026-09-25T00:19:41.877Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 2358.00 ETH ($6.4M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 39063 moves in 7d · 39131 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x6246f1e817321497cc97d3383af38c5e485019d8aae8ffd738cfdaca8b6b5763
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
+    <link href="https://t.me/sgnl_free/25017"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25017</id>
+    <updated>2026-09-25T00:18:05.661Z</updated>
+    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
+
+24h inflow: 58.9K ETH (~1,840 new validators)
+USD value: $158.6M
+Rate: 2.3× 30-day baseline
+ETH price: $2694
+
+Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25016"/>
@@ -760,53 +804,6 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x8fffdaa959f8479521f23c3914c96f7a1ffdabc987010201956dfe82c31ff093
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/24969"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24969</id>
-    <updated>2026-09-24T15:38:26.804Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 2191 ETH ($5.9M)  →  Binance 14  0xeae738…
-
-7d: $5965M in · $4279M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/24968"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24968</id>
-    <updated>2026-09-24T15:38:11.176Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 15 → fresh wallet
-Wallet: 0x51c7…2a7f (tx count unavailable)
-Amount: $3.63M USDT
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0xa37769c92d2e17dfc3b00cd4b7b746c61d099c8e95a9a92ac537dc8fc296b070
-Wallet: https://etherscan.io/address/0x51c72848c68a965f66fa7a88855f9f7784502a7f</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/24967"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24967</id>
-    <updated>2026-09-24T15:33:13.745Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 5.2M USDT ($5.2M)  →  Binance 14  0xf6a834…
-
-7d: $5960M in · $4279M out · net flow: inflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
