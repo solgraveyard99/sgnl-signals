@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-25T03:18:03.129Z</updated>
+  <updated>2026-09-25T03:23:03.126Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/25061"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25061</id>
+    <updated>2026-09-25T03:19:11.983Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0062 SOL
+• 99th: 0.0100 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/25060"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25060</id>
+    <updated>2026-09-25T03:18:16.100Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 10200 ETH ($27.3M)  ←  Binance 18  0xb6f2f6…
+
+7d: $5845M in · $4932M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/25059"/>
@@ -765,39 +798,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $5794M in · $4299M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/25011"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25011</id>
-    <updated>2026-09-25T00:06:05.829Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0009 SOL
-• 75th: 0.0045 SOL
-• 95th: 0.0100 SOL
-• 99th: 0.0100 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25010"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25010</id>
-    <updated>2026-09-25T00:05:39.366Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-CTNT (41Rg..pump)
-Vol/liquidity: 282x (threshold 50)
-24h: -89.4%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
