@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-25T12:22:05.026Z</updated>
+  <updated>2026-09-25T12:27:05.027Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/25154"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25154</id>
+    <updated>2026-09-25T12:22:12.434Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 5.1M USDT ($5.1M)  →  Binance 14  0xeae738…
+
+7d: $5912M in · $6220M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/25153"/>
@@ -761,39 +775,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $5815M in · $4977M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-09-24</title>
-    <link href="https://t.me/sgnl_free/25104"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25104</id>
-    <updated>2026-09-25T09:00:09.250Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-09-24
-
-Top 5 whale-cluster events:
-• $785M ← CEX | 25 wallets | 14:23Z
-• $783M ← CEX | 25 wallets | 14:08Z
-• $778M ← CEX | 24 wallets | 13:48Z
-• $778M ← CEX | 24 wallets | 13:53Z
-• $772M ← CEX | 23 wallets | 13:23Z
-
-Alerts fired (24h):
-• Wash trade: 1236
-• Whale-cluster←CEX: 63
-• Whale-cluster→CEX: 61
-• Whale-large←CEX: 24
-• Whale-large→CEX: 20
-• Rug wallet: 1
-
-Historical base rates (last 7d, past events only):
-• Whale-cluster→CEX: 12/98 past events matched hypothesis (12%)
-• Whale-cluster←CEX: 22/80 past events matched hypothesis (28%)
-• Whale-large→CEX: 5/20 past events matched hypothesis (25%)
-• Whale-large←CEX: 3/29 past events matched hypothesis (10%)
-
-Base rates describe past outcomes. Not predictions. Not investment advice.
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
