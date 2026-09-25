@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-25T09:27:05.016Z</updated>
+  <updated>2026-09-25T09:32:05.016Z</updated>
+  <entry>
+    <title>📊 4 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/25109"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25109</id>
+    <updated>2026-09-25T09:31:50.882Z</updated>
+    <summary type="text">📊 4 outflow-heavy observations detected
+Sample: 4 concurrent observations · $218M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 7 moves, $128M off exchanges
+• 🐋 Large withdrawal: $43M ETH ← Binance 14
+• 🐋 Large withdrawal: $27M ETH ← Binance 16
+• 🐋 Large withdrawal: $20M USDT ← Binance 17
+
+Opposing flow: $69M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/25108"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25108</id>
+    <updated>2026-09-25T09:27:17.372Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 16082 ETH ($43.4M)  ←  Binance 14  Binance 16
+
+7d: $5815M in · $4983M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/25107"/>
@@ -771,36 +804,6 @@ Statistical pattern. Not financial advice.
 
 7d: $5845M in · $4932M out · net flow: inflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/25059"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25059</id>
-    <updated>2026-09-25T03:09:57.330Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 626.51 ETH ($1.7M) → 0xbee47b0f…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 33760 moves in 7d · 33791 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xeb66a65b4d0deeae218224f22484de69f80531bc31ddcc39fddf16ffe8fba9e9
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/25058"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25058</id>
-    <updated>2026-09-25T03:09:56.978Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 10200.00 ETH ($27.3M) → 0xb6f2f64e…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 33757 moves in 7d · 33788 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x055de41ae26d5f9a9fec4e5e3da524bfae70324e766094b206c90a6c2f704b73
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
