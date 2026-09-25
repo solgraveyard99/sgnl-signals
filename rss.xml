@@ -5,7 +5,63 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-24T23:58:03.106Z</updated>
+  <updated>2026-09-25T00:03:03.111Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/24999"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24999</id>
+    <updated>2026-09-25T00:00:39.940Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+CMC (Bxdf..JNnY)
+Vol/liquidity: 116x (threshold 50)
+24h: -84.9%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/24998"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24998</id>
+    <updated>2026-09-25T00:00:24.013Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $84,408 | SOL: $117.12
+Market mood: 70/100 🟢 BULLISH
+Solana activity: ACTIVE
+
+Tomorrow&apos;s outlook: Range-bound tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-24</title>
+    <link href="https://t.me/sgnl_free/24997"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-24997</id>
+    <updated>2026-09-25T00:00:04.444Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-24
+
+24h state transitions tracked: 237
+  💀 Died (gone): 146
+  😴 Went dormant: 45
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 Solly: had $0 liquidity · died at age 10.7d
+  💀 LUMIO: had $0 liquidity · died at age 10.7d
+  💀 Barts: had $0 liquidity · died at age 72.2d
+  💀 Nenem: had $0 liquidity · died at age 66.4d
+  💀 KISS: had $0 liquidity · died at age 48.0d
+  💀 ATM: had $0 liquidity · died at age 48.0d
+  💀 clug: had $0 liquidity · died at age 35.7d
+  💀 SCM: had $0 liquidity · died at age 35.7d
+  💀 anthrupad: had $0 liquidity · died at age 35.7d
+  💀 DEEP: had $0 liquidity · died at age 35.7d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 21.3% APY</title>
     <link href="https://t.me/sgnl_free/24996"/>
@@ -718,46 +774,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $5962M in · $4303M out · net flow: inflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/24949"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24949</id>
-    <updated>2026-09-24T14:03:21.389Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 16034 ETH ($42.8M)  →  Binance 16  Binance 14
-
-7d: $5919M in · $4303M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily Market Composite — 2026-09-24</title>
-    <link href="https://t.me/sgnl_free/24948"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24948</id>
-    <updated>2026-09-24T14:00:24.627Z</updated>
-    <summary type="text">📊 Daily Market Composite — 2026-09-24
-Composite score: 60/100
-
-Raw composite reading. No directional interpretation.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/24947"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24947</id>
-    <updated>2026-09-24T14:00:06.258Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 441.00 ETH ($1.2M) → 0x57483d84…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 33642 moves in 7d · 33704 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x167565f4926b9e3c27240becd7ca2c462d62095df0c632baa444398958eaa69f
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
