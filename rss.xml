@@ -5,7 +5,35 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-25T02:13:03.119Z</updated>
+  <updated>2026-09-25T02:18:03.125Z</updated>
+  <entry>
+    <title>🟢 STABLECOIN MINT · USDC</title>
+    <link href="https://t.me/sgnl_free/25045"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25045</id>
+    <updated>2026-09-25T02:17:54.400Z</updated>
+    <summary type="text">🟢 STABLECOIN MINT · USDC
+Supply change 24h: +$995M
+New supply: $76.43B
+
+Net supply expansion event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25044"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25044</id>
+    <updated>2026-09-25T02:15:37.839Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+Jeanjak (CgMT..pump)
+Vol/liquidity: 503x (threshold 50)
+24h: -93.1%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25043"/>
@@ -796,36 +824,5 @@ Base: 21.3%  ·  Rewards: n/a  ·  TVL: $17.7M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/4ae1f481-ae46-5a2c-82a2-13e192180594</summary>
-  </entry>
-  <entry>
-    <title>🟢 CEX BALANCE ACCUMULATION</title>
-    <link href="https://t.me/sgnl_free/24995"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24995</id>
-    <updated>2026-09-24T19:20:49.789Z</updated>
-    <summary type="text">🟢 CEX BALANCE ACCUMULATION
-Monitored reserves changed -100.00% in 24h
-Delta: $-21124M
-New total: $0.00B
-
-Capital leaving CEXs — withdrawals dominate deposits.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/24994"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24994</id>
-    <updated>2026-09-24T18:48:10.772Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 15 → fresh wallet
-Wallet: 0xf819…73aa (tx count unavailable)
-Amount: $5.88M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x2cb61c927456bec98ab122c2bdf6ca376672b8a3d43861a082c5c5c114cc425c
-Wallet: https://etherscan.io/address/0xf8191d98ae98d2f7abdfb63a9b0b812b93c873aa</summary>
   </entry>
 </feed>
