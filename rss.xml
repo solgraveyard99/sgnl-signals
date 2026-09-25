@@ -5,7 +5,58 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-25T01:23:03.120Z</updated>
+  <updated>2026-09-25T01:28:03.116Z</updated>
+  <entry>
+    <title>📊 5 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/25034"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25034</id>
+    <updated>2026-09-25T01:27:50.078Z</updated>
+    <summary type="text">📊 5 outflow-heavy observations detected
+Sample: 5 concurrent observations · $1.23B total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 5 moves, $617M off exchanges
+• 🐋 Large withdrawal: $500M USDT ← Binance 14
+• 🐋 Large withdrawal: $49M ETH ← Binance 14
+• 🐋 Large withdrawal: $48M ETH ← Binance 14
+• 🐋 Large withdrawal: $15M ETH ← Binance 16
+
+Opposing flow: $256M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25033"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25033</id>
+    <updated>2026-09-25T01:25:36.094Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+Jeanjak (CgMT..pump)
+Vol/liquidity: 507x (threshold 50)
+24h: -93.2%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/25032"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25032</id>
+    <updated>2026-09-25T01:23:12.792Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 18076 ETH ($48.7M)  ←  Binance 14  Binance 16
+📤 17688 ETH ($47.7M)  ←  Binance 14  Binance 17
+📤 5500 ETH ($14.8M)  ←  Binance 16  0x96f49d…
+
+7d: $5886M in · $4811M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25031"/>
@@ -778,47 +829,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 39120 moves in 7d · 39176 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0xb4e5212e5d944ee1a6f76fcb322454af5c8ef0c48680b65d920694f4021e4728
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/24984"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24984</id>
-    <updated>2026-09-24T17:18:13.873Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 3181 ETH ($8.5M)  →  Binance 14  0xeae738…
-
-7d: $5941M in · $4322M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>☀️ SGNL Midday Check-in</title>
-    <link href="https://t.me/sgnl_free/24983"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24983</id>
-    <updated>2026-09-24T17:00:28.033Z</updated>
-    <summary type="text">☀️ SGNL Midday Check-in
-BTC: $84,618 | SOL: $117.41
-Market mood: 70/100 🟢 BULLISH
-Scanned ? tokens · Entered 0 trades today
-
-Stay sharp. Full signals in SGNL VIP 👆</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/24982"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24982</id>
-    <updated>2026-09-24T16:59:32.031Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 499.18 ETH ($1.3M) ← 0x0b2fdf41…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 39110 moves in 7d · 39165 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x1cbe0db0979814cad9753f35b15f4c093da0e52fa309ebaeeea8827af517665e
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
