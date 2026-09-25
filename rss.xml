@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-25T06:37:05.010Z</updated>
+  <updated>2026-09-25T06:42:05.012Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/25084"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25084</id>
+    <updated>2026-09-25T06:37:13.335Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 9.3M USDT ($9.3M)  ←  Binance 15  0xed9b63…
+
+7d: $5875M in · $4972M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
     <link href="https://t.me/sgnl_free/25083"/>
@@ -793,25 +807,5 @@ Statistical pattern. Not financial advice.
 
 Tx: https://etherscan.io/tx/0x1260fff3a197812901e0fd68b6927a6788181c162e6e5c2a3ce64501e5b3d64a
 Wallet: https://etherscan.io/address/0xdfd5293d8e347dfe59e90efd55b2956a1343963d</summary>
-  </entry>
-  <entry>
-    <title>📊 5 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/25034"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25034</id>
-    <updated>2026-09-25T01:27:50.078Z</updated>
-    <summary type="text">📊 5 outflow-heavy observations detected
-Sample: 5 concurrent observations · $1.23B total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 5 moves, $617M off exchanges
-• 🐋 Large withdrawal: $500M USDT ← Binance 14
-• 🐋 Large withdrawal: $49M ETH ← Binance 14
-• 🐋 Large withdrawal: $48M ETH ← Binance 14
-• 🐋 Large withdrawal: $15M ETH ← Binance 16
-
-Opposing flow: $256M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
