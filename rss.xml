@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-25T06:27:05.009Z</updated>
+  <updated>2026-09-25T06:32:05.011Z</updated>
+  <entry>
+    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
+    <link href="https://t.me/sgnl_free/25083"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25083</id>
+    <updated>2026-09-25T06:31:52.695Z</updated>
+    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
+
+24h inflow: 67.8K ETH (~2,119 new validators)
+USD value: $181.5M
+Rate: 2.6× 30-day baseline
+ETH price: $2677
+
+Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/25082"/>
@@ -799,20 +813,5 @@ Top observations (by size):
 Opposing flow: $256M (filtered — minority)
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25033"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25033</id>
-    <updated>2026-09-25T01:25:36.094Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-Jeanjak (CgMT..pump)
-Vol/liquidity: 507x (threshold 50)
-24h: -93.2%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
