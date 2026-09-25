@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-25T02:08:03.126Z</updated>
+  <updated>2026-09-25T02:13:03.119Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25043"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25043</id>
+    <updated>2026-09-25T02:10:40.158Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+CMC (Bxdf..JNnY)
+Vol/liquidity: 141x (threshold 50)
+24h: -88.6%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25042"/>
@@ -812,20 +827,5 @@ Statistical pattern. Not financial advice.
 
 Tx: https://etherscan.io/tx/0x2cb61c927456bec98ab122c2bdf6ca376672b8a3d43861a082c5c5c114cc425c
 Wallet: https://etherscan.io/address/0xf8191d98ae98d2f7abdfb63a9b0b812b93c873aa</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/24993"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-24993</id>
-    <updated>2026-09-24T18:43:13.232Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 14060 ETH ($37.8M)  →  Binance 19  Binance 14
-📤 2194 ETH ($5.9M)  ←  Binance 15  0xf8191d…
-
-7d: $5857M in · $4362M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
