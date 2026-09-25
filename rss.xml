@@ -5,7 +5,55 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-25T08:57:05.015Z</updated>
+  <updated>2026-09-25T09:02:05.021Z</updated>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-09-24</title>
+    <link href="https://t.me/sgnl_free/25104"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25104</id>
+    <updated>2026-09-25T09:00:09.250Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-09-24
+
+Top 5 whale-cluster events:
+• $785M ← CEX | 25 wallets | 14:23Z
+• $783M ← CEX | 25 wallets | 14:08Z
+• $778M ← CEX | 24 wallets | 13:48Z
+• $778M ← CEX | 24 wallets | 13:53Z
+• $772M ← CEX | 23 wallets | 13:23Z
+
+Alerts fired (24h):
+• Wash trade: 1236
+• Whale-cluster←CEX: 63
+• Whale-cluster→CEX: 61
+• Whale-large←CEX: 24
+• Whale-large→CEX: 20
+• Rug wallet: 1
+
+Historical base rates (last 7d, past events only):
+• Whale-cluster→CEX: 12/98 past events matched hypothesis (12%)
+• Whale-cluster←CEX: 22/80 past events matched hypothesis (28%)
+• Whale-large→CEX: 5/20 past events matched hypothesis (25%)
+• Whale-large←CEX: 3/29 past events matched hypothesis (10%)
+
+Base rates describe past outcomes. Not predictions. Not investment advice.
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/25103"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25103</id>
+    <updated>2026-09-25T08:57:12.423Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 7.0M USDT ($7.0M)  ←  Binance 15  0x43fed7…
+
+7d: $5852M in · $4975M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/25102"/>
@@ -770,35 +818,5 @@ Vol/liquidity: 144x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25054"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25054</id>
-    <updated>2026-09-25T03:00:36.044Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-PROM (EFW3..VoB9)
-Vol/liquidity: 106x (threshold 50)
-24h: -17.3%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25053"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25053</id>
-    <updated>2026-09-25T02:59:28.794Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 703.20 ETH ($1.9M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 39276 moves in 7d · 39292 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xf384a935e128425d06b6dfd1090a74f45975e5c12ca1135481048da24bd8e258
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
