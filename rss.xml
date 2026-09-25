@@ -5,7 +5,50 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-25T05:58:03.131Z</updated>
+  <updated>2026-09-25T06:02:05.184Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-09-24</title>
+    <link href="https://t.me/sgnl_free/25080"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25080</id>
+    <updated>2026-09-25T06:00:46.914Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-09-24
+
+Last 24h cohort: 8,017 launches
+  Graduated to Raydium: 531 (6.623%)
+  Timed out at 24h: 7,486 (93.377%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.6 min
+  Max observed today: 3.8 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (137 days):
+  Cohort: 3,374,353
+  Total graduations: 25,903 (0.7676%)
+  Total timeouts: 3,348,450 (99.2324%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/25079"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25079</id>
+    <updated>2026-09-25T06:00:07.191Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0002 SOL
+• 99th: 0.0175 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/25078"/>
@@ -768,36 +811,6 @@ Statistical pattern. Not financial advice.</summary>
 CMC (Bxdf..JNnY)
 Vol/liquidity: 139x (threshold 50)
 24h: -88.4%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25030"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25030</id>
-    <updated>2026-09-25T01:15:48.812Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-Jeanjak (CgMT..pump)
-Vol/liquidity: 502x (threshold 50)
-24h: -93.1%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25029"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25029</id>
-    <updated>2026-09-25T01:10:35.969Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-CMC (Bxdf..JNnY)
-Vol/liquidity: 133x (threshold 50)
-24h: -87.7%
 
 Statistical pattern only. No accusation.
 
