@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-26T00:47:05.060Z</updated>
+  <updated>2026-09-26T00:52:05.062Z</updated>
+  <entry>
+    <title>📊 4 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/25270"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25270</id>
+    <updated>2026-09-26T00:51:51.861Z</updated>
+    <summary type="text">📊 4 inflow-heavy observations detected
+Sample: 4 concurrent observations · $245M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 5 moves, $129M to exchanges
+• 🐋 Large deposit: $41M USDT → Binance 16
+• 🐋 Large deposit: $38M ETH → Binance 19
+• 🐋 Large deposit: $37M ETH → Binance 16
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/25269"/>
@@ -789,21 +806,6 @@ Market-maker wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 3272 moves in 7d · 3272 in 30d.
 Jump Trading — large altcoin flows
 Tx: https://etherscan.io/tx/0xb6c9fa27a86269fbe2510856c9aebf4b16ad07bd90a9608e6af06b394e488f2d
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25220"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25220</id>
-    <updated>2026-09-25T17:23:24.966Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 3,062,073 ENA ($3.1M) ← 0xee845948…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 40411 moves in 7d · 40417 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xae833c6001054dad47ec1a139ae23d8483d4859f2ac222d054bafced4af76fc0
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
