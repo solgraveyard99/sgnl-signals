@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-26T17:57:05.108Z</updated>
+  <updated>2026-09-26T18:02:05.109Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-09-25</title>
+    <link href="https://t.me/sgnl_free/25347"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25347</id>
+    <updated>2026-09-26T18:01:11.859Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-25
+
+Yesterday&apos;s cohort: 33,530 launches
+  🟢 STRONG (score 8+): 555 (1.66%)
+  🟡 MIXED (score 5-7): 10,540 (31.43%)
+  🔴 WEAK  (score 0-4): 22,435 (66.91%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG TUGGIN mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG OHMINU mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG BIP mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG CATE mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG BONGO mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG SHAGGY mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG MMM mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG BillyH mcap=73 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG PM mcap=75 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG GOCAT mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+
+✓grad = graduated to Raydium within 24h (521 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/25346"/>
@@ -791,20 +821,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25297"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25297</id>
-    <updated>2026-09-26T02:24:06.497Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-STAN (Erw6..pump)
-Vol/liquidity: 236x (threshold 50)
-24h: -95.7%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
