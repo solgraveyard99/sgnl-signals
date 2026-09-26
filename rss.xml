@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-26T00:07:05.054Z</updated>
+  <updated>2026-09-26T00:12:05.062Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25256"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25256</id>
+    <updated>2026-09-26T00:08:05.941Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+OnlyJeans (7tPk..pump)
+Vol/liquidity: 512x (threshold 50)
+24h: -97.1%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25255"/>
@@ -774,24 +789,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $5759M in · $6201M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/25206"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25206</id>
-    <updated>2026-09-25T16:12:15.592Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 14 → fresh wallet
-Wallet: 0x56ed…b17f (tx count unavailable)
-Amount: $41.11M USDT
-Tier: TIER3
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x2685f8ac172e5a99cac4f9ee6a77ce070c2698fbbd643cb3f68b39b32a2fb36d
-Wallet: https://etherscan.io/address/0x56eddb7aa87536c09ccc2793473599fd21a8b17f</summary>
   </entry>
 </feed>
