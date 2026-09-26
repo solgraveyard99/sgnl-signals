@@ -5,7 +5,50 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-26T16:02:05.095Z</updated>
+  <updated>2026-09-26T16:07:05.098Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/25342"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25342</id>
+    <updated>2026-09-26T16:03:49.440Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📥 41,161,043 USDT ($41.2M) from Binance 14 (withdrawal)
+Market-maker wallet · withdrawal from CEX Binance 14. Descriptive observation.
+Wallet activity: 33151 moves in 7d · 33205 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0xd6628409d96ebf0b3e07fb7271c4ec2236b85d3ef573afdbf3fbecd0403bf6a7
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/25341"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25341</id>
+    <updated>2026-09-26T16:03:25.108Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📤 41,161,043 USDT ($41.2M) → 0x9696f59e…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 42517 moves in 7d · 42575 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xd6628409d96ebf0b3e07fb7271c4ec2236b85d3ef573afdbf3fbecd0403bf6a7
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🔴 STABLECOIN BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/25340"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25340</id>
+    <updated>2026-09-26T16:02:07.210Z</updated>
+    <summary type="text">🔴 STABLECOIN BURN · USDC
+Supply change 24h: -$1002M
+New supply: $75.43B
+
+Net supply contraction event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚪ Market Posture · neutral</title>
     <link href="https://t.me/sgnl_free/25339"/>
@@ -772,47 +815,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25292"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25292</id>
-    <updated>2026-09-26T02:09:19.341Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-merci (9NPm..pump)
-Vol/liquidity: 139x (threshold 50)
-24h: -58.0%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25291"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25291</id>
-    <updated>2026-09-26T02:04:06.180Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-STAN (Erw6..pump)
-Vol/liquidity: 236x (threshold 50)
-24h: -95.7%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>🟢 CEX BALANCE ACCUMULATION</title>
-    <link href="https://t.me/sgnl_free/25290"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25290</id>
-    <updated>2026-09-26T02:03:44.692Z</updated>
-    <summary type="text">🟢 CEX BALANCE ACCUMULATION
-Monitored reserves changed -84.47% in 24h
-Delta: $-16941M
-New total: $3.11B
-
-Capital leaving CEXs — withdrawals dominate deposits.</summary>
   </entry>
 </feed>
