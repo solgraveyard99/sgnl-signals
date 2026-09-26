@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-26T01:57:05.060Z</updated>
+  <updated>2026-09-26T02:02:05.062Z</updated>
+  <entry>
+    <title>🔴 STABLECOIN BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/25287"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25287</id>
+    <updated>2026-09-26T02:01:51.549Z</updated>
+    <summary type="text">🔴 STABLECOIN BURN · USDC
+Supply change 24h: -$971M
+New supply: $75.47B
+
+Net supply contraction event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/25286"/>
@@ -807,19 +820,5 @@ How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume
 Companion to morning survival report (06:00 UTC).
 Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
 DYOR.</summary>
-  </entry>
-  <entry>
-    <title>⚪ Market Posture · neutral</title>
-    <link href="https://t.me/sgnl_free/25237"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25237</id>
-    <updated>2026-09-25T20:01:50.882Z</updated>
-    <summary type="text">⚪ Market Posture · neutral
-Bias score: +0
-
-2 active signals (top 5 by size):
-• 🐋 Whale deposit cluster: 14 moves, $244M to exchanges
-• 🐋 Whale withdrawal cluster: 12 moves, $242M off exchanges
-
-Updated every 4h · SGNL signal aggregator</summary>
   </entry>
 </feed>
