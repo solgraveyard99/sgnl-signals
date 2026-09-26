@@ -5,7 +5,31 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-26T05:57:05.073Z</updated>
+  <updated>2026-09-26T06:02:05.082Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-09-25</title>
+    <link href="https://t.me/sgnl_free/25308"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25308</id>
+    <updated>2026-09-26T06:00:48.283Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-09-25
+
+Last 24h cohort: 7,778 launches
+  Graduated to Raydium: 521 (6.698%)
+  Timed out at 24h: 7,257 (93.302%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.6 min
+  Max observed today: 3.9 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (138 days):
+  Cohort: 3,407,190
+  Total graduations: 26,371 (0.7740%)
+  Total timeouts: 3,380,819 (99.2260%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/25307"/>
@@ -795,20 +819,5 @@ Statistical pattern only. No accusation.
 7d: $5418M in · $6087M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25258"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25258</id>
-    <updated>2026-09-26T00:14:14.830Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-OnlyJeans (7tPk..pump)
-Vol/liquidity: 512x (threshold 50)
-24h: -97.1%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
