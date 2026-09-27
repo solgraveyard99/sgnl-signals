@@ -5,7 +5,52 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T14:57:05.166Z</updated>
+  <updated>2026-09-27T15:02:05.167Z</updated>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 19.3% APY</title>
+    <link href="https://t.me/sgnl_free/25468"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25468</id>
+    <updated>2026-09-27T15:01:54.391Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 19.3% APY
+veranta / USDC on Base
+Base: 19.3%  ·  Rewards: n/a  ·  TVL: $9.8M
+
+💡 +12.3% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
+  </entry>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-26</title>
+    <link href="https://t.me/sgnl_free/25467"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25467</id>
+    <updated>2026-09-27T15:00:18.183Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-26
+
+Tokens with liquidity drop ≥50%: 20
+Tokens with liquidity drop ≥90%: 13
+Tokens with liquidity drop ≥75%: 15
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL e/cat: -94.9%  $67.8K → $3.4K  in 1.3h
+  🚨 CRITICAL XPump: -94.8%  $49.5K → $2.6K  in 35m
+  🚨 CRITICAL PCAT: -94.4%  $48.0K → $2.7K  in 2.2h
+  🚨 CRITICAL Paidrop: -94.1%  $44.4K → $2.6K  in 35m
+  🚨 CRITICAL x/acc: -94.1%  $46.9K → $2.8K  in 25m
+  🚨 CRITICAL MEMECARDS: -93.7%  $74.5K → $4.7K  in 4.2h
+  🚨 CRITICAL BINK: -92.9%  $36.1K → $2.6K  in 4.2h
+  🚨 CRITICAL C@T: -92.8%  $34.0K → $2.4K  in 1.0h
+  🚨 CRITICAL MCAT: -92.3%  $36.2K → $2.8K  in 15m
+  🚨 CRITICAL XMONEY: -92.3%  $34.1K → $2.6K  in 15m
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/25466"/>
@@ -778,52 +823,5 @@ Tx: https://etherscan.io/tx/0xaf3806579f21ac8555693a1bd6d3e5bcb3a44d7f2fa49be791
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25418"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25418</id>
-    <updated>2026-09-27T03:03:24.935Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 14384.99 ETH ($38.8M) → 0x9696f59e…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 43014 moves in 7d · 43070 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xaf3806579f21ac8555693a1bd6d3e5bcb3a44d7f2fa49be791557f88296d8e88
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
-    <link href="https://t.me/sgnl_free/25417"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25417</id>
-    <updated>2026-09-27T03:02:07.410Z</updated>
-    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
-📅 2026-09-26
-
-⏱ Last 24 hours
-🚀 Futures (Hyperliquid): $7.76 · 10 trades · WR 60%
-⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
-🐋 Solana Momentum: +52.76% · 6 trades · WR 67%
-
-📆 Last 7 days
-🚀 Futures: $13.30 · 62 trades · WR 58%
-🐋 Solana Momentum: -1594.01% · 40 trades · WR 28%
-⚙️ Other Strategy: +0.00% · 4 trades · WR 0%
-
-📚 Cumulative since 2026-04-06
-🚀 Futures: $52.52 · 1332 trades · WR 52%
-🐋 Solana Momentum: -7922.68% · 933 trades · WR 34%
-🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
-🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
-⚙️ Other Strategy: +0.00% · 69 trades · WR 0%
-⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
-⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
-
-Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
-Not financial advice. Data for decision support.
-
-📲 t.me/sgnl_free</summary>
   </entry>
 </feed>
