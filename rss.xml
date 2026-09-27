@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T19:02:05.172Z</updated>
+  <updated>2026-09-27T19:07:05.176Z</updated>
+  <entry>
+    <title>🟢 CEX BALANCE ACCUMULATION</title>
+    <link href="https://t.me/sgnl_free/25480"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25480</id>
+    <updated>2026-09-27T19:04:47.945Z</updated>
+    <summary type="text">🟢 CEX BALANCE ACCUMULATION
+Monitored reserves changed -100.00% in 24h
+Delta: $-19153M
+New total: $0.00B
+
+Capital leaving CEXs — withdrawals dominate deposits.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/25479"/>
@@ -803,29 +815,5 @@ Tx: https://etherscan.io/tx/0xeb7a4da3c626965092dc2c8e268dcc36b02d06fdc4d3b77908
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Pump.fun Daily Survival Report — 2026-09-26</title>
-    <link href="https://t.me/sgnl_free/25430"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25430</id>
-    <updated>2026-09-27T06:00:57.693Z</updated>
-    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-09-26
-
-Last 24h cohort: 11,680 launches
-  Graduated to Raydium: 367 (3.142%)
-  Timed out at 24h: 11,313 (96.858%)
-
-When tokens DO graduate, they graduate fast:
-  Median time-to-graduation: 1.4 min
-  Max observed today: 3.7 min
-  Graduations after 6 min: 0
-
-Cumulative since 2026-05-08 (139 days):
-  Cohort: 3,444,651
-  Total graduations: 26,769 (0.7771%)
-  Total timeouts: 3,417,882 (99.2229%)
-
-Source: Pump.fun on-chain + DexScreener
-Survival ≠ profitability. DYOR.</summary>
   </entry>
 </feed>
