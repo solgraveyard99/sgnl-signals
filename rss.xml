@@ -5,7 +5,17 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T18:37:05.172Z</updated>
+  <updated>2026-09-27T18:42:05.168Z</updated>
+  <entry>
+    <title>📥 DEPOSIT · Binance 18</title>
+    <link href="https://t.me/sgnl_free/25477"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25477</id>
+    <updated>2026-09-27T18:37:12.610Z</updated>
+    <summary type="text">📥 DEPOSIT · Binance 18
+42M USDT  ($42.0M)  →  Binance 14
+⚪ Routine deposit
+Tx: https://etherscan.io/tx/0xd981c137a67b7e6caa95c76cfa92bdf9d718f6a1d3c8ae8ed4b86cb3a860b520</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/25476"/>
@@ -820,24 +830,5 @@ Statistical pattern. Not financial advice.
 
 Tx: https://etherscan.io/tx/0xc2678a213ba21c0104c1d3f3eac4e18bd802a012ff32539770a18e47dc3f374e
 Wallet: https://etherscan.io/address/0xcc3dd4b2c42c0f56d02da0e6b775ac6ee1390f72</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/25427"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25427</id>
-    <updated>2026-09-27T04:11:14.252Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0021 SOL
-• 99th: 0.0102 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
