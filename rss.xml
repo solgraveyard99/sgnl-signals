@@ -5,7 +5,59 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T02:42:05.129Z</updated>
+  <updated>2026-09-27T02:47:05.130Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/25413"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25413</id>
+    <updated>2026-09-27T02:46:05.945Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0002 SOL
+• 99th: 0.0113 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/25412"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25412</id>
+    <updated>2026-09-27T02:43:09.290Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0001 SOL
+• 99th: 0.0267 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/25411"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25411</id>
+    <updated>2026-09-27T02:42:13.392Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 5.0M USDT ($5.0M)  ←  Binance 17  0x17dc4d…
+
+7d: $5330M in · $5856M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25410"/>
@@ -723,59 +775,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/25363"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25363</id>
-    <updated>2026-09-27T00:02:22.001Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Call — strike $2700 — expiry 28SEP26
-Direction: BUY
-Notional: ~$804K
-Contracts: 300
-Implied vol: 29.5%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/25362"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25362</id>
-    <updated>2026-09-27T00:02:21.440Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $87500 — expiry 29SEP26
-Direction: BUY
-Notional: ~$692K
-Contracts: 8.2
-Implied vol: 31.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/25361"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25361</id>
-    <updated>2026-09-27T00:02:21.076Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $84000 — expiry 28SEP26
-Direction: BUY
-Notional: ~$1021K
-Contracts: 12.1
-Implied vol: 17.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
