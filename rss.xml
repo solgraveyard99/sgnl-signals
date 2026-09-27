@@ -5,7 +5,36 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T03:07:05.134Z</updated>
+  <updated>2026-09-27T03:12:05.134Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25422"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25422</id>
+    <updated>2026-09-27T03:09:37.792Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+LOTTO (B8A4..pump)
+Vol/liquidity: 143x (threshold 50)
+24h: -88.9%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/25421"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25421</id>
+    <updated>2026-09-27T03:07:12.035Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 14385 ETH ($38.8M)  →  Binance 18  Binance 14
+
+7d: $5300M in · $5861M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25420"/>
@@ -765,30 +794,5 @@ Statistical pattern only. No accusation.
 14390 ETH  ($38.8M)  →  Binance 14
 ⚪ Routine deposit
 Tx: https://etherscan.io/tx/0x1ab6d0c851cbce61a06fbf2d037502ec73542ca8e9391bb8f9b5968ef8db45dc</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25372"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25372</id>
-    <updated>2026-09-27T00:14:36.766Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-Paidrop (Gs8f..pump)
-Vol/liquidity: 300x (threshold 50)
-24h: -97.2%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>📤 WITHDRAWAL · Binance 16</title>
-    <link href="https://t.me/sgnl_free/25371"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25371</id>
-    <updated>2026-09-27T00:12:12.056Z</updated>
-    <summary type="text">📤 WITHDRAWAL · Binance 16
-2004 ETH  ($5.4M)  ←  0xf8191d…
-⚪ Routine withdrawal
-Tx: https://etherscan.io/tx/0x1ff8751765859072a1ae1c29db327b5d850f0197e99fa307ebec1601a7bf9322</summary>
   </entry>
 </feed>
