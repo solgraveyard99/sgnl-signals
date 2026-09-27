@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T01:07:05.124Z</updated>
+  <updated>2026-09-27T01:12:05.122Z</updated>
+  <entry>
+    <title>📊 3 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/25391"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25391</id>
+    <updated>2026-09-27T01:12:00.177Z</updated>
+    <summary type="text">📊 3 inflow-heavy observations detected
+Sample: 3 concurrent observations · $171M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 4 moves, $94M to exchanges
+• 🐋 Large deposit: $39M ETH → Binance 17
+• 🐋 Large deposit: $39M ETH → Binance 15
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25390"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25390</id>
+    <updated>2026-09-27T01:09:36.760Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+LOTTO (B8A4..pump)
+Vol/liquidity: 142x (threshold 50)
+24h: -88.8%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/25389"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25389</id>
+    <updated>2026-09-27T01:07:12.540Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 DEPOSIT CLUSTER — 4 large deposits in 6h totaling $94M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
+
+📥 8.0M USDT ($8.0M)  →  Binance 14  0x0b2fdf…
+📥 8.0M USDT ($8.0M)  →  Binance 14  0x0b2fdf…
+
+7d: $5345M in · $5837M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25388"/>
@@ -780,47 +826,5 @@ Tx: https://etherscan.io/tx/0xd6628409d96ebf0b3e07fb7271c4ec2236b85d3ef573afdbf3
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25341"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25341</id>
-    <updated>2026-09-26T16:03:25.108Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 41,161,043 USDT ($41.2M) → 0x9696f59e…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 42517 moves in 7d · 42575 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xd6628409d96ebf0b3e07fb7271c4ec2236b85d3ef573afdbf3fbecd0403bf6a7
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/25340"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25340</id>
-    <updated>2026-09-26T16:02:07.210Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDC
-Supply change 24h: -$1002M
-New supply: $75.43B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚪ Market Posture · neutral</title>
-    <link href="https://t.me/sgnl_free/25339"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25339</id>
-    <updated>2026-09-26T16:01:51.597Z</updated>
-    <summary type="text">⚪ Market Posture · neutral
-Bias score: +0
-
-2 active signals (top 5 by size):
-• 🐋 Whale deposit cluster: 3 moves, $111M to exchanges
-• 🐋 Whale withdrawal cluster: 5 moves, $74M off exchanges
-
-Updated every 4h · SGNL signal aggregator</summary>
   </entry>
 </feed>
