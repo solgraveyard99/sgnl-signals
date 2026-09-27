@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T00:47:05.130Z</updated>
+  <updated>2026-09-27T00:52:05.123Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/25384"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25384</id>
+    <updated>2026-09-27T00:47:17.787Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0001 SOL
+• 75th: 0.0010 SOL
+• 95th: 0.0025 SOL
+• 99th: 0.0245 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/25383"/>
@@ -807,16 +826,5 @@ Base: 20.0%  ·  Rewards: n/a  ·  TVL: $9.8M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily Market Composite — 2026-09-26</title>
-    <link href="https://t.me/sgnl_free/25334"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25334</id>
-    <updated>2026-09-26T14:00:24.947Z</updated>
-    <summary type="text">📊 Daily Market Composite — 2026-09-26
-Composite score: 70/100
-
-Raw composite reading. No directional interpretation.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
