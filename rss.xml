@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T02:12:05.127Z</updated>
+  <updated>2026-09-27T02:17:05.127Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25406"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25406</id>
+    <updated>2026-09-27T02:14:49.406Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+manifest (8vdJ..pump)
+Vol/liquidity: 909x (threshold 50)
+24h: -91.6%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25405"/>
@@ -775,17 +790,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚪ Market Posture · neutral</title>
-    <link href="https://t.me/sgnl_free/25356"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25356</id>
-    <updated>2026-09-27T00:02:01.405Z</updated>
-    <summary type="text">⚪ Market Posture · neutral
-Bias score: +0
-
-No active signals. Quiet tape.
-
-Updated every 4h · SGNL signal aggregator</summary>
   </entry>
 </feed>
