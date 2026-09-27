@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T00:32:05.126Z</updated>
+  <updated>2026-09-27T00:37:05.122Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/25379"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25379</id>
+    <updated>2026-09-27T00:32:08.628Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $86000 — expiry 30SEP26
+Direction: BUY
+Notional: ~$531K
+Contracts: 6.3
+Implied vol: 27.5%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25378"/>
@@ -788,21 +806,6 @@ Simple transfer cost now: ~$0.0027</summary>
 
 7d: $5405M in · $5948M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/25329"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25329</id>
-    <updated>2026-09-26T13:23:48.867Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 6,098,788 USDT ($6.1M) → 0x549d8353…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 33265 moves in 7d · 33316 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x6873490d44fdc6a338c48c961f04d20fd80ca24aad72b58bd8d3930aad733bfe
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
