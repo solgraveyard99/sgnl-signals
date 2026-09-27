@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T08:02:05.147Z</updated>
+  <updated>2026-09-27T08:07:05.141Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · SOL</title>
+    <link href="https://t.me/sgnl_free/25436"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25436</id>
+    <updated>2026-09-27T08:02:09.783Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
+Spread: 0.0082%/hr  (71.6% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0071%/hr)
+🔴 SHORT on BingX  (funding 0.0011%/hr)
+
+Expected net: ~67% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>⚡ EXTREME FUNDING · SOL on Gate</title>
     <link href="https://t.me/sgnl_free/25435"/>
@@ -793,15 +808,5 @@ Tx: https://etherscan.io/tx/0xb18782bed2669a75e442d35df8dfd07fa628b6c804ec22dcb7
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📥 DEPOSIT · Binance 17</title>
-    <link href="https://t.me/sgnl_free/25386"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25386</id>
-    <updated>2026-09-27T00:52:15.557Z</updated>
-    <summary type="text">📥 DEPOSIT · Binance 17
-14411 ETH  ($38.8M)  →  Binance 14
-⚪ Routine deposit
-Tx: https://etherscan.io/tx/0x96556eeb336233ac102805b27948037ee097808f95b15317cd3296146d92863a</summary>
   </entry>
 </feed>
