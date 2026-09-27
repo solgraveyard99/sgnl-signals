@@ -5,7 +5,36 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T02:07:05.124Z</updated>
+  <updated>2026-09-27T02:12:05.127Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25405"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25405</id>
+    <updated>2026-09-27T02:09:36.779Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+LOTTO (B8A4..pump)
+Vol/liquidity: 135x (threshold 50)
+24h: -88.0%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/25404"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25404</id>
+    <updated>2026-09-27T02:07:12.657Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 2220 ETH ($6.0M)  ←  Binance 17  0xf8191d…
+
+7d: $5330M in · $5850M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25403"/>
@@ -758,44 +787,5 @@ Bias score: +0
 No active signals. Quiet tape.
 
 Updated every 4h · SGNL signal aggregator</summary>
-  </entry>
-  <entry>
-    <title>📊 Week in Review · ending 2026-09-27</title>
-    <link href="https://t.me/sgnl_free/25355"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25355</id>
-    <updated>2026-09-27T00:02:01.056Z</updated>
-    <summary type="text">📊 Week in Review · ending 2026-09-27
-
-🐋 Whale Flows (7d)
-525 large moves
-Net CEX flow (7d): +$564M (positive = withdrawn from CEXs)
-Biggest withdrawal: $1000M USDT from Binance Cold 8
-
-⚡ Perp Funding Regime
-BTC avg: 0.0013%/hr (~11% APR)
-ETH avg: 0.0014%/hr (~12% APR)
-SOL avg: 0.0013%/hr (~11% APR)
-
-💰 Best Yields Right Now
-Stables: 20.1% — veranta/USDC @ Base
-ETH/LST: 6.1% — fusion-by-ipor/WETH @ Ethereum
-
-🔭 Week Ahead
-Quiet calendar — no major events tracked
-
-Not financial advice · SGNL weekly recap</summary>
-  </entry>
-  <entry>
-    <title>🌙 SGNL Evening Wrap</title>
-    <link href="https://t.me/sgnl_free/25354"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25354</id>
-    <updated>2026-09-27T00:00:24.850Z</updated>
-    <summary type="text">🌙 SGNL Evening Wrap
-BTC: $84,412 | SOL: $121.25
-Market mood: 70/100 🟢 BULLISH
-Solana activity: ACTIVE
-
-Tomorrow&apos;s outlook: Range-bound tomorrow
-See you at 8AM for the morning brief ☕</summary>
   </entry>
 </feed>
