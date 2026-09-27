@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T07:57:05.144Z</updated>
+  <updated>2026-09-27T08:02:05.147Z</updated>
+  <entry>
+    <title>⚡ EXTREME FUNDING · SOL on Gate</title>
+    <link href="https://t.me/sgnl_free/25435"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25435</id>
+    <updated>2026-09-27T08:01:53.887Z</updated>
+    <summary type="text">⚡ EXTREME FUNDING · SOL on Gate
+Price: $124.18  ·  Funding: -0.0071%/hr (-61.9% APR)
+Prior 7d: this funding reading is in the 0th percentile for SOL on Gate. Descriptive only.
+
+🟢 Shorts paying longs on Gate. Statistical pattern only. Not investment advice.
+monitor mode · no orders placed</summary>
+  </entry>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-09-26</title>
+    <link href="https://t.me/sgnl_free/25434"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25434</id>
+    <updated>2026-09-27T08:00:16.267Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-09-26
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 2 total)
+USDT 23921.38 → 167.1562 0x7fc665…
+0x4c9edd… 2.45 → 2.5505 USDT
+
+🌉 Cross-chain (Wormhole, 24h)
+$12.1M across 10757 txs · top route Solana → Solana
+
+📈 Velocity alerts (24h)
+figr_heloc vol 3.89x
+ena rank +14
+paxg rank -5
+qnt vol 6.51x
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/25433"/>
@@ -767,43 +803,5 @@ Statistical pattern. Not financial advice.</summary>
 14411 ETH  ($38.8M)  →  Binance 14
 ⚪ Routine deposit
 Tx: https://etherscan.io/tx/0x96556eeb336233ac102805b27948037ee097808f95b15317cd3296146d92863a</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/25385"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25385</id>
-    <updated>2026-09-27T00:52:15.186Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 15 → fresh wallet
-Wallet: 0xedc7…9c93 (tx count unavailable)
-Amount: $2.79M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x21918a9dde30025cf7ee2ce7c7864c1ed10e9af952dd588074873170ed9840a8
-Wallet: https://etherscan.io/address/0xedc7001e99a37c3d23b5f7974f837387e09f9c93</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/25384"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25384</id>
-    <updated>2026-09-27T00:47:17.787Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0001 SOL
-• 75th: 0.0010 SOL
-• 95th: 0.0025 SOL
-• 99th: 0.0245 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
