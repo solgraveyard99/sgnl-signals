@@ -5,7 +5,31 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T05:57:05.131Z</updated>
+  <updated>2026-09-27T06:02:05.137Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-09-26</title>
+    <link href="https://t.me/sgnl_free/25430"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25430</id>
+    <updated>2026-09-27T06:00:57.693Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-09-26
+
+Last 24h cohort: 11,680 launches
+  Graduated to Raydium: 367 (3.142%)
+  Timed out at 24h: 11,313 (96.858%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.4 min
+  Max observed today: 3.7 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (139 days):
+  Cohort: 3,444,651
+  Total graduations: 26,769 (0.7771%)
+  Total timeouts: 3,417,882 (99.2229%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/25429"/>
@@ -785,23 +809,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/25380"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25380</id>
-    <updated>2026-09-27T00:37:06.125Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $86000 — expiry 30SEP26
-Direction: BUY
-Notional: ~$506K
-Contracts: 6
-Implied vol: 27.4%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
