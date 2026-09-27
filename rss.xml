@@ -5,7 +5,69 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T08:57:05.145Z</updated>
+  <updated>2026-09-27T09:02:05.154Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-09-26</title>
+    <link href="https://t.me/sgnl_free/25443"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25443</id>
+    <updated>2026-09-27T09:00:18.399Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-26
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 40
+Median peak spike (top 50): 16.3x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump QUACC: 24.0x  vol1h=$773.6K  price1h +566.0%
+  🟢 pump PAIDBOT: 24.0x  vol1h=$1.14M  price1h +458.0%
+  🟢 pump H/ACC: 24.0x  vol1h=$832.5K  price1h +321.0%
+  🟢 pump ASH: 24.0x  vol1h=$61.3K  price1h +315.0%
+  🟢 pump e/cat: 24.0x  vol1h=$599.2K  price1h +295.0%
+  🟢 pump HEISENCAT: 24.0x  vol1h=$474.3K  price1h +223.0%
+  🟢 pump PCAT: 24.0x  vol1h=$790.5K  price1h +219.0%
+  🟢 pump x/acc: 24.0x  vol1h=$715.9K  price1h +214.0%
+  🟢 pump XPump: 24.0x  vol1h=$766.2K  price1h +210.0%
+  🟢 pump Paidrop: 24.0x  vol1h=$626.9K  price1h +181.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-09-26</title>
+    <link href="https://t.me/sgnl_free/25442"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25442</id>
+    <updated>2026-09-27T09:00:02.622Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-09-26
+
+Top 5 whale-cluster events:
+• $115M ← CEX | 6 wallets | 17:27Z
+• $115M ← CEX | 6 wallets | 16:07Z
+• $111M → CEX | 3 wallets | 12:37Z
+• $111M → CEX | 3 wallets | 11:07Z
+• $111M → CEX | 3 wallets | 12:17Z
+
+Alerts fired (24h):
+• Wash trade: 3141
+• Whale-cluster→CEX: 12
+• Whale-cluster←CEX: 10
+• Whale-large→CEX: 6
+• Whale-large←CEX: 3
+• Rug wallet: 1
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
+  <entry>
+    <title>📥 DEPOSIT · Binance 15</title>
+    <link href="https://t.me/sgnl_free/25441"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25441</id>
+    <updated>2026-09-27T08:57:25.644Z</updated>
+    <summary type="text">📥 DEPOSIT · Binance 15
+40.1M USDT  ($40.1M)  →  Binance 14
+⚪ Routine deposit
+Tx: https://etherscan.io/tx/0x062b0ea2a390e9663a3776f5f345b99b653e7729cbd1c4d2480fb0b72ac2b3f6</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/25440"/>
@@ -763,50 +825,5 @@ Vol/liquidity: 142x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25393"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25393</id>
-    <updated>2026-09-27T01:14:36.833Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-Paidrop (Gs8f..pump)
-Vol/liquidity: 300x (threshold 50)
-24h: -97.2%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/25392"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25392</id>
-    <updated>2026-09-27T01:12:15.823Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 DEPOSIT CLUSTER — 4 large deposits in 6h totaling $94M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
-
-📤 3167 ETH ($8.5M)  ←  Binance 15  0xc1cdaa…
-
-7d: $5361M in · $5837M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 3 inflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/25391"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25391</id>
-    <updated>2026-09-27T01:12:00.177Z</updated>
-    <summary type="text">📊 3 inflow-heavy observations detected
-Sample: 3 concurrent observations · $171M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale deposit cluster: 4 moves, $94M to exchanges
-• 🐋 Large deposit: $39M ETH → Binance 17
-• 🐋 Large deposit: $39M ETH → Binance 15
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
