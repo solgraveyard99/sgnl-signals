@@ -5,7 +5,105 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-28T00:22:05.185Z</updated>
+  <updated>2026-09-28T00:27:05.186Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/25502"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25502</id>
+    <updated>2026-09-28T00:26:15.878Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0013 SOL
+• 99th: 0.0132 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25501"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25501</id>
+    <updated>2026-09-28T00:24:39.636Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+Kaeru (839S..pump)
+Vol/liquidity: 104x (threshold 50)
+24h: -94.1%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>📥 DEPOSIT · Binance 16</title>
+    <link href="https://t.me/sgnl_free/25500"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25500</id>
+    <updated>2026-09-28T00:22:23.238Z</updated>
+    <summary type="text">📥 DEPOSIT · Binance 16
+41.2M USDT  ($41.2M)  →  Binance 14
+⚪ Routine deposit
+Tx: https://etherscan.io/tx/0x937bb0bc45ecc6775335d838000e15e24f6fd51031bca244b81d6bdfbe710fbb</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/25499"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25499</id>
+    <updated>2026-09-28T00:22:07.525Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $67000 — expiry 27NOV26
+Direction: BUY
+Notional: ~$1064K
+Contracts: 12.6
+Implied vol: 42.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/25498"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25498</id>
+    <updated>2026-09-28T00:22:07.152Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $85000 — expiry 28SEP26
+Direction: BUY
+Notional: ~$585K
+Contracts: 6.9
+Implied vol: 21.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/25497"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25497</id>
+    <updated>2026-09-28T00:22:06.756Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $85000 — expiry 28SEP26
+Direction: BUY
+Notional: ~$542K
+Contracts: 6.4
+Implied vol: 21.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25496"/>
@@ -722,114 +820,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 44680 moves in 7d · 44734 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0xeed07bca23f9156b8589011b44ea10e7a1b4ef6813d3200d6b47ca2ea4d2948a
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/25452"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25452</id>
-    <updated>2026-09-27T12:01:51.698Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $264.0B  (24h: $-137M)
-
-⚪ USDT: $183.75B  ($-0M)
-🔴 USDC: $75.32B  ($-146M)
-⚪ USDe: $4.94B  (+$10M)
-⚪ FDUSD: $0.00B  (+$0M)
-⚪ USDS: $0.00B  (+$0M)
-⚪ DAI: $0.00B  (+$0M)
-
-📊 Net supply Δ24h: $-137M (near-flat band). Descriptive only.
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-09-26</title>
-    <link href="https://t.me/sgnl_free/25451"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25451</id>
-    <updated>2026-09-27T12:00:03.737Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-26
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: 160.1K μlamp
-  P90:    328.6K μlamp
-  Max:    33.21M μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): 80.0K μlamp
-  Medium (~5s):   160.1K μlamp
-  Fast (high probability): 328.6K μlamp
-
-vs prior 6-day baseline: ↑ 148% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: 160.1K μlamp | Raydium: 470.5K μlamp | Orca: 575.1K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25450"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25450</id>
-    <updated>2026-09-27T11:23:34.213Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 571.00 ETH ($1.5M) ← 0x5b702b24…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 44633 moves in 7d · 44634 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x569b95506eb6b1bc6b6a30dd74f87f0da6d4a85594e9b9cf722d59f177a5e1d5
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/25449"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25449</id>
-    <updated>2026-09-27T09:53:49.001Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 1,790,877 USDT ($1.8M) from Binance 14 (withdrawal)
-Market-maker wallet · withdrawal from CEX Binance 14. Descriptive observation.
-Wallet activity: 3170 moves in 7d · 3170 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0xa7bc22dfb47f047d8d32919fc9a73719f15bf2a9420cb49a496d8eb574dddbb0
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 4 inflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/25448"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25448</id>
-    <updated>2026-09-27T09:46:50.878Z</updated>
-    <summary type="text">📊 4 inflow-heavy observations detected
-Sample: 4 concurrent observations · $130M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale deposit cluster: 4 moves, $68M to exchanges
-• 🐋 Large deposit: $40M USDT → Binance 15
-• 🐋 Large deposit: $12M USDT → Binance 14
-• 🐋 Large deposit: $10M USDT → Binance 14
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25447"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25447</id>
-    <updated>2026-09-27T09:43:40.896Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1826.00 ETH ($5.0M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 44344 moves in 7d · 44356 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x3c8fa807e4b8f0b191af465b003640583c0fa8b7fd4963eadd05c3e988fa8a62
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
