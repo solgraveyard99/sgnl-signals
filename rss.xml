@@ -5,7 +5,56 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-28T02:12:05.191Z</updated>
+  <updated>2026-09-28T02:17:05.192Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25533"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25533</id>
+    <updated>2026-09-28T02:14:37.613Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+Kaeru (839S..pump)
+Vol/liquidity: 105x (threshold 50)
+24h: -94.2%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/25532"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25532</id>
+    <updated>2026-09-28T02:13:26.314Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 445.01 ETH ($1.2M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 45555 moves in 7d · 45616 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xa50fa1c7f314343ec11b5855f36f2dd9cd6d475b3cf65bc7b97182e3004f1aef
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🆕 FRESH WALLET FUNDED</title>
+    <link href="https://t.me/sgnl_free/25531"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25531</id>
+    <updated>2026-09-28T02:12:09.426Z</updated>
+    <summary type="text">🆕 FRESH WALLET FUNDED
+
+Binance 14 → fresh wallet
+Wallet: 0x4976…2327 (tx count unavailable)
+Amount: $40.38M ETH
+Tier: TIER3
+
+Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
+
+Statistical pattern. Not financial advice.
+
+Tx: https://etherscan.io/tx/0xf6080420c84cb2af0cd9f07bc0686ee341f52bf993660622d2c8b2c0edfcc609
+Wallet: https://etherscan.io/address/0x4976a4a02f38326660d17bf34b431dc6e2eb2327</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25530"/>
@@ -746,72 +795,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🌙 SGNL Evening Wrap</title>
-    <link href="https://t.me/sgnl_free/25483"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25483</id>
-    <updated>2026-09-28T00:00:25.314Z</updated>
-    <summary type="text">🌙 SGNL Evening Wrap
-BTC: $84,387 | SOL: $121.83
-Market mood: 70/100 🟢 BULLISH
-Solana activity: ACTIVE
-
-Tomorrow&apos;s outlook: Range-bound tomorrow
-See you at 8AM for the morning brief ☕</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-27</title>
-    <link href="https://t.me/sgnl_free/25482"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25482</id>
-    <updated>2026-09-28T00:00:04.708Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-27
-
-24h state transitions tracked: 212
-  💀 Died (gone): 61
-  😴 Went dormant: 85
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 $giver: had $0 liquidity · died at age 33.9d
-  💀 ASCEND: had $0 liquidity · died at age 33.6d
-  💀 pixeldog: had $0 liquidity · died at age 21.2d
-  💀 AFK: had $0 liquidity · died at age 10.0d
-  💀 BUYSEXUAL: had $0 liquidity · died at age 72.9d
-  💀 Odysseus: had $0 liquidity · died at age 66.7d
-  💀 bearwif: had $0 liquidity · died at age 45.9d
-  💀 CATCUS: had $0 liquidity · died at age 33.6d
-  💀 YUREI: had $0 liquidity · died at age 33.4d
-  💀 Blackbuck: had $0 liquidity · died at age 33.4d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-09-26</title>
-    <link href="https://t.me/sgnl_free/25481"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25481</id>
-    <updated>2026-09-27T21:00:03.952Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-26
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 29
-Strong-bias tokens (buy/sell ≥3x): 19
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 XPump: 15409 buys / 3588 sells (4.3x)  vol1h=$766.2K  price1h -15%
-  📈 e/ass: 6371 buys / 681 sells (9.4x)  vol1h=$284.0K  price1h +38%
-  📈 PAIDBOT: 12834 buys / 2949 sells (4.4x)  vol1h=$877.9K  price1h +108%
-  📈 UPTOBER: 5186 buys / 181 sells (20x+)  vol1h=$18.6K  price1h -3%
-  📈 QUACC: 11200 buys / 2420 sells (4.6x)  vol1h=$678.9K  price1h +289%
-  📈 XMONEY: 8437 buys / 1647 sells (5.1x)  vol1h=$511.4K  price1h -15%
-  📈 MCAT: 8897 buys / 1875 sells (4.7x)  vol1h=$1.01M  price1h +75%
-  📈 H/ACC: 10544 buys / 3142 sells (3.4x)  vol1h=$832.5K  price1h +277%
-  📈 e/cat: 11405 buys / 3752 sells (3.0x)  vol1h=$252.5K  price1h +34%
-  📈 C@T: 5321 buys / 1023 sells (5.2x)  vol1h=$324.8K  price1h +19%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
