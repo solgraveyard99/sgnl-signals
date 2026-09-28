@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-28T01:02:05.192Z</updated>
+  <updated>2026-09-28T01:07:05.189Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25509"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25509</id>
+    <updated>2026-09-28T01:04:37.770Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+Kaeru (839S..pump)
+Vol/liquidity: 104x (threshold 50)
+24h: -94.2%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/25508"/>
@@ -805,19 +820,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $5259M in · $5698M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/25459"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25459</id>
-    <updated>2026-09-27T13:31:50.670Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 2.353726285 gwei (fast)  ·  🟢 cheap
-Safe: 1.353727385  ·  Propose: 1.503726285  ·  BaseFee: 1.3537
-
-24h range: 0.05–4.64 gwei  (avg 0.24)
-
-Simple transfer cost now: ~$0.1236</summary>
   </entry>
 </feed>
