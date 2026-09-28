@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-28T03:27:05.198Z</updated>
+  <updated>2026-09-28T03:32:05.198Z</updated>
+  <entry>
+    <title>📊 4 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/25555"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25555</id>
+    <updated>2026-09-28T03:31:51.306Z</updated>
+    <summary type="text">📊 4 outflow-heavy observations detected
+Sample: 4 concurrent observations · $227M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 5 moves, $136M off exchanges
+• 🐋 Large withdrawal: $40M ETH ← Binance 14
+• 🐋 Large withdrawal: $39M ETH ← Binance 14
+• 🐋 Large withdrawal: $11M USDT ← Binance 14
+
+Opposing flow: $34M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/25554"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25554</id>
+    <updated>2026-09-28T03:27:12.937Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 11.0M USDT ($11.0M)  ←  Binance 14  0x7cd456…
+
+7d: $5047M in · $5656M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/25553"/>
@@ -775,30 +808,5 @@ Tx: https://etherscan.io/tx/0x18609475d77ca24a59ff1de12e7533fbba93f5e7c651f8ee11
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📥 DEPOSIT · Binance 14</title>
-    <link href="https://t.me/sgnl_free/25505"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25505</id>
-    <updated>2026-09-28T00:37:13.074Z</updated>
-    <summary type="text">📥 DEPOSIT · Binance 14
-2029 ETH  ($5.5M)  →  0xeae738…
-⚪ Routine deposit
-Tx: https://etherscan.io/tx/0x6993a516e5cf2f65432af9d97b1b1cd33c73dbfb1ff5aadcdb33a81144c0fc95</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25504"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25504</id>
-    <updated>2026-09-28T00:29:37.767Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-Vault (5wHg..sEcS)
-Vol/liquidity: 220x (threshold 50)
-24h: -93.0%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
