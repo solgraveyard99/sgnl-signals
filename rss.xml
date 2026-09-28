@@ -5,7 +5,52 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-28T03:02:05.200Z</updated>
+  <updated>2026-09-28T03:07:05.197Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25549"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25549</id>
+    <updated>2026-09-28T03:04:37.612Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+BAO (3HGT..pump)
+Vol/liquidity: 114x (threshold 50)
+24h: -93.8%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/25548"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25548</id>
+    <updated>2026-09-28T03:03:29.025Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 2,245,458 USDT ($2.2M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 45599 moves in 7d · 45668 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x0632728b4e3997a033225c712aee525f26cb7f550b3072718adb744c4709789c
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/25547"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25547</id>
+    <updated>2026-09-28T03:03:28.557Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📤 15258.83 ETH ($40.5M) to Binance 16 (CEX deposit)
+Tracked-whale wallet · movement toward CEX Binance 16. Descriptive observation.
+Wallet activity: 45575 moves in 7d · 45644 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xf8811048934f0ff4b384ab2299f38ea8ce14249b1b36626cfbdb8c099f8543f9
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
     <link href="https://t.me/sgnl_free/25546"/>
@@ -746,59 +791,5 @@ Statistical pattern only. No accusation.
 41.2M USDT  ($41.2M)  →  Binance 14
 ⚪ Routine deposit
 Tx: https://etherscan.io/tx/0x937bb0bc45ecc6775335d838000e15e24f6fd51031bca244b81d6bdfbe710fbb</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/25499"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25499</id>
-    <updated>2026-09-28T00:22:07.525Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $67000 — expiry 27NOV26
-Direction: BUY
-Notional: ~$1064K
-Contracts: 12.6
-Implied vol: 42.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/25498"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25498</id>
-    <updated>2026-09-28T00:22:07.152Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $85000 — expiry 28SEP26
-Direction: BUY
-Notional: ~$585K
-Contracts: 6.9
-Implied vol: 21.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/25497"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25497</id>
-    <updated>2026-09-28T00:22:06.756Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $85000 — expiry 28SEP26
-Direction: BUY
-Notional: ~$542K
-Contracts: 6.4
-Implied vol: 21.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
