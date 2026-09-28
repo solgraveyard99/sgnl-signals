@@ -5,7 +5,67 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-28T14:57:05.228Z</updated>
+  <updated>2026-09-28T15:02:05.225Z</updated>
+  <entry>
+    <title>🎁 Active Airdrops Digest · Monday</title>
+    <link href="https://t.me/sgnl_free/25705"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25705</id>
+    <updated>2026-09-28T15:01:51.311Z</updated>
+    <summary type="text">🎁 Active Airdrops Digest · Monday
+
+7 active opportunities:
+🟡 Hyperliquid (Hyperliquid L1) — points-live · ~$5,000
+🟢 Monad (Monad (testnet)) — active · ~$2,000
+🟢 MegaETH (MegaETH (testnet)) — active · ~$1,500
+🟡 Berachain Season 1 (Berachain) — points-live · ~$3,000
+🟢 Fogo (Solana L2) (Solana) — points-live · ~$800
+🟢 Ethena Sats Season 3 (Ethereum) — points-live · ~$1,200
+🟢 Kamino Season 3 (Solana) — points-live · ~$1,000
+
+Not financial advice — airdrop farming carries gas + opportunity cost risk</summary>
+  </entry>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-27</title>
+    <link href="https://t.me/sgnl_free/25704"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25704</id>
+    <updated>2026-09-28T15:00:09.975Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-27
+
+Tokens with liquidity drop ≥50%: 21
+Tokens with liquidity drop ≥90%: 13
+Tokens with liquidity drop ≥75%: 15
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL manifest: -98.8%  $315.8K → $3.8K  in 45m
+  🚨 CRITICAL CAKECAT: -96.2%  $70.4K → $2.7K  in 25m
+  🚨 CRITICAL BABYASTERO: -96.0%  $64.3K → $2.6K  in 5.4h
+  🚨 CRITICAL H/ACC: -95.9%  $67.2K → $2.7K  in 40m
+  🚨 CRITICAL HEISENCAT: -95.9%  $59.9K → $2.5K  in 45m
+  🚨 CRITICAL CATE: -95.6%  $57.0K → $2.5K  in 30m
+  🚨 CRITICAL XLife: -95.4%  $57.1K → $2.6K  in 1.5h
+  🚨 CRITICAL XPAY: -95.4%  $57.7K → $2.6K  in 30m
+  🚨 CRITICAL CASHED: -94.8%  $51.7K → $2.7K  in 45m
+  🚨 CRITICAL OUTLIER: -94.6%  $44.5K → $2.4K  in 6.7h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/25703"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25703</id>
+    <updated>2026-09-28T14:57:13.112Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 7450 ETH ($19.8M)  →  Binance 14  0xe67821…
+📥 9.4M USDT ($9.4M)  →  Binance 14  0xeae738…
+
+7d: $4679M in · $6111M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/25702"/>
@@ -706,49 +766,6 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x392f59adb0f81d05a8810fbb0f2ad5005ba2f0837efd310f637eafcc4dde8b1a
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/25655"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25655</id>
-    <updated>2026-09-28T11:17:12.664Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 18.7M USDT ($18.7M)  ←  Binance 18  0xed0c60…
-
-7d: $4740M in · $5819M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25654"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25654</id>
-    <updated>2026-09-28T11:13:24.974Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1698.00 ETH ($4.5M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 46128 moves in 7d · 46181 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x69f88ca72b352a16f3c002f57980194a2fd82e2566a5ed078c7b462bb0e03e8e
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/25653"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25653</id>
-    <updated>2026-09-28T11:07:25.705Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 2468 ETH ($6.6M)  ←  Binance 18  0xf8191d…
-
-7d: $4740M in · $5824M out · net flow: outflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
