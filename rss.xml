@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-28T02:27:05.190Z</updated>
+  <updated>2026-09-28T02:32:05.190Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25536"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25536</id>
+    <updated>2026-09-28T02:29:50.280Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+CLAIMED (DPpd..TcHT)
+Vol/liquidity: 102x (threshold 50)
+24h: -88.4%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25535"/>
@@ -771,23 +786,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/25486"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25486</id>
-    <updated>2026-09-28T00:02:22.043Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $91000 — expiry 1OCT26
-Direction: SELL
-Notional: ~$741K
-Contracts: 8.8
-Implied vol: 43.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
