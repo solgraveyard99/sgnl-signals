@@ -5,7 +5,72 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-28T01:27:05.197Z</updated>
+  <updated>2026-09-28T01:32:05.189Z</updated>
+  <entry>
+    <title>📊 3 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/25519"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25519</id>
+    <updated>2026-09-28T01:31:59.098Z</updated>
+    <summary type="text">📊 3 inflow-heavy observations detected
+Sample: 3 concurrent observations · $116M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 3 moves, $61M to exchanges
+• 🐋 Large deposit: $41M USDT → Binance 16
+• 🐋 Large deposit: $13M ETH → Binance 14
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25518"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25518</id>
+    <updated>2026-09-28T01:29:42.679Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+Vault (5wHg..sEcS)
+Vol/liquidity: 219x (threshold 50)
+24h: -93.0%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/25517"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25517</id>
+    <updated>2026-09-28T01:27:26.145Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 DEPOSIT CLUSTER — 3 large deposits in 6h totaling $61M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
+
+📥 4937 ETH ($13.2M)  →  Binance 14  0xeae738…
+📥 6.8M USDT ($6.8M)  →  Binance 14  0xeae738…
+
+7d: $5091M in · $5546M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/25516"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25516</id>
+    <updated>2026-09-28T01:27:09.501Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0008 SOL
+• 99th: 0.0110 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25515"/>
@@ -760,79 +825,5 @@ Market mood: 70/100 🟢 BULLISH
 Scanned ? tokens · Entered 0 trades today
 
 Stay sharp. Full signals in SGNL VIP 👆</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25469"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25469</id>
-    <updated>2026-09-27T16:43:29.324Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 50.00 WBTC ($4.2M) ← 0x3d8a5fa0…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 45334 moves in 7d · 45343 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xc123d1c0b230e4646aea03b28700e703ec120da5cf5c04d6dcf2df4d31512c6f
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 19.3% APY</title>
-    <link href="https://t.me/sgnl_free/25468"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25468</id>
-    <updated>2026-09-27T15:01:54.391Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 19.3% APY
-veranta / USDC on Base
-Base: 19.3%  ·  Rewards: n/a  ·  TVL: $9.8M
-
-💡 +12.3% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-26</title>
-    <link href="https://t.me/sgnl_free/25467"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25467</id>
-    <updated>2026-09-27T15:00:18.183Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-26
-
-Tokens with liquidity drop ≥50%: 20
-Tokens with liquidity drop ≥90%: 13
-Tokens with liquidity drop ≥75%: 15
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL e/cat: -94.9%  $67.8K → $3.4K  in 1.3h
-  🚨 CRITICAL XPump: -94.8%  $49.5K → $2.6K  in 35m
-  🚨 CRITICAL PCAT: -94.4%  $48.0K → $2.7K  in 2.2h
-  🚨 CRITICAL Paidrop: -94.1%  $44.4K → $2.6K  in 35m
-  🚨 CRITICAL x/acc: -94.1%  $46.9K → $2.8K  in 25m
-  🚨 CRITICAL MEMECARDS: -93.7%  $74.5K → $4.7K  in 4.2h
-  🚨 CRITICAL BINK: -92.9%  $36.1K → $2.6K  in 4.2h
-  🚨 CRITICAL C@T: -92.8%  $34.0K → $2.4K  in 1.0h
-  🚨 CRITICAL MCAT: -92.3%  $36.2K → $2.8K  in 15m
-  🚨 CRITICAL XMONEY: -92.3%  $34.1K → $2.6K  in 15m
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/25466"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25466</id>
-    <updated>2026-09-27T14:47:17.645Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 40.2M USDT ($40.2M)  →  Binance 17  Binance 14
-
-7d: $5259M in · $5692M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
