@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-28T11:57:05.222Z</updated>
+  <updated>2026-09-28T12:02:05.219Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/25668"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25668</id>
+    <updated>2026-09-28T12:01:51.496Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $263.9B  (24h: $-198M)
+
+⚪ USDT: $183.73B  ($-0M)
+🔴 USDC: $75.22B  ($-194M)
+⚪ USDe: $4.94B  ($-4M)
+⚪ FDUSD: $0.00B  (+$0M)
+⚪ USDS: $0.00B  (+$0M)
+⚪ DAI: $0.00B  (+$0M)
+
+📊 Net supply Δ24h: $-198M (near-flat band). Descriptive only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-09-27</title>
+    <link href="https://t.me/sgnl_free/25667"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25667</id>
+    <updated>2026-09-28T12:00:07.381Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-27
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: 157.7K μlamp
+  P90:    389.1K μlamp
+  Max:    28.78M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): 78.9K μlamp
+  Medium (~5s):   157.7K μlamp
+  Fast (high probability): 389.1K μlamp
+
+vs prior 6-day baseline: ↑ 84% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: 157.7K μlamp | Raydium: 261.6K μlamp | Orca: 413.5K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/25666"/>
@@ -736,36 +782,6 @@ GSR institutional market-maker
 Tx: https://etherscan.io/tx/0x7b92278eb9b349cff7c0b07b10081f7d2b8fb1827bfda7991032009647ce1d45
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/25618"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25618</id>
-    <updated>2026-09-28T08:13:49.110Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 597.00 ETH ($1.6M) → 0x77f7b398…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 33137 moves in 7d · 33189 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x47124150921d676ce5bb6dd5e779a0cbf815911912211ce3bfd3ef7e405fdc59
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/25617"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25617</id>
-    <updated>2026-09-28T08:07:19.796Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 10.4M USDT ($10.4M)  →  Binance 14  0x0b2fdf…
-📥 2014 ETH ($5.3M)  →  Binance 14  0xeae738…
-
-7d: $4757M in · $5894M out · net flow: outflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
