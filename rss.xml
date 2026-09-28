@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-28T01:52:05.188Z</updated>
+  <updated>2026-09-28T01:57:05.197Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/25524"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25524</id>
+    <updated>2026-09-28T01:53:49.272Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 464.00 ETH ($1.2M) → 0x51c72848…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 32889 moves in 7d · 32925 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0xb0f5557c7cc2fae5b7c9d3fde8d731f5117a050c2050bed9494c51c3435f4775
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/25523"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25523</id>
+    <updated>2026-09-28T01:53:30.525Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 1,000,000 USDT ($1.0M) ← 0x1f9155aa…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 45628 moves in 7d · 45684 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x41421234d037b4f1db97642dafa20209a0e2784c41c3a3dfc3674122a4442e5c
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/25522"/>
@@ -776,50 +806,5 @@ Tx: https://etherscan.io/tx/0xd981c137a67b7e6caa95c76cfa92bdf9d718f6a1d3c8ae8ed4
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/25474"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25474</id>
-    <updated>2026-09-27T18:13:48.746Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 2,500,000 USDT ($2.5M) → 0x109ec853…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 32971 moves in 7d · 33022 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x244bd709f1026963d7afe702d6af48035b0a69879356106b8bc98ebd1227ce1f
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-09-26</title>
-    <link href="https://t.me/sgnl_free/25473"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25473</id>
-    <updated>2026-09-27T18:01:26.576Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-26
-
-Yesterday&apos;s cohort: 41,535 launches
-  🟢 STRONG (score 8+): 678 (1.63%)
-  🟡 MIXED (score 5-7): 20,388 (49.09%)
-  🔴 WEAK  (score 0-4): 20,469 (49.28%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG TPAID mcap=396 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG ddoscat mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG PaidCoin mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG DDOSINU mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG DDOSINU mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG Clashpad mcap=84 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG e/fomo mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG e/accp mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG LASTACC mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG e/elon mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-
-✓grad = graduated to Raydium within 24h (367 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
