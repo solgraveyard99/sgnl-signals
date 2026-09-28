@@ -5,7 +5,48 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-27T23:57:05.182Z</updated>
+  <updated>2026-09-28T00:02:05.185Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/25483"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25483</id>
+    <updated>2026-09-28T00:00:25.314Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $84,387 | SOL: $121.83
+Market mood: 70/100 🟢 BULLISH
+Solana activity: ACTIVE
+
+Tomorrow&apos;s outlook: Range-bound tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-09-27</title>
+    <link href="https://t.me/sgnl_free/25482"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25482</id>
+    <updated>2026-09-28T00:00:04.708Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-09-27
+
+24h state transitions tracked: 212
+  💀 Died (gone): 61
+  😴 Went dormant: 85
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 $giver: had $0 liquidity · died at age 33.9d
+  💀 ASCEND: had $0 liquidity · died at age 33.6d
+  💀 pixeldog: had $0 liquidity · died at age 21.2d
+  💀 AFK: had $0 liquidity · died at age 10.0d
+  💀 BUYSEXUAL: had $0 liquidity · died at age 72.9d
+  💀 Odysseus: had $0 liquidity · died at age 66.7d
+  💀 bearwif: had $0 liquidity · died at age 45.9d
+  💀 CATCUS: had $0 liquidity · died at age 33.6d
+  💀 YUREI: had $0 liquidity · died at age 33.4d
+  💀 Blackbuck: had $0 liquidity · died at age 33.4d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>📈 Solana Buy Momentum Digest — 2026-09-26</title>
     <link href="https://t.me/sgnl_free/25481"/>
@@ -795,36 +836,5 @@ qnt vol 6.51x
 
 
 Free signals · No advice · t.me/sgnl_free</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/25433"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25433</id>
-    <updated>2026-09-27T06:46:50.590Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.062236511 gwei  ·  Safe: 0.062076684 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25432"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25432</id>
-    <updated>2026-09-27T06:23:37.470Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 400.00 ETH ($1.1M) ← 0xe71c6541…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 43590 moves in 7d · 43658 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xa650644f262ac2a20214c971132e85602650912ca1b0e6b57972f116449e87dd
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
