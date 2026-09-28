@@ -5,7 +5,74 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-28T02:57:05.190Z</updated>
+  <updated>2026-09-28T03:02:05.200Z</updated>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/25546"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25546</id>
+    <updated>2026-09-28T03:01:52.372Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-09-27
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): $11.76 · 6 trades · WR 33%
+🐋 Solana Momentum: -302.64% · 4 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 2 trades · WR 0%
+
+📆 Last 7 days
+🚀 Futures: $29.75 · 60 trades · WR 57%
+⚙️ Other Strategy: +0.00% · 5 trades · WR 0%
+🐋 Solana Momentum: -1791.28% · 42 trades · WR 26%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $64.28 · 1338 trades · WR 52%
+🐋 Solana Momentum: -8225.32% · 937 trades · WR 34%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 71 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-09-27</title>
+    <link href="https://t.me/sgnl_free/25545"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25545</id>
+    <updated>2026-09-28T03:00:03.933Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-09-27
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/25544"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25544</id>
+    <updated>2026-09-28T02:57:26.265Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 2483 ETH ($6.6M)  →  Binance 14  0xeae738…
+
+7d: $5041M in · $5616M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/25543"/>
@@ -733,53 +800,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25496"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25496</id>
-    <updated>2026-09-28T00:19:50.272Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-Vault (5wHg..sEcS)
-Vol/liquidity: 219x (threshold 50)
-24h: -93.0%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25495"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25495</id>
-    <updated>2026-09-28T00:14:37.527Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-Kaeru (839S..pump)
-Vol/liquidity: 104x (threshold 50)
-24h: -94.1%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/25494"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25494</id>
-    <updated>2026-09-28T00:12:09.545Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $2600 — expiry 28SEP26
-Direction: SELL
-Notional: ~$745K
-Contracts: 277
-Implied vol: 52.6%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
