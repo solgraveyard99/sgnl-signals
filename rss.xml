@@ -5,7 +5,58 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-28T00:12:05.185Z</updated>
+  <updated>2026-09-28T00:17:05.183Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25495"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25495</id>
+    <updated>2026-09-28T00:14:37.527Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+Kaeru (839S..pump)
+Vol/liquidity: 104x (threshold 50)
+24h: -94.1%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/25494"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25494</id>
+    <updated>2026-09-28T00:12:09.545Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Put — strike $2600 — expiry 28SEP26
+Direction: SELL
+Notional: ~$745K
+Contracts: 277
+Implied vol: 52.6%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/25493"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25493</id>
+    <updated>2026-09-28T00:12:09.177Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $78000 — expiry 29SEP26
+Direction: BUY
+Notional: ~$1267K
+Contracts: 15
+Implied vol: 61.4%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25492"/>
@@ -782,62 +833,5 @@ Tx: https://etherscan.io/tx/0x1d71cd709bbe870475db94070cd5e1ac86e25b5fc9973bad91
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 3 large moves</title>
-    <link href="https://t.me/sgnl_free/25445"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25445</id>
-    <updated>2026-09-27T09:42:25.633Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 3 large moves
-📊 DEPOSIT CLUSTER — 4 large deposits in 6h totaling $68M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
-
-📥 12.3M USDT ($12.3M)  →  Binance 14  0xcde5d4…
-📥 10.0M USDT ($10.0M)  →  Binance 14  0x5b859b…
-📥 2033 ETH ($5.5M)  →  Binance 14  0xcde5d4…
-
-7d: $5232M in · $5762M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/25444"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25444</id>
-    <updated>2026-09-27T09:24:03.094Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 2,012,840 USDT ($2.0M) → 0x5909842f…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 32903 moves in 7d · 32942 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x15b241dcdb817efef219702f2737fdaa7401ef988b87318d3587be21329084c1
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-09-26</title>
-    <link href="https://t.me/sgnl_free/25443"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25443</id>
-    <updated>2026-09-27T09:00:18.399Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-09-26
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 40
-Median peak spike (top 50): 16.3x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump QUACC: 24.0x  vol1h=$773.6K  price1h +566.0%
-  🟢 pump PAIDBOT: 24.0x  vol1h=$1.14M  price1h +458.0%
-  🟢 pump H/ACC: 24.0x  vol1h=$832.5K  price1h +321.0%
-  🟢 pump ASH: 24.0x  vol1h=$61.3K  price1h +315.0%
-  🟢 pump e/cat: 24.0x  vol1h=$599.2K  price1h +295.0%
-  🟢 pump HEISENCAT: 24.0x  vol1h=$474.3K  price1h +223.0%
-  🟢 pump PCAT: 24.0x  vol1h=$790.5K  price1h +219.0%
-  🟢 pump x/acc: 24.0x  vol1h=$715.9K  price1h +214.0%
-  🟢 pump XPump: 24.0x  vol1h=$766.2K  price1h +210.0%
-  🟢 pump Paidrop: 24.0x  vol1h=$626.9K  price1h +181.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
