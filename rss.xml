@@ -5,7 +5,63 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-28T05:57:05.196Z</updated>
+  <updated>2026-09-28T06:02:05.196Z</updated>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/25588"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25588</id>
+    <updated>2026-09-28T06:01:50.966Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $331M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 10 moves, $244M off exchanges
+• 🐋 Large withdrawal: $46M USDT ← Binance 14
+• 🐋 Large withdrawal: $40M USDT ← Binance 17
+
+Opposing flow: $72M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-09-27</title>
+    <link href="https://t.me/sgnl_free/25587"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25587</id>
+    <updated>2026-09-28T06:00:49.045Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-09-27
+
+Last 24h cohort: 8,409 launches
+  Graduated to Raydium: 411 (4.888%)
+  Timed out at 24h: 7,998 (95.112%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.5 min
+  Max observed today: 3.5 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (140 days):
+  Cohort: 3,482,913
+  Total graduations: 27,180 (0.7804%)
+  Total timeouts: 3,455,733 (99.2196%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/25586"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25586</id>
+    <updated>2026-09-28T05:57:12.118Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 40.0M USDT ($40.0M)  ←  Binance 17  0x02471e…
+
+7d: $5066M in · $5735M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/25585"/>
@@ -747,50 +803,5 @@ Tx: https://etherscan.io/tx/0xad3c0765ca610b0840817ac831f275f3917f87f98edaf03b57
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25538"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25538</id>
-    <updated>2026-09-28T02:33:27.702Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1422.00 ETH ($3.8M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 45570 moves in 7d · 45624 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x5f4f2fb3b59b44c7567b939dd2b8575d91f59383bd48dfd4455c99e5f6927d4e
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25537"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25537</id>
-    <updated>2026-09-28T02:33:27.264Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 499.57 ETH ($1.3M) → 0x652a2ade…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 45562 moves in 7d · 45616 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x46b7af40b0e123907e90ee1f46f396b5273a956415df9fb5229acc89faab74fe
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25536"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25536</id>
-    <updated>2026-09-28T02:29:50.280Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-CLAIMED (DPpd..TcHT)
-Vol/liquidity: 102x (threshold 50)
-24h: -88.4%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
