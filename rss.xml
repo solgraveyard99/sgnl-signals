@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-29T03:27:05.268Z</updated>
+  <updated>2026-09-29T03:32:05.274Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/25807"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25807</id>
+    <updated>2026-09-29T03:29:07.043Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0016 SOL
+• 99th: 0.0606 SOL (~$6)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/25806"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25806</id>
+    <updated>2026-09-29T03:27:12.729Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 45.1M USDT ($45.1M)  ←  Binance 14  Binance 16
+📤 23.5M USDT ($23.5M)  ←  Binance 16  0x994dfa…
+
+7d: $4446M in · $5980M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/25805"/>
@@ -766,39 +800,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>📊 4 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/25757"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25757</id>
-    <updated>2026-09-29T00:11:51.067Z</updated>
-    <summary type="text">📊 4 outflow-heavy observations detected
-Sample: 4 concurrent observations · $329M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 13 moves, $246M off exchanges
-• 🐋 Large withdrawal: $43M USDT ← Binance 14
-• 🐋 Large withdrawal: $40M USDT ← Binance 14
-• ⚡ Extreme funding (shorts paying): SOL on Gate, -76% APR
-
-Opposing flow: $39M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠️ Wash-trade fingerprint observed</title>
-    <link href="https://t.me/sgnl_free/25756"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25756</id>
-    <updated>2026-09-29T00:09:38.362Z</updated>
-    <summary type="text">⚠️ Wash-trade fingerprint observed
-
-PACIFINU (4Nyn..pump)
-Vol/liquidity: 428x (threshold 50)
-24h: -96.1%
-
-Statistical pattern only. No accusation.
-
-#onchain #memecoin</summary>
   </entry>
 </feed>
