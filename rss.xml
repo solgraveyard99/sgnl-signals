@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-29T13:27:05.298Z</updated>
+  <updated>2026-09-29T13:32:05.298Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/25943"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25943</id>
+    <updated>2026-09-29T13:31:50.749Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 2.738664735 gwei (fast)  ·  🟢 cheap
+Safe: 2.189695214  ·  Propose: 2.202809654  ·  BaseFee: 2.1897
+
+24h range: 0.27–5.12 gwei  (avg 1.49)
+
+Simple transfer cost now: ~$0.1438</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/25942"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25942</id>
+    <updated>2026-09-29T13:27:26.972Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 9.0M USDT ($9.0M)  →  Binance 14  0x5b859b…
+📥 6.0M USDT ($6.0M)  →  Binance 14  0xe71c65…
+📥 2000 ETH ($5.5M)  →  Binance 14  0xbd9f00…
+
+7d: $4325M in · $6522M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/25941"/>
@@ -753,40 +783,6 @@ Statistical pattern. Not financial advice.
 
 7d: $4411M in · $6338M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/25893"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25893</id>
-    <updated>2026-09-29T09:26:06.973Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0001 SOL
-• 99th: 0.0583 SOL (~$6)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25892"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25892</id>
-    <updated>2026-09-29T09:23:40.752Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 14631.28 ETH ($39.4M) to Binance 15 (CEX deposit)
-Tracked-whale wallet · movement toward CEX Binance 15. Descriptive observation.
-Wallet activity: 47873 moves in 7d · 47877 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x6992804eaa6ce4c86e06bb7bb645c0c7215301cc8a1ba3ddab584272d0d640d3
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
