@@ -5,7 +5,77 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-29T00:12:05.261Z</updated>
+  <updated>2026-09-29T00:17:05.264Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25761"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25761</id>
+    <updated>2026-09-29T00:14:42.826Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+p/xmr (GBTk..cYM8)
+Vol/liquidity: 238x (threshold 50)
+24h: -87.5%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/25760"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25760</id>
+    <updated>2026-09-29T00:13:06.730Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0014 SOL
+• 99th: 0.0300 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/25759"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25759</id>
+    <updated>2026-09-29T00:12:07.139Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $79000 — expiry 2OCT26
+Direction: SELL
+Notional: ~$1043K
+Contracts: 12.5
+Implied vol: 35.3%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/25758"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25758</id>
+    <updated>2026-09-29T00:12:06.764Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $84000 — expiry 2OCT26
+Direction: BUY
+Notional: ~$1043K
+Contracts: 12.5
+Implied vol: 33.5%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>📊 4 outflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/25757"/>
@@ -732,65 +802,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 46621 moves in 7d · 46684 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x33181dbea1b8a01a39ad79d327c9bfe3082db7cc6074ad68a29963cef01f1ef0
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/25711"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25711</id>
-    <updated>2026-09-28T15:33:49.004Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1,200,000 USDT ($1.2M) → 0x549d8353…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 33550 moves in 7d · 33559 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xdbcaec19c342c0d61484e632c4738fd131b88ae56044897b43521ab32fd60f88
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/25710"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25710</id>
-    <updated>2026-09-28T15:17:26.405Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 7.1M USDT ($7.1M)  →  Binance 14  0xc7faf7…
-
-7d: $4654M in · $6056M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/25709"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25709</id>
-    <updated>2026-09-28T15:13:49.410Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1,500,000 USDT ($1.5M) → 0xdca499ec…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 33490 moves in 7d · 33549 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xbb7da8ad486e0310c6f927cdf4ff78b6999cafdce3142f9933d4ae2375ac8b31
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25708"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25708</id>
-    <updated>2026-09-28T15:13:24.978Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1,035,000 USDT ($1.0M) ← 0x802a440b…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 46596 moves in 7d · 46648 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xe52d7e52a7b70cb313d13728c56dba3ccf8268b06572a01d5df30b17090f8865
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
