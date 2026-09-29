@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-29T14:57:05.304Z</updated>
+  <updated>2026-09-29T15:02:05.302Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-28</title>
+    <link href="https://t.me/sgnl_free/25955"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25955</id>
+    <updated>2026-09-29T15:00:07.532Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-28
+
+Tokens with liquidity drop ≥50%: 17
+Tokens with liquidity drop ≥90%: 15
+Tokens with liquidity drop ≥75%: 15
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL GRAYCAT: -97.3%  $102.4K → $2.7K  in 1.6h
+  🚨 CRITICAL CATCLONES: -96.0%  $63.4K → $2.6K  in 30m
+  🚨 CRITICAL POUNCELOT: -95.6%  $61.6K → $2.7K  in 2.8h
+  🚨 CRITICAL CatGPT: -95.3%  $58.0K → $2.7K  in 6.5h
+  🚨 CRITICAL Catemas: -95.2%  $53.5K → $2.6K  in 1.1h
+  🚨 CRITICAL PACIFINU: -95.1%  $54.0K → $2.6K  in 1.5h
+  🚨 CRITICAL FROINKCAT: -95.0%  $49.1K → $2.5K  in 2.7h
+  🚨 CRITICAL NEARCAT: -94.9%  $47.6K → $2.4K  in 4.0h
+  🚨 CRITICAL x/acc: -94.9%  $49.2K → $2.5K  in 7.0h
+  🚨 CRITICAL X VAULT: -94.0%  $49.3K → $3.0K  in 3.5h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/25954"/>
@@ -767,20 +794,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25905"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25905</id>
-    <updated>2026-09-29T11:23:25.101Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1,199,126 USDT ($1.2M) ← 0x06fd4ba7…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 48104 moves in 7d · 48162 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x35a27693db38d35cf958ec2aeacfc14e718a4aee08280be72591910a8996994c
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
