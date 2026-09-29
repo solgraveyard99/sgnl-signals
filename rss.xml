@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-29T10:02:05.299Z</updated>
+  <updated>2026-09-29T10:07:05.288Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/25895"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25895</id>
+    <updated>2026-09-29T10:03:06.901Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0010 SOL
+• 99th: 0.0306 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/25894"/>
@@ -794,20 +813,5 @@ Rate: 2.5× 30-day baseline
 ETH price: $2695
 
 Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/25845"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25845</id>
-    <updated>2026-09-29T06:57:12.687Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 8.8M USDT ($8.8M)  →  Binance 14  0xc78645…
-📥 7.0M USDT ($7.0M)  →  Binance 14  0xf6a834…
-
-7d: $4484M in · $6199M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
