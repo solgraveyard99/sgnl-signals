@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-29T02:27:05.267Z</updated>
+  <updated>2026-09-29T02:32:05.270Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25794"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25794</id>
+    <updated>2026-09-29T02:29:51.107Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+PACIFINU (4Nyn..pump)
+Vol/liquidity: 437x (threshold 50)
+24h: -96.2%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25793"/>
@@ -774,18 +789,6 @@ Spread: 0.0100%/hr  (87.2% APR gross)
 
 Expected net: ~82% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>⚡ EXTREME FUNDING · SOL on Gate</title>
-    <link href="https://t.me/sgnl_free/25744"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25744</id>
-    <updated>2026-09-29T00:02:02.971Z</updated>
-    <summary type="text">⚡ EXTREME FUNDING · SOL on Gate
-Price: $118.70  ·  Funding: -0.0087%/hr (-76.2% APR)
-Prior 7d: this funding reading is in the 0th percentile for SOL on Gate. Descriptive only.
-
-🟢 Shorts paying longs on Gate. Statistical pattern only. Not investment advice.
 monitor mode · no orders placed</summary>
   </entry>
 </feed>
