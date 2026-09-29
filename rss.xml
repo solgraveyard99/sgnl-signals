@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-29T20:57:05.329Z</updated>
+  <updated>2026-09-29T21:02:05.332Z</updated>
+  <entry>
+    <title>📈 Solana Buy Momentum Digest — 2026-09-28</title>
+    <link href="https://t.me/sgnl_free/26009"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26009</id>
+    <updated>2026-09-29T21:00:12.081Z</updated>
+    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-28
+
+Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 31
+Strong-bias tokens (buy/sell ≥3x): 12
+
+Top 10 by buy momentum (buys × buy/sell ratio):
+  📈 HOOKEDCAT: 19970 buys / 3719 sells (5.4x)  vol1h=$578.7K  price1h +139%
+  📈 x/acc: 17125 buys / 3828 sells (4.5x)  vol1h=$589.0K  price1h -13%
+  📈 TRUMINK: 13042 buys / 2388 sells (5.5x)  vol1h=$652.2K  price1h +20%
+  📈 NEARCAT: 14774 buys / 3499 sells (4.2x)  vol1h=$462.2K  price1h +156%
+  📈 poin: 10805 buys / 2111 sells (5.1x)  vol1h=$446.2K  price1h +56%
+  📈 Q4: 4778 buys / 226 sells (20x+)  vol1h=$19.6K  price1h +14%
+  📈 CATSTR: 9279 buys / 1836 sells (5.1x)  vol1h=$382.9K  price1h +89%
+  📈 GRAYCAT: 13132 buys / 4718 sells (2.8x)  vol1h=$926.1K  price1h +411%
+  📈 FROINKCAT: 9758 buys / 2993 sells (3.3x)  vol1h=$653.7K  price1h +12%
+  📈 CatGPT: 10826 buys / 3814 sells (2.8x)  vol1h=$857.5K  price1h -36%
+
+Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
+Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/26008"/>
@@ -739,21 +765,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $4315M in · $6569M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/25959"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25959</id>
-    <updated>2026-09-29T15:23:49.247Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 3,800,000 USDT ($3.8M) → 0x549d8353…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 33676 moves in 7d · 33732 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x9f4027310bb88372e32290f59e04d58e5dd29da6f0b855b5c9935c4da6fdb677
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
