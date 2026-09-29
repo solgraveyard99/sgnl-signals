@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-29T14:37:05.302Z</updated>
+  <updated>2026-09-29T14:42:05.301Z</updated>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/25950"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25950</id>
+    <updated>2026-09-29T14:41:51.174Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $627M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 25 moves, $573M off exchanges
+• 🐋 Large withdrawal: $40M ETH ← Binance 14
+• 🐋 Large withdrawal: $14M USDT ← Binance 17
+
+Opposing flow: $160M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/25949"/>
@@ -767,20 +785,6 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0xd11c823dde2ddc8591e4c89b41bc1036bc794d2beb5201ec201275409454a7b8
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/25900"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25900</id>
-    <updated>2026-09-29T10:32:43.481Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 5.0M USDT ($5.0M)  →  Binance 14  0xbf0971…
-
-7d: $4399M in · $6413M out · net flow: outflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
