@@ -5,7 +5,31 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-29T05:57:05.276Z</updated>
+  <updated>2026-09-29T06:02:05.277Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-09-28</title>
+    <link href="https://t.me/sgnl_free/25824"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25824</id>
+    <updated>2026-09-29T06:00:49.454Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-09-28
+
+Last 24h cohort: 9,228 launches
+  Graduated to Raydium: 447 (4.844%)
+  Timed out at 24h: 8,781 (95.156%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.4 min
+  Max observed today: 3.5 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (141 days):
+  Cohort: 3,520,714
+  Total graduations: 27,599 (0.7839%)
+  Total timeouts: 3,493,115 (99.2161%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/25823"/>
@@ -788,20 +812,5 @@ Vol/liquidity: 215x (threshold 50)
 Statistical pattern only. No accusation.
 
 #onchain #memecoin</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/25774"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25774</id>
-    <updated>2026-09-29T01:04:05.255Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1,395,284 USDT ($1.4M) → 0x7391375e…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 33565 moves in 7d · 33602 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x8ab7b789f7c7d2412e3ff191e6990b60946778ab9afac13202a4c1238d0f1d10
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
