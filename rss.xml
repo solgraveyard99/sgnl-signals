@@ -5,7 +5,27 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-29T10:37:05.291Z</updated>
+  <updated>2026-09-29T10:42:05.290Z</updated>
+  <entry>
+    <title>📊 5 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/25902"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25902</id>
+    <updated>2026-09-29T10:41:58.257Z</updated>
+    <summary type="text">📊 5 outflow-heavy observations detected
+Sample: 5 concurrent observations · $674M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 19 moves, $529M off exchanges
+• 🐋 Large withdrawal: $46M ETH ← Binance 14
+• 🐋 Large withdrawal: $40M USDT ← Binance 14
+• 🐋 Large withdrawal: $40M ETH ← Binance 14
+• 🐋 Large withdrawal: $20M USDT ← Binance 15
+
+Opposing flow: $182M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/25901"/>
@@ -795,21 +815,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $4417M in · $6199M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/25852"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25852</id>
-    <updated>2026-09-29T07:23:40.659Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 15530.50 ETH ($41.9M) to Binance 16 (CEX deposit)
-Tracked-whale wallet · movement toward CEX Binance 16. Descriptive observation.
-Wallet activity: 47635 moves in 7d · 47688 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x0d937aeae448a2f6b0ed27a7a9300a0fe9de80df55c3a68506351958e8243df7
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
