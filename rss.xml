@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-29T01:17:05.262Z</updated>
+  <updated>2026-09-29T01:22:05.266Z</updated>
+  <entry>
+    <title>⚠️ Wash-trade fingerprint observed</title>
+    <link href="https://t.me/sgnl_free/25779"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-25779</id>
+    <updated>2026-09-29T01:19:46.107Z</updated>
+    <summary type="text">⚠️ Wash-trade fingerprint observed
+
+PACIFINU (4Nyn..pump)
+Vol/liquidity: 430x (threshold 50)
+24h: -96.2%
+
+Statistical pattern only. No accusation.
+
+#onchain #memecoin</summary>
+  </entry>
   <entry>
     <title>⚠️ Wash-trade fingerprint observed</title>
     <link href="https://t.me/sgnl_free/25778"/>
@@ -788,35 +803,5 @@ Tx: https://etherscan.io/tx/0x83ecceaf06067f2383ca692ff424650e6cc0af13b9dd7f86b4
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-09-27</title>
-    <link href="https://t.me/sgnl_free/25729"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-25729</id>
-    <updated>2026-09-28T18:01:25.713Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-27
-
-Yesterday&apos;s cohort: 37,012 launches
-  🟢 STRONG (score 8+): 749 (2.02%)
-  🟡 MIXED (score 5-7): 13,431 (36.29%)
-  🔴 WEAK  (score 0-4): 22,832 (61.69%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG whale/acc mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG k/acc mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG XPAY mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG KURI  mcap=76 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG CAKECAT mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG MCAT mcap=7804 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG MASK mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG CATSUI mcap=371 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG TROLL/ACC mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG Toxinjak mcap=61 SOL [mcap60+,tg,tw,web,desc]
-
-✓grad = graduated to Raydium within 24h (411 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
