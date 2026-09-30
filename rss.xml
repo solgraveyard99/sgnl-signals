@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-30T16:18:56.299Z</updated>
+  <updated>2026-09-30T16:23:56.296Z</updated>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 18.4% APY</title>
+    <link href="https://t.me/sgnl_free/26225"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26225</id>
+    <updated>2026-09-30T16:23:45.236Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 18.4% APY
+veranta / USDC on Base
+Base: 18.4%  ·  Rewards: n/a  ·  TVL: $9.6M
+
+💡 +11.4% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/26224"/>
@@ -773,31 +791,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3904M in · $6714M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-09-29</title>
-    <link href="https://t.me/sgnl_free/26175"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26175</id>
-    <updated>2026-09-30T12:00:04.284Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-29
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: 96.6K μlamp
-  P90:    307.1K μlamp
-  Max:    47.71M μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): 48.3K μlamp
-  Medium (~5s):   96.6K μlamp
-  Fast (high probability): 307.1K μlamp
-
-vs prior 6-day baseline: ↓ 15% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: 96.6K μlamp | Raydium: 329.2K μlamp | Orca: 394.1K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
