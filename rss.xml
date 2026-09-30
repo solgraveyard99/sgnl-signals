@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-30T09:28:56.278Z</updated>
+  <updated>2026-09-30T09:33:56.279Z</updated>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/26153"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26153</id>
+    <updated>2026-09-30T09:33:43.362Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $383M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 15 moves, $311M off exchanges
+• 🐋 Large withdrawal: $53M USDT ← Binance 14
+• 🐋 Large withdrawal: $20M USDT ← Binance 18
+
+Opposing flow: $73M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/26152"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26152</id>
+    <updated>2026-09-30T09:29:09.192Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 19.9M USDT ($19.9M)  ←  Binance 18  0xf89d7b…
+
+7d: $4012M in · $6738M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/26151"/>
@@ -695,33 +727,5 @@ Statistical pattern. Not financial advice.</summary>
 Cluster launches often precede fast dumps. Observation only.
 
 #onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/26103"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26103</id>
-    <updated>2026-09-30T06:36:02.366Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-16 cluster-buys within 5 minutes of deploy for BjRG..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/26102"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26102</id>
-    <updated>2026-09-30T06:36:02.013Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 916.00 ETH ($2.4M) → 0x51c72848…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 34675 moves in 7d · 34710 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xb0e159a14e43e38dd36808fd2159bf6067ef11ec77404a05e3c89e26b9101a9e
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
