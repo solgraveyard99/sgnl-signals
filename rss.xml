@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-30T19:18:56.305Z</updated>
+  <updated>2026-09-30T19:23:56.310Z</updated>
+  <entry>
+    <title>🔴 STABLECOIN BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/26256"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26256</id>
+    <updated>2026-09-30T19:23:43.738Z</updated>
+    <summary type="text">🔴 STABLECOIN BURN · USDC
+Supply change 24h: -$577M
+New supply: $74.27B
+
+Net supply contraction event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/26255"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26255</id>
+    <updated>2026-09-30T19:19:08.546Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 7.9M USDT ($7.9M)  →  Binance 14  0xeae738…
+
+7d: $3785M in · $6696M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/26254"/>
@@ -758,38 +785,5 @@ Statistical pattern. Not financial advice.
 
 Tx: https://etherscan.io/tx/0x63a80596a8a66f528836b8a25e5abe6247568b7bb3029b2adac8943a567a61fc
 Wallet: https://etherscan.io/address/0x21a31ee1afc51d94c2efccaa2092ad1028285549</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 16.1% APY</title>
-    <link href="https://t.me/sgnl_free/26206"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26206</id>
-    <updated>2026-09-30T14:23:44.517Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 16.1% APY
-ember-protocol / USDC on Ethereum
-Base: 16.1%  ·  Rewards: n/a  ·  TVL: $5.5M
-
-💡 +9.1% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/99989c4e-cf3b-5936-89fa-769f7e56cd34</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/26205"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26205</id>
-    <updated>2026-09-30T14:15:58.791Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 499.68 ETH ($1.3M) → 0x652a2ade…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 34678 moves in 7d · 34728 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x17a15694af2250ada9f791d16ea78c7de51c5f854061a431f5ac8896a5c693c0
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
