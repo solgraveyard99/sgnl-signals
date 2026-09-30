@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-30T12:18:56.289Z</updated>
+  <updated>2026-09-30T12:23:56.285Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/26182"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26182</id>
+    <updated>2026-09-30T12:23:43.707Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $263.1B  (24h: $-384M)
+
+⚪ USDT: $183.77B  ($-4M)
+🔴 USDC: $74.47B  ($-381M)
+⚪ USDe: $4.90B  (+$0M)
+⚪ FDUSD: $0.00B  (+$0M)
+⚪ USDS: $0.00B  (+$0M)
+⚪ DAI: $0.00B  (+$0M)
+
+📊 Net supply Δ24h: -$384M (contraction band). Descriptive only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/26181"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26181</id>
+    <updated>2026-09-30T12:19:10.575Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 6.0M USDT ($6.0M)  →  Binance 14  0xe67821…
+
+7d: $3904M in · $6755M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/26180"/>
@@ -713,34 +747,6 @@ Cluster launches often precede fast dumps. Observation only.
 
 7d: $4057M in · $6724M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/26132"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26132</id>
-    <updated>2026-09-30T08:15:38.508Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-15 cluster-buys within 5 minutes of deploy for J2Sk..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/26131"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26131</id>
-    <updated>2026-09-30T08:15:38.135Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 5,599,998 USDT ($5.6M) ← 0x0b2fdf41…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 51372 moves in 7d · 51423 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x706caf56b84aa40ecfaf3cf86b8ddc7e31590f5306d71888e7d571b6aedb0f6b
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
