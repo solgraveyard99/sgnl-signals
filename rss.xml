@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-30T06:53:56.273Z</updated>
+  <updated>2026-09-30T06:58:56.271Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/26111"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26111</id>
+    <updated>2026-09-30T06:56:00.018Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 524.00 ETH ($1.4M) → 0x77f7b398…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 34675 moves in 7d · 34713 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0xece7a9f81066c490a2b6cef4f8c4258fe9667396a6c61f716a773473e0e4a30c
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/26110"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26110</id>
+    <updated>2026-09-30T06:55:59.617Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 535.00 ETH ($1.4M) → 0x77f7b398…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 34670 moves in 7d · 34708 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0xaf56353c4fd726fd196e85dc071b34168d64c92258f6eeff9ed21d0b8d783a15
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/26109"/>
@@ -726,45 +756,5 @@ Every trade is logged and published. Paper mode until validation targets hit (30
 Not financial advice. Data for decision support.
 
 📲 t.me/sgnl_free</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/26061"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26061</id>
-    <updated>2026-09-30T03:01:07.284Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0001 SOL
-• 99th: 0.0163 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🍯 Solana Honeypot / Trap Watch — 2026-09-29</title>
-    <link href="https://t.me/sgnl_free/26060"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26060</id>
-    <updated>2026-09-30T03:00:04.409Z</updated>
-    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-09-29
-
-Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 1
-Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
-
-Top 1 suspicious patterns yesterday:
-  ⚠ HONEYPOT? NPC: 762:12 buys:sells  vol1h=$402  liq=$68.6K  price1h +0%
-
-How to read:
-  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
-  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
-
-NOT a guarantee — thin sell side can be legitimate for very fresh launches.
-Always test with small amount before sizing up. Use rugcheck.xyz to verify.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
