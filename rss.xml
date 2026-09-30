@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-30T17:58:56.299Z</updated>
+  <updated>2026-09-30T18:03:56.308Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-09-29</title>
+    <link href="https://t.me/sgnl_free/26240"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26240</id>
+    <updated>2026-09-30T18:01:22.059Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-29
+
+Yesterday&apos;s cohort: 40,976 launches
+  🟢 STRONG (score 8+): 729 (1.78%)
+  🟡 MIXED (score 5-7): 13,868 (33.84%)
+  🔴 WEAK  (score 0-4): 26,379 (64.38%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG OnlyCats mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG ONLYCATS mcap=8310 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG BUNTRUMP mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG GLC mcap=814 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG FOMOAGENT mcap=7985 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG CATINU mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG RHEA mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG CATE mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG zyrox  mcap=2331 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG BULL mcap=79 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (283 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Jump Trading</title>
     <link href="https://t.me/sgnl_free/26239"/>
@@ -768,24 +798,5 @@ Tx: https://etherscan.io/tx/0x76b8ef8e4c34c7097bdda8bf1840558f350588ed923cf018c5
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/26190"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26190</id>
-    <updated>2026-09-30T12:54:14.850Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 15 → fresh wallet
-Wallet: 0xedc7…9c93 (tx count unavailable)
-Amount: $3.79M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x881ad9782bfc6ea3ee893e484c5a6e72d6ece2760a02687e8feec7fd8fd81eab
-Wallet: https://etherscan.io/address/0xedc7001e99a37c3d23b5f7974f837387e09f9c93</summary>
   </entry>
 </feed>
