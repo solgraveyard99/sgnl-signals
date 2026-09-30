@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-30T17:53:56.300Z</updated>
+  <updated>2026-09-30T17:58:56.299Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · Jump Trading</title>
+    <link href="https://t.me/sgnl_free/26239"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26239</id>
+    <updated>2026-09-30T17:55:44.294Z</updated>
+    <summary type="text">🧠 SMART MONEY · Jump Trading
+📥 815.87 ETH ($2.2M) from Binance 16 (exchange withdrawal)
+Market-maker wallet · withdrawal from CEX Binance 16. Descriptive observation.
+Wallet activity: 2366 moves in 7d · 2367 in 30d.
+Jump Trading — large altcoin flows
+Tx: https://etherscan.io/tx/0xb3df2af637f8b4f2084fb63145b89056d3bdab8ac6af9f13afd9f274cd9bc396
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/26238"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26238</id>
+    <updated>2026-09-30T17:55:22.419Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 545.78 ETH ($1.5M) ← 0xb033a384…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 52023 moves in 7d · 52076 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x290a48a1ce1d8d88f71ec900b42372284ea722e0f2a04f378952e313c7150ecf
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/26237"/>
@@ -757,40 +787,5 @@ Statistical pattern. Not financial advice.
 
 Tx: https://etherscan.io/tx/0x881ad9782bfc6ea3ee893e484c5a6e72d6ece2760a02687e8feec7fd8fd81eab
 Wallet: https://etherscan.io/address/0xedc7001e99a37c3d23b5f7974f837387e09f9c93</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/26189"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26189</id>
-    <updated>2026-09-30T12:53:58.976Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 1.468011027 gwei  ·  Safe: 1.218011028 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>📊 4 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/26188"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26188</id>
-    <updated>2026-09-30T12:53:43.264Z</updated>
-    <summary type="text">📊 4 outflow-heavy observations detected
-Sample: 4 concurrent observations · $294M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 12 moves, $214M off exchanges
-• 🐋 Large withdrawal: $40M USDT ← Binance 14
-• 🐋 Large withdrawal: $20M USDT ← Binance 14
-• 🐋 Large withdrawal: $20M USDT ← Binance 17
-
-Opposing flow: $76M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
