@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-30T04:17:05.355Z</updated>
+  <updated>2026-09-30T04:22:05.351Z</updated>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/26080"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26080</id>
+    <updated>2026-09-30T04:22:04.265Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $178M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 7 moves, $106M off exchanges
+• 🐋 Large withdrawal: $49M USDT ← Binance 14
+• 🐋 Large withdrawal: $22M USDT ← Binance 18
+
+Opposing flow: $32M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/26079"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26079</id>
+    <updated>2026-09-30T04:21:08.392Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 21.9M USDT ($21.9M)  ←  Binance 18  0xfb1908…
+
+7d: $4158M in · $6695M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/26078"/>
@@ -809,37 +841,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/26030"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26030</id>
-    <updated>2026-09-30T00:02:18.893Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $82500 — expiry 30SEP26
-Direction: SELL
-Notional: ~$1424K
-Contracts: 17
-Implied vol: 29.7%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚪ Market Posture · neutral</title>
-    <link href="https://t.me/sgnl_free/26029"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26029</id>
-    <updated>2026-09-30T00:02:03.179Z</updated>
-    <summary type="text">⚪ Market Posture · neutral
-Bias score: +0
-
-2 active signals (top 5 by size):
-• 🐋 Whale withdrawal cluster: 7 moves, $196M off exchanges
-• 🐋 Whale deposit cluster: 10 moves, $79M to exchanges
-
-Updated every 4h · SGNL signal aggregator</summary>
   </entry>
 </feed>
