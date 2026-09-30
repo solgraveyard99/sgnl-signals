@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-30T06:17:05.362Z</updated>
+  <updated>2026-09-30T06:22:05.358Z</updated>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/26096"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26096</id>
+    <updated>2026-09-30T06:21:51.128Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $331M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 11 moves, $225M off exchanges
+• 🐋 Large withdrawal: $66M USDT ← Binance 14
+• 🐋 Large withdrawal: $41M USDT ← Binance 14
+
+Opposing flow: $64M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/26095"/>
@@ -786,20 +804,5 @@ Optimal time for routine tx:
 • Approve revocations
 
 Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/26046"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26046</id>
-    <updated>2026-09-30T00:43:49.423Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 667.00 ETH ($1.8M) → 0x51c72848…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 34731 moves in 7d · 34756 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xee1f832f380be07c3272f1b761c5b54020df91a41569360c600352394798387d
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
