@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-09-30T20:58:56.312Z</updated>
+  <updated>2026-09-30T21:03:56.313Z</updated>
+  <entry>
+    <title>📈 Solana Buy Momentum Digest — 2026-09-29</title>
+    <link href="https://t.me/sgnl_free/26261"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26261</id>
+    <updated>2026-09-30T21:00:04.130Z</updated>
+    <summary type="text">📈 Solana Buy Momentum Digest — 2026-09-29
+
+Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 28
+Strong-bias tokens (buy/sell ≥3x): 14
+
+Top 10 by buy momentum (buys × buy/sell ratio):
+  📈 SC: 15020 buys / 3260 sells (4.6x)  vol1h=$391.0K  price1h -16%
+  📈 SAI: 8469 buys / 1210 sells (7.0x)  vol1h=$507.8K  price1h +296%
+  📈 INUINK: 9071 buys / 1648 sells (5.5x)  vol1h=$339.6K  price1h -47%
+  📈 CATBOT: 12403 buys / 3104 sells (4.0x)  vol1h=$793.6K  price1h -33%
+  📈 XSI: 14230 buys / 4585 sells (3.1x)  vol1h=$1.04M  price1h +157%
+  📈 SC: 13597 buys / 4221 sells (3.2x)  vol1h=$1.05M  price1h +136%
+  📈 PARACAT: 11898 buys / 3526 sells (3.4x)  vol1h=$725.4K  price1h -82%
+  📈 NI: 4249 buys / 480 sells (8.9x)  vol1h=$57.0K  price1h +67%
+  📈 WOTF: 10549 buys / 3989 sells (2.6x)  vol1h=$146.1K  price1h +173%
+  📈 SITRUMP: 5095 buys / 1001 sells (5.1x)  vol1h=$350.1K  price1h +46%
+
+Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
+Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 8 (Hot)</title>
     <link href="https://t.me/sgnl_free/26260"/>
@@ -759,21 +785,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 51813 moves in 7d · 51864 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0xb0893d1cb058f32db63b93b18ae295b5da11b839cb5d6a032576899f0d600f15
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/26211"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26211</id>
-    <updated>2026-09-30T14:35:25.862Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 498.94 ETH ($1.3M) → 0x652a2ade…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 51778 moves in 7d · 51829 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xe0c117f2f96169655ef9196b418ae4068be107c15e0274e638b055e38d120900
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
