@@ -5,7 +5,111 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-01T02:58:56.338Z</updated>
+  <updated>2026-10-01T03:03:56.343Z</updated>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/26309"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26309</id>
+    <updated>2026-10-01T03:03:45.615Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-09-30
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): $12.70 · 6 trades · WR 33%
+🐋 Solana Momentum: -23.95% · 3 trades · WR 0%
+
+📆 Last 7 days
+🚀 Futures: $61.29 · 58 trades · WR 45%
+🐋 Solana Momentum: -1052.80% · 32 trades · WR 25%
+⚙️ Other Strategy: +0.00% · 5 trades · WR 0%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $126.10 · 1363 trades · WR 52%
+🐋 Solana Momentum: -8636.03% · 948 trades · WR 34%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 73 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/26308"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26308</id>
+    <updated>2026-10-01T03:03:08.949Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0008 SOL
+• 99th: 0.0466 SOL (~$5)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-09-30</title>
+    <link href="https://t.me/sgnl_free/26307"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26307</id>
+    <updated>2026-10-01T03:00:12.280Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-09-30
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/26306"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26306</id>
+    <updated>2026-10-01T03:00:11.361Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0014 SOL
+• 99th: 0.0298 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/26305"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26305</id>
+    <updated>2026-10-01T02:59:15.432Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 6.0M USDT ($6.0M)  ←  Binance 16  0x43fed7…
+
+7d: $3709M in · $6779M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/26304"/>
@@ -763,77 +867,6 @@ Binance hot — major altcoin deposits/withdrawals
 Tx: https://etherscan.io/tx/0x565b85ab20f06f3dd32ddeebc48b0a014d37dc3fba54a51093dac8697e68ae4c
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/26259"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26259</id>
-    <updated>2026-09-30T20:05:33.590Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 1,298,681 USDT ($1.3M) → 0xa7af2a15…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 52435 moves in 7d · 52435 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xbd99891b32e8d2842a908fa78ec9c7b77f271d0c50e74ce8593c0542fe8361ca
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/26258"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26258</id>
-    <updated>2026-09-30T19:45:26.776Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 3,253,843 USDT ($3.3M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 52316 moves in 7d · 52316 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xa075c4b9c810afd656e2d666fae6927a9cbf93e0b57cab945d9d5a2117c1b6c6
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/26257"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26257</id>
-    <updated>2026-09-30T19:39:07.912Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 7.0M USDT ($7.0M)  →  Binance 14  0xeae738…
-
-7d: $3788M in · $6696M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/26256"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26256</id>
-    <updated>2026-09-30T19:23:43.738Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDC
-Supply change 24h: -$577M
-New supply: $74.27B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/26255"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26255</id>
-    <updated>2026-09-30T19:19:08.546Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 7.9M USDT ($7.9M)  →  Binance 14  0xeae738…
-
-7d: $3785M in · $6696M out · net flow: outflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
