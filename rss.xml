@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-01T16:58:56.370Z</updated>
+  <updated>2026-10-01T17:03:56.362Z</updated>
+  <entry>
+    <title>☀️ SGNL Midday Check-in</title>
+    <link href="https://t.me/sgnl_free/26440"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26440</id>
+    <updated>2026-10-01T17:00:23.827Z</updated>
+    <summary type="text">☀️ SGNL Midday Check-in
+BTC: $84,221 | SOL: $117.16
+Market mood: 70/100 🟢 BULLISH
+Scanned ? tokens · Entered 0 trades today
+
+Stay sharp. Full signals in SGNL VIP 👆</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/26439"/>
@@ -746,31 +758,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3540M in · $6315M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-09-30</title>
-    <link href="https://t.me/sgnl_free/26390"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26390</id>
-    <updated>2026-10-01T12:00:03.871Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-30
-
-Yesterday&apos;s Jupiter route fee market (289 samples × 5min):
-  Median: 92.4K μlamp
-  P90:    296.5K μlamp
-  Max:    27.77M μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): 46.2K μlamp
-  Medium (~5s):   92.4K μlamp
-  Fast (high probability): 296.5K μlamp
-
-vs prior 6-day baseline: ↓ 24% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: 92.4K μlamp | Raydium: 394.1K μlamp | Orca: 395.0K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
