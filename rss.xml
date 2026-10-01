@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-01T21:18:56.372Z</updated>
+  <updated>2026-10-01T21:23:56.373Z</updated>
+  <entry>
+    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
+    <link href="https://t.me/sgnl_free/26467"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26467</id>
+    <updated>2026-10-01T21:23:46.052Z</updated>
+    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
+
+24h inflow: 56.1K ETH (~1,755 new validators)
+USD value: $151.2M
+Rate: 2.1× 30-day baseline
+ETH price: $2694
+
+Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/26466"/>
@@ -778,21 +792,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $3369M in · $6344M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/26417"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26417</id>
-    <updated>2026-10-01T14:25:27.068Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 19,999,995 USDT ($20.0M) ← 0xe69f81b8…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 54960 moves in 7d · 55016 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x59cfeac3fa0032419ae53e1504428de1d548a9dc957685702cadabb99cec43d1
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
