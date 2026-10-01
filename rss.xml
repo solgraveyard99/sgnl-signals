@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-01T00:33:56.324Z</updated>
+  <updated>2026-10-01T00:38:56.321Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/26290"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26290</id>
+    <updated>2026-10-01T00:36:57.442Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0002 SOL
+• 99th: 0.0105 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/26289"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26289</id>
+    <updated>2026-10-01T00:35:59.402Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 529.74 ETH ($1.4M) → 0x8a35b167…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 35942 moves in 7d · 35963 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0xdb5639c5afefef5a882474e77cc3fc6e1757e33db359c2ab5fc2fbc95ec9d45f
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/26288"/>
@@ -768,51 +802,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $3840M in · $6648M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-09-29</title>
-    <link href="https://t.me/sgnl_free/26240"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26240</id>
-    <updated>2026-09-30T18:01:22.059Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-09-29
-
-Yesterday&apos;s cohort: 40,976 launches
-  🟢 STRONG (score 8+): 729 (1.78%)
-  🟡 MIXED (score 5-7): 13,868 (33.84%)
-  🔴 WEAK  (score 0-4): 26,379 (64.38%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG OnlyCats mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG ONLYCATS mcap=8310 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG BUNTRUMP mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG GLC mcap=814 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG FOMOAGENT mcap=7985 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG CATINU mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG RHEA mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG CATE mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG zyrox  mcap=2331 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG BULL mcap=79 SOL [mcap60+,tg,tw,web,desc]
-
-✓grad = graduated to Raydium within 24h (283 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/26239"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26239</id>
-    <updated>2026-09-30T17:55:44.294Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 815.87 ETH ($2.2M) from Binance 16 (exchange withdrawal)
-Market-maker wallet · withdrawal from CEX Binance 16. Descriptive observation.
-Wallet activity: 2366 moves in 7d · 2367 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0xb3df2af637f8b4f2084fb63145b89056d3bdab8ac6af9f13afd9f274cd9bc396
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
