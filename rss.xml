@@ -5,7 +5,55 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-01T20:03:56.370Z</updated>
+  <updated>2026-10-01T20:08:56.375Z</updated>
+  <entry>
+    <title>📊 4 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/26459"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26459</id>
+    <updated>2026-10-01T20:08:43.481Z</updated>
+    <summary type="text">📊 4 inflow-heavy observations detected
+Sample: 4 concurrent observations · $419M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 9 moves, $287M to exchanges
+• 🐋 Large deposit: $68M USDT → Binance 14
+• 🐋 Large deposit: $42M USDT → Binance 15
+• 🐋 Large deposit: $22M USDT → Binance 14
+
+Opposing flow: $106M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/26458"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26458</id>
+    <updated>2026-10-01T20:05:24.991Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 14670.99 ETH ($39.6M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 55586 moves in 7d · 55586 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x0ead4cb4adb9ce9069f509ad63ec46813c04c163ede1428a0f4ed99227ae25a9
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/26457"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26457</id>
+    <updated>2026-10-01T20:04:29.001Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 41.7M USDT ($41.7M)  →  Binance 15  Binance 14
+
+7d: $3397M in · $6325M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/26456"/>
@@ -732,49 +780,5 @@ Tx: https://etherscan.io/tx/0x0b1ef1cf07d4d9421a92c62eae7c24259222138263a281e3db
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/26409"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26409</id>
-    <updated>2026-10-01T13:45:22.388Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 2184.06 ETH ($5.9M) → 0x98adef6f…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 54893 moves in 7d · 54953 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x0d6496bce79859d7e304a57c0bef3530a7a3a1fd01b28f40a277f8da48d53790
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/26408"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26408</id>
-    <updated>2026-10-01T13:44:20.960Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 47.5M USDT ($47.5M)  ←  Binance 14  Binance 15
-📥 10.0M USDT ($10.0M)  →  Binance 14  0x0069d7…
-
-7d: $3407M in · $6258M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/26407"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26407</id>
-    <updated>2026-10-01T13:38:43.172Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.408329188 gwei (fast)  ·  🟢 cheap
-Safe: 0.266052475  ·  Propose: 0.26606033  ·  BaseFee: 0.2661
-
-24h range: 0.07–2.20 gwei  (avg 0.32)
-
-Simple transfer cost now: ~$0.0214</summary>
   </entry>
 </feed>
