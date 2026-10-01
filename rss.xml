@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-01T11:58:56.352Z</updated>
+  <updated>2026-10-01T12:03:56.352Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-09-30</title>
+    <link href="https://t.me/sgnl_free/26390"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26390</id>
+    <updated>2026-10-01T12:00:03.871Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-09-30
+
+Yesterday&apos;s Jupiter route fee market (289 samples × 5min):
+  Median: 92.4K μlamp
+  P90:    296.5K μlamp
+  Max:    27.77M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): 46.2K μlamp
+  Medium (~5s):   92.4K μlamp
+  Fast (high probability): 296.5K μlamp
+
+vs prior 6-day baseline: ↓ 24% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: 92.4K μlamp | Raydium: 394.1K μlamp | Orca: 395.0K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/26389"/>
@@ -751,22 +777,6 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0xa54d46df6de6033ba62bd44b03de369d5cc47a1b5db1392a70ebedc14c4137f0
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 3 large moves</title>
-    <link href="https://t.me/sgnl_free/26340"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26340</id>
-    <updated>2026-10-01T07:34:08.469Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 3 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 19.9M USDT ($19.9M)  →  Binance 14  0x13f12f…
-📥 9.9M USDT ($9.9M)  →  Binance 14  0xc8262e…
-📥 9.4M USDT ($9.4M)  →  Binance 14  0xeae738…
-
-7d: $3625M in · $6838M out · net flow: outflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
