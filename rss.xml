@@ -5,7 +5,36 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-01T07:58:56.348Z</updated>
+  <updated>2026-10-01T08:03:56.344Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · SOL</title>
+    <link href="https://t.me/sgnl_free/26350"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26350</id>
+    <updated>2026-10-01T08:03:47.282Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
+Spread: 0.0032%/hr  (27.8% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0022%/hr)
+🔴 SHORT on BingX  (funding 0.0010%/hr)
+
+Expected net: ~23% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-09-30</title>
+    <link href="https://t.me/sgnl_free/26349"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26349</id>
+    <updated>2026-10-01T08:00:25.959Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-09-30
+What 30+ SGNL observers caught in the last 24h
+
+🌉 Cross-chain (Wormhole, 24h)
+$14.7M across 10372 txs · top route Solana → Solana
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/26348"/>
@@ -777,44 +806,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0002 SOL
 • 95th: 0.0102 SOL
 • 99th: 0.0104 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/26300"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26300</id>
-    <updated>2026-10-01T01:57:57.605Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0036 SOL
-• 99th: 0.0161 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/26299"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26299</id>
-    <updated>2026-10-01T01:48:57.475Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0004 SOL
-• 99th: 0.0410 SOL (~$4)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
