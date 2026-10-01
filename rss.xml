@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-01T22:18:56.383Z</updated>
+  <updated>2026-10-01T22:23:56.378Z</updated>
+  <entry>
+    <title>🔴 STABLECOIN BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/26469"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26469</id>
+    <updated>2026-10-01T22:23:43.750Z</updated>
+    <summary type="text">🔴 STABLECOIN BURN · USDC
+Supply change 24h: -$502M
+New supply: $74.07B
+
+Net supply contraction event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/26468"/>
@@ -780,19 +793,5 @@ Top 10 biggest drops yesterday (peak → trough):
 Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
 Filter: peak liquidity ≥$20K, drop ≥50%.
 Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/26419"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26419</id>
-    <updated>2026-10-01T14:39:07.964Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 2329 ETH ($6.3M)  ←  Binance 18  0xed9b63…
-
-7d: $3389M in · $6338M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
