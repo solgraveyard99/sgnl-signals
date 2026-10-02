@@ -5,7 +5,35 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-02T13:33:56.422Z</updated>
+  <updated>2026-10-02T13:38:56.419Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/26616"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26616</id>
+    <updated>2026-10-02T13:38:43.222Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.471915782 gwei (fast)  ·  🟢 cheap
+Safe: 0.376654641  ·  Propose: 0.376688058  ·  BaseFee: 0.3767
+
+24h range: 0.08–9.45 gwei  (avg 0.84)
+
+Simple transfer cost now: ~$0.0248</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/26615"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26615</id>
+    <updated>2026-10-02T13:34:05.579Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 500.0M USDT ($500.0M)  ←  Binance 14  0x575428…
+
+7d: $3162M in · $4878M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/26614"/>
@@ -764,35 +792,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 57423 moves in 7d · 57491 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x41fd36292fde05b311392a292a251f2d67c2af1472c009c0f654677a243c4a81
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/26566"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26566</id>
-    <updated>2026-10-02T07:44:08.011Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 10.4M USDT ($10.4M)  →  Binance 14  0xcde5d4…
-
-7d: $3303M in · $6041M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/26565"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26565</id>
-    <updated>2026-10-02T07:35:49.189Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1,051,941 USDT ($1.1M) → 0xfed6944d…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 37168 moves in 7d · 37207 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x6c1f6150cf3f98dca5421ccdc187013970218e2265b3cb5cb7287b854054df60
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
