@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-02T16:03:56.427Z</updated>
+  <updated>2026-10-02T16:08:56.429Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · SOL</title>
+    <link href="https://t.me/sgnl_free/26649"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26649</id>
+    <updated>2026-10-02T16:03:58.944Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
+Spread: 0.0038%/hr  (33.6% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0026%/hr)
+🔴 SHORT on MEXC  (funding 0.0013%/hr)
+
+Expected net: ~29% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>⚪ Market Posture · neutral</title>
     <link href="https://t.me/sgnl_free/26648"/>
@@ -751,31 +766,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3158M in · $4836M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-10-01</title>
-    <link href="https://t.me/sgnl_free/26599"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26599</id>
-    <updated>2026-10-02T12:00:04.151Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-01
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: 115.3K μlamp
-  P90:    322.1K μlamp
-  Max:    14.36M μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): 57.6K μlamp
-  Medium (~5s):   115.3K μlamp
-  Fast (high probability): 322.1K μlamp
-
-vs prior 6-day baseline: ↓ 8% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: 115.3K μlamp | Raydium: 453.5K μlamp | Orca: 529.0K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
