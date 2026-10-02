@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-02T07:58:56.414Z</updated>
+  <updated>2026-10-02T08:03:56.410Z</updated>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-10-01</title>
+    <link href="https://t.me/sgnl_free/26568"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26568</id>
+    <updated>2026-10-02T08:00:19.788Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-10-01
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 2 total)
+0x4c9edd… 7.24 → 0.0028 WETH
+WBTC 0.02 → 0.8087 WETH
+
+🌉 Cross-chain (Wormhole, 24h)
+$18.9M across 10629 txs · top route Solana → Solana
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/26567"/>
@@ -767,25 +785,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3284M in · $5869M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/26518"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26518</id>
-    <updated>2026-10-02T03:38:57.174Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-[ARFC] Aave Institutional
-
-DAO: aavedao.eth
-Votes cast: 20
-Total voting power: 89432
-Voting ends: 2026-10-04 18:32 UTC
-
-https://snapshot.org/#/aavedao.eth/proposal/0x194bd11500117aa7e0940bd0886a421a7658888af2cd04d82e07848afb8e3b79
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
   </entry>
 </feed>
