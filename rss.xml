@@ -5,7 +5,48 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-01T23:58:56.386Z</updated>
+  <updated>2026-10-02T00:03:56.390Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/26471"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26471</id>
+    <updated>2026-10-02T00:00:21.146Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $84,817 | SOL: $118.42
+Market mood: 80/100 🟢 BULLISH
+Solana activity: ACTIVE
+
+Tomorrow&apos;s outlook: Range-bound tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-01</title>
+    <link href="https://t.me/sgnl_free/26470"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26470</id>
+    <updated>2026-10-02T00:00:05.455Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-01
+
+24h state transitions tracked: 224
+  💀 Died (gone): 60
+  😴 Went dormant: 96
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 jeff: had $0 liquidity · died at age 20.5d
+  💀 ECAT: had $0 liquidity · died at age 9.4d
+  💀 bruv: had $0 liquidity · died at age 9.4d
+  💀 ANON: had $0 liquidity · died at age 9.4d
+  💀 FWOGAMI: had $0 liquidity · died at age 45.4d
+  💀 ⚡👑: had $0 liquidity · died at age 33.0d
+  💀 PAID: had $0 liquidity · died at age 33.0d
+  💀 Capysaur: had $0 liquidity · died at age 32.7d
+  💀 Venus: had $0 liquidity · died at age 32.5d
+  💀 WHALES: had $0 liquidity · died at age 32.5d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>🔴 STABLECOIN BURN · USDC</title>
     <link href="https://t.me/sgnl_free/26469"/>
@@ -751,47 +792,5 @@ Tx: https://etherscan.io/tx/0x2ccf165ebf11062439f19c14718aa2af65aad29b562046ad1c
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/26421"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26421</id>
-    <updated>2026-10-01T15:05:22.567Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 3836.02 ETH ($10.3M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 54974 moves in 7d · 55028 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x1501b950063e082e7a44926f2526e449ef2aae6639d5e55a5fb807c5e60a5c28
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-09-30</title>
-    <link href="https://t.me/sgnl_free/26420"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26420</id>
-    <updated>2026-10-01T15:00:04.357Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-09-30
-
-Tokens with liquidity drop ≥50%: 21
-Tokens with liquidity drop ≥90%: 14
-Tokens with liquidity drop ≥75%: 20
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL SIC: -95.6%  $57.5K → $2.5K  in 2.6h
-  🚨 CRITICAL discat: -95.6%  $60.3K → $2.6K  in 4.1h
-  🚨 CRITICAL SSC: -95.5%  $53.2K → $2.4K  in 15m
-  🚨 CRITICAL tok: -95.3%  $54.5K → $2.6K  in 2.8h
-  🚨 CRITICAL SI: -95.3%  $57.7K → $2.7K  in 40m
-  🚨 CRITICAL SAI: -95.1%  $59.1K → $2.9K  in 3.2h
-  🚨 CRITICAL SI: -94.7%  $46.8K → $2.5K  in 1.4h
-  🚨 CRITICAL ASI: -94.6%  $42.9K → $2.3K  in 10m
-  🚨 CRITICAL USA: -94.5%  $49.3K → $2.7K  in 1.8h
-  🚨 CRITICAL SIT: -94.3%  $42.0K → $2.4K  in 3.3h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
   </entry>
 </feed>
