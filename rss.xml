@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-02T17:58:56.427Z</updated>
+  <updated>2026-10-02T18:03:56.425Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-10-01</title>
+    <link href="https://t.me/sgnl_free/26661"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26661</id>
+    <updated>2026-10-02T18:00:45.684Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-01
+
+Yesterday&apos;s cohort: 46,924 launches
+  🟢 STRONG (score 8+): 1,155 (2.46%)
+  🟡 MIXED (score 5-7): 15,939 (33.97%)
+  🔴 WEAK  (score 0-4): 29,830 (63.57%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG SWORDOGG mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG SENSEI mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG s/acc mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG VRAX67 mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG GCAT mcap=79 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG WOJAKVRAX mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG s/acc mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG Armored mcap=8635 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG e/sol mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG CROW mcap=61 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (0 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/26660"/>
@@ -755,20 +785,6 @@ GSR institutional market-maker
 Tx: https://etherscan.io/tx/0xf97ca0bd7e0d7693224664f9d396e07e013863963a05d7722218e45df0373ea0
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/26611"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26611</id>
-    <updated>2026-10-02T13:04:07.899Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 41.1M USDT ($41.1M)  ←  Binance 14  Binance 16
-
-7d: $3158M in · $4836M out · net flow: outflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
