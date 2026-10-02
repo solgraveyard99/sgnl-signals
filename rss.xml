@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-02T17:33:56.431Z</updated>
+  <updated>2026-10-02T17:38:56.435Z</updated>
+  <entry>
+    <title>📊 6 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/26657"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26657</id>
+    <updated>2026-10-02T17:38:45.943Z</updated>
+    <summary type="text">📊 6 outflow-heavy observations detected
+Sample: 6 concurrent observations · $1.44B total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 9 moves, $1020M off exchanges
+• 🐋 Large withdrawal: $200M USDT ← Binance 14
+• 🐋 Large withdrawal: $92M USDT ← Binance 14
+• 🐋 Large withdrawal: $80M USDT ← Binance 14
+• 🐋 Large withdrawal: $40M USDT ← Binance 14
+…and 1 more concurrent
+
+Opposing flow: $131M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/26656"/>
@@ -749,21 +770,5 @@ Tx: https://etherscan.io/tx/0x51b89cac280262aedf33d34705bb0fc87272f69cf31a917620
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/26607"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26607</id>
-    <updated>2026-10-02T12:53:52.591Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.934052755 gwei  ·  Safe: 0.71926465 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
