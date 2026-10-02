@@ -5,7 +5,60 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-02T02:58:56.392Z</updated>
+  <updated>2026-10-02T03:03:56.399Z</updated>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/26510"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26510</id>
+    <updated>2026-10-02T03:03:45.306Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-10-01
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): +$6.09 · 9 trades · WR 44%
+🐋 Solana Momentum: -208.35% · 4 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
+
+📆 Last 7 days
+🚀 Futures: $75.16 · 58 trades · WR 40%
+🐋 Solana Momentum: -1159.83% · 31 trades · WR 23%
+⚙️ Other Strategy: +0.00% · 6 trades · WR 0%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $120.01 · 1372 trades · WR 52%
+🐋 Solana Momentum: -8844.38% · 952 trades · WR 34%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 74 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-10-01</title>
+    <link href="https://t.me/sgnl_free/26509"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26509</id>
+    <updated>2026-10-02T03:00:03.872Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-10-01
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/26508"/>
@@ -786,39 +839,6 @@ GSR institutional market-maker
 Tx: https://etherscan.io/tx/0x79a3b0046ee0d7aa317c06cce559aaf302e3222260243dfe99ce71c799f38012
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/26460"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26460</id>
-    <updated>2026-10-01T20:09:08.050Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 14671 ETH ($39.6M)  →  Binance 14  0xeae738…
-
-7d: $3362M in · $6325M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 4 inflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/26459"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26459</id>
-    <updated>2026-10-01T20:08:43.481Z</updated>
-    <summary type="text">📊 4 inflow-heavy observations detected
-Sample: 4 concurrent observations · $419M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale deposit cluster: 9 moves, $287M to exchanges
-• 🐋 Large deposit: $68M USDT → Binance 14
-• 🐋 Large deposit: $42M USDT → Binance 15
-• 🐋 Large deposit: $22M USDT → Binance 14
-
-Opposing flow: $106M (filtered — minority)
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
