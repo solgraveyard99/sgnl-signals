@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-02T11:58:56.423Z</updated>
+  <updated>2026-10-02T12:03:56.416Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-01</title>
+    <link href="https://t.me/sgnl_free/26599"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26599</id>
+    <updated>2026-10-02T12:00:04.151Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-01
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: 115.3K μlamp
+  P90:    322.1K μlamp
+  Max:    14.36M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): 57.6K μlamp
+  Medium (~5s):   115.3K μlamp
+  Fast (high probability): 322.1K μlamp
+
+vs prior 6-day baseline: ↓ 8% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: 115.3K μlamp | Raydium: 453.5K μlamp | Orca: 529.0K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Jump Trading</title>
     <link href="https://t.me/sgnl_free/26598"/>
@@ -774,21 +800,6 @@ Top observations (by size):
 
 Opposing flow: $70M (filtered — minority)
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/26549"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26549</id>
-    <updated>2026-10-02T06:25:59.390Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📤 1,104,369 USDC ($1.1M) → 0x30f2864e…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 2080 moves in 7d · 2089 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0xf110fc23c20ac9c59bef8cd9dad99026589d82c5aba32a94c9a20f1bd28c7570
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
