@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-03T14:58:56.489Z</updated>
+  <updated>2026-10-03T15:03:56.488Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-02</title>
+    <link href="https://t.me/sgnl_free/26776"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26776</id>
+    <updated>2026-10-03T15:00:11.504Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-02
+
+Tokens with liquidity drop ≥50%: 17
+Tokens with liquidity drop ≥90%: 11
+Tokens with liquidity drop ≥75%: 14
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL NIVI: -96.2%  $65.8K → $2.5K  in 1.3h
+  🚨 CRITICAL pumpcat: -96.1%  $65.0K → $2.6K  in 1.1h
+  🚨 CRITICAL WWWCAT: -95.1%  $51.9K → $2.5K  in 2.0h
+  🚨 CRITICAL SS: -94.9%  $55.7K → $2.8K  in 3.8h
+  🚨 CRITICAL MIX6900: -94.8%  $53.2K → $2.8K  in 5.0h
+  🚨 CRITICAL WISP: -94.4%  $57.9K → $3.2K  in 1.4h
+  🚨 CRITICAL SR: -93.9%  $48.2K → $3.0K  in 2.4h
+  🚨 CRITICAL AMC: -93.8%  $42.7K → $2.7K  in 35m
+  🚨 CRITICAL WANT: -93.5%  $45.8K → $3.0K  in 1.3h
+  🚨 CRITICAL CATWIFSAP: -93.0%  $34.4K → $2.4K  in 50m
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/26775"/>
@@ -800,26 +827,5 @@ Every trade is logged and published. Paper mode until validation targets hit (30
 Not financial advice. Data for decision support.
 
 📲 t.me/sgnl_free</summary>
-  </entry>
-  <entry>
-    <title>🍯 Solana Honeypot / Trap Watch — 2026-10-02</title>
-    <link href="https://t.me/sgnl_free/26726"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26726</id>
-    <updated>2026-10-03T03:00:14.035Z</updated>
-    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-10-02
-
-Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 1
-Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
-
-Top 1 suspicious patterns yesterday:
-  ⚠ HONEYPOT? PumpBlox: 706:3 buys:sells  vol1h=$942  liq=$72.7K  price1h -3%
-
-How to read:
-  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
-  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
-
-NOT a guarantee — thin sell side can be legitimate for very fresh launches.
-Always test with small amount before sizing up. Use rugcheck.xyz to verify.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
