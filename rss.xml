@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-03T13:58:56.480Z</updated>
+  <updated>2026-10-03T14:03:56.484Z</updated>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-10-03</title>
+    <link href="https://t.me/sgnl_free/26771"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26771</id>
+    <updated>2026-10-03T14:00:18.312Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-10-03
+Composite score: 50/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/26770"/>
@@ -824,24 +835,5 @@ Tx: https://etherscan.io/tx/0x86b5219316e5389fc0f0dd0273360d5845c4fae6bfb10921c8
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/26721"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26721</id>
-    <updated>2026-10-03T01:30:12.126Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0100 SOL
-• 99th: 0.0100 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
