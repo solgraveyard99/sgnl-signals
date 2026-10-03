@@ -5,7 +5,59 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-03T08:58:56.466Z</updated>
+  <updated>2026-10-03T09:03:56.457Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-10-02</title>
+    <link href="https://t.me/sgnl_free/26758"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26758</id>
+    <updated>2026-10-03T09:00:18.888Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-02
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 42
+Median peak spike (top 50): 22.1x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump si.gov: 24.0x  vol1h=$1.19M  price1h +1698.0%
+  🟢 pump pumpcat: 24.0x  vol1h=$818.1K  price1h +495.0%
+  🟢 pump SS: 24.0x  vol1h=$699.4K  price1h +477.0%
+  🟢 pump NIVI: 24.0x  vol1h=$916.0K  price1h +476.0%
+  🟢 pump SR: 24.0x  vol1h=$1.73M  price1h +433.0%
+  🟢 pump WISP: 24.0x  vol1h=$847.7K  price1h +413.0%
+  🟢 pump BlackHoles: 24.0x  vol1h=$584.1K  price1h +360.0%
+  🟢 pump SUPPERINU: 24.0x  vol1h=$764.8K  price1h +289.0%
+  🟢 pump WWWCAT: 24.0x  vol1h=$642.2K  price1h +276.0%
+  🟢 pump SIP: 24.0x  vol1h=$735.1K  price1h +257.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-02</title>
+    <link href="https://t.me/sgnl_free/26757"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26757</id>
+    <updated>2026-10-03T09:00:03.250Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-02
+
+Top 5 whale-cluster events:
+• $1066M ← CEX | 10 wallets | 20:08Z
+• $1066M ← CEX | 10 wallets | 20:08Z
+• $1025M ← CEX | 9 wallets | 20:08Z
+• $1020M ← CEX | 9 wallets | 17:55Z
+• $1020M ← CEX | 9 wallets | 17:04Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 41
+• Whale-cluster←CEX: 37
+• Whale-large←CEX: 16
+• Whale-large→CEX: 9
+• Rug wallet: 4
+• Funding divergence: 1
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🆕 FRESH WALLET FUNDED</title>
     <link href="https://t.me/sgnl_free/26756"/>
@@ -795,41 +847,5 @@ Tx: https://etherscan.io/tx/0xd7b47bedcfaeba8d04f4d1befbbf4e1e2ba27b143d77dbd98a
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/26708"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26708</id>
-    <updated>2026-10-03T00:04:16.754Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $100000 — expiry 30OCT26
-Direction: BUY
-Notional: ~$8446K
-Contracts: 100
-Implied vol: 38.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/26707"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26707</id>
-    <updated>2026-10-03T00:04:16.271Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $95000 — expiry 30OCT26
-Direction: SELL
-Notional: ~$16893K
-Contracts: 200
-Implied vol: 34.6%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
