@@ -5,7 +5,47 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-03T11:58:56.474Z</updated>
+  <updated>2026-10-03T12:03:56.477Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-02</title>
+    <link href="https://t.me/sgnl_free/26763"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26763</id>
+    <updated>2026-10-03T12:00:05.749Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-02
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: 138.0K μlamp
+  P90:    342.0K μlamp
+  Max:    164.06M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): 69.0K μlamp
+  Medium (~5s):   138.0K μlamp
+  Fast (high probability): 342.0K μlamp
+
+vs prior 6-day baseline: ↑ 5% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: 138.0K μlamp | Raydium: 351.5K μlamp | Orca: 377.8K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/26762"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26762</id>
+    <updated>2026-10-03T11:59:09.648Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 DEPOSIT CLUSTER — 8 large deposits in 6h totaling $99M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
+
+📥 13000 ETH ($34.9M)  →  Binance 14  0xe69f81…
+
+7d: $2979M in · $5844M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/26761"/>
@@ -804,39 +844,5 @@ Tx: https://etherscan.io/tx/0x5b8544ff27d189677c715bd8dc735029d3139690e4d070f08c
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/26713"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26713</id>
-    <updated>2026-10-03T00:24:14.686Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 16808 ETH ($44.8M)  →  Binance 19  Binance 14
-📥 15939 ETH ($42.5M)  →  Binance 17  Binance 14
-
-7d: $2971M in · $5786M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/26712"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26712</id>
-    <updated>2026-10-03T00:24:14.220Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 14 → fresh wallet
-Wallet: 0x56ed…b17f (tx count unavailable)
-Amount: $42.54M ETH
-Tier: TIER3
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x0830d4ee4b57d6c42ac7bbd06598bc90178ef810b940e69ea830e763eef72607
-Wallet: https://etherscan.io/address/0x56eddb7aa87536c09ccc2793473599fd21a8b17f</summary>
   </entry>
 </feed>
