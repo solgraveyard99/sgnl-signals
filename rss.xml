@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-03T13:33:56.480Z</updated>
+  <updated>2026-10-03T13:38:56.481Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/26769"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26769</id>
+    <updated>2026-10-03T13:38:43.235Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.076826135 gwei (fast)  ·  🟢 cheap
+Safe: 0.066826135  ·  Propose: 0.066826147  ·  BaseFee: 0.0668
+
+24h range: 0.06–1.39 gwei  (avg 0.22)
+
+Simple transfer cost now: ~$0.0040</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/26768"/>
@@ -827,21 +841,6 @@ Statistical pattern. Not financial advice.
 
 7d: $3027M in · $5786M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/26719"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26719</id>
-    <updated>2026-10-03T01:05:33.469Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 816.00 ETH ($2.2M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 59224 moves in 7d · 59235 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xe57dd8e01421948fd37762f096e8b78f14ded090f77fcf7f6337b5fccf34711c
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
