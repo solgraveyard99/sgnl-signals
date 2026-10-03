@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-03T01:28:56.439Z</updated>
+  <updated>2026-10-03T01:33:56.441Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/26721"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26721</id>
+    <updated>2026-10-03T01:30:12.126Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0100 SOL
+• 99th: 0.0100 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/26720"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26720</id>
+    <updated>2026-10-03T01:29:16.015Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 3190 ETH ($8.5M)  ←  Binance 19  0xf8191d…
+
+7d: $3027M in · $5786M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/26719"/>
@@ -798,36 +831,6 @@ Statistical pattern. Not financial advice.</summary>
 📥 8018 ETH ($21.3M)  →  Binance 14  0xeae738…
 
 7d: $3072M in · $5660M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/26671"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26671</id>
-    <updated>2026-10-02T18:53:43.381Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 1.096905045 gwei  ·  Safe: 0.992547185 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/26670"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26670</id>
-    <updated>2026-10-02T18:49:15.410Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 7.7M USDT ($7.7M)  →  Binance 14  0xeae738…
-
-7d: $3064M in · $5660M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
   </entry>
