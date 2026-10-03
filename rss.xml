@@ -5,7 +5,31 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-03T05:58:56.448Z</updated>
+  <updated>2026-10-03T06:03:56.451Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-10-02</title>
+    <link href="https://t.me/sgnl_free/26736"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26736</id>
+    <updated>2026-10-03T06:00:52.064Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-10-02
+
+Last 24h cohort: 9,282 launches
+  Graduated to Raydium: 51 (0.549%)
+  Timed out at 24h: 9,231 (99.451%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.3 min
+  Max observed today: 1.8 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (145 days):
+  Cohort: 3,600,183
+  Total graduations: 28,258 (0.7849%)
+  Total timeouts: 3,571,925 (99.2151%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/26735"/>
@@ -856,20 +880,5 @@ Top 10 by buy momentum (buys × buy/sell ratio):
 Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
 Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Jump Trading</title>
-    <link href="https://t.me/sgnl_free/26686"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26686</id>
-    <updated>2026-10-02T20:55:43.889Z</updated>
-    <summary type="text">🧠 SMART MONEY · Jump Trading
-📥 1,263,060 USDC ($1.3M) ← 0x46340b20…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 2019 moves in 7d · 2019 in 30d.
-Jump Trading — large altcoin flows
-Tx: https://etherscan.io/tx/0xe85b04a89d7a7303662d8d6c1aaa4b0001ee1a8bcb2f57ba7f7891775fc73af1
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
