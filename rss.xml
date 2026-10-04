@@ -5,7 +5,27 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-04T12:18:56.546Z</updated>
+  <updated>2026-10-04T12:23:56.550Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/26851"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26851</id>
+    <updated>2026-10-04T12:23:49.082Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $263.2B  (24h: +$31M)
+
+⚪ USDT: $184.04B  ($-0M)
+⚪ USDC: $74.21B  (+$16M)
+⚪ USDe: $4.91B  (+$15M)
+⚪ FDUSD: $0.00B  (+$0M)
+⚪ USDS: $0.00B  (+$0M)
+⚪ DAI: $0.00B  (+$0M)
+
+📊 Net supply Δ24h: +$31M (near-flat band). Descriptive only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-10-03</title>
     <link href="https://t.me/sgnl_free/26850"/>
@@ -847,24 +867,6 @@ Direction: SELL
 Notional: ~$703K
 Contracts: 8.3
 Implied vol: 18.2%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/26801"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26801</id>
-    <updated>2026-10-04T00:04:14.716Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $90000 — expiry 9OCT26
-Direction: SELL
-Notional: ~$984K
-Contracts: 11.6
-Implied vol: 34.9%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
