@@ -5,7 +5,68 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-04T08:58:56.536Z</updated>
+  <updated>2026-10-04T09:03:56.545Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-10-03</title>
+    <link href="https://t.me/sgnl_free/26842"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26842</id>
+    <updated>2026-10-04T09:00:05.087Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-03
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 27
+Median peak spike (top 50): 18.4x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump pumptom: 24.0x  vol1h=$5.19M  price1h +2058.0%
+  🟢 pump catius: 24.0x  vol1h=$505.9K  price1h +776.0%
+  🟢 pump DARKPOOL: 24.0x  vol1h=$936.0K  price1h +577.0%
+  🟢 pump SCAT: 24.0x  vol1h=$283.3K  price1h +532.0%
+  🟢 pump REP: 24.0x  vol1h=$412.6K  price1h +336.0%
+  🟢 pump VAMPINU: 24.0x  vol1h=$78.0K  price1h +192.0%
+  🟢 pump SHODL: 24.0x  vol1h=$347.0K  price1h +169.0%
+  🟢 pump AMM: 24.0x  vol1h=$507.9K  price1h +147.0%
+  🟢 pump CATBOT: 24.0x  vol1h=$453.0K  price1h +140.0%
+  🟢 pump CHAD: 24.0x  vol1h=$426.6K  price1h +139.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-03</title>
+    <link href="https://t.me/sgnl_free/26841"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26841</id>
+    <updated>2026-10-04T09:00:04.619Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-03
+
+Top 5 whale-cluster events:
+• $130M ← CEX | 5 wallets | 14:44Z
+• $99M → CEX | 8 wallets | 13:54Z
+• $99M → CEX | 8 wallets | 12:24Z
+• $80M ← CEX | 4 wallets | 14:39Z
+• $77M → CEX | 6 wallets | 14:04Z
+
+Alerts fired (24h):
+• Whale-large←CEX: 6
+• Whale-cluster→CEX: 4
+• Whale-cluster←CEX: 2
+• Whale-large→CEX: 2
+• Rug wallet: 1
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
+  <entry>
+    <title>📤 WITHDRAWAL · Binance 14</title>
+    <link href="https://t.me/sgnl_free/26840"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26840</id>
+    <updated>2026-10-04T08:59:08.699Z</updated>
+    <summary type="text">📤 WITHDRAWAL · Binance 14
+10M USDT  ($10.0M)  ←  0x236f96…
+⚪ Routine withdrawal
+Tx: https://etherscan.io/tx/0xf07a03a65a24fa38f5efe40fade391caa4be2c80d05fe374e7c1345f37f31843</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/26839"/>
@@ -826,56 +887,5 @@ Tx: https://etherscan.io/tx/0xa86ca6debef0b28b6d4aa6b2039afb31634193c84f28020e0a
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/26792"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26792</id>
-    <updated>2026-10-03T21:05:46.511Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 499.12 ETH ($1.3M) → 0x652a2ade…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 38733 moves in 7d · 38733 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x89ef8708be709bb8e6041c168f01362343b74763b0d179804c8dd6607da00c83
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-10-02</title>
-    <link href="https://t.me/sgnl_free/26791"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26791</id>
-    <updated>2026-10-03T21:00:04.550Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-10-02
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 35
-Strong-bias tokens (buy/sell ≥3x): 13
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 MIX6900: 10551 buys / 1247 sells (8.5x)  vol1h=$429.8K  price1h +228%
-  📈 CATWIFSAP: 14676 buys / 2834 sells (5.2x)  vol1h=$423.1K  price1h +22%
-  📈 www: 10536 buys / 1684 sells (6.3x)  vol1h=$316.3K  price1h +50%
-  📈 WISP: 20768 buys / 8616 sells (2.4x)  vol1h=$846.9K  price1h +45%
-  📈 HOOKEDINU: 6059 buys / 897 sells (6.8x)  vol1h=$339.2K  price1h +148%
-  📈 NIVI: 12862 buys / 4096 sells (3.1x)  vol1h=$916.0K  price1h +476%
-  📈 pumpcat: 12273 buys / 4097 sells (3.0x)  vol1h=$818.1K  price1h +337%
-  📈 SUPPERINU: 7177 buys / 1602 sells (4.5x)  vol1h=$501.1K  price1h +83%
-  📈 WWWCAT: 10754 buys / 3685 sells (2.9x)  vol1h=$642.2K  price1h -15%
-  📈 AMC: 8479 buys / 3722 sells (2.3x)  vol1h=$340.5K  price1h -3%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📤 WITHDRAWAL · Binance 19</title>
-    <link href="https://t.me/sgnl_free/26790"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26790</id>
-    <updated>2026-10-03T20:59:08.174Z</updated>
-    <summary type="text">📤 WITHDRAWAL · Binance 19
-3162 ETH  ($8.5M)  ←  0xf8191d…
-⚪ Routine withdrawal
-Tx: https://etherscan.io/tx/0x2f5730c672b7f88826209f37208db72d441a591346abb623030789b17bd85c62</summary>
   </entry>
 </feed>
