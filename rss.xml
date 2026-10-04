@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-04T17:58:56.566Z</updated>
+  <updated>2026-10-04T18:03:56.561Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-10-03</title>
+    <link href="https://t.me/sgnl_free/26866"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26866</id>
+    <updated>2026-10-04T18:01:16.372Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-03
+
+Yesterday&apos;s cohort: 48,532 launches
+  🟢 STRONG (score 8+): 967 (1.99%)
+  🟡 MIXED (score 5-7): 18,447 (38.01%)
+  🔴 WEAK  (score 0-4): 29,118 (60.00%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG SOLBOT mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG SG mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG SUPERPIG mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG SKI mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG KOPI mcap=71 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG SIH mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG VORTUNE mcap=113 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG SIP mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG PUMPDIM mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG HEXORA mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+
+✓grad = graduated to Raydium within 24h (304 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>☀️ SGNL Midday Check-in</title>
     <link href="https://t.me/sgnl_free/26865"/>
@@ -806,24 +836,5 @@ How to read:
 NOT a guarantee — thin sell side can be legitimate for very fresh launches.
 Always test with small amount before sizing up. Use rugcheck.xyz to verify.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/26816"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26816</id>
-    <updated>2026-10-04T02:30:05.559Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0010 SOL
-• 99th: 0.0576 SOL (~$6)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
