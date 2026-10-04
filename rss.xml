@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-04T00:58:56.515Z</updated>
+  <updated>2026-10-04T01:03:56.515Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/26808"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26808</id>
+    <updated>2026-10-04T01:00:58.739Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0010 SOL
+• 99th: 0.0207 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/26807"/>
@@ -824,31 +843,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3020M in · $5803M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-10-02</title>
-    <link href="https://t.me/sgnl_free/26758"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26758</id>
-    <updated>2026-10-03T09:00:18.888Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-02
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 42
-Median peak spike (top 50): 22.1x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump si.gov: 24.0x  vol1h=$1.19M  price1h +1698.0%
-  🟢 pump pumpcat: 24.0x  vol1h=$818.1K  price1h +495.0%
-  🟢 pump SS: 24.0x  vol1h=$699.4K  price1h +477.0%
-  🟢 pump NIVI: 24.0x  vol1h=$916.0K  price1h +476.0%
-  🟢 pump SR: 24.0x  vol1h=$1.73M  price1h +433.0%
-  🟢 pump WISP: 24.0x  vol1h=$847.7K  price1h +413.0%
-  🟢 pump BlackHoles: 24.0x  vol1h=$584.1K  price1h +360.0%
-  🟢 pump SUPPERINU: 24.0x  vol1h=$764.8K  price1h +289.0%
-  🟢 pump WWWCAT: 24.0x  vol1h=$642.2K  price1h +276.0%
-  🟢 pump SIP: 24.0x  vol1h=$735.1K  price1h +257.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
