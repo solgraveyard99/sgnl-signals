@@ -5,7 +5,31 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-04T05:58:56.526Z</updated>
+  <updated>2026-10-04T06:03:56.534Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-10-03</title>
+    <link href="https://t.me/sgnl_free/26825"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26825</id>
+    <updated>2026-10-04T06:00:47.551Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-10-03
+
+Last 24h cohort: 10,570 launches
+  Graduated to Raydium: 304 (2.876%)
+  Timed out at 24h: 10,266 (97.124%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.4 min
+  Max observed today: 2.5 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (146 days):
+  Cohort: 3,646,007
+  Total graduations: 28,510 (0.7820%)
+  Total timeouts: 3,617,497 (99.2180%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/26824"/>
@@ -884,20 +908,5 @@ Top 10 biggest drops yesterday (peak → trough):
 Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
 Filter: peak liquidity ≥$20K, drop ≥50%.
 Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/26775"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26775</id>
-    <updated>2026-10-03T14:45:50.380Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1,050,000 USDT ($1.1M) → 0x9a4ce88e…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 38444 moves in 7d · 38451 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xe188e9085f29830b30ac80538b48b4b3f3dc26fb580de1160abc677a267b08b9
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
