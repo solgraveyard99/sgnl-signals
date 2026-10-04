@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-04T01:33:56.519Z</updated>
+  <updated>2026-10-04T01:38:56.518Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/26814"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26814</id>
+    <updated>2026-10-04T01:34:12.869Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $80000 — expiry 5OCT26
+Direction: BUY
+Notional: ~$1695K
+Contracts: 20
+Implied vol: 47.5%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/26813"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26813</id>
+    <updated>2026-10-04T01:33:57.274Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $80000 — expiry 6OCT26
+Direction: BUY
+Notional: ~$932K
+Contracts: 11
+Implied vol: 39.8%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/26812"/>
@@ -813,51 +849,5 @@ Cumulative peak liquidity: $4K
 Historical observation. Public on-chain data.
 
 #onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/26764"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26764</id>
-    <updated>2026-10-03T12:23:50.282Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $263.2B  (24h: +$185M)
-
-⚪ USDT: $184.04B  (+$29M)
-🟢 USDC: $74.23B  (+$171M)
-⚪ USDe: $4.89B  ($-14M)
-⚪ FDUSD: $0.00B  (+$0M)
-⚪ USDS: $0.00B  (+$0M)
-⚪ DAI: $0.00B  (+$0M)
-
-📊 Net supply Δ24h: +$185M (near-flat band). Descriptive only.
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-10-02</title>
-    <link href="https://t.me/sgnl_free/26763"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26763</id>
-    <updated>2026-10-03T12:00:05.749Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-02
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: 138.0K μlamp
-  P90:    342.0K μlamp
-  Max:    164.06M μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): 69.0K μlamp
-  Medium (~5s):   138.0K μlamp
-  Fast (high probability): 342.0K μlamp
-
-vs prior 6-day baseline: ↑ 5% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: 138.0K μlamp | Raydium: 351.5K μlamp | Orca: 377.8K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
