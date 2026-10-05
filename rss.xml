@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-05T00:38:56.579Z</updated>
+  <updated>2026-10-05T00:43:56.576Z</updated>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/26899"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26899</id>
+    <updated>2026-10-05T00:43:43.534Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $235M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 5 moves, $150M off exchanges
+• 🐋 Large withdrawal: $43M USDT ← Binance 14
+• 🐋 Large withdrawal: $42M ETH ← Binance 14
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/26898"/>
@@ -827,20 +843,5 @@ Cross-DEX yesterday medians:
 
 Source: live Solana RPC + Jupiter/Raydium/Orca quotes
 Fees change in seconds. DYOR before tx.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/26849"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26849</id>
-    <updated>2026-10-04T10:55:22.480Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1,000,000 USDT ($1.0M) ← 0x17e9dbea…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 61570 moves in 7d · 61640 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x232b13739cae13322b84f3d0a3de00964746267fd855067cab1209290844c8f1
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
