@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-05T01:48:56.579Z</updated>
+  <updated>2026-10-05T01:53:56.579Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/26907"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26907</id>
+    <updated>2026-10-05T01:53:04.785Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0049 SOL
+• 99th: 0.0196 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/26906"/>
@@ -828,20 +847,5 @@ Safe: 0.247966873  ·  Propose: 0.28635514  ·  BaseFee: 0.2480
 24h range: 0.06–1.64 gwei  (avg 0.16)
 
 Simple transfer cost now: ~$0.0165</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/26857"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26857</id>
-    <updated>2026-10-04T12:55:22.803Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 500.13 ETH ($1.3M) ← 0x4441ed10…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 61498 moves in 7d · 61572 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x3c9fc7a9f4321907ea2747dde0b7c971005110bb1cdff3b5ad348a809aec95ba
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
