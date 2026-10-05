@@ -5,7 +5,54 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-05T22:23:56.649Z</updated>
+  <updated>2026-10-05T22:28:56.653Z</updated>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/27098"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27098</id>
+    <updated>2026-10-05T22:28:43.627Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $290M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 15 moves, $260M off exchanges
+• 🐋 Large withdrawal: $18M ETH ← Binance 14
+• 🐋 Large withdrawal: $11M ETH ← Binance 14
+
+Opposing flow: $36M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/27097"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27097</id>
+    <updated>2026-10-05T22:25:22.604Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📤 4169.18 ETH ($11.3M) to Binance 15 (CEX deposit)
+Tracked-whale wallet · movement toward CEX Binance 15. Descriptive observation.
+Wallet activity: 64793 moves in 7d · 64793 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xfe8aee2f6f30ec1b60a90c12b878815c5bde06b8e5f6e3e064b14b3d8b66b151
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/27096"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27096</id>
+    <updated>2026-10-05T22:24:06.338Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 4169 ETH ($11.3M)  ←  Binance 14  Binance 15
+
+7d: $2323M in · $6178M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/27095"/>
@@ -740,52 +787,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 63562 moves in 7d · 63624 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0xb3885187e858f49551c11947666d9320abb541ca9c6c234047f64c3fe60cbc61
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚪ Market Posture · neutral</title>
-    <link href="https://t.me/sgnl_free/27048"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27048</id>
-    <updated>2026-10-05T16:03:43.624Z</updated>
-    <summary type="text">⚪ Market Posture · neutral
-Bias score: +0
-
-4 active signals (top 5 by size):
-• 🐋 Whale withdrawal cluster: 23 moves, $611M off exchanges
-• 🐋 Whale deposit cluster: 11 moves, $85M to exchanges
-• 🐋 Large withdrawal: $41M USDT ← Binance 14
-• 🐋 Large deposit: $11M ETH → Binance 14
-
-Updated every 4h · SGNL signal aggregator</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/27047"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27047</id>
-    <updated>2026-10-05T15:55:47.355Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 2,000,000 USDT ($2.0M) → 0xf8191d98…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 39278 moves in 7d · 39337 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x742ae13022ac063c0172c340372cbc57d683f715332cb243b5d10ce7a728048f
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/27046"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27046</id>
-    <updated>2026-10-05T15:55:25.747Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 5,000,000 USDT ($5.0M) → 0xdca499ec…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 63571 moves in 7d · 63643 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x36b1941e4847b18cf0c4db475b1ef177d2058726f625877b6d830d1b050f6c40
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
