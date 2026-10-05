@@ -5,7 +5,52 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-05T15:33:56.624Z</updated>
+  <updated>2026-10-05T15:38:56.624Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/27042"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27042</id>
+    <updated>2026-10-05T15:36:02.790Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 5,000,000 USDT ($5.0M) → 0xda09feb3…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 39320 moves in 7d · 39378 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0x9cd1eb8ab1488d0a91c84e28de35a80c22849bebc78c3c185a15c35ddc8bd7a5
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Jump Trading</title>
+    <link href="https://t.me/sgnl_free/27041"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27041</id>
+    <updated>2026-10-05T15:35:47.123Z</updated>
+    <summary type="text">🧠 SMART MONEY · Jump Trading
+📥 1,067,248 USDC ($1.1M) ← 0x46340b20…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 1708 moves in 7d · 1708 in 30d.
+Jump Trading — large altcoin flows
+Tx: https://etherscan.io/tx/0x2352f08186ab3b3b4c23cbed4a1486809673d5d06f03e0bae7178d378c997e73
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/27040"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27040</id>
+    <updated>2026-10-05T15:35:31.434Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 2,130,390 USDT ($2.1M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 63558 moves in 7d · 63624 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xf5c574997eb03547f66bf1ad7f0a9254151bfed87013dab0165136cb10d470b6
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🎁 Active Airdrops Digest · Monday</title>
     <link href="https://t.me/sgnl_free/27039"/>
@@ -748,55 +793,5 @@ Tx: https://etherscan.io/tx/0x1b137f8266dd590ee476abfde4b8f42eaadb82a4228c464c1d
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 5 large moves</title>
-    <link href="https://t.me/sgnl_free/26992"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26992</id>
-    <updated>2026-10-05T10:24:10.765Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 5 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 71.6M USDT ($71.6M)  ←  Binance 14  Binance 16
-📤 19.9M USDT ($19.9M)  ←  Binance 14  0xf89d7b…
-📤 19.9M USDT ($19.9M)  ←  Binance 14  0xf89d7b…
-📤 19.9M USDT ($19.9M)  ←  Binance 16  0xf89d7b…
-📤 11.0M USDT ($11.0M)  ←  Binance 16  0xf89d7b…
-
-7d: $2468M in · $5951M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/26991"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26991</id>
-    <updated>2026-10-05T10:23:55.113Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDC
-Supply change 24h: -$7477M
-New supply: $66.73B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/26990"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26990</id>
-    <updated>2026-10-05T10:22:59.264Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0002 SOL
-• 75th: 0.0010 SOL
-• 95th: 0.0086 SOL
-• 99th: 0.0195 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
