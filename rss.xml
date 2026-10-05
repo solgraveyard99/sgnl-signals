@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-05T00:48:56.581Z</updated>
+  <updated>2026-10-05T00:53:56.576Z</updated>
+  <entry>
+    <title>⛽🟢 CHEAP GAS WINDOW</title>
+    <link href="https://t.me/sgnl_free/26901"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26901</id>
+    <updated>2026-10-05T00:53:43.244Z</updated>
+    <summary type="text">⛽🟢 CHEAP GAS WINDOW
+Fast: 0.144898761 gwei  ·  Safe: 0.097093524 gwei
+
+Optimal time for routine tx:
+• Token transfers (~$0.50)
+• Unclaimed airdrops
+• Swap batching
+• Approve revocations
+
+Windows like this typically last 30-60 min. Act now.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/26900"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-26900</id>
+    <updated>2026-10-05T00:49:21.283Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 WITHDRAWAL CLUSTER — 5 large withdrawals in 6h totaling $141M. Prior 30d: top decile of 6h withdrawal concurrence. Descriptive only.
+
+📤 5.5M USDT ($5.5M)  ←  Binance 16  0x549d83…
+
+7d: $2725M in · $6039M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📊 3 outflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/26899"/>
@@ -797,51 +827,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $2870M in · $5876M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/26851"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26851</id>
-    <updated>2026-10-04T12:23:49.082Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $263.2B  (24h: +$31M)
-
-⚪ USDT: $184.04B  ($-0M)
-⚪ USDC: $74.21B  (+$16M)
-⚪ USDe: $4.91B  (+$15M)
-⚪ FDUSD: $0.00B  (+$0M)
-⚪ USDS: $0.00B  (+$0M)
-⚪ DAI: $0.00B  (+$0M)
-
-📊 Net supply Δ24h: +$31M (near-flat band). Descriptive only.
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-10-03</title>
-    <link href="https://t.me/sgnl_free/26850"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-26850</id>
-    <updated>2026-10-04T12:00:04.322Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-03
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: 160.9K μlamp
-  P90:    378.0K μlamp
-  Max:    62.68M μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): 80.5K μlamp
-  Medium (~5s):   160.9K μlamp
-  Fast (high probability): 378.0K μlamp
-
-vs prior 6-day baseline: ↑ 28% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: 160.9K μlamp | Raydium: 430.7K μlamp | Orca: 411.2K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
