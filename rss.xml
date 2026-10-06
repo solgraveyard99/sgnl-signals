@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-06T17:58:56.714Z</updated>
+  <updated>2026-10-06T18:03:56.707Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-10-05</title>
+    <link href="https://t.me/sgnl_free/27256"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27256</id>
+    <updated>2026-10-06T18:01:28.479Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-05
+
+Yesterday&apos;s cohort: 48,518 launches
+  🟢 STRONG (score 8+): 863 (1.78%)
+  🟡 MIXED (score 5-7): 20,257 (41.75%)
+  🔴 WEAK  (score 0-4): 27,398 (56.47%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG DOGI mcap=75 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG MEMAI mcap=89 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG DOGI mcap=79 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG IRR mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG AGENCYCOIN mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG CashAgency mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG UNUSELESS mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG Agencynet mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG $PHARMA mcap=570 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG CASHROBIN mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+
+✓grad = graduated to Raydium within 24h (236 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/27255"/>
@@ -738,27 +768,6 @@ Statistical pattern. Not financial advice.</summary>
 📤 6.2M USDT ($6.2M)  ←  Binance 15  0x42008c…
 
 7d: $2155M in · $5609M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 6 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/27206"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27206</id>
-    <updated>2026-10-06T13:13:43.837Z</updated>
-    <summary type="text">📊 6 outflow-heavy observations detected
-Sample: 6 concurrent observations · $525M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 19 moves, $363M off exchanges
-• 🐋 Large withdrawal: $53M USDT ← Binance 14
-• 🐋 Large withdrawal: $42M USDT ← Binance 14
-• 🐋 Large withdrawal: $41M USDT ← Binance 14
-• 🐋 Large withdrawal: $15M USDT ← Binance 15
-…and 1 more concurrent
-
-Opposing flow: $175M (filtered — minority)
 
 Statistical pattern. Not financial advice.</summary>
   </entry>
