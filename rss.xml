@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-06T14:58:56.701Z</updated>
+  <updated>2026-10-06T15:03:56.701Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-05</title>
+    <link href="https://t.me/sgnl_free/27222"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27222</id>
+    <updated>2026-10-06T15:00:04.481Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-05
+
+Tokens with liquidity drop ≥50%: 22
+Tokens with liquidity drop ≥90%: 10
+Tokens with liquidity drop ≥75%: 15
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL XFUN: -99.1%  $548.0K → $5.1K  in 40m
+  🚨 CRITICAL king: -98.6%  $428.7K → $5.9K  in 10m
+  🚨 CRITICAL XMAN: -95.7%  $75.2K → $3.2K  in 7.2h
+  🚨 CRITICAL Gizmo: -95.6%  $74.0K → $3.2K  in 8.3h
+  🚨 CRITICAL HUMAN: -95.4%  $67.0K → $3.1K  in 1.2h
+  🚨 CRITICAL AGENCYSOL: -95.0%  $83.7K → $4.2K  in 30m
+  🚨 CRITICAL SOL: -94.8%  $51.2K → $2.7K  in 40m
+  🚨 CRITICAL EYEFO: -93.4%  $65.5K → $4.3K  in 4.4h
+  🚨 CRITICAL launchpad: -92.6%  $39.2K → $2.9K  in 2.1h
+  🚨 CRITICAL ASI: -90.4%  $26.6K → $2.6K  in 1.5h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/27221"/>
@@ -739,21 +766,6 @@ Market-maker wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 39897 moves in 7d · 39945 in 30d.
 GSR institutional market-maker
 Tx: https://etherscan.io/tx/0xbfe92f750dc3fab3e2ae5f3b3081fe4ceecd5e65ccf1869c9ba8d9b5b8fcd0c4
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/27172"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27172</id>
-    <updated>2026-10-06T09:05:46.857Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📥 4226.13 ETH ($11.5M) from Binance 14 (exchange withdrawal)
-Market-maker wallet · withdrawal from CEX Binance 14. Descriptive observation.
-Wallet activity: 39895 moves in 7d · 39943 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xdd43438b09ecea365977b9b6511add0e40e88cca27a9f2fd72f3871abeda6c10
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
