@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-06T02:43:56.657Z</updated>
+  <updated>2026-10-06T02:48:56.658Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/27125"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27125</id>
+    <updated>2026-10-06T02:44:19.406Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 WITHDRAWAL CLUSTER — 4 large withdrawals in 6h totaling $80M. Prior 30d: top decile of 6h withdrawal concurrence. Descriptive only.
+
+📥 6.0M USDT ($6.0M)  →  Binance 14  0x73c9dd…
+
+7d: $2168M in · $6166M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/27124"/>
@@ -816,35 +830,5 @@ Tx: https://etherscan.io/tx/0x60feedba8d36f4c448a405de0e1821e064933bc8664c72d964
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-10-04</title>
-    <link href="https://t.me/sgnl_free/27075"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27075</id>
-    <updated>2026-10-05T18:01:27.619Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-04
-
-Yesterday&apos;s cohort: 48,078 launches
-  🟢 STRONG (score 8+): 929 (1.93%)
-  🟡 MIXED (score 5-7): 18,428 (38.33%)
-  🔴 WEAK  (score 0-4): 28,721 (59.74%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG MAGENCY mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG HIVE mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG SWORDJEAN mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG SCREAM mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG PWIF mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG SINEAR mcap=909 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG SSPOOKINU mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG PUMPAGEN mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG 4CATS mcap=80 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG BI mcap=115 SOL [mcap60+,tg,tw,web,desc]
-
-✓grad = graduated to Raydium within 24h (280 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
