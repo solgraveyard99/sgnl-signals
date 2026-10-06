@@ -5,7 +5,36 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-06T09:23:56.687Z</updated>
+  <updated>2026-10-06T09:28:56.684Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/27176"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27176</id>
+    <updated>2026-10-06T09:25:22.740Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 515.00 ETH ($1.4M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 65214 moves in 7d · 65297 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x459294f1e379b8a37824fe260210b937f3cb5e64e5e114bd1701aa61ba39b465
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/27175"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27175</id>
+    <updated>2026-10-06T09:24:09.098Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 5.0M USDT ($5.0M)  ←  Binance 16  0x3ce2d2…
+
+7d: $2155M in · $5630M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/27174"/>
@@ -788,40 +817,5 @@ Every trade is logged and published. Paper mode until validation targets hit (30
 Not financial advice. Data for decision support.
 
 📲 t.me/sgnl_free</summary>
-  </entry>
-  <entry>
-    <title>🍯 Solana Honeypot / Trap Watch — 2026-10-05</title>
-    <link href="https://t.me/sgnl_free/27126"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27126</id>
-    <updated>2026-10-06T03:00:03.660Z</updated>
-    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-10-05
-
-Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
-Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
-
-Top 0 suspicious patterns yesterday:
-  (none flagged — quiet honeypot day)
-
-How to read:
-  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
-  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
-
-NOT a guarantee — thin sell side can be legitimate for very fresh launches.
-Always test with small amount before sizing up. Use rugcheck.xyz to verify.
-Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/27125"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27125</id>
-    <updated>2026-10-06T02:44:19.406Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 WITHDRAWAL CLUSTER — 4 large withdrawals in 6h totaling $80M. Prior 30d: top decile of 6h withdrawal concurrence. Descriptive only.
-
-📥 6.0M USDT ($6.0M)  →  Binance 14  0x73c9dd…
-
-7d: $2168M in · $6166M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
