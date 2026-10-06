@@ -5,7 +5,60 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-06T02:58:56.658Z</updated>
+  <updated>2026-10-06T03:03:56.660Z</updated>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/27127"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27127</id>
+    <updated>2026-10-06T03:03:45.975Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-10-05
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): $12.34 · 12 trades · WR 25%
+🐋 Solana Momentum: -414.66% · 6 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
+
+📆 Last 7 days
+🚀 Futures: $43.99 · 62 trades · WR 47%
+⚙️ Other Strategy: +0.00% · 6 trades · WR 0%
+🐋 Solana Momentum: -1739.73% · 30 trades · WR 7%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $114.63 · 1408 trades · WR 52%
+🐋 Solana Momentum: -10151.81% · 973 trades · WR 33%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 77 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-10-05</title>
+    <link href="https://t.me/sgnl_free/27126"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27126</id>
+    <updated>2026-10-06T03:00:03.660Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-10-05
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/27125"/>
@@ -797,36 +850,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 63525 moves in 7d · 63607 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x6e6449164b75233da46dd92d9a14ec761c2a24da5f45a3a8fe5dcfa7ec76170d
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/27077"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27077</id>
-    <updated>2026-10-05T18:05:52.481Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1,993,600 USDT ($2.0M) → 0xa7af2a15…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 39229 moves in 7d · 39284 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x55ed8bbaeb3314228ad7302a3b374d60cf8d7d7b62aa367206e11a01630a5c31
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/27076"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27076</id>
-    <updated>2026-10-05T18:05:26.418Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1,199,993 USDT ($1.2M) ← 0xbd9f00b3…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 63606 moves in 7d · 63618 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x60feedba8d36f4c448a405de0e1821e064933bc8664c72d964e409fb548983ac
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
