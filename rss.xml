@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-06T11:58:56.693Z</updated>
+  <updated>2026-10-06T12:03:56.698Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-05</title>
+    <link href="https://t.me/sgnl_free/27190"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27190</id>
+    <updated>2026-10-06T12:00:03.723Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-05
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: 170.1K μlamp
+  P90:    501.3K μlamp
+  Max:    38.94M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): 85.0K μlamp
+  Medium (~5s):   170.1K μlamp
+  Fast (high probability): 501.3K μlamp
+
+vs prior 6-day baseline: ↑ 34% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: 170.1K μlamp | Raydium: 338.2K μlamp | Orca: 437.6K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/27189"/>
@@ -774,15 +800,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>📥 DEPOSIT · Binance 14</title>
-    <link href="https://t.me/sgnl_free/27140"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27140</id>
-    <updated>2026-10-06T04:49:09.036Z</updated>
-    <summary type="text">📥 DEPOSIT · Binance 14
-8M USDT  ($8.0M)  →  0xf6a834…
-⚪ Routine deposit
-Tx: https://etherscan.io/tx/0x5357fec7ec5b31a6e807a8c703b9cf9b93acaaaf5befefef07f86bb8ee0b623d</summary>
   </entry>
 </feed>
