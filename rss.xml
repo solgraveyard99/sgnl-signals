@@ -5,7 +5,42 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-07T03:18:56.737Z</updated>
+  <updated>2026-10-07T03:23:56.739Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/27342"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27342</id>
+    <updated>2026-10-07T03:19:15.581Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 8.0M USDT ($8.0M)  →  Binance 14  0x0b2fdf…
+📥 7.4M USDT ($7.4M)  →  Binance 14  0x78b5e3…
+📥 5.9M USDT ($5.9M)  →  Binance 14  0xea59bb…
+
+7d: $2166M in · $5623M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/27341"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27341</id>
+    <updated>2026-10-07T03:18:59.942Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0010 SOL
+• 99th: 0.0207 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/27340"/>
@@ -789,37 +824,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/27292"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27292</id>
-    <updated>2026-10-07T00:04:14.594Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 5.0M USDT ($5.0M)  →  Binance 14  0xc29bf2…
-
-7d: $2082M in · $5598M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/27291"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27291</id>
-    <updated>2026-10-07T00:04:14.031Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Call — strike $2800 — expiry 9OCT26
-Direction: BUY
-Notional: ~$1349K
-Contracts: 500
-Implied vol: 41.2%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
