@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-07T12:48:56.774Z</updated>
+  <updated>2026-10-07T12:53:56.767Z</updated>
+  <entry>
+    <title>⛽🟢 CHEAP GAS WINDOW</title>
+    <link href="https://t.me/sgnl_free/27470"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27470</id>
+    <updated>2026-10-07T12:53:45.490Z</updated>
+    <summary type="text">⛽🟢 CHEAP GAS WINDOW
+Fast: 0.721476625 gwei  ·  Safe: 0.655887841 gwei
+
+Optimal time for routine tx:
+• Token transfers (~$0.50)
+• Unclaimed airdrops
+• Swap batching
+• Approve revocations
+
+Windows like this typically last 30-60 min. Act now.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/27469"/>
@@ -768,31 +784,5 @@ Top 10 by peak spike ratio (volume1h / avg-hourly):
 Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
 Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-10-06</title>
-    <link href="https://t.me/sgnl_free/27420"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27420</id>
-    <updated>2026-10-07T09:00:04.190Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-10-06
-
-Top 5 whale-cluster events:
-• $406M ← CEX | 22 wallets | 13:45Z
-• $376M ← CEX | 19 wallets | 15:15Z
-• $376M ← CEX | 19 wallets | 15:19Z
-• $369M ← CEX | 20 wallets | 13:14Z
-• $363M ← CEX | 19 wallets | 13:14Z
-
-Alerts fired (24h):
-• Whale-cluster←CEX: 70
-• Whale-cluster→CEX: 69
-• Whale-large←CEX: 39
-• Whale-large→CEX: 17
-• Funding divergence: 1
-• Rug wallet: 1
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
