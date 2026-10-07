@@ -5,7 +5,56 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-07T02:23:56.743Z</updated>
+  <updated>2026-10-07T02:28:56.734Z</updated>
+  <entry>
+    <title>📊 5 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/27331"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27331</id>
+    <updated>2026-10-07T02:28:43.693Z</updated>
+    <summary type="text">📊 5 inflow-heavy observations detected
+Sample: 5 concurrent observations · $179M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 6 moves, $99M to exchanges
+• 🐋 Large deposit: $41M USDT → Binance 16
+• 🐋 Large deposit: $14M ETH → Binance 18
+• 🐋 Large deposit: $14M ETH → Binance 14
+• 🐋 Large deposit: $12M ETH → Binance 19
+
+Opposing flow: $52M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/27330"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27330</id>
+    <updated>2026-10-07T02:25:46.863Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 499.53 ETH ($1.3M) → 0x652a2ade…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 39924 moves in 7d · 39946 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0xb7e2b7e2b5a5a9ff055e71117ab26ebca9d074398ff59f348841717ad7bcd012
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/27329"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27329</id>
+    <updated>2026-10-07T02:24:08.132Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 41.1M USDT ($41.1M)  →  Binance 16  Binance 14
+
+7d: $2135M in · $5612M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/27328"/>
@@ -767,66 +816,6 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x5986e695d01f2e74dead01eeb7dd50f44dfaa20e76a718936a91b69417c5b756
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/27281"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27281</id>
-    <updated>2026-10-06T21:55:23.712Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 514.00 ETH ($1.4M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64791 moves in 7d · 64859 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x7a1954674424b59eb2038f245a9e4df64aaa4c54a183d6c654126c531b08fb93
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-10-05</title>
-    <link href="https://t.me/sgnl_free/27280"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27280</id>
-    <updated>2026-10-06T21:00:03.981Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-10-05
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 31
-Strong-bias tokens (buy/sell ≥3x): 9
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 SH: 8280 buys / 1327 sells (6.2x)  vol1h=$529.3K  price1h -2%
-  📈 swordcali: 6486 buys / 944 sells (6.9x)  vol1h=$272.7K  price1h -12%
-  📈 launchpad: 17956 buys / 7896 sells (2.3x)  vol1h=$599.8K  price1h +228%
-  📈 HUMAN: 12079 buys / 5369 sells (2.2x)  vol1h=$1.01M  price1h +124%
-  📈 BATONROGUE: 10140 buys / 4300 sells (2.4x)  vol1h=$614.5K  price1h +62%
-  📈 AGENTCAT: 3837 buys / 652 sells (5.9x)  vol1h=$421.8K  price1h -6%
-  📈 XMAN: 11045 buys / 5926 sells (1.9x)  vol1h=$1.04M  price1h -82%
-  📈 C@T: 10601 buys / 5595 sells (1.9x)  vol1h=$742.9K  price1h -75%
-  📈 SOLgiving: 10826 buys / 6275 sells (1.7x)  vol1h=$8.7K  price1h -1%
-  📈 SOL: 9643 buys / 5143 sells (1.9x)  vol1h=$562.9K  price1h +378%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📊 4 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/27279"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27279</id>
-    <updated>2026-10-06T20:38:43.668Z</updated>
-    <summary type="text">📊 4 outflow-heavy observations detected
-Sample: 4 concurrent observations · $242M total flow.
-Prior 30d: top decile of concurrence (descriptive).
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 10 moves, $177M off exchanges
-• 🐋 Large withdrawal: $41M USDT ← Binance 14
-• 🐋 Large withdrawal: $13M ETH ← Binance 14
-• 🐋 Large withdrawal: $11M ETH ← Binance 14
-
-Opposing flow: $75M (filtered — minority)
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
