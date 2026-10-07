@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-07T01:03:56.743Z</updated>
+  <updated>2026-10-07T01:08:56.734Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/27306"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27306</id>
+    <updated>2026-10-07T01:06:59.959Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0050 SOL
+• 99th: 0.0100 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/27305"/>
@@ -820,35 +839,5 @@ Tx: https://etherscan.io/tx/0xe95b2ab40cc3cc83e6a95caecd9376a519a7a5411bf6ca2f1c
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-10-05</title>
-    <link href="https://t.me/sgnl_free/27256"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27256</id>
-    <updated>2026-10-06T18:01:28.479Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-05
-
-Yesterday&apos;s cohort: 48,518 launches
-  🟢 STRONG (score 8+): 863 (1.78%)
-  🟡 MIXED (score 5-7): 20,257 (41.75%)
-  🔴 WEAK  (score 0-4): 27,398 (56.47%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG DOGI mcap=75 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG MEMAI mcap=89 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG DOGI mcap=79 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG IRR mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG AGENCYCOIN mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG CashAgency mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG UNUSELESS mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG Agencynet mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG $PHARMA mcap=570 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG CASHROBIN mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-
-✓grad = graduated to Raydium within 24h (236 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
