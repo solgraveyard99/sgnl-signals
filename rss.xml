@@ -5,7 +5,47 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-07T20:58:56.786Z</updated>
+  <updated>2026-10-07T21:03:56.787Z</updated>
+  <entry>
+    <title>📈 Solana Buy Momentum Digest — 2026-10-06</title>
+    <link href="https://t.me/sgnl_free/27591"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27591</id>
+    <updated>2026-10-07T21:00:04.721Z</updated>
+    <summary type="text">📈 Solana Buy Momentum Digest — 2026-10-06
+
+Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 34
+Strong-bias tokens (buy/sell ≥3x): 11
+
+Top 10 by buy momentum (buys × buy/sell ratio):
+  📈 AGENCY: 9093 buys / 1270 sells (7.2x)  vol1h=$533.9K  price1h +20%
+  📈 SNDWITCH: 12606 buys / 2989 sells (4.2x)  vol1h=$640.6K  price1h +8%
+  📈 AGENCY: 8018 buys / 1518 sells (5.3x)  vol1h=$614.0K  price1h +118%
+  📈 catana: 4946 buys / 588 sells (8.4x)  vol1h=$171.4K  price1h -77%
+  📈 SOLgiving: 7431 buys / 1347 sells (5.5x)  vol1h=$5.7K  price1h -10%
+  📈 DONSOM: 8961 buys / 2585 sells (3.5x)  vol1h=$496.0K  price1h +79%
+  📈 INJECTOR: 9620 buys / 3366 sells (2.9x)  vol1h=$723.0K  price1h +63%
+  📈 RARINU: 4853 buys / 921 sells (5.3x)  vol1h=$417.8K  price1h +70%
+  📈 CATCRAFT: 11494 buys / 5443 sells (2.1x)  vol1h=$901.7K  price1h +906%
+  📈 discat: 9865 buys / 5352 sells (1.8x)  vol1h=$635.5K  price1h +2%
+
+Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
+Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/27590"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27590</id>
+    <updated>2026-10-07T20:59:08.049Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 6.0M USDT ($6.0M)  →  Binance 14  0xeae738…
+
+7d: $2687M in · $6130M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/27589"/>
@@ -730,36 +770,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 64670 moves in 7d · 64748 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0xd2069a0470124f0c17fb14e1e2e652f2330cb059038afa46299f4fc8f018b46a
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/27541"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27541</id>
-    <updated>2026-10-07T17:05:39.089Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 40,470,245 USDT ($40.5M) to Binance 17 (CEX deposit)
-Tracked-whale wallet · movement toward CEX Binance 17. Descriptive observation.
-Wallet activity: 64722 moves in 7d · 64858 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xed3db21e887ab5f84d7fc9f3c2f55cda7717ab9782e9ca974b4aaef2d33fe093
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/27540"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27540</id>
-    <updated>2026-10-07T17:05:38.645Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1,842,981 USDT ($1.8M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64720 moves in 7d · 64856 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x877ab08e7e7fd9bf85808adc0bf61f6b48ba48823f714523a7b924012c2f91f3
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
