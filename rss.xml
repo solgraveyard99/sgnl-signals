@@ -5,7 +5,97 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-07T02:58:56.737Z</updated>
+  <updated>2026-10-07T03:03:56.738Z</updated>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/27337"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27337</id>
+    <updated>2026-10-07T03:03:45.607Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-10-06
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): $15.34 · 5 trades · WR 20%
+🐋 Solana Momentum: -218.78% · 5 trades · WR 0%
+
+📆 Last 7 days
+🚀 Futures: $16.57 · 56 trades · WR 48%
+🐋 Solana Momentum: -1758.51% · 33 trades · WR 6%
+⚙️ Other Strategy: +0.00% · 4 trades · WR 0%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $129.97 · 1413 trades · WR 52%
+🐋 Solana Momentum: -10370.59% · 978 trades · WR 33%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 77 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/27336"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27336</id>
+    <updated>2026-10-07T03:03:10.422Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0010 SOL
+• 99th: 0.0282 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-10-06</title>
+    <link href="https://t.me/sgnl_free/27335"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27335</id>
+    <updated>2026-10-07T03:00:13.630Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-10-06
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/27334"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27334</id>
+    <updated>2026-10-07T03:00:11.467Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0002 SOL
+• 99th: 0.0271 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/27333"/>
@@ -742,80 +832,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🌙 SGNL Evening Wrap</title>
-    <link href="https://t.me/sgnl_free/27287"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27287</id>
-    <updated>2026-10-07T00:00:36.142Z</updated>
-    <summary type="text">🌙 SGNL Evening Wrap
-BTC: $85,593 | SOL: $120.90
-Market mood: 70/100 🟢 BULLISH
-Solana activity: ACTIVE
-
-Tomorrow&apos;s outlook: Range-bound tomorrow
-See you at 8AM for the morning brief ☕</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-06</title>
-    <link href="https://t.me/sgnl_free/27286"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27286</id>
-    <updated>2026-10-07T00:00:20.314Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-06
-
-24h state transitions tracked: 238
-  💀 Died (gone): 120
-  😴 Went dormant: 65
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/27285"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27285</id>
-    <updated>2026-10-06T23:55:22.509Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 2,000,000 USDT ($2.0M) ← 0xa1723822…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64825 moves in 7d · 64891 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x9f95dde43c64151823da16412d84d1163710fdafd6477303ed692d9fbe12436b
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/27284"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27284</id>
-    <updated>2026-10-06T22:14:05.005Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 14 → fresh wallet
-Wallet: 0xf819…73aa (tx count unavailable)
-Amount: $7.67M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0xb9cb0821222a0e030772295354c491d3995a92606dd1fa14604b68f45d8849d6
-Wallet: https://etherscan.io/address/0xf8191d98ae98d2f7abdfb63a9b0b812b93c873aa</summary>
   </entry>
 </feed>
