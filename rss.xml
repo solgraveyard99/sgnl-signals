@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-07T08:08:56.757Z</updated>
+  <updated>2026-10-07T08:13:56.754Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · ETH</title>
+    <link href="https://t.me/sgnl_free/27402"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27402</id>
+    <updated>2026-10-07T08:13:47.767Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · ETH
+Spread: 0.0034%/hr  (29.6% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0021%/hr)
+🔴 SHORT on BingX  (funding 0.0013%/hr)
+
+Expected net: ~25% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/27401"/>
@@ -748,21 +763,6 @@ Statistical pattern. Not financial advice.</summary>
 Market-maker wallet · withdrawal from CEX Binance 14. Descriptive observation.
 Wallet activity: 39944 moves in 7d · 39967 in 30d.
 GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x31e6b2ef693eda6eeec6207f352e27ef8775c768a71648c3d28330c7de6ba08d
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/27352"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27352</id>
-    <updated>2026-10-07T03:45:22.598Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 4328.19 ETH ($11.3M) → 0x9696f59e…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64757 moves in 7d · 64819 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x31e6b2ef693eda6eeec6207f352e27ef8775c768a71648c3d28330c7de6ba08d
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
