@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-07T04:03:56.740Z</updated>
+  <updated>2026-10-07T04:08:56.743Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/27356"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27356</id>
+    <updated>2026-10-07T04:05:56.370Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📥 40,150,300 USDT ($40.2M) from Binance 14 (withdrawal)
+Market-maker wallet · withdrawal from CEX Binance 14. Descriptive observation.
+Wallet activity: 39953 moves in 7d · 39981 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0xf1fbb6abcd1ded4e51f17e954bf61abeed4c2180d607f6ad2c80b1cd7fd483d0
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/27355"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27355</id>
+    <updated>2026-10-07T04:05:27.977Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📤 4390.04 ETH ($11.5M) to Binance 17 (CEX deposit)
+Tracked-whale wallet · movement toward CEX Binance 17. Descriptive observation.
+Wallet activity: 64749 moves in 7d · 64815 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x25ad96bb9b9e6cfb3c5e750bd8a88030be5988de9aadbe9b20c3e2bf2756da78
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/27354"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27354</id>
+    <updated>2026-10-07T04:04:12.362Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 40.2M USDT ($40.2M)  ←  Binance 14  Binance 18
+📥 20.0M USDT ($20.0M)  →  Binance 14  0x530424…
+📤 4390 ETH ($11.5M)  ←  Binance 14  Binance 17
+
+7d: $2201M in · $5567M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/27353"/>
@@ -741,58 +787,5 @@ Tx: https://etherscan.io/tx/0x217e7f70e282a7ab090677221171e023a0d1e495677f199f3b
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/27306"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27306</id>
-    <updated>2026-10-07T01:06:59.959Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0050 SOL
-• 99th: 0.0100 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/27305"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27305</id>
-    <updated>2026-10-07T00:53:54.991Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.142306767 gwei  ·  Safe: 0.129964367 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/27304"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27304</id>
-    <updated>2026-10-07T00:48:57.547Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $100000 — expiry 30OCT26
-Direction: SELL
-Notional: ~$1710K
-Contracts: 20
-Implied vol: 39.4%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
