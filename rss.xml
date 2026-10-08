@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-08T05:18:56.818Z</updated>
+  <updated>2026-10-08T05:23:56.816Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/27688"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27688</id>
+    <updated>2026-10-08T05:19:06.126Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0087 SOL
+• 99th: 0.3679 SOL (~$37)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/27687"/>
@@ -788,25 +807,5 @@ Tx: https://etherscan.io/tx/0xa01f7768fa1b098528ddd6f6ca985935d22716ad9348ef1e15
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/27638"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27638</id>
-    <updated>2026-10-08T01:09:01.555Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-[ARFC] The Aave Foundation, Phase 1
-
-DAO: aavedao.eth
-Votes cast: 20
-Total voting power: 108132
-Voting ends: 2026-10-10 12:53 UTC
-
-https://snapshot.org/#/aavedao.eth/proposal/0x2d6af8b127e816dd15046979a27e5b5de2e9e0ecd2207c6425ff5db8270970ea
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
   </entry>
 </feed>
