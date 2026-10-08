@@ -5,7 +5,48 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-07T23:58:56.796Z</updated>
+  <updated>2026-10-08T00:03:56.799Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/27615"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27615</id>
+    <updated>2026-10-08T00:00:21.348Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $83,323 | SOL: $116.24
+Market mood: 50/100 ⚪ mid-band
+Solana activity: QUIET
+
+Tomorrow&apos;s outlook: Cautious tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-07</title>
+    <link href="https://t.me/sgnl_free/27614"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27614</id>
+    <updated>2026-10-08T00:00:04.728Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-07
+
+24h state transitions tracked: 270
+  💀 Died (gone): 106
+  😴 Went dormant: 97
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 RELAY: had $0 liquidity · died at age 9.5d
+  💀 REPLIGATE: had $0 liquidity · died at age 9.5d
+  💀 DUCK: had $0 liquidity · died at age 76.0d
+  💀 Diablo: had $0 liquidity · died at age 55.5d
+  💀 TINKERBULL: had $0 liquidity · died at age 55.5d
+  💀 SHATCHAIR: had $0 liquidity · died at age 30.0d
+  💀 spacepad: had $0 liquidity · died at age 30.0d
+  💀 Normie: had $0 liquidity · died at age 30.0d
+  💀 401KAT: had $0 liquidity · died at age 30.0d
+  💀 $LIZARDMAX: had $0 liquidity · died at age 30.0d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/27613"/>
@@ -735,35 +776,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 64741 moves in 7d · 64793 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x2ef5381f90046e053c487f2102243a47283d571699ec53add811029a5ac2c66a
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/27565"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27565</id>
-    <updated>2026-10-07T18:34:08.520Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 3503 ETH ($9.0M)  →  Binance 14  0xeae738…
-
-7d: $2677M in · $6011M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/27564"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27564</id>
-    <updated>2026-10-07T18:25:47.046Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 10,000,000 USDT ($10.0M) → 0x16f6d153…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 39691 moves in 7d · 39743 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x7f18eca8bbadcd40219c91abe1ef70feba2ea1c19c69c6e283bfe51644882c0a
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
