@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-08T22:28:56.883Z</updated>
+  <updated>2026-10-08T22:33:56.880Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/27894"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27894</id>
+    <updated>2026-10-08T22:29:08.635Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 10.1M USDT ($10.1M)  →  Binance 14  0xecf0e8…
+
+7d: $3228M in · $6173M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/27893"/>
@@ -755,35 +769,5 @@ Tx: https://etherscan.io/tx/0xff8c2a0750ad21a538136605e0c2acf963bffe4c6387be9e81
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-10-07</title>
-    <link href="https://t.me/sgnl_free/27844"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27844</id>
-    <updated>2026-10-08T18:01:21.630Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-07
-
-Yesterday&apos;s cohort: 52,593 launches
-  🟢 STRONG (score 8+): 819 (1.56%)
-  🟡 MIXED (score 5-7): 20,075 (38.17%)
-  🔴 WEAK  (score 0-4): 31,699 (60.27%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG PLAGUEPEPE mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG MOONAGENCY mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG PP mcap=91 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG INULANDER mcap=111 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG SOLAGENCY mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG RJEAN mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG SID mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG DIPSAUR mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG fomi mcap=72 SOL [mcap60+,tg,tw,web,desc]
-
-✓grad = graduated to Raydium within 24h (243 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
