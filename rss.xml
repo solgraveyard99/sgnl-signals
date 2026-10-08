@@ -5,7 +5,36 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-08T02:18:56.805Z</updated>
+  <updated>2026-10-08T02:23:56.804Z</updated>
+  <entry>
+    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
+    <link href="https://t.me/sgnl_free/27651"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27651</id>
+    <updated>2026-10-08T02:23:46.214Z</updated>
+    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
+
+24h inflow: 60.3K ETH (~1,885 new validators)
+USD value: $155.2M
+Rate: 2.1× 30-day baseline
+ETH price: $2574
+
+Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/27650"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27650</id>
+    <updated>2026-10-08T02:19:08.539Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 100000 ETH ($257.7M)  →  Binance 14  Binance Cold 8
+📤 7000 ETH ($18.0M)  ←  Binance 17  0xed0c60…
+
+7d: $2722M in · $6065M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/27649"/>
@@ -786,39 +815,5 @@ Tx: https://etherscan.io/tx/0x9bd930513e8a7374370772fc3f061267af2e7ee9e4e74aa065
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/27601"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27601</id>
-    <updated>2026-10-07T21:55:22.581Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 3478.00 ETH ($8.9M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64743 moves in 7d · 64755 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x6a3aa20e3bcc07a227b74d724c2dbdcd9e2f11d697a7c6285eb431c7e80342e8
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/27600"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27600</id>
-    <updated>2026-10-07T21:54:02.909Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 14 → fresh wallet
-Wallet: 0xdd64…c737 (tx count unavailable)
-Amount: $2.05M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x09a7618b1d7449dd4ba1eaf0af5206f6115d13aa45d2734a56fd212fcd4821b7
-Wallet: https://etherscan.io/address/0xdd647ce113505b34c62412d2a804ce1bfbcfc737</summary>
   </entry>
 </feed>
