@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-08T21:33:56.881Z</updated>
+  <updated>2026-10-08T21:38:56.880Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · SOL</title>
+    <link href="https://t.me/sgnl_free/27891"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27891</id>
+    <updated>2026-10-08T21:38:54.210Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
+Spread: 0.0030%/hr  (26.5% APR gross)
+
+🟢 LONG  on MEXC  (funding -0.0020%/hr)
+🔴 SHORT on BingX  (funding 0.0010%/hr)
+
+Expected net: ~21% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/27890"/>
@@ -770,19 +785,5 @@ Tx: https://etherscan.io/tx/0x5f656d5340b0dcdc4a348ec04a473c0e7f1dd36f9f925c8447
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🚀 ETH STAKING 30-DAY HIGH</title>
-    <link href="https://t.me/sgnl_free/27841"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27841</id>
-    <updated>2026-10-08T17:53:46.156Z</updated>
-    <summary type="text">🚀 ETH STAKING 30-DAY HIGH
-
-24h stake inflow hit a new 30-day high: 79.9K ETH
-~2,497 validators queued
-USD: $192.7M
-ETH: $2411
-
-Largest single-day stake inflow in 30 days. Strong institutional conviction signal.</summary>
   </entry>
 </feed>
