@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-08T11:58:56.839Z</updated>
+  <updated>2026-10-08T12:03:56.836Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-07</title>
+    <link href="https://t.me/sgnl_free/27760"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27760</id>
+    <updated>2026-10-08T12:00:03.394Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-07
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: 101.0K μlamp
+  P90:    304.3K μlamp
+  Max:    9.82M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): 50.5K μlamp
+  Medium (~5s):   101.0K μlamp
+  Fast (high probability): 304.3K μlamp
+
+vs prior 6-day baseline: ↓ 30% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: 101.0K μlamp | Raydium: 400.0K μlamp | Orca: 374.1K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/27759"/>
@@ -764,21 +790,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $3124M in · $6102M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/27710"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27710</id>
-    <updated>2026-10-08T07:45:49.243Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📥 40,421,818 USDT ($40.4M) from Binance 14 (withdrawal)
-Market-maker wallet · withdrawal from CEX Binance 14. Descriptive observation.
-Wallet activity: 39082 moves in 7d · 39082 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x4e7775003b7b7203ab62745eac32bf493c54905b5f2a5ce0366e70217ce33cd5
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
