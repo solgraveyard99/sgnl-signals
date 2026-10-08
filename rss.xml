@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-08T00:18:56.796Z</updated>
+  <updated>2026-10-08T00:23:56.800Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/27631"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27631</id>
+    <updated>2026-10-08T00:23:12.240Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0010 SOL
+• 75th: 0.0060 SOL
+• 95th: 0.0100 SOL
+• 99th: 0.0100 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/27630"/>
@@ -795,23 +814,5 @@ Rate: 2.3× 30-day baseline
 ETH price: $2575
 
 Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 17.5% APY</title>
-    <link href="https://t.me/sgnl_free/27581"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27581</id>
-    <updated>2026-10-07T20:23:44.671Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 17.5% APY
-veranta / USDC on Base
-Base: 17.5%  ·  Rewards: n/a  ·  TVL: $9.6M
-
-💡 +10.5% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
   </entry>
 </feed>
