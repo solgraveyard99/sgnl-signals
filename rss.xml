@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-08T14:58:56.856Z</updated>
+  <updated>2026-10-08T15:03:56.859Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-07</title>
+    <link href="https://t.me/sgnl_free/27799"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27799</id>
+    <updated>2026-10-08T15:00:04.237Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-07
+
+Tokens with liquidity drop ≥50%: 10
+Tokens with liquidity drop ≥90%: 7
+Tokens with liquidity drop ≥75%: 9
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL TMNP: -96.2%  $100.9K → $3.8K  in 2.1h
+  🚨 CRITICAL PPAV: -95.8%  $54.2K → $2.3K  in 2.3h
+  🚨 CRITICAL DONSOM: -95.0%  $52.8K → $2.7K  in 3.7h
+  🚨 CRITICAL UI: -94.9%  $51.1K → $2.6K  in 1.8h
+  🚨 CRITICAL FLY: -92.5%  $125.5K → $9.5K  in 3.2h
+  🚨 CRITICAL BLOX: -91.7%  $37.3K → $3.1K  in 3.4h
+  🚨 CRITICAL FullMargin: -91.6%  $62.3K → $5.2K  in 3.7h
+  ⛔ SEVERE Ignite: -87.3%  $20.6K → $2.6K  in 7.1h
+  ⛔ SEVERE VIBE: -80.1%  $21.7K → $4.3K  in 3.2h
+  ⚠ HIGH REFLECT: -65.8%  $44.5K → $15.2K  in 4.2h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/27798"/>
@@ -741,21 +768,6 @@ Jump Trading — large altcoin flows
 Tx: https://etherscan.io/tx/0x4be594bfe4e5f63b7bb15aae671c73e9afd9509730ba2e0f40f05ae9e69ce169
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/27749"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27749</id>
-    <updated>2026-10-08T10:44:09.392Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 42.7M USDT ($42.7M)  →  Binance 15  Binance 14
-📤 5.7M USDT ($5.7M)  ←  Binance 15  0xc83b73…
-
-7d: $3062M in · $6205M out · net flow: outflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
