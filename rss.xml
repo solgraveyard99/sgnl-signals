@@ -5,7 +5,35 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-09T02:48:56.905Z</updated>
+  <updated>2026-10-09T02:53:56.892Z</updated>
+  <entry>
+    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
+    <link href="https://t.me/sgnl_free/27949"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27949</id>
+    <updated>2026-10-09T02:53:46.099Z</updated>
+    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
+
+24h inflow: 65.3K ETH (~2,040 new validators)
+USD value: $162.4M
+Rate: 2.2× 30-day baseline
+ETH price: $2488
+
+Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/27948"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27948</id>
+    <updated>2026-10-09T02:49:08.838Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 12.0M USDT ($12.0M)  ←  Binance 15  0x7cd456…
+
+7d: $3383M in · $6100M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/27947"/>
@@ -775,46 +803,5 @@ Prior 7d: this funding reading is in the 0th percentile for SOL on Gate. Descrip
 
 🟢 Shorts paying longs on Gate. Statistical pattern only. Not investment advice.
 monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>🌙 SGNL Evening Wrap</title>
-    <link href="https://t.me/sgnl_free/27899"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27899</id>
-    <updated>2026-10-09T00:00:25.532Z</updated>
-    <summary type="text">🌙 SGNL Evening Wrap
-BTC: $81,769 | SOL: $109.73
-Market mood: 40/100 🟠 depressed
-Solana activity: QUIET
-
-Tomorrow&apos;s outlook: Range-bound tomorrow
-See you at 8AM for the morning brief ☕</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-08</title>
-    <link href="https://t.me/sgnl_free/27898"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27898</id>
-    <updated>2026-10-09T00:00:09.889Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-08
-
-24h state transitions tracked: 212
-  💀 Died (gone): 88
-  😴 Went dormant: 78
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 App: had $0 liquidity · died at age 55.5d
-  💀 Money: had $0 liquidity · died at age 55.5d
-  💀 豹拉: had $0 liquidity · died at age 42.8d
-  💀 PFI6900: had $0 liquidity · died at age 30.2d
-  💀 ZPOPCAT: had $0 liquidity · died at age 30.2d
-  💀 HYPUR: had $0 liquidity · died at age 30.2d
-  💀 lapetop: had $0 liquidity · died at age 30.2d
-  💀 Monke: had $0 liquidity · died at age 30.0d
-  💀 MPGA: had $0 liquidity · died at age 30.0d
-  💀 LULU: had $0 liquidity · died at age 30.0d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
