@@ -5,7 +5,31 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-09T05:58:56.905Z</updated>
+  <updated>2026-10-09T06:03:56.910Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-10-08</title>
+    <link href="https://t.me/sgnl_free/27971"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27971</id>
+    <updated>2026-10-09T06:01:04.727Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-10-08
+
+Last 24h cohort: 11,031 launches
+  Graduated to Raydium: 293 (2.656%)
+  Timed out at 24h: 10,738 (97.344%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.4 min
+  Max observed today: 2.2 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (151 days):
+  Cohort: 3,894,336
+  Total graduations: 29,888 (0.7675%)
+  Total timeouts: 3,864,448 (99.2325%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/27970"/>
@@ -781,24 +805,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3254M in · $6187M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/27921"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27921</id>
-    <updated>2026-10-09T00:58:00.913Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0002 SOL
-• 99th: 0.1108 SOL (~$11)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
