@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-09T13:33:56.930Z</updated>
+  <updated>2026-10-09T13:38:56.928Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/28048"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28048</id>
+    <updated>2026-10-09T13:38:43.428Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.518395489 gwei (fast)  ·  🟢 cheap
+Safe: 0.371268627  ·  Propose: 0.372268627  ·  BaseFee: 0.3713
+
+24h range: 0.09–12.21 gwei  (avg 1.02)
+
+Simple transfer cost now: ~$0.0272</summary>
+  </entry>
   <entry>
     <title>📊 4 inflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/28047"/>
@@ -781,20 +795,6 @@ GSR institutional market-maker
 Tx: https://etherscan.io/tx/0xbadcdf9884d977ce050e2eace4011c1544c9965cfb7d48c8ca3cf0a5010bd39e
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/27998"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27998</id>
-    <updated>2026-10-09T08:09:07.926Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 40.8M USDT ($40.8M)  →  Binance 18  Binance 14
-
-7d: $3410M in · $5971M out · net flow: outflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
