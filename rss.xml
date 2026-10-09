@@ -5,7 +5,54 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-09T01:08:56.898Z</updated>
+  <updated>2026-10-09T01:13:56.885Z</updated>
+  <entry>
+    <title>📊 3 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/27927"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27927</id>
+    <updated>2026-10-09T01:13:43.782Z</updated>
+    <summary type="text">📊 3 inflow-heavy observations detected
+Sample: 3 concurrent observations · $251M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 12 moves, $186M to exchanges
+• 🐋 Large deposit: $46M USDT → Binance 17
+• 🐋 Large deposit: $19M USDT → Binance 14
+
+Opposing flow: $37M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🕵️ Repeat-rug wallet fingerprint matched</title>
+    <link href="https://t.me/sgnl_free/27926"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27926</id>
+    <updated>2026-10-09T01:13:05.131Z</updated>
+    <summary type="text">🕵️ Repeat-rug wallet fingerprint matched
+
+Wallet AgmL..zN51 now tied to 7 prior rug events
+Cumulative peak liquidity: $42K
+
+Historical observation. Public on-chain data.
+
+#onchain #Solana</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/27925"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27925</id>
+    <updated>2026-10-09T01:09:08.818Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 46.4M USDT ($46.4M)  →  Binance 17  Binance 14
+📤 7.0M USDT ($7.0M)  ←  Binance 17  0xab5a9f…
+
+7d: $3273M in · $6171M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/27924"/>
@@ -763,50 +810,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $3163M in · $6173M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/27877"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27877</id>
-    <updated>2026-10-08T20:25:27.136Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 2569.00 ETH ($6.3M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64535 moves in 7d · 64602 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x5e56e4ac81b0f835d8a1fb254a64c57f14e91774a8c79f33dcef6fe63a0ce6b1
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/27876"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27876</id>
-    <updated>2026-10-08T20:19:09.173Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 3063 ETH ($7.6M)  ←  Binance 18  0xf8191d…
-
-7d: $3163M in · $6223M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/27875"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27875</id>
-    <updated>2026-10-08T20:15:54.097Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 3063.00 ETH ($7.6M) → 0xf8191d98…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 38710 moves in 7d · 38759 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xc41b78cdf605038354a1dfd58948ae527514f00d028d8f2c7105a7a7a6871db5
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
