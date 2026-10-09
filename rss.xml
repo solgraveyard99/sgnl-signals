@@ -5,7 +5,59 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-09T08:58:56.919Z</updated>
+  <updated>2026-10-09T09:03:56.916Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-10-08</title>
+    <link href="https://t.me/sgnl_free/28005"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28005</id>
+    <updated>2026-10-09T09:00:21.521Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-08
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 36
+Median peak spike (top 50): 18.4x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump COIN: 24.0x  vol1h=$1.31M  price1h +1437.0%
+  🟢 pump ECSTACRAFT: 24.0x  vol1h=$3.89M  price1h +1341.0%
+  🟢 pump puter: 24.0x  vol1h=$625.8K  price1h +284.0%
+  🟢 pump INU: 24.0x  vol1h=$367.3K  price1h +240.0%
+  🟢 pump CYBERCAT: 24.0x  vol1h=$397.2K  price1h +223.0%
+  🟢 pump PLAY: 24.0x  vol1h=$357.2K  price1h +218.0%
+  🟢 pump PINKBOW: 24.0x  vol1h=$66.1K  price1h +211.0%
+  🟢 pump SKY: 24.0x  vol1h=$98.0K  price1h +172.0%
+  🟢 pump HUMAN: 24.0x  vol1h=$335.0K  price1h +146.0%
+  🟢 pump OnlyCats: 24.0x  vol1h=$341.1K  price1h +134.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-08</title>
+    <link href="https://t.me/sgnl_free/28004"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28004</id>
+    <updated>2026-10-09T09:00:05.694Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-08
+
+Top 5 whale-cluster events:
+• $359M → CEX | 29 wallets | 19:24Z
+• $358M → CEX | 29 wallets | 19:24Z
+• $355M → CEX | 28 wallets | 19:24Z
+• $347M → CEX | 28 wallets | 17:52Z
+• $346M → CEX | 14 wallets | 12:14Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 65
+• Whale-cluster←CEX: 65
+• Whale-large→CEX: 25
+• Whale-large←CEX: 16
+• Funding divergence: 6
+• Rug wallet: 1
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/28003"/>
@@ -762,36 +814,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $3410M in · $6128M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/27955"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27955</id>
-    <updated>2026-10-09T03:06:02.284Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 7,000,000 USDT ($7.0M) → 0xd0a4f3f5…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 38664 moves in 7d · 38711 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x10b5ac4d5593172e700a046b2280695634d9e96d48da2c2ae324607cfe030a85
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/27954"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27954</id>
-    <updated>2026-10-09T03:05:46.635Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 4,000,000 USDT ($4.0M) → 0xfb19085a…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 38683 moves in 7d · 38708 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x4f53cfdc138ba9fe53cb54d19ec633f3afbf823bad8ca88edb428756ab9bdeee
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
