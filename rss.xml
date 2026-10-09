@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-09T17:43:56.937Z</updated>
+  <updated>2026-10-09T17:48:56.947Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/28083"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28083</id>
+    <updated>2026-10-09T17:45:46.706Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 2,682,103 USDT ($2.7M) → 0x5f2d3a7e…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 38562 moves in 7d · 38562 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0xda572acd578e4495a94f82ba51dc4aed5704d64a1608dc602c554162fdb6e372
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/28082"/>
@@ -751,31 +766,5 @@ Tx: https://etherscan.io/tx/0x7ad4f34bc45f37e0b715658324b58b5415dd7692f8bb466a2a
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-10-08</title>
-    <link href="https://t.me/sgnl_free/28033"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28033</id>
-    <updated>2026-10-09T12:00:17.403Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-08
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: 93.1K μlamp
-  P90:    282.9K μlamp
-  Max:    5.74M μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): 46.5K μlamp
-  Medium (~5s):   93.1K μlamp
-  Fast (high probability): 282.9K μlamp
-
-vs prior 6-day baseline: ↓ 35% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: 93.1K μlamp | Raydium: 307.7K μlamp | Orca: 292.2K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
