@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-09T13:58:56.937Z</updated>
+  <updated>2026-10-09T14:03:56.931Z</updated>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-10-09</title>
+    <link href="https://t.me/sgnl_free/28056"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28056</id>
+    <updated>2026-10-09T14:00:23.202Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-10-09
+Composite score: 60/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/28055"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28055</id>
+    <updated>2026-10-09T13:59:08.800Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 7.8M USDT ($7.8M)  →  Binance 14  0xeae738…
+📥 3088 ETH ($7.7M)  →  Binance 14  0xeae738…
+
+7d: $3742M in · $5426M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/28054"/>
@@ -739,46 +765,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3508M in · $5926M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28006"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28006</id>
-    <updated>2026-10-09T09:05:22.744Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 2,500,000 USDT ($2.5M) ← 0x9a7226c3…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64507 moves in 7d · 64576 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x5f2e3d195a6f077fdf968ac1f6569cca83863210c65b879d8082466613b2a239
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-10-08</title>
-    <link href="https://t.me/sgnl_free/28005"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28005</id>
-    <updated>2026-10-09T09:00:21.521Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-08
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 36
-Median peak spike (top 50): 18.4x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump COIN: 24.0x  vol1h=$1.31M  price1h +1437.0%
-  🟢 pump ECSTACRAFT: 24.0x  vol1h=$3.89M  price1h +1341.0%
-  🟢 pump puter: 24.0x  vol1h=$625.8K  price1h +284.0%
-  🟢 pump INU: 24.0x  vol1h=$367.3K  price1h +240.0%
-  🟢 pump CYBERCAT: 24.0x  vol1h=$397.2K  price1h +223.0%
-  🟢 pump PLAY: 24.0x  vol1h=$357.2K  price1h +218.0%
-  🟢 pump PINKBOW: 24.0x  vol1h=$66.1K  price1h +211.0%
-  🟢 pump SKY: 24.0x  vol1h=$98.0K  price1h +172.0%
-  🟢 pump HUMAN: 24.0x  vol1h=$335.0K  price1h +146.0%
-  🟢 pump OnlyCats: 24.0x  vol1h=$341.1K  price1h +134.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
