@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-09T10:48:56.923Z</updated>
+  <updated>2026-10-09T10:53:56.918Z</updated>
+  <entry>
+    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
+    <link href="https://t.me/sgnl_free/28022"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28022</id>
+    <updated>2026-10-09T10:53:46.127Z</updated>
+    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
+
+24h inflow: 60.0K ETH (~1,877 new validators)
+USD value: $149.4M
+Rate: 2.0× 30-day baseline
+ETH price: $2487
+
+Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Jump Trading</title>
     <link href="https://t.me/sgnl_free/28021"/>
@@ -777,24 +791,5 @@ Tx: https://etherscan.io/tx/0x8f5824139206e9393dd72ed272a2fabcbe007b2ec9c882f6f6
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/27972"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27972</id>
-    <updated>2026-10-09T06:24:09.230Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 14 → fresh wallet
-Wallet: 0x51c7…2a7f (1 prior txs)
-Amount: $2.39M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0xb116b988ce0e52c2aa07ea1cb5f971df91e571b5cc9d0722d034f4f264f5d6d4
-Wallet: https://etherscan.io/address/0x51c72848c68a965f66fa7a88855f9f7784502a7f</summary>
   </entry>
 </feed>
