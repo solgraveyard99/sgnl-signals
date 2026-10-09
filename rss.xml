@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-09T07:58:56.916Z</updated>
+  <updated>2026-10-09T08:03:56.913Z</updated>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-10-08</title>
+    <link href="https://t.me/sgnl_free/27996"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-27996</id>
+    <updated>2026-10-09T08:00:20.867Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-10-08
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 27 total)
+USDT 2640230.69 → 1007.5096 weETH
+USDT 374846.64 → 4.8452 WBTC
+USDC 179428.28 → 75.1825 WETH
+
+🌉 Cross-chain (Wormhole, 24h)
+$37.2M across 14529 txs · top route Solana → Solana
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/27995"/>
@@ -791,24 +810,5 @@ Tx: https://etherscan.io/tx/0xa695523704e04ec1a5a8722cfde0dee1eac811492df2edec6e
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/27946"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-27946</id>
-    <updated>2026-10-09T02:37:01.058Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0038 SOL
-• 99th: 0.0236 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
