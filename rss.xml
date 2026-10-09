@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-09T17:58:56.938Z</updated>
+  <updated>2026-10-09T18:03:56.942Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-10-08</title>
+    <link href="https://t.me/sgnl_free/28085"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28085</id>
+    <updated>2026-10-09T18:01:28.024Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-08
+
+Yesterday&apos;s cohort: 49,434 launches
+  🟢 STRONG (score 8+): 1,243 (2.51%)
+  🟡 MIXED (score 5-7): 17,458 (35.32%)
+  🔴 WEAK  (score 0-4): 30,733 (62.17%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG TART mcap=520 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG GOOD mcap=520 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG NULL mcap=520 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG GAND mcap=525 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG OHMV mcap=520 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG JUGS mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG CRTN mcap=546 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG $BITFOOTS mcap=114 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG TYPING mcap=83 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (293 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>📊 3 inflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/28084"/>
@@ -748,26 +778,6 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0xcbb4131ed4adc800358fd94d4e09aa4bf5eba790db586be9addea5f1c6ca39ef
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/28035"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28035</id>
-    <updated>2026-10-09T12:23:45.850Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $262.0B  (24h: $-930M)
-
-🔴 USDT: $184.05B  ($-141M)
-🔴 USDC: $73.12B  ($-709M)
-⚪ USDe: $4.80B  ($-80M)
-⚪ FDUSD: $0.00B  (+$0M)
-⚪ USDS: $0.00B  (+$0M)
-⚪ DAI: $0.00B  (+$0M)
-
-📊 Net supply Δ24h: -$930M (contraction band). Descriptive only.
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
