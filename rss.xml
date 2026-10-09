@@ -5,7 +5,48 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-09T14:58:56.931Z</updated>
+  <updated>2026-10-09T15:03:56.932Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-08</title>
+    <link href="https://t.me/sgnl_free/28065"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28065</id>
+    <updated>2026-10-09T15:00:04.737Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-08
+
+Tokens with liquidity drop ≥50%: 16
+Tokens with liquidity drop ≥90%: 11
+Tokens with liquidity drop ≥75%: 14
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL puter: -96.3%  $72.6K → $2.7K  in 2.9h
+  🚨 CRITICAL swordowl: -96.2%  $60.3K → $2.3K  in 1.8h
+  🚨 CRITICAL HUGHOG: -96.1%  $62.8K → $2.5K  in 7.5h
+  🚨 CRITICAL Schrodinge: -95.8%  $52.7K → $2.2K  in 20m
+  🚨 CRITICAL BCAT: -95.3%  $45.5K → $2.1K  in 30m
+  🚨 CRITICAL CYBERCAT: -95.1%  $44.6K → $2.2K  in 1.1h
+  🚨 CRITICAL PLAY: -95.1%  $44.0K → $2.2K  in 2.8h
+  🚨 CRITICAL tok: -95.1%  $45.7K → $2.3K  in 35m
+  🚨 CRITICAL HUMAN: -94.0%  $39.7K → $2.4K  in 15m
+  🚨 CRITICAL OnlyCats: -93.9%  $36.2K → $2.2K  in 1.0h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/28064"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28064</id>
+    <updated>2026-10-09T14:59:08.783Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 5.0M USDT ($5.0M)  →  Binance 14  0x9a21cf…
+
+7d: $3738M in · $5383M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/28063"/>
@@ -731,35 +772,6 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x9ce4fa8eb2f49d62be638d138b6691b600fd81c199a4e45af934241d9e03b65c
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/28015"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28015</id>
-    <updated>2026-10-09T09:45:46.815Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 540.06 ETH ($1.4M) → 0xe915ede2…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 38678 moves in 7d · 38710 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x941185da5d730be1137a87138a4a5badcc8aecb91ae904f514689aa920cd301e
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28014"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28014</id>
-    <updated>2026-10-09T09:44:07.733Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 41.0M USDT ($41.0M)  ←  Binance 14  Binance 17
-
-7d: $3538M in · $5934M out · net flow: outflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
