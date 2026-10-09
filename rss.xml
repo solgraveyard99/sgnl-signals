@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-09T15:48:56.935Z</updated>
+  <updated>2026-10-09T15:53:56.953Z</updated>
+  <entry>
+    <title>📊 3 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/28069"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28069</id>
+    <updated>2026-10-09T15:53:43.970Z</updated>
+    <summary type="text">📊 3 inflow-heavy observations detected
+Sample: 3 concurrent observations · $376M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 14 moves, $343M to exchanges
+• 🐋 Large deposit: $18M ETH → Binance 14
+• 🐋 Large deposit: $15M ETH → Binance 14
+
+Opposing flow: $123M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/28068"/>
@@ -759,19 +777,6 @@ Statistical pattern. Not financial advice.</summary>
 📥 16678 ETH ($41.6M)  →  Binance 16  Binance 14
 
 7d: $3522M in · $5914M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/28019"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28019</id>
-    <updated>2026-10-09T10:23:43.754Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDC
-Supply change 24h: -$724M
-New supply: $73.10B
-
-Net supply contraction event. Descriptive observation only.
 
 Statistical pattern. Not financial advice.</summary>
   </entry>
