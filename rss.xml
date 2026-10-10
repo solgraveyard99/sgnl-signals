@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-10T13:58:56.999Z</updated>
+  <updated>2026-10-10T14:03:57.002Z</updated>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-10-10</title>
+    <link href="https://t.me/sgnl_free/28168"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28168</id>
+    <updated>2026-10-10T14:00:24.428Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-10-10
+Composite score: 60/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/28167"/>
@@ -810,23 +821,5 @@ Tx: https://etherscan.io/tx/0x31a0d5bfe505b3bba69d7aa6cbe02111cb541c6f82add100b5
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/28118"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28118</id>
-    <updated>2026-10-10T00:04:17.596Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $2200 — expiry 23OCT26
-Direction: SELL
-Notional: ~$844K
-Contracts: 340
-Implied vol: 51.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
