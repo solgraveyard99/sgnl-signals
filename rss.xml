@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-10T13:33:57.002Z</updated>
+  <updated>2026-10-10T13:38:57.001Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/28164"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28164</id>
+    <updated>2026-10-10T13:38:48.074Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.070119237 gwei (fast)  ·  🟢 cheap
+Safe: 0.063730761  ·  Propose: 0.063744761  ·  BaseFee: 0.0637
+
+24h range: 0.06–1.37 gwei  (avg 0.21)
+
+Simple transfer cost now: ~$0.0037</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/28163"/>
@@ -819,24 +833,6 @@ Direction: SELL
 Notional: ~$660K
 Contracts: 8
 Implied vol: 46.0%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/28114"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28114</id>
-    <updated>2026-10-10T00:04:00.765Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $83000 — expiry 23OCT26
-Direction: BUY
-Notional: ~$1651K
-Contracts: 20
-Implied vol: 31.5%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
