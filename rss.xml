@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-10T17:58:57.021Z</updated>
+  <updated>2026-10-10T18:03:57.008Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-10-09</title>
+    <link href="https://t.me/sgnl_free/28176"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28176</id>
+    <updated>2026-10-10T18:01:16.797Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-09
+
+Yesterday&apos;s cohort: 45,686 launches
+  🟢 STRONG (score 8+): 945 (2.07%)
+  🟡 MIXED (score 5-7): 17,283 (37.83%)
+  🔴 WEAK  (score 0-4): 27,458 (60.10%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG OP_INU mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG OP_INU mcap=591 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG COCA mcap=583 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG ECSTACRAFT mcap=583 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG PFP mcap=572 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG TQM mcap=82726 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG CATCHAN mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG CATCHAN mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ETS mcap=10425 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (302 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>☀️ SGNL Midday Check-in</title>
     <link href="https://t.me/sgnl_free/28175"/>
@@ -794,24 +824,5 @@ Optimal time for routine tx:
 • Approve revocations
 
 Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/28126"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28126</id>
-    <updated>2026-10-10T00:49:01.425Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0005 SOL
-• 99th: 0.0151 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
