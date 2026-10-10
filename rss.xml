@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-10T11:58:56.994Z</updated>
+  <updated>2026-10-10T12:03:57.003Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-09</title>
+    <link href="https://t.me/sgnl_free/28159"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28159</id>
+    <updated>2026-10-10T12:00:03.771Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-09
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: 201 μlamp
+  P90:    284.1K μlamp
+  Max:    6.40M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): 100 μlamp
+  Medium (~5s):   201 μlamp
+  Fast (high probability): 284.1K μlamp
+
+vs prior 6-day baseline: ↓ 100% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: 201 μlamp | Raydium: 274.0K μlamp | Orca: 263.0K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/28158"/>
@@ -815,33 +841,5 @@ Solana activity: ACTIVE
 
 Tomorrow&apos;s outlook: Range-bound tomorrow
 See you at 8AM for the morning brief ☕</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-09</title>
-    <link href="https://t.me/sgnl_free/28109"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28109</id>
-    <updated>2026-10-10T00:00:15.059Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-09
-
-24h state transitions tracked: 283
-  💀 Died (gone): 140
-  😴 Went dormant: 89
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 SPUP: had $0 liquidity · died at age 30.0d
-  💀 Astropika: had $0 liquidity · died at age 19.5d
-  💀 URANUS: had $0 liquidity · died at age 19.5d
-  💀 TIT: had $0 liquidity · died at age 19.5d
-  💀 ACHI: had $0 liquidity · died at age 19.5d
-  💀 CALL: had $0 liquidity · died at age 19.5d
-  💀 Elias: had $0 liquidity · died at age 19.5d
-  💀 AVERY: had $0 liquidity · died at age 19.5d
-  💀 PAMUK: had $0 liquidity · died at age 19.5d
-  💀 GGWP: had $0 liquidity · died at age 19.5d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
