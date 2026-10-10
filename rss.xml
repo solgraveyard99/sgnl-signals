@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-10T09:08:56.986Z</updated>
+  <updated>2026-10-10T09:13:56.986Z</updated>
+  <entry>
+    <title>📊 3 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/28157"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28157</id>
+    <updated>2026-10-10T09:13:43.985Z</updated>
+    <summary type="text">📊 3 inflow-heavy observations detected
+Sample: 3 concurrent observations · $207M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 4 moves, $126M to exchanges
+• 🐋 Large deposit: $41M USDT → Binance 17
+• 🐋 Large deposit: $40M USDT → Binance 15
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/28156"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28156</id>
+    <updated>2026-10-10T09:09:18.000Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 DEPOSIT CLUSTER — 4 large deposits in 6h totaling $126M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
+
+📥 40.1M USDT ($40.1M)  →  Binance 15  Binance 14
+
+7d: $3828M in · $4806M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📊 Daily on-chain digest — 2026-10-09</title>
     <link href="https://t.me/sgnl_free/28154"/>
@@ -810,38 +840,5 @@ DYOR.</summary>
 Tier: TIER2
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28107"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28107</id>
-    <updated>2026-10-09T23:05:22.751Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1399.00 ETH ($3.5M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64583 moves in 7d · 64635 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x821c239c2b614d35dea0307b6cc2ae681f47ac943386f6e73b654c0516382184
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 17.7% APY</title>
-    <link href="https://t.me/sgnl_free/28106"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28106</id>
-    <updated>2026-10-09T22:23:59.335Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 17.7% APY
-veranta / USDC on Base
-Base: 17.7%  ·  Rewards: n/a  ·  TVL: $9.6M
-
-💡 +10.7% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
   </entry>
 </feed>
