@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-10T14:58:57.002Z</updated>
+  <updated>2026-10-10T15:03:57.001Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-09</title>
+    <link href="https://t.me/sgnl_free/28172"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28172</id>
+    <updated>2026-10-10T15:00:08.309Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-09
+
+Tokens with liquidity drop ≥50%: 22
+Tokens with liquidity drop ≥90%: 14
+Tokens with liquidity drop ≥75%: 19
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL TRUMPSI: -96.0%  $57.7K → $2.3K  in 20m
+  🚨 CRITICAL QM: -95.6%  $52.4K → $2.3K  in 15m
+  🚨 CRITICAL QW: -95.6%  $49.4K → $2.2K  in 45m
+  🚨 CRITICAL ECSTACRAFT: -95.6%  $105.4K → $4.7K  in 1.2h
+  🚨 CRITICAL OP_INU: -95.5%  $51.2K → $2.3K  in 55m
+  🚨 CRITICAL CATON: -94.8%  $42.4K → $2.2K  in 2.9h
+  🚨 CRITICAL Break: -94.4%  $42.2K → $2.4K  in 1.1h
+  🚨 CRITICAL TSC: -94.4%  $39.5K → $2.2K  in 1.8h
+  🚨 CRITICAL Slime: -94.3%  $53.6K → $3.1K  in 2.3h
+  🚨 CRITICAL CATCHAN: -94.2%  $40.9K → $2.4K  in 50m
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/28171"/>
@@ -800,24 +827,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/28122"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28122</id>
-    <updated>2026-10-10T00:41:09.153Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0001 SOL
-• 75th: 0.0020 SOL
-• 95th: 0.0238 SOL
-• 99th: 0.0309 SOL (~$3)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
