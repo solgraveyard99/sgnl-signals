@@ -5,7 +5,27 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-10T12:18:56.988Z</updated>
+  <updated>2026-10-10T12:23:56.992Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/28160"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28160</id>
+    <updated>2026-10-10T12:23:48.399Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $261.9B  (24h: $-494M)
+
+🔴 USDT: $184.08B  ($-226M)
+🔴 USDC: $73.02B  ($-228M)
+⚪ USDe: $4.78B  ($-40M)
+⚪ FDUSD: $0.00B  (+$0M)
+⚪ USDS: $0.00B  (+$0M)
+⚪ DAI: $0.00B  (+$0M)
+
+📊 Net supply Δ24h: -$494M (contraction band). Descriptive only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-10-09</title>
     <link href="https://t.me/sgnl_free/28159"/>
@@ -828,18 +848,5 @@ Bias score: +0
 • 🐋 Whale withdrawal cluster: 4 moves, $33M off exchanges
 
 Updated every 4h · SGNL signal aggregator</summary>
-  </entry>
-  <entry>
-    <title>🌙 SGNL Evening Wrap</title>
-    <link href="https://t.me/sgnl_free/28110"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28110</id>
-    <updated>2026-10-10T00:00:30.771Z</updated>
-    <summary type="text">🌙 SGNL Evening Wrap
-BTC: $82,657 | SOL: $109.32
-Market mood: 70/100 🟢 BULLISH
-Solana activity: ACTIVE
-
-Tomorrow&apos;s outlook: Range-bound tomorrow
-See you at 8AM for the morning brief ☕</summary>
   </entry>
 </feed>
