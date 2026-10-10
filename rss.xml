@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-10T02:38:56.973Z</updated>
+  <updated>2026-10-10T02:43:56.971Z</updated>
+  <entry>
+    <title>🔴 Circle BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/28135"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28135</id>
+    <updated>2026-10-10T02:38:59.951Z</updated>
+    <summary type="text">🔴 Circle BURN · USDC
+
+-$517.7M in last 24h
+Tier: TIER2
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/28134"/>
@@ -821,35 +833,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3761M in · $4976M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-10-08</title>
-    <link href="https://t.me/sgnl_free/28085"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28085</id>
-    <updated>2026-10-09T18:01:28.024Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-08
-
-Yesterday&apos;s cohort: 49,434 launches
-  🟢 STRONG (score 8+): 1,243 (2.51%)
-  🟡 MIXED (score 5-7): 17,458 (35.32%)
-  🔴 WEAK  (score 0-4): 30,733 (62.17%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG TART mcap=520 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG GOOD mcap=520 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG NULL mcap=520 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG GAND mcap=525 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG OHMV mcap=520 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG JUGS mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG CRTN mcap=546 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG $BITFOOTS mcap=114 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG TYPING mcap=83 SOL [mcap60+,tg,tw,web,desc]
-
-✓grad = graduated to Raydium within 24h (293 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
