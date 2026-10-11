@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T17:58:57.082Z</updated>
+  <updated>2026-10-11T18:03:57.081Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-10-10</title>
+    <link href="https://t.me/sgnl_free/28321"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28321</id>
+    <updated>2026-10-11T18:01:18.001Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-10
+
+Yesterday&apos;s cohort: 46,539 launches
+  🟢 STRONG (score 8+): 970 (2.08%)
+  🟡 MIXED (score 5-7): 15,486 (33.28%)
+  🔴 WEAK  (score 0-4): 30,083 (64.64%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG WIRED mcap=79 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG BOOBSY mcap=73 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG PHANTOMG mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG $THYGRON mcap=27857 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG TRUMP mcap=76 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG GLINT mcap=591 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG MAYA mcap=115 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (314 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/28320"/>
@@ -754,21 +784,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $4061M in · $4678M out · net flow: outflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28271"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28271</id>
-    <updated>2026-10-11T09:55:38.515Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1,500,283 USDT ($1.5M) ← 0xe7b438ad…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64633 moves in 7d · 64704 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xa37b1167095d776f54a4911f4005e423a7816e445e71591c322a8eb11eceb783
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
