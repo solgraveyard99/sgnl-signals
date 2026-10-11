@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T10:23:57.061Z</updated>
+  <updated>2026-10-11T10:28:57.062Z</updated>
+  <entry>
+    <title>🟠 ETH STAKING DROUGHT</title>
+    <link href="https://t.me/sgnl_free/28275"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28275</id>
+    <updated>2026-10-11T10:23:59.965Z</updated>
+    <summary type="text">🟠 ETH STAKING DROUGHT
+
+24h inflow collapsed to 6.4K ETH (~199 validators)
+Rate: 21% of 30-day baseline
+ETH price: $2500
+
+Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
+  </entry>
   <entry>
     <title>📊 3 inflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/28274"/>
@@ -810,21 +823,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 64624 moves in 7d · 64680 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x6657473e32c0e7c5ec487c998b54ec38249146bb6551faf2cbb0066ab5f76c10
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28225"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28225</id>
-    <updated>2026-10-11T01:55:38.654Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1732.00 ETH ($4.3M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64612 moves in 7d · 64668 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xd3892bef7746577a0499f85a9d587d372eb4675af14fcb5bc8a72cea7c47fa5f
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
