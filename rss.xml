@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T15:03:57.072Z</updated>
+  <updated>2026-10-11T15:08:57.077Z</updated>
+  <entry>
+    <title>🆕 FRESH WALLET FUNDED</title>
+    <link href="https://t.me/sgnl_free/28301"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28301</id>
+    <updated>2026-10-11T15:04:02.526Z</updated>
+    <summary type="text">🆕 FRESH WALLET FUNDED
+
+Binance 15 → fresh wallet
+Wallet: 0x51c7…2a7f (1 prior txs)
+Amount: $3.44M ETH
+Tier: TIER2
+
+Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
+
+Statistical pattern. Not financial advice.
+
+Tx: https://etherscan.io/tx/0x16f9fdbe0c1bbd3c187d245e9476e29e1e3f1d37c32ffafd9f7332590452a0b6
+Wallet: https://etherscan.io/address/0x51c72848c68a965f66fa7a88855f9f7784502a7f</summary>
+  </entry>
   <entry>
     <title>⚠ Solana Liquidity-Drop Digest — 2026-10-10</title>
     <link href="https://t.me/sgnl_free/28300"/>
@@ -780,24 +799,5 @@ Optimal time for routine tx:
 • Approve revocations
 
 Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/28251"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28251</id>
-    <updated>2026-10-11T06:17:02.148Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0002 SOL
-• 95th: 0.0031 SOL
-• 99th: 0.0127 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
