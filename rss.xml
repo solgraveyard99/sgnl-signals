@@ -5,7 +5,52 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T00:33:57.033Z</updated>
+  <updated>2026-10-11T00:38:57.035Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/28211"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28211</id>
+    <updated>2026-10-11T00:35:54.243Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 499.75 ETH ($1.3M) → 0x652a2ade…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 38650 moves in 7d · 38670 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0xfafc08f64efb4b6146b09d6e34ea77c75de6c618b427819e3b7bc4409d76f476
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/28210"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28210</id>
+    <updated>2026-10-11T00:35:38.590Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 499.97 ETH ($1.3M) ← 0x0b2fdf41…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 64611 moves in 7d · 64670 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x7c044ffccf4b01d0eb43905f4703d4568b4a2bad0fff9ac81c33f3d866e76552
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/28209"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28209</id>
+    <updated>2026-10-11T00:35:22.901Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 1466.00 ETH ($3.7M) ← 0xeae7380d…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 64660 moves in 7d · 64666 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x3615062e72c7e9083d5b8cd03f0c1aaf968f88d01afcca6cdbbbc67d47b5bb1b
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/28208"/>
@@ -760,67 +805,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3854M in · $4765M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/28161"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28161</id>
-    <updated>2026-10-10T12:53:51.031Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.100806825 gwei  ·  Safe: 0.088176396 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/28160"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28160</id>
-    <updated>2026-10-10T12:23:48.399Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $261.9B  (24h: $-494M)
-
-🔴 USDT: $184.08B  ($-226M)
-🔴 USDC: $73.02B  ($-228M)
-⚪ USDe: $4.78B  ($-40M)
-⚪ FDUSD: $0.00B  (+$0M)
-⚪ USDS: $0.00B  (+$0M)
-⚪ DAI: $0.00B  (+$0M)
-
-📊 Net supply Δ24h: -$494M (contraction band). Descriptive only.
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-10-09</title>
-    <link href="https://t.me/sgnl_free/28159"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28159</id>
-    <updated>2026-10-10T12:00:03.771Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-09
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: 201 μlamp
-  P90:    284.1K μlamp
-  Max:    6.40M μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): 100 μlamp
-  Medium (~5s):   201 μlamp
-  Fast (high probability): 284.1K μlamp
-
-vs prior 6-day baseline: ↓ 100% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: 201 μlamp | Raydium: 274.0K μlamp | Orca: 263.0K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
