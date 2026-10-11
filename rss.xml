@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T01:48:57.039Z</updated>
+  <updated>2026-10-11T01:53:57.036Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/28223"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28223</id>
+    <updated>2026-10-11T01:49:00.299Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Call — strike $2700 — expiry 16OCT26
+Direction: SELL
+Notional: ~$1254K
+Contracts: 500
+Implied vol: 43.9%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/28222"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28222</id>
+    <updated>2026-10-11T01:48:59.717Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Call — strike $2700 — expiry 16OCT26
+Direction: SELL
+Notional: ~$1219K
+Contracts: 486
+Implied vol: 43.4%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/28221"/>
@@ -776,46 +812,5 @@ Spread: 0.0040%/hr  (34.8% APR gross)
 Expected net: ~30% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
 monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28173"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28173</id>
-    <updated>2026-10-10T15:14:08.366Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 WITHDRAWAL CLUSTER — 6 large withdrawals in 6h totaling $46M. Prior 30d: top decile of 6h withdrawal concurrence. Descriptive only.
-
-📥 9.5M USDT ($9.5M)  →  Binance 14  0xecf0e8…
-
-7d: $3852M in · $4721M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-09</title>
-    <link href="https://t.me/sgnl_free/28172"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28172</id>
-    <updated>2026-10-10T15:00:08.309Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-09
-
-Tokens with liquidity drop ≥50%: 22
-Tokens with liquidity drop ≥90%: 14
-Tokens with liquidity drop ≥75%: 19
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL TRUMPSI: -96.0%  $57.7K → $2.3K  in 20m
-  🚨 CRITICAL QM: -95.6%  $52.4K → $2.3K  in 15m
-  🚨 CRITICAL QW: -95.6%  $49.4K → $2.2K  in 45m
-  🚨 CRITICAL ECSTACRAFT: -95.6%  $105.4K → $4.7K  in 1.2h
-  🚨 CRITICAL OP_INU: -95.5%  $51.2K → $2.3K  in 55m
-  🚨 CRITICAL CATON: -94.8%  $42.4K → $2.2K  in 2.9h
-  🚨 CRITICAL Break: -94.4%  $42.2K → $2.4K  in 1.1h
-  🚨 CRITICAL TSC: -94.4%  $39.5K → $2.2K  in 1.8h
-  🚨 CRITICAL Slime: -94.3%  $53.6K → $3.1K  in 2.3h
-  🚨 CRITICAL CATCHAN: -94.2%  $40.9K → $2.4K  in 50m
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
   </entry>
 </feed>
