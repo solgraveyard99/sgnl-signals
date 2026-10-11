@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T16:48:57.079Z</updated>
+  <updated>2026-10-11T16:53:57.079Z</updated>
+  <entry>
+    <title>🟠 ETH STAKING DROUGHT</title>
+    <link href="https://t.me/sgnl_free/28316"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28316</id>
+    <updated>2026-10-11T16:53:46.155Z</updated>
+    <summary type="text">🟠 ETH STAKING DROUGHT
+
+24h inflow collapsed to 4.6K ETH (~143 validators)
+Rate: 16% of 30-day baseline
+ETH price: $2549
+
+Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/28315"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28315</id>
+    <updated>2026-10-11T16:49:09.037Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 17498 ETH ($44.5M)  ←  Binance 14  Binance 15
+
+7d: $4168M in · $4822M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/28314"/>
@@ -746,36 +773,6 @@ Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0xdfd7509058f77723a56f907997fb3de3cf97b42e2321dd46080233e1e36a1151
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/28266"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28266</id>
-    <updated>2026-10-11T09:44:14.818Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 DEPOSIT CLUSTER — 9 large deposits in 6h totaling $184M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
-
-📥 47.7M USDT ($47.7M)  →  Binance 18  Binance 14
-📤 10.0M USDT ($10.0M)  ←  Binance 18  0x9a4ce8…
-
-7d: $4014M in · $4668M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/28265"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28265</id>
-    <updated>2026-10-11T09:19:09.452Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 DEPOSIT CLUSTER — 8 large deposits in 6h totaling $137M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
-
-📥 10.7M USDT ($10.7M)  →  Binance 14  0xcde5d4…
-📥 5.1M USDT ($5.1M)  →  Binance 14  0xf6fac7…
-
-7d: $3998M in · $4668M out · net flow: outflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
