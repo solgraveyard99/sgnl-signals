@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T00:08:57.033Z</updated>
+  <updated>2026-10-11T00:13:57.032Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/28204"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28204</id>
+    <updated>2026-10-11T00:12:02.335Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0007 SOL
+• 95th: 0.0057 SOL
+• 99th: 0.0200 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>📊 Week in Review · ending 2026-10-11</title>
     <link href="https://t.me/sgnl_free/28203"/>
@@ -777,30 +796,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $3828M in · $4806M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-10-09</title>
-    <link href="https://t.me/sgnl_free/28154"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28154</id>
-    <updated>2026-10-10T09:00:02.707Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-10-09
-
-Top 5 whale-cluster events:
-• $411M → CEX | 17 wallets | 13:54Z
-• $375M → CEX | 17 wallets | 19:54Z
-• $375M → CEX | 17 wallets | 19:54Z
-• $373M → CEX | 18 wallets | 19:54Z
-• $371M → CEX | 15 wallets | 13:54Z
-
-Alerts fired (24h):
-• Whale-cluster→CEX: 34
-• Whale-cluster←CEX: 30
-• Whale-large→CEX: 16
-• Whale-large←CEX: 4
-• Funding divergence: 1
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
