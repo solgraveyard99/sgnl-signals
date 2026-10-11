@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T14:58:57.074Z</updated>
+  <updated>2026-10-11T15:03:57.072Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-10</title>
+    <link href="https://t.me/sgnl_free/28300"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28300</id>
+    <updated>2026-10-11T15:00:03.778Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-10
+
+Tokens with liquidity drop ≥50%: 14
+Tokens with liquidity drop ≥90%: 8
+Tokens with liquidity drop ≥75%: 10
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL CYBERINU: -97.8%  $101.4K → $2.3K  in 1.8h
+  🚨 CRITICAL CATFLIX: -97.2%  $85.7K → $2.4K  in 1.7h
+  🚨 CRITICAL SQI: -97.1%  $82.5K → $2.4K  in 10m
+  🚨 CRITICAL Samur•ai: -94.4%  $51.4K → $2.9K  in 5.9h
+  🚨 CRITICAL OnlyCats: -94.3%  $43.5K → $2.5K  in 1.0h
+  🚨 CRITICAL MAYA: -93.5%  $35.3K → $2.3K  in 25m
+  🚨 CRITICAL QJEAN: -91.8%  $27.3K → $2.2K  in 40m
+  🚨 CRITICAL Ads: -90.4%  $43.4K → $4.2K  in 7.8h
+  ⛔ SEVERE REELS: -89.4%  $62.7K → $6.6K  in 5.1h
+  ⛔ SEVERE Qiger: -78.0%  $21.3K → $4.7K  in 5.9h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/28299"/>
@@ -772,29 +799,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🪦 Pump.fun Daily Survival Report — 2026-10-10</title>
-    <link href="https://t.me/sgnl_free/28250"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28250</id>
-    <updated>2026-10-11T06:01:04.489Z</updated>
-    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-10-10
-
-Last 24h cohort: 11,930 launches
-  Graduated to Raydium: 314 (2.632%)
-  Timed out at 24h: 11,616 (97.368%)
-
-When tokens DO graduate, they graduate fast:
-  Median time-to-graduation: 1.4 min
-  Max observed today: 2.9 min
-  Graduations after 6 min: 0
-
-Cumulative since 2026-05-08 (153 days):
-  Cohort: 3,990,295
-  Total graduations: 30,480 (0.7639%)
-  Total timeouts: 3,959,815 (99.2361%)
-
-Source: Pump.fun on-chain + DexScreener
-Survival ≠ profitability. DYOR.</summary>
   </entry>
 </feed>
