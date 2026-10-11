@@ -5,7 +5,31 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T05:58:57.045Z</updated>
+  <updated>2026-10-11T06:03:57.047Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-10-10</title>
+    <link href="https://t.me/sgnl_free/28250"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28250</id>
+    <updated>2026-10-11T06:01:04.489Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-10-10
+
+Last 24h cohort: 11,930 launches
+  Graduated to Raydium: 314 (2.632%)
+  Timed out at 24h: 11,616 (97.368%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.4 min
+  Max observed today: 2.9 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (153 days):
+  Cohort: 3,990,295
+  Total graduations: 30,480 (0.7639%)
+  Total timeouts: 3,959,815 (99.2361%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/28249"/>
@@ -808,24 +832,6 @@ Direction: SELL
 Notional: ~$684K
 Contracts: 273
 Implied vol: 53.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/28200"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28200</id>
-    <updated>2026-10-11T00:04:00.897Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $2440 — expiry 11OCT26
-Direction: SELL
-Notional: ~$1253K
-Contracts: 500
-Implied vol: 51.2%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
