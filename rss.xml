@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T16:33:57.079Z</updated>
+  <updated>2026-10-11T16:38:57.077Z</updated>
+  <entry>
+    <title>🧠 SMART MONEY · GSR Markets</title>
+    <link href="https://t.me/sgnl_free/28313"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28313</id>
+    <updated>2026-10-11T16:35:46.638Z</updated>
+    <summary type="text">🧠 SMART MONEY · GSR Markets
+📤 3,667,508 USDT ($3.7M) → 0x51c72848…
+Market-maker wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 38725 moves in 7d · 38775 in 30d.
+GSR institutional market-maker
+Tx: https://etherscan.io/tx/0x4205d340ae264b4b5019be48419f9cef3c913565518246610132c007ab5be62c
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/28312"/>
@@ -762,31 +777,5 @@ Tx: https://etherscan.io/tx/0xc2ccda22c7df3b7ca9de20dbf5b68eb779bda3a4158a7a5845
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-10-10</title>
-    <link href="https://t.me/sgnl_free/28263"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28263</id>
-    <updated>2026-10-11T09:00:18.945Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-10
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 21
-Median peak spike (top 50): 10.1x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump qOMPUTE: 24.0x  vol1h=$2.08M  price1h +1473.0%
-  🟢 pump CYBERINU: 24.0x  vol1h=$662.3K  price1h +1106.0%
-  🟢 pump FACTORY: 24.0x  vol1h=$648.9K  price1h +463.0%
-  🟢 pump SQI: 24.0x  vol1h=$503.8K  price1h +454.0%
-  🟢 pump Ads: 24.0x  vol1h=$736.9K  price1h +436.0%
-  🟢 pump Samur•ai: 24.0x  vol1h=$244.5K  price1h +351.0%
-  🟢 pump BOTS: 24.0x  vol1h=$295.9K  price1h +239.0%
-  🟢 pump LAUNCHER: 24.0x  vol1h=$34.8K  price1h +227.0%
-  🟢 pump QT: 24.0x  vol1h=$317.3K  price1h +207.0%
-  🟢 pump brigitte: 24.0x  vol1h=$104.3K  price1h +187.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
