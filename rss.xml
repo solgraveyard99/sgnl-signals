@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T13:58:57.069Z</updated>
+  <updated>2026-10-11T14:03:57.071Z</updated>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-10-11</title>
+    <link href="https://t.me/sgnl_free/28294"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28294</id>
+    <updated>2026-10-11T14:00:26.651Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-10-11
+Composite score: 60/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/28293"/>
@@ -794,18 +805,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🟠 ETH STAKING DROUGHT</title>
-    <link href="https://t.me/sgnl_free/28244"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28244</id>
-    <updated>2026-10-11T04:23:46.582Z</updated>
-    <summary type="text">🟠 ETH STAKING DROUGHT
-
-24h inflow collapsed to 6.9K ETH (~215 validators)
-Rate: 23% of 30-day baseline
-ETH price: $2501
-
-Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
   </entry>
 </feed>
