@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T15:58:57.074Z</updated>
+  <updated>2026-10-11T16:03:57.078Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · BTC</title>
+    <link href="https://t.me/sgnl_free/28305"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28305</id>
+    <updated>2026-10-11T16:03:48.178Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · BTC
+Spread: 0.0033%/hr  (28.8% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0025%/hr)
+🔴 SHORT on BingX  (funding 0.0008%/hr)
+
+Expected net: ~24% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>📊 4 outflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/28304"/>
@@ -784,19 +799,5 @@ Tx: https://etherscan.io/tx/0xa631e7822636339403f187ed68a5a0eae94bea2b0ed6cadc34
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📡 SGNL Daily Digest · 2026-10-10</title>
-    <link href="https://t.me/sgnl_free/28255"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28255</id>
-    <updated>2026-10-11T08:00:17.863Z</updated>
-    <summary type="text">📡 SGNL Daily Digest · 2026-10-10
-What 30+ SGNL observers caught in the last 24h
-
-🌉 Cross-chain (Wormhole, 24h)
-$31.9M across 10553 txs · top route Solana → NEAR
-
-
-Free signals · No advice · t.me/sgnl_free</summary>
   </entry>
 </feed>
