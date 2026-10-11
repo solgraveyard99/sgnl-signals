@@ -5,7 +5,35 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T07:58:57.051Z</updated>
+  <updated>2026-10-11T08:03:57.053Z</updated>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-10-10</title>
+    <link href="https://t.me/sgnl_free/28255"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28255</id>
+    <updated>2026-10-11T08:00:17.863Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-10-10
+What 30+ SGNL observers caught in the last 24h
+
+🌉 Cross-chain (Wormhole, 24h)
+$31.9M across 10553 txs · top route Solana → NEAR
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/28254"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28254</id>
+    <updated>2026-10-11T07:59:20.155Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 DEPOSIT CLUSTER — 3 large deposits in 6h totaling $96M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
+
+📥 80.0M USDT ($80.0M)  →  Binance 14  0x800191…
+
+7d: $3883M in · $4678M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/28253"/>
@@ -795,42 +823,5 @@ Tx: https://etherscan.io/tx/0xf9e1fde7967f35b48986ddbf489df92171b2812be7bd7696d9
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/28205"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28205</id>
-    <updated>2026-10-11T00:13:57.987Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Call — strike $2540 — expiry 11OCT26
-Direction: SELL
-Notional: ~$1002K
-Contracts: 400
-Implied vol: 31.2%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/28204"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28204</id>
-    <updated>2026-10-11T00:12:02.335Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0007 SOL
-• 95th: 0.0057 SOL
-• 99th: 0.0200 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
