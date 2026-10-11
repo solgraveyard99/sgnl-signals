@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T07:48:57.053Z</updated>
+  <updated>2026-10-11T07:53:57.055Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/28253"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28253</id>
+    <updated>2026-10-11T07:53:02.131Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0001 SOL
+• 99th: 0.0347 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/28252"/>
@@ -813,31 +832,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>📊 Week in Review · ending 2026-10-11</title>
-    <link href="https://t.me/sgnl_free/28203"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28203</id>
-    <updated>2026-10-11T00:08:43.846Z</updated>
-    <summary type="text">📊 Week in Review · ending 2026-10-11
-
-🐋 Whale Flows (7d)
-502 large moves
-Net CEX flow (7d): +$831M (positive = withdrawn from CEXs)
-Biggest withdrawal: $77M ETH from Binance 14
-
-⚡ Perp Funding Regime
-BTC avg: 0.0010%/hr (~8% APR)
-ETH avg: 0.0009%/hr (~8% APR)
-SOL avg: 0.0009%/hr (~8% APR)
-
-💰 Best Yields Right Now
-Stables: 17.5% — veranta/USDC @ Base
-ETH/LST: 5.9% — fusion-by-ipor/WETH @ Ethereum
-
-🔭 Week Ahead
-Quiet calendar — no major events tracked
-
-Not financial advice · SGNL weekly recap</summary>
   </entry>
 </feed>
