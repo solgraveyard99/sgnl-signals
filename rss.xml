@@ -5,7 +5,54 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T19:43:57.089Z</updated>
+  <updated>2026-10-11T19:48:57.088Z</updated>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/28334"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28334</id>
+    <updated>2026-10-11T19:48:44.321Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $311M total flow.
+Prior 30d: top decile of concurrence (descriptive).
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 11 moves, $254M off exchanges
+• 🐋 Large withdrawal: $45M ETH ← Binance 14
+• 🐋 Large withdrawal: $12M USDT ← Binance 15
+
+Opposing flow: $87M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/28333"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28333</id>
+    <updated>2026-10-11T19:45:22.875Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📤 17588.43 ETH ($44.6M) to Binance 16 (CEX deposit)
+Tracked-whale wallet · movement toward CEX Binance 16. Descriptive observation.
+Wallet activity: 64600 moves in 7d · 64666 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xd1c2594cc9a0b0b46bd2c8dc978d2e0fede5d03ae216fc9605d740e8888f8700
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/28332"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28332</id>
+    <updated>2026-10-11T19:44:21.069Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 17588 ETH ($44.6M)  ←  Binance 14  Binance 16
+
+7d: $4189M in · $4864M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/28331"/>
@@ -722,64 +769,5 @@ Windows like this typically last 30-60 min. Act now.</summary>
 7d: $4052M in · $4629M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28284"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28284</id>
-    <updated>2026-10-11T12:39:09.471Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 10.0M USDT ($10.0M)  ←  Binance 15  0x9a4ce8…
-
-7d: $4052M in · $4619M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/28283"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28283</id>
-    <updated>2026-10-11T12:23:50.006Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $261.9B  (24h: +$84M)
-
-⚪ USDT: $184.06B  ($-2M)
-🟢 USDC: $73.09B  (+$109M)
-⚪ USDe: $4.76B  ($-23M)
-⚪ FDUSD: $0.00B  (+$0M)
-⚪ USDS: $0.00B  (+$0M)
-⚪ DAI: $0.00B  (+$0M)
-
-📊 Net supply Δ24h: +$84M (near-flat band). Descriptive only.
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-10-10</title>
-    <link href="https://t.me/sgnl_free/28282"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28282</id>
-    <updated>2026-10-11T12:00:04.726Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-10
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    n/a
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: ↓ 100% (Jupiter median)
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 278.4K μlamp | Orca: 290.9K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
