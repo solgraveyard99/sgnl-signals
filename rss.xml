@@ -5,7 +5,27 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T12:18:57.067Z</updated>
+  <updated>2026-10-11T12:23:57.066Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/28283"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28283</id>
+    <updated>2026-10-11T12:23:50.006Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $261.9B  (24h: +$84M)
+
+⚪ USDT: $184.06B  ($-2M)
+🟢 USDC: $73.09B  (+$109M)
+⚪ USDe: $4.76B  ($-23M)
+⚪ FDUSD: $0.00B  (+$0M)
+⚪ USDS: $0.00B  (+$0M)
+⚪ DAI: $0.00B  (+$0M)
+
+📊 Net supply Δ24h: +$84M (near-flat band). Descriptive only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-10-10</title>
     <link href="https://t.me/sgnl_free/28282"/>
@@ -824,20 +844,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28233"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28233</id>
-    <updated>2026-10-11T02:35:22.740Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 499.28 ETH ($1.3M) ← 0x0b2fdf41…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64617 moves in 7d · 64680 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x81ed8337b255749b42366fe7b7a92997aad85887a85e695fff20062b8a58720f
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
