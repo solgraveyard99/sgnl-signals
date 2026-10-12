@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-12T17:58:57.161Z</updated>
+  <updated>2026-10-12T18:03:57.170Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-10-11</title>
+    <link href="https://t.me/sgnl_free/28522"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28522</id>
+    <updated>2026-10-12T18:01:28.525Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-11
+
+Yesterday&apos;s cohort: 41,445 launches
+  🟢 STRONG (score 8+): 562 (1.36%)
+  🟡 MIXED (score 5-7): 15,057 (36.33%)
+  🔴 WEAK  (score 0-4): 25,826 (62.31%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG CHROME mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG Helix mcap=407 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG TBLCLTH mcap=619 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+
+✓grad = graduated to Raydium within 24h (338 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/28521"/>
@@ -745,23 +775,5 @@ Tx: https://etherscan.io/tx/0xe735494b8ae4525a20ed5d7e7db3f78019e6363bf4028ab9f2
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚪ Market Posture · neutral</title>
-    <link href="https://t.me/sgnl_free/28472"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28472</id>
-    <updated>2026-10-12T12:03:44.280Z</updated>
-    <summary type="text">⚪ Market Posture · neutral
-Bias score: +0
-
-6 active signals (top 5 by size):
-• 🐋 Whale deposit cluster: 19 moves, $391M to exchanges
-• 🐋 Whale withdrawal cluster: 10 moves, $286M off exchanges
-• 🐋 Large withdrawal: $40M ETH ← Binance 14
-• 🐋 Large deposit: $11M ETH → Binance 14
-• 🐋 Large deposit: $10M USDT → Binance 14
-…and 1 more
-
-Updated every 4h · SGNL signal aggregator</summary>
   </entry>
 </feed>
