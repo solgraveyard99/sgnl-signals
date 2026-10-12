@@ -5,7 +5,31 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-12T05:58:57.121Z</updated>
+  <updated>2026-10-12T06:03:57.125Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-10-11</title>
+    <link href="https://t.me/sgnl_free/28410"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28410</id>
+    <updated>2026-10-12T06:00:56.238Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-10-11
+
+Last 24h cohort: 10,204 launches
+  Graduated to Raydium: 338 (3.312%)
+  Timed out at 24h: 9,866 (96.688%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.5 min
+  Max observed today: 3.6 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (154 days):
+  Cohort: 4,035,130
+  Total graduations: 30,847 (0.7645%)
+  Total timeouts: 4,004,283 (99.2355%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/28409"/>
@@ -789,24 +813,6 @@ BTC Put — strike $78000 — expiry 16OCT26
 Direction: BUY
 Notional: ~$1471K
 Contracts: 17.6
-Implied vol: 44.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/28360"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28360</id>
-    <updated>2026-10-12T00:04:18.301Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $78000 — expiry 16OCT26
-Direction: SELL
-Notional: ~$535K
-Contracts: 6.4
 Implied vol: 44.1%
 Venue: Deribit
 
