@@ -5,7 +5,50 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-12T11:58:57.142Z</updated>
+  <updated>2026-10-12T12:03:57.147Z</updated>
+  <entry>
+    <title>⚪ Market Posture · neutral</title>
+    <link href="https://t.me/sgnl_free/28472"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28472</id>
+    <updated>2026-10-12T12:03:44.280Z</updated>
+    <summary type="text">⚪ Market Posture · neutral
+Bias score: +0
+
+6 active signals (top 5 by size):
+• 🐋 Whale deposit cluster: 19 moves, $391M to exchanges
+• 🐋 Whale withdrawal cluster: 10 moves, $286M off exchanges
+• 🐋 Large withdrawal: $40M ETH ← Binance 14
+• 🐋 Large deposit: $11M ETH → Binance 14
+• 🐋 Large deposit: $10M USDT → Binance 14
+…and 1 more
+
+Updated every 4h · SGNL signal aggregator</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-11</title>
+    <link href="https://t.me/sgnl_free/28471"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28471</id>
+    <updated>2026-10-12T12:00:04.278Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-11
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    n/a
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: ↓ 100% (Jupiter median)
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 269.2K μlamp | Orca: 245.5K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/28470"/>
@@ -741,39 +784,6 @@ Statistical pattern. Not financial advice.</summary>
 📥 10.0M USDT ($10.0M)  →  Binance 14  0xa38a8d…
 
 7d: $4181M in · $4845M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/28422"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28422</id>
-    <updated>2026-10-12T07:20:03.976Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0010 SOL
-• 99th: 0.1914 SOL (~$19)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28421"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28421</id>
-    <updated>2026-10-12T07:19:08.011Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 6.5M USDT ($6.5M)  →  Binance 14  0xc17a40…
-
-7d: $4190M in · $4845M out · net flow: outflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
   </entry>
