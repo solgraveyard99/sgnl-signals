@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-12T03:18:57.108Z</updated>
+  <updated>2026-10-12T03:23:57.111Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/28389"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28389</id>
+    <updated>2026-10-12T03:23:05.157Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0025 SOL
+• 99th: 0.0172 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/28388"/>
@@ -809,31 +828,5 @@ Tx: https://etherscan.io/tx/0x1237eedf701d0a663880b1573158463dd519e65fc9499f68bc
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-10-10</title>
-    <link href="https://t.me/sgnl_free/28339"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28339</id>
-    <updated>2026-10-11T21:00:04.236Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-10-10
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 29
-Strong-bias tokens (buy/sell ≥3x): 11
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 QJEAN: 14592 buys / 2988 sells (4.9x)  vol1h=$606.2K  price1h -36%
-  📈 CYBERINU: 15202 buys / 5005 sells (3.0x)  vol1h=$662.3K  price1h +655%
-  📈 CATFLIX: 8139 buys / 1597 sells (5.1x)  vol1h=$156.6K  price1h +121%
-  📈 qOMPUTE: 18445 buys / 8603 sells (2.1x)  vol1h=$1.97M  price1h +1087%
-  📈 SQI: 10096 buys / 2587 sells (3.9x)  vol1h=$503.8K  price1h +50%
-  📈 OnlyCats: 12990 buys / 4693 sells (2.8x)  vol1h=$531.8K  price1h +56%
-  📈 MAYA: 7760 buys / 2345 sells (3.3x)  vol1h=$315.9K  price1h -15%
-  📈 SEED: 4509 buys / 1440 sells (3.1x)  vol1h=$72.7K  price1h +2%
-  📈 WWWCAT: 3026 buys / 754 sells (4.0x)  vol1h=$214.8K  price1h +45%
-  📈 BOTS: 4089 buys / 2724 sells (1.5x)  vol1h=$295.9K  price1h +16%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
