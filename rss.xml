@@ -5,7 +5,51 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-12T07:58:57.130Z</updated>
+  <updated>2026-10-12T08:03:57.129Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · SOL</title>
+    <link href="https://t.me/sgnl_free/28437"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28437</id>
+    <updated>2026-10-12T08:03:54.554Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
+Spread: 0.0038%/hr  (33.0% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0025%/hr)
+🔴 SHORT on BingX  (funding 0.0013%/hr)
+
+Expected net: ~28% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-10-11</title>
+    <link href="https://t.me/sgnl_free/28436"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28436</id>
+    <updated>2026-10-12T08:00:17.523Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-10-11
+What 30+ SGNL observers caught in the last 24h
+
+🌉 Cross-chain (Wormhole, 24h)
+$14.4M across 10284 txs · top route Solana → NEAR
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/28435"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28435</id>
+    <updated>2026-10-12T07:59:17.017Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📥 200.0M USDT ($200.0M)  →  Binance 14  0x221321…
+📥 1998 ETH ($5.1M)  →  Binance 14  0x0b2fdf…
+
+7d: $4185M in · $4931M out · net flow: outflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/28434"/>
@@ -738,51 +782,6 @@ GSR institutional market-maker
 Tx: https://etherscan.io/tx/0xeb58043c55768feb570d6af8c57db3ab0998222a890bf34a356bbb5bba49bba2
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/28387"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28387</id>
-    <updated>2026-10-12T03:05:47.294Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📥 42,393,215 USDT ($42.4M) from Binance 14 (withdrawal)
-Market-maker wallet · withdrawal from CEX Binance 14. Descriptive observation.
-Wallet activity: 38490 moves in 7d · 38516 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x37e490e0716ace80b39f2095736beb62203c383ddd190071f71a97302b6a27be
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28386"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28386</id>
-    <updated>2026-10-12T03:05:22.799Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📤 42,393,215 USDT ($42.4M) → 0x9696f59e…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64661 moves in 7d · 64711 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x37e490e0716ace80b39f2095736beb62203c383ddd190071f71a97302b6a27be
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/28385"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28385</id>
-    <updated>2026-10-12T03:04:15.594Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 42.4M USDT ($42.4M)  ←  Binance 14  Binance 18
-📤 19.9M USDT ($19.9M)  ←  Binance 18  0xf89d7b…
-
-7d: $4214M in · $4855M out · net flow: outflow-dominant
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
