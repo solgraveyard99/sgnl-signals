@@ -5,7 +5,62 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-11T23:58:57.095Z</updated>
+  <updated>2026-10-12T00:03:57.104Z</updated>
+  <entry>
+    <title>⚪ Market Posture · neutral</title>
+    <link href="https://t.me/sgnl_free/28353"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28353</id>
+    <updated>2026-10-12T00:03:44.190Z</updated>
+    <summary type="text">⚪ Market Posture · neutral
+Bias score: +0
+
+2 active signals (top 5 by size):
+• 🐋 Whale withdrawal cluster: 4 moves, $110M off exchanges
+• 🐋 Whale deposit cluster: 7 moves, $96M to exchanges
+
+Updated every 4h · SGNL signal aggregator</summary>
+  </entry>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/28352"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28352</id>
+    <updated>2026-10-12T00:00:31.477Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $83,776 | SOL: $111.42
+Market mood: 60/100 🟢 elevated
+Solana activity: ACTIVE
+
+Tomorrow&apos;s outlook: Range-bound tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-11</title>
+    <link href="https://t.me/sgnl_free/28351"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28351</id>
+    <updated>2026-10-12T00:00:15.818Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-11
+
+24h state transitions tracked: 234
+  💀 Died (gone): 99
+  😴 Went dormant: 87
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 (3,3): had $0 liquidity · died at age 42.8d
+  💀 Barron: had $0 liquidity · died at age 42.8d
+  💀 trumponfone: had $0 liquidity · died at age 42.8d
+  💀 IQ: had $0 liquidity · died at age 42.5d
+  💀 Misanthropic: had $0 liquidity · died at age 30.2d
+  💀 PIPECAT: had $0 liquidity · died at age 30.2d
+  💀 LEGACY: had $0 liquidity · died at age 30.0d
+  💀 SOLFROG: had $0 liquidity · died at age 30.0d
+  💀 FKH: had $0 liquidity · died at age 30.0d
+  💀 ETHCAT: had $0 liquidity · died at age 30.0d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>🟠 ETH STAKING DROUGHT</title>
     <link href="https://t.me/sgnl_free/28350"/>
@@ -727,53 +782,5 @@ Top observations (by size):
 Opposing flow: $63M (filtered — minority)
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28303"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28303</id>
-    <updated>2026-10-11T15:49:08.994Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 3317 ETH ($8.4M)  ←  Binance 18  0xf8191d…
-
-7d: $4107M in · $4764M out · net flow: outflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/28302"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28302</id>
-    <updated>2026-10-11T15:15:46.969Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 867.00 ETH ($2.2M) → 0x51c72848…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 38708 moves in 7d · 38788 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x05107301926ac37a63ba23925b4e591f01ae41b7c92e84cec081af48a8a42d4a
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/28301"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28301</id>
-    <updated>2026-10-11T15:04:02.526Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 15 → fresh wallet
-Wallet: 0x51c7…2a7f (1 prior txs)
-Amount: $3.44M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x16f9fdbe0c1bbd3c187d245e9476e29e1e3f1d37c32ffafd9f7332590452a0b6
-Wallet: https://etherscan.io/address/0x51c72848c68a965f66fa7a88855f9f7784502a7f</summary>
   </entry>
 </feed>
