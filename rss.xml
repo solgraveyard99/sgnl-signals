@@ -5,7 +5,52 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T07:03:57.200Z</updated>
+  <updated>2026-10-13T07:08:57.205Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/28624"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28624</id>
+    <updated>2026-10-13T07:05:55.399Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 5 large deposits ($27M) · 8 large withdrawals ($87M).
+
+📤 5.5M USDT ($5.5M)  ←  Binance 14  0x539211…
+
+7d: $4442M in · $4430M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/28623"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28623</id>
+    <updated>2026-10-13T07:05:38.705Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📤 5,500,000 USDT ($5.5M) → 0x539211af…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 64872 moves in 7d · 64925 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xa174487f841c0f04d9f7643bf721bc2f49705698e5406ab3ca121c83f2e3f676
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/28622"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28622</id>
+    <updated>2026-10-13T07:05:23.012Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 4,160,000 USDT ($4.2M) ← 0x5b702b24…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 64854 moves in 7d · 64907 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0x6e4146432b75429afba31fa7d9c59f115655b3d18211da347bb6bb5d22450784
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/28621"/>
@@ -763,51 +808,5 @@ Tx: https://etherscan.io/tx/0xa69a8eb61ef04a2d02dcacfd2c15bcb527eca845957a265282
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28574"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28574</id>
-    <updated>2026-10-13T01:11:04.979Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 5 large deposits ($36M) · 5 large withdrawals ($145M).
-
-📥 2297 ETH ($5.6M)  →  Binance 14  0xeae738…
-
-7d: $4502M in · $4402M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · SOL</title>
-    <link href="https://t.me/sgnl_free/28573"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28573</id>
-    <updated>2026-10-13T01:08:48.393Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
-Spread: 0.0033%/hr  (29.1% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0024%/hr)
-🔴 SHORT on BingX  (funding 0.0010%/hr)
-
-Expected net: ~24% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/28572"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28572</id>
-    <updated>2026-10-13T00:53:43.642Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.599532261 gwei  ·  Safe: 0.445029329 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
