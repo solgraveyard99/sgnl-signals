@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T20:33:57.243Z</updated>
+  <updated>2026-10-13T20:38:57.239Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,000,950 USDT (~$1.0M) · 20:31 UTC</title>
+    <link href="https://t.me/sgnl_free/28739"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28739</id>
+    <updated>2026-10-13T20:37:37.403Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,000,950 USDT (~$1.0M) · 20:31 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x4003…1505
+Tx: https://etherscan.io/tx/0x95ec0a5b2249e11ff732182cadfc34ed6dbf4eb1d1add19b5a4ab5ff62fd1ba3
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64768.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3,005,234 USDT (~$3.0M) · 20:23 UTC</title>
     <link href="https://t.me/sgnl_free/28738"/>
@@ -802,21 +819,5 @@ Tx: https://etherscan.io/tx/0x8b66094b44a466ed294d0a393728e14b4d35484b3d5cfcec8e
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/28689"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28689</id>
-    <updated>2026-10-13T12:53:46.943Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.200316301 gwei  ·  Safe: 0.135309678 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
