@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T17:53:57.234Z</updated>
+  <updated>2026-10-13T17:58:57.237Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1421.00 ETH (~$3.5M) · 17:55 UTC</title>
+    <link href="https://t.me/sgnl_free/28733"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28733</id>
+    <updated>2026-10-13T17:57:37.508Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1421.00 ETH (~$3.5M) · 17:55 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x9841de762fd76febadb4e4e903208193159bc43ffd89fb87193ae4dd9b090bf5
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64789.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/28732"/>
@@ -776,21 +793,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 65025 moves in 7d · 65030 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x4a4a3ffbfd667ce5537299ad7835429375cfac4a58f39ab64587918271acb688
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/28683"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28683</id>
-    <updated>2026-10-13T12:15:58.458Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 10,000,000 USDT ($10.0M) → 0xdca499ec…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 37881 moves in 7d · 37935 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x7b2ae7698e6c675eb3652ed0edfea5262f7ba3198b0f862e326d853bf8ec83da
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
