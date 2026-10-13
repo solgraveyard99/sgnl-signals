@@ -5,7 +5,31 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T05:58:57.194Z</updated>
+  <updated>2026-10-13T06:03:57.202Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-10-12</title>
+    <link href="https://t.me/sgnl_free/28609"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28609</id>
+    <updated>2026-10-13T06:01:01.738Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-10-12
+
+Last 24h cohort: 9,664 launches
+  Graduated to Raydium: 276 (2.856%)
+  Timed out at 24h: 9,388 (97.144%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 1.4 min
+  Max observed today: 3.1 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (155 days):
+  Cohort: 4,076,025
+  Total graduations: 31,116 (0.7634%)
+  Total timeouts: 4,044,909 (99.2366%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/28608"/>
@@ -800,18 +824,6 @@ monitor mode · no orders placed</summary>
     <summary type="text">⚡ EXTREME FUNDING · SOL on Gate
 Price: $103.72  ·  Funding: -0.0155%/hr (-135.9% APR)
 Prior 7d: this funding reading is in the 0th percentile for SOL on Gate. Descriptive only.
-
-🟢 Shorts paying longs on Gate. Statistical pattern only. Not investment advice.
-monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>⚡ EXTREME FUNDING · ETH on Gate</title>
-    <link href="https://t.me/sgnl_free/28559"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28559</id>
-    <updated>2026-10-13T00:09:00.548Z</updated>
-    <summary type="text">⚡ EXTREME FUNDING · ETH on Gate
-Price: $2418.91  ·  Funding: -0.0073%/hr (-63.8% APR)
-Prior 7d: this funding reading is in the 0th percentile for ETH on Gate. Descriptive only.
 
 🟢 Shorts paying longs on Gate. Statistical pattern only. Not investment advice.
 monitor mode · no orders placed</summary>
