@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T14:43:57.224Z</updated>
+  <updated>2026-10-13T14:48:57.231Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 58,233,537 USDT (~$58.2M) · 14:42 UTC</title>
+    <link href="https://t.me/sgnl_free/28709"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28709</id>
+    <updated>2026-10-13T14:48:02.027Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 58,233,537 USDT (~$58.2M) · 14:42 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x105382f5824cf9440d59b38ab56d6c74f4fe149b3cf63cc6f8ea4f98c3201bbf
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 37762.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1652.93 ETH (~$4.2M) · 14:43 UTC</title>
+    <link href="https://t.me/sgnl_free/28708"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28708</id>
+    <updated>2026-10-13T14:47:40.687Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1652.93 ETH (~$4.2M) · 14:43 UTC
+From: 0xb033…e0e1
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xe0aed3ccffe914464b149eb5befa0fa47f8b59ae84fbf5a9b447b42c4bd08b37
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64994.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,750,000 USDT (~$1.7M) · 14:35 UTC</title>
     <link href="https://t.me/sgnl_free/28707"/>
@@ -754,36 +788,6 @@ Statistical pattern. Not financial advice.</summary>
 7d: $4519M in · $4305M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28659"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28659</id>
-    <updated>2026-10-13T09:45:39.044Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 500.02 ETH ($1.3M) ← 0xa1723822…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64822 moves in 7d · 64896 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xeea746c26b7b4f04037d091b2f19744a67f6483d5f6993eaaa43b36055f522bc
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28658"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28658</id>
-    <updated>2026-10-13T09:45:38.585Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1997.25 ETH ($5.0M) ← 0x0b2fdf41…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64808 moves in 7d · 64882 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x9c742d26913e6a7ce6ea4d9befa691a7e9f75d7177e1aa7c3468877f438e78ba
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
