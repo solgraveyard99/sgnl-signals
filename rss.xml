@@ -5,7 +5,44 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T02:58:57.184Z</updated>
+  <updated>2026-10-13T03:03:57.186Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/28589"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28589</id>
+    <updated>2026-10-13T03:01:00.612Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 6 large deposits ($40M) · 6 large withdrawals ($117M).
+
+📤 2924 ETH ($7.3M)  ←  Binance 18  0xf8191d…
+📥 2225 ETH ($5.5M)  →  Binance 14  0xeae738…
+
+7d: $4507M in · $4375M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-10-12</title>
+    <link href="https://t.me/sgnl_free/28588"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28588</id>
+    <updated>2026-10-13T03:00:03.661Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-10-12
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/28587"/>
@@ -786,35 +823,6 @@ Statistical pattern. Not financial advice.</summary>
 
 7d: $4493M in · $4285M out · net flow: inflow-dominant
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28539"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28539</id>
-    <updated>2026-10-12T21:59:11.067Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 DEPOSIT CLUSTER — 5 large deposits in 6h totaling $42M. Prior 30d: top decile of 6h deposit concurrence. Descriptive only.
-
-📥 3918 ETH ($9.8M)  →  Binance 14  0xeae738…
-
-7d: $4489M in · $4304M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28538"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28538</id>
-    <updated>2026-10-12T21:25:22.894Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 499.73 ETH ($1.3M) ← 0x0b2fdf41…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64619 moves in 7d · 64681 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x99b056d3b89d26bce965c58a999932e4eb8f3e893982c527674c936a72f9fa3d
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
