@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T13:43:57.217Z</updated>
+  <updated>2026-10-13T13:48:57.222Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/28700"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28700</id>
+    <updated>2026-10-13T13:46:01.257Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 17 large deposits ($138M) · 9 large withdrawals ($78M).
+
+📥 10.0M USDT ($10.0M)  →  Binance 14  0xecf0e8…
+
+7d: $4513M in · $4107M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
+    <link href="https://t.me/sgnl_free/28699"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28699</id>
+    <updated>2026-10-13T13:45:22.971Z</updated>
+    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
+📥 1600.00 ETH ($4.0M) ← 0xa564aa59…
+Tracked-whale wallet · on-chain transfer. Descriptive observation.
+Wallet activity: 64999 moves in 7d · 65019 in 30d.
+Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
+Tx: https://etherscan.io/tx/0xfd8261c075ff198a075a722e195cd20713dc78e69ec20ba6b20b1bb7b9c88717
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Gas Check · 24h</title>
     <link href="https://t.me/sgnl_free/28698"/>
@@ -753,57 +783,5 @@ Tx: https://etherscan.io/tx/0x49fd57b9400f6e4fe73a0097f93a277b56847a8240d9f684e2
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-10-12</title>
-    <link href="https://t.me/sgnl_free/28650"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28650</id>
-    <updated>2026-10-13T09:00:19.066Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-12
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 35
-Median peak spike (top 50): 24.0x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump SEAN: 24.0x  vol1h=$1.95M  price1h +1844.0%
-  🟢 pump CLAUDINU: 24.0x  vol1h=$4.01M  price1h +1789.0%
-  🟢 pump DOGU: 24.0x  vol1h=$3.10M  price1h +1669.0%
-  🟢 pump FIGHT: 24.0x  vol1h=$105.8K  price1h +280.0%
-  🟢 pump COINPUTER: 24.0x  vol1h=$539.3K  price1h +248.0%
-  🟢 pump CAT89: 24.0x  vol1h=$202.1K  price1h +246.0%
-  🟢 pump AIRFROG: 24.0x  vol1h=$40.3K  price1h +244.0%
-  🟢 pump MARSDOGE: 24.0x  vol1h=$436.5K  price1h +178.0%
-  🟢 pump DOGEPAY: 24.0x  vol1h=$632.4K  price1h +166.0%
-  🟢 pump DOGELON: 24.0x  vol1h=$578.4K  price1h +152.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-10-12</title>
-    <link href="https://t.me/sgnl_free/28649"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28649</id>
-    <updated>2026-10-13T09:00:03.384Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-10-12
-
-Top 5 whale-cluster events:
-• $395M → CEX | 20 wallets | 13:54Z
-• $395M → CEX | 20 wallets | 13:54Z
-• $391M → CEX | 19 wallets | 11:54Z
-• $387M → CEX | 18 wallets | 13:54Z
-• $384M → CEX | 18 wallets | 12:48Z
-
-Alerts fired (24h):
-• Whale-cluster→CEX: 56
-• Whale-cluster←CEX: 54
-• Whale-large←CEX: 17
-• Whale-large→CEX: 11
-• Funding divergence: 4
-• Rug wallet: 1
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
