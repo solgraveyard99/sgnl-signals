@@ -5,7 +5,59 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T08:58:57.203Z</updated>
+  <updated>2026-10-13T09:03:57.204Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-10-12</title>
+    <link href="https://t.me/sgnl_free/28650"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28650</id>
+    <updated>2026-10-13T09:00:19.066Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-12
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 35
+Median peak spike (top 50): 24.0x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump SEAN: 24.0x  vol1h=$1.95M  price1h +1844.0%
+  🟢 pump CLAUDINU: 24.0x  vol1h=$4.01M  price1h +1789.0%
+  🟢 pump DOGU: 24.0x  vol1h=$3.10M  price1h +1669.0%
+  🟢 pump FIGHT: 24.0x  vol1h=$105.8K  price1h +280.0%
+  🟢 pump COINPUTER: 24.0x  vol1h=$539.3K  price1h +248.0%
+  🟢 pump CAT89: 24.0x  vol1h=$202.1K  price1h +246.0%
+  🟢 pump AIRFROG: 24.0x  vol1h=$40.3K  price1h +244.0%
+  🟢 pump MARSDOGE: 24.0x  vol1h=$436.5K  price1h +178.0%
+  🟢 pump DOGEPAY: 24.0x  vol1h=$632.4K  price1h +166.0%
+  🟢 pump DOGELON: 24.0x  vol1h=$578.4K  price1h +152.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-12</title>
+    <link href="https://t.me/sgnl_free/28649"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28649</id>
+    <updated>2026-10-13T09:00:03.384Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-12
+
+Top 5 whale-cluster events:
+• $395M → CEX | 20 wallets | 13:54Z
+• $395M → CEX | 20 wallets | 13:54Z
+• $391M → CEX | 19 wallets | 11:54Z
+• $387M → CEX | 18 wallets | 13:54Z
+• $384M → CEX | 18 wallets | 12:48Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 56
+• Whale-cluster←CEX: 54
+• Whale-large←CEX: 17
+• Whale-large→CEX: 11
+• Funding divergence: 4
+• Rug wallet: 1
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/28648"/>
@@ -751,36 +803,6 @@ Tracked-whale wallet · on-chain transfer. Descriptive observation.
 Wallet activity: 64801 moves in 7d · 64869 in 30d.
 Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
 Tx: https://etherscan.io/tx/0x0144ff5f48c5be978e63e1d3dd253e829bd750a578db5bf930ff3ace9d59891e
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28600"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28600</id>
-    <updated>2026-10-13T05:05:23.096Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 951.00 ETH ($2.4M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64760 moves in 7d · 64823 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xc911860dd3862d29f732a9d3c4e4006ebaba04f1da9cbacbf27df4467c2bee7a
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28599"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28599</id>
-    <updated>2026-10-13T04:25:23.154Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 854.00 ETH ($2.1M) ← 0xeae7380d…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64794 moves in 7d · 64806 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xa6f33af207e0300d55011f00d77d7530a55711481c4b2116407cf7cc6f2e2f32
 📲 t.me/sgnl_free
 💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
