@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T00:23:57.177Z</updated>
+  <updated>2026-10-13T00:28:57.173Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/28567"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28567</id>
+    <updated>2026-10-13T00:23:58.101Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Call — strike $6000 — expiry 26MAR27
+Direction: SELL
+Notional: ~$554K
+Contracts: 229
+Implied vol: 64.4%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/28566"/>
@@ -791,24 +809,5 @@ Statistical pattern. Not financial advice.</summary>
 7d: $4457M in · $4443M out · net flow: inflow-dominant
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/28517"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28517</id>
-    <updated>2026-10-12T17:04:02.891Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 14 → fresh wallet
-Wallet: 0x51c7…2a7f (1 prior txs)
-Amount: $2.93M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x67a0d101971e1d81203eacd46d3e8f12d92c4476b00d1b1e8924f9c6c8ef7d43
-Wallet: https://etherscan.io/address/0x51c72848c68a965f66fa7a88855f9f7784502a7f</summary>
   </entry>
 </feed>
