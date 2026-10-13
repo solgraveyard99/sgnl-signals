@@ -5,7 +5,81 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-12T23:58:57.176Z</updated>
+  <updated>2026-10-13T00:03:57.177Z</updated>
+  <entry>
+    <title>⚪ Market Posture · neutral</title>
+    <link href="https://t.me/sgnl_free/28554"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28554</id>
+    <updated>2026-10-13T00:03:44.411Z</updated>
+    <summary type="text">⚪ Market Posture · neutral
+Bias score: +0
+
+6 active signals (top 5 by size):
+• 🐋 Whale withdrawal cluster: 7 moves, $157M off exchanges
+• 🐋 Large withdrawal: $40M USDT ← Binance 14
+• 🐋 Large withdrawal: $40M ETH ← Binance 14
+• 🐋 Whale deposit cluster: 4 moves, $30M to exchanges
+• 🐋 Large withdrawal: $21M USDT ← Binance 15
+…and 1 more
+
+Updated every 4h · SGNL signal aggregator</summary>
+  </entry>
+  <entry>
+    <title>🌙 SGNL Evening Wrap</title>
+    <link href="https://t.me/sgnl_free/28553"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28553</id>
+    <updated>2026-10-13T00:00:26.386Z</updated>
+    <summary type="text">🌙 SGNL Evening Wrap
+BTC: $81,899 | SOL: $105.76
+Market mood: 40/100 🟠 depressed
+Solana activity: QUIET
+
+Tomorrow&apos;s outlook: Cautious tomorrow
+See you at 8AM for the morning brief ☕</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-12</title>
+    <link href="https://t.me/sgnl_free/28552"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28552</id>
+    <updated>2026-10-13T00:00:04.650Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-12
+
+24h state transitions tracked: 258
+  💀 Died (gone): 114
+  😴 Went dormant: 88
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 BTC: had $0 liquidity · died at age 30.0d
+  💀 Stablecat: had $0 liquidity · died at age 19.3d
+  💀 Shekels: had $0 liquidity · died at age 19.3d
+  💀 DEEP: had $0 liquidity · died at age 19.3d
+  💀 4Dog: had $0 liquidity · died at age 19.3d
+  💀 PI: had $0 liquidity · died at age 19.3d
+  💀 ALM: had $0 liquidity · died at age 19.3d
+  💀 ZKSVM: had $0 liquidity · died at age 19.3d
+  💀 ETF: had $0 liquidity · died at age 10.0d
+  💀 Pabu: had $0 liquidity · died at age 10.0d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/28551"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28551</id>
+    <updated>2026-10-12T23:59:08.606Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+⚠️ Mixed cluster — traders rotating, no clear direction
+
+📤 2928 ETH ($7.2M)  ←  Binance 15  0xf8191d…
+📤 5.0M USDT ($5.0M)  ←  Binance 15  0xda09fe…
+
+7d: $4502M in · $4390M out · net flow: inflow-dominant
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · GSR Markets</title>
     <link href="https://t.me/sgnl_free/28550"/>
@@ -716,77 +790,5 @@ Statistical pattern. Not financial advice.</summary>
 🟢 Kamino Season 3 (Solana) — points-live · ~$1,000
 
 Not financial advice — airdrop farming carries gas + opportunity cost risk</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-11</title>
-    <link href="https://t.me/sgnl_free/28504"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28504</id>
-    <updated>2026-10-12T15:00:04.554Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-11
-
-Tokens with liquidity drop ≥50%: 13
-Tokens with liquidity drop ≥90%: 8
-Tokens with liquidity drop ≥75%: 9
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL SUPMKT: -96.7%  $119.1K → $4.0K  in 9.0h
-  🚨 CRITICAL CHROME: -95.7%  $61.4K → $2.6K  in 7.8h
-  🚨 CRITICAL DOGEUS: -95.0%  $51.9K → $2.6K  in 30m
-  🚨 CRITICAL WWWCAT: -94.3%  $42.7K → $2.4K  in 30m
-  🚨 CRITICAL DOGECAT: -93.1%  $34.9K → $2.4K  in 40m
-  🚨 CRITICAL PEGE: -93.1%  $34.1K → $2.4K  in 20m
-  🚨 CRITICAL LAUNCHER: -92.9%  $42.2K → $3.0K  in 25m
-  🚨 CRITICAL 9LIVES: -90.1%  $26.6K → $2.6K  in 1.3h
-  ⛔ SEVERE SOULJA: -88.5%  $34.0K → $3.9K  in 3.4h
-  ⚠ HIGH PIXEL: -67.5%  $22.6K → $7.4K  in 2.3h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/28503"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28503</id>
-    <updated>2026-10-12T14:59:08.504Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📤 20.0M USDT ($20.0M)  ←  Binance 17  0xb99a2c…
-📥 6832 ETH ($17.2M)  →  Binance 14  0xeae738…
-
-7d: $4492M in · $4426M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/28502"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28502</id>
-    <updated>2026-10-12T14:55:47.068Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 2,468,854 USDT ($2.5M) → 0x19cf0dbf…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 38357 moves in 7d · 38413 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0xc583f51684d63351670c1dae798a46fe5563f81d226412dd32951f4aa8332744
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/28501"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28501</id>
-    <updated>2026-10-12T14:45:47.242Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📥 41,018,342 USDT ($41.0M) from Binance 14 (withdrawal)
-Market-maker wallet · withdrawal from CEX Binance 14. Descriptive observation.
-Wallet activity: 38389 moves in 7d · 38389 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x351653366752624998b213280310fca0d0503870c234273e3c63057cb6209081
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
