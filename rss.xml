@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T06:13:57.204Z</updated>
+  <updated>2026-10-13T06:18:57.198Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/28611"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28611</id>
+    <updated>2026-10-13T06:15:55.333Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 5 large deposits ($27M) · 6 large withdrawals ($74M).
+
+📥 6.0M USDT ($6.0M)  →  Binance 14  0x842641…
+
+7d: $4452M in · $4423M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
     <link href="https://t.me/sgnl_free/28610"/>
@@ -813,21 +828,6 @@ Spread: 0.0075%/hr  (65.4% APR gross)
 🔴 SHORT on BingX  (funding 0.0002%/hr)
 
 Expected net: ~60% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · BTC</title>
-    <link href="https://t.me/sgnl_free/28561"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28561</id>
-    <updated>2026-10-13T00:09:01.445Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · BTC
-Spread: 0.0049%/hr  (42.5% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0040%/hr)
-🔴 SHORT on BingX  (funding 0.0008%/hr)
-
-Expected net: ~37% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
 monitor mode · no orders placed</summary>
   </entry>
