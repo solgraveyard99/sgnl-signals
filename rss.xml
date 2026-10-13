@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T20:23:57.241Z</updated>
+  <updated>2026-10-13T20:28:57.239Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 3,005,234 USDT (~$3.0M) · 20:23 UTC</title>
+    <link href="https://t.me/sgnl_free/28738"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28738</id>
+    <updated>2026-10-13T20:27:43.663Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 3,005,234 USDT (~$3.0M) · 20:23 UTC
+From: 0xecf0…0e76
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x11169fc8fcecafed038d22222414733f3a1392bc8a4d7c2b5c2c1b20300f3613
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64735.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2,000,010 USDT (~$2.0M) · 18:47 UTC</title>
     <link href="https://t.me/sgnl_free/28737"/>
@@ -801,20 +818,5 @@ Optimal time for routine tx:
 • Approve revocations
 
 Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28688"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28688</id>
-    <updated>2026-10-13T12:45:28.221Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1,551,452 USDT ($1.6M) ← 0x3c7201f6…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64980 moves in 7d · 65061 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x54e0f2825068b6f593d6716e87a452d04480d78335ab6e3ff22476dafd6adf0c
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
