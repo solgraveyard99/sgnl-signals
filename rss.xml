@@ -5,7 +5,36 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T13:33:57.223Z</updated>
+  <updated>2026-10-13T13:38:57.217Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/28698"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28698</id>
+    <updated>2026-10-13T13:38:52.016Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.234824423 gwei (fast)  ·  🟢 cheap
+Safe: 0.213476749  ·  Propose: 0.225476749  ·  BaseFee: 0.2135
+
+24h range: 0.06–0.89 gwei  (avg 0.22)
+
+Simple transfer cost now: ~$0.0123</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/28697"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28697</id>
+    <updated>2026-10-13T13:35:55.372Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 18 large deposits ($182M) · 9 large withdrawals ($78M).
+
+📥 5.6M USDT ($5.6M)  →  Binance 14  0xf6a834…
+
+7d: $4507M in · $4107M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🕵️ Repeat-rug wallet fingerprint matched</title>
     <link href="https://t.me/sgnl_free/28696"/>
@@ -776,35 +805,5 @@ Alerts fired (24h):
 All observations timestamped. Methodology public.
 
 #onchain #dailydigest</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28648"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28648</id>
-    <updated>2026-10-13T08:56:03.024Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 13 large deposits ($138M) · 9 large withdrawals ($103M).
-
-📥 3800 ETH ($9.6M)  →  Binance 14  0xe69f81…
-
-7d: $4496M in · $4395M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/28647"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28647</id>
-    <updated>2026-10-13T08:55:47.192Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 1,500,006 USDT ($1.5M) → 0xdca499ec…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 37989 moves in 7d · 38038 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x8f89f31a538c7e67b61c65502b12b1129b1bf6c62178772c556909d6dee155c0
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
