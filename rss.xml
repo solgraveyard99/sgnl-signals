@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T21:03:57.237Z</updated>
+  <updated>2026-10-13T21:08:57.240Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 3,790,734 USDT (~$3.8M) · 21:04 UTC</title>
+    <link href="https://t.me/sgnl_free/28743"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28743</id>
+    <updated>2026-10-13T21:07:48.668Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 3,790,734 USDT (~$3.8M) · 21:04 UTC
+From: 0xc17a…a753
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x448ad74d08af69380d39ad33aab4f563460773e2e53f3a3a8a788eee57d42068
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64732.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>📈 Solana Buy Momentum Digest — 2026-10-12</title>
     <link href="https://t.me/sgnl_free/28742"/>
@@ -812,21 +829,6 @@ Statistical pattern. Not financial advice.</summary>
 7d: $4497M in · $4136M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/28693"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28693</id>
-    <updated>2026-10-13T13:15:46.923Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 8,464,472 USDT ($8.5M) → 0x98adef6f…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 37896 moves in 7d · 37949 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x455a02f3fbc6d28104cf996ea4b0e9cc6948d02d968b81d5b6a836b7c4b67970
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
