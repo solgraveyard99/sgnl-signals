@@ -5,7 +5,112 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T00:08:57.185Z</updated>
+  <updated>2026-10-13T00:13:57.177Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/28565"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28565</id>
+    <updated>2026-10-13T00:09:03.403Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Call — strike $2450 — expiry 16OCT26
+Direction: BUY
+Notional: ~$559K
+Contracts: 231
+Implied vol: 48.8%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/28564"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28564</id>
+    <updated>2026-10-13T00:09:02.923Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Call — strike $2480 — expiry 16OCT26
+Direction: BUY
+Notional: ~$559K
+Contracts: 231
+Implied vol: 48.5%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · SOL</title>
+    <link href="https://t.me/sgnl_free/28563"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28563</id>
+    <updated>2026-10-13T00:09:02.395Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
+Spread: 0.0167%/hr  (146.4% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0155%/hr)
+🔴 SHORT on BingX  (funding 0.0012%/hr)
+
+Expected net: ~141% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · ETH</title>
+    <link href="https://t.me/sgnl_free/28562"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28562</id>
+    <updated>2026-10-13T00:09:01.876Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · ETH
+Spread: 0.0075%/hr  (65.4% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0073%/hr)
+🔴 SHORT on BingX  (funding 0.0002%/hr)
+
+Expected net: ~60% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · BTC</title>
+    <link href="https://t.me/sgnl_free/28561"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28561</id>
+    <updated>2026-10-13T00:09:01.445Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · BTC
+Spread: 0.0049%/hr  (42.5% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0040%/hr)
+🔴 SHORT on BingX  (funding 0.0008%/hr)
+
+Expected net: ~37% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
+  <entry>
+    <title>⚡ EXTREME FUNDING · SOL on Gate</title>
+    <link href="https://t.me/sgnl_free/28560"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28560</id>
+    <updated>2026-10-13T00:09:01.061Z</updated>
+    <summary type="text">⚡ EXTREME FUNDING · SOL on Gate
+Price: $103.72  ·  Funding: -0.0155%/hr (-135.9% APR)
+Prior 7d: this funding reading is in the 0th percentile for SOL on Gate. Descriptive only.
+
+🟢 Shorts paying longs on Gate. Statistical pattern only. Not investment advice.
+monitor mode · no orders placed</summary>
+  </entry>
+  <entry>
+    <title>⚡ EXTREME FUNDING · ETH on Gate</title>
+    <link href="https://t.me/sgnl_free/28559"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28559</id>
+    <updated>2026-10-13T00:09:00.548Z</updated>
+    <summary type="text">⚡ EXTREME FUNDING · ETH on Gate
+Price: $2418.91  ·  Funding: -0.0073%/hr (-63.8% APR)
+Prior 7d: this funding reading is in the 0th percentile for ETH on Gate. Descriptive only.
+
+🟢 Shorts paying longs on Gate. Statistical pattern only. Not investment advice.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/28558"/>
@@ -699,107 +804,5 @@ Market mood: 40/100 🟠 depressed
 Scanned ? tokens · Entered 0 trades today
 
 Stay sharp. Full signals in SGNL VIP 👆</summary>
-  </entry>
-  <entry>
-    <title>🟠 ETH STAKING DROUGHT</title>
-    <link href="https://t.me/sgnl_free/28515"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28515</id>
-    <updated>2026-10-12T16:53:46.787Z</updated>
-    <summary type="text">🟠 ETH STAKING DROUGHT
-
-24h inflow collapsed to 7.4K ETH (~230 validators)
-Rate: 26% of 30-day baseline
-ETH price: $2521
-
-Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28514"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28514</id>
-    <updated>2026-10-12T15:55:38.698Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 2,000,000 USDT ($2.0M) ← 0x73c9ddd9…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64655 moves in 7d · 64727 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x1405917aba5d358d2b63835668627821d0cc21bf651abc4636cc2fba7b7ff860
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28513"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28513</id>
-    <updated>2026-10-12T15:55:23.007Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 600.00 ETH ($1.5M) ← 0x34e479b3…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64650 moves in 7d · 64682 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0x57309fd2ed2a94ba4d9dff359408db252fe3a3389d6af6d144c0482a732e23ae
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · Binance 14 (Hot)</title>
-    <link href="https://t.me/sgnl_free/28512"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28512</id>
-    <updated>2026-10-12T15:45:22.911Z</updated>
-    <summary type="text">🧠 SMART MONEY · Binance 14 (Hot)
-📥 1,000,000 USDT ($1.0M) ← 0xdd8a40ed…
-Tracked-whale wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 64665 moves in 7d · 64782 in 30d.
-Binance largest hot wallet — flow proxy for CEX deposits/withdrawals
-Tx: https://etherscan.io/tx/0xcf1b0405f057a8e61b7d81520f1693bb123a13e1067b3de7c918b73c3a4a027f
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28511"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28511</id>
-    <updated>2026-10-12T15:34:07.998Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-⚠️ Mixed cluster — traders rotating, no clear direction
-
-📥 6.1M USDT ($6.1M)  →  Binance 14  0x0069d7…
-
-7d: $4510M in · $4495M out · net flow: inflow-dominant
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 16.6% APY</title>
-    <link href="https://t.me/sgnl_free/28510"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28510</id>
-    <updated>2026-10-12T15:23:45.424Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 16.6% APY
-fluid-lending / USDC on Base
-Base: 12.9%  ·  Rewards: 3.7%  ·  TVL: $10.8M
-
-💡 +9.6% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ established protocol
-
-Pool details: https://defillama.com/yields/pool/7372edda-f07f-4598-83e5-4edec48c4039</summary>
-  </entry>
-  <entry>
-    <title>🧠 SMART MONEY · GSR Markets</title>
-    <link href="https://t.me/sgnl_free/28509"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28509</id>
-    <updated>2026-10-12T15:15:46.745Z</updated>
-    <summary type="text">🧠 SMART MONEY · GSR Markets
-📤 6,131,788 USDT ($6.1M) → 0xc83b73f3…
-Market-maker wallet · on-chain transfer. Descriptive observation.
-Wallet activity: 38350 moves in 7d · 38399 in 30d.
-GSR institutional market-maker
-Tx: https://etherscan.io/tx/0x9c890373405c75d8c9fbe1d87cbfd2af53ab3f40743f2ee8aec0a60c50d2a81d
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
