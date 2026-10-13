@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T17:43:57.231Z</updated>
+  <updated>2026-10-13T17:48:57.231Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 3,000,000 USDT (~$3.0M) · 17:41 UTC</title>
+    <link href="https://t.me/sgnl_free/28731"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28731</id>
+    <updated>2026-10-13T17:48:01.466Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 3,000,000 USDT (~$3.0M) · 17:41 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x2a50…90cf
+Tx: https://etherscan.io/tx/0x1c36da7968e933dc3e8254a7bd7bc6021bd319862bd5823bb81eaca24cf3323f
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 37698.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,999,625 USDT (~$2.0M) · 17:26 UTC</title>
     <link href="https://t.me/sgnl_free/28730"/>
@@ -775,26 +792,5 @@ When: Wed, 14 Oct 2026 12:30:00 UTC
 Consumer Price Index release by the U.S. Bureau of Labor Statistics, 8:30 a.m. ET. Schedule reminder only, not advice.
 
 details ↗</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/28681"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28681</id>
-    <updated>2026-10-13T12:00:19.547Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $273.8B  (24h: $-83M)
-
-⚪ USDT: $184.03B  ($-55M)
-🔴 USDC: $72.79B  ($-277M)
-🟢 USDS: $7.15B  (+$236M)
-⚪ USDe: $4.76B  (+$6M)
-⚪ DAI: $4.76B  (+$12M)
-⚪ FDUSD: $0.32B  ($-6M)
-
-📊 Net supply Δ24h: $-83M (near-flat band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
