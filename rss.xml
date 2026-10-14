@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T07:58:57.272Z</updated>
+  <updated>2026-10-14T08:03:57.275Z</updated>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-10-13</title>
+    <link href="https://t.me/sgnl_free/28830"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28830</id>
+    <updated>2026-10-14T08:00:35.440Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-10-13
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 4 total)
+USDC 10012.54 → 69.0925 0x7fc665…
+0x4c9edd… 148.02 → 159.3391 0x4c9edd…
+DAI 24.03 → 0.0084 wstETH
+
+🌉 Cross-chain (Wormhole, 24h)
+$14.9M across 11218 txs · top route Solana → Solana
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>📊 3 inflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/28829"/>
@@ -840,19 +859,6 @@ Statistical pattern. Not financial advice.
 6M USDT  ($6.0M)  ←  0x549d83…
 ⚪ Routine-size withdrawal (0.0× the 7-day daily average)
 Tx: https://etherscan.io/tx/0x80503941e7ef51d38460d02b4ef30cd0613ccac353770e0bafeae8cc35835cd7
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📥 DEPOSIT · Binance 14</title>
-    <link href="https://t.me/sgnl_free/28780"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28780</id>
-    <updated>2026-10-14T02:15:50.841Z</updated>
-    <summary type="text">📥 DEPOSIT · Binance 14
-5.5M USDT  ($5.5M)  →  0xecf0e8…
-⚪ Routine-size deposit (0.0× the 7-day daily average)
-Tx: https://etherscan.io/tx/0x12d5d5167f27cf8841bd5337b8a6440cfe80b89472aad9a29fa0662089ed8a02
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
