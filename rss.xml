@@ -5,7 +5,59 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T08:58:57.276Z</updated>
+  <updated>2026-10-14T09:03:57.284Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-10-13</title>
+    <link href="https://t.me/sgnl_free/28839"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28839</id>
+    <updated>2026-10-14T09:00:13.649Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-13
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 22
+Median peak spike (top 50): 12.1x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump Bear: 24.0x  vol1h=$521.2K  price1h +1003.0%
+  🟢 pump DOPEUS: 24.0x  vol1h=$608.4K  price1h +138.0%
+  🟢 pump Lion: 24.0x  vol1h=$127.2K  price1h +88.1%
+  🟢 pump SWORDTRUMP: 24.0x  vol1h=$131.7K  price1h +80.5%
+  🔴 dump SOGE: 24.0x  vol1h=$82.9K  price1h -61.5%
+  🟢 pump NEIL: 24.0x  vol1h=$605.2K  price1h +60.0%
+  🔴 dump CLAUDE: 24.0x  vol1h=$41.2K  price1h -48.1%
+  🟢 pump Lucas: 24.0x  vol1h=$10.7K  price1h +29.0%
+  🔴 dump Koinu: 24.0x  vol1h=$21.3K  price1h -28.8%
+  🔴 dump Chonkie: 24.0x  vol1h=$7.4K  price1h -19.2%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-13</title>
+    <link href="https://t.me/sgnl_free/28838"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28838</id>
+    <updated>2026-10-14T09:00:13.266Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-13
+
+Top 5 whale-cluster events:
+• $190M → CEX | 19 wallets | 13:24Z
+• $188M → CEX | 19 wallets | 11:54Z
+• $188M → CEX | 19 wallets | 12:28Z
+• $187M → CEX | 18 wallets | 13:34Z
+• $182M → CEX | 18 wallets | 14:05Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 48
+• Whale-cluster←CEX: 43
+• Whale-large→CEX: 9
+• Whale-large←CEX: 4
+• Rug wallet: 2
+• Funding divergence: 1
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2,500,000 USDT (~$2.5M) · 08:35 UTC</title>
     <link href="https://t.me/sgnl_free/28837"/>
@@ -805,55 +857,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/28789"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28789</id>
-    <updated>2026-10-14T03:07:03.603Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0005 SOL
-• 95th: 0.0031 SOL
-• 99th: 0.0123 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
-    <link href="https://t.me/sgnl_free/28788"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28788</id>
-    <updated>2026-10-14T03:03:45.859Z</updated>
-    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
-📅 2026-10-13
-
-⏱ Last 24 hours
-🚀 Futures (Hyperliquid): $38.88 · 11 trades · WR 18%
-⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
-
-📆 Last 7 days
-🚀 Futures: $82.31 · 69 trades · WR 38%
-🐋 Solana Momentum: -600.49% · 10 trades · WR 10%
-⚙️ Other Strategy: +0.00% · 2 trades · WR 0%
-
-📚 Cumulative since 2026-04-06
-🚀 Futures: $212.28 · 1482 trades · WR 51%
-🐋 Solana Momentum: -10971.08% · 988 trades · WR 33%
-🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
-🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
-⚙️ Other Strategy: +0.00% · 79 trades · WR 0%
-⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
-⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
-
-Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
-Not financial advice. Data for decision support.
-
-📲 t.me/sgnl_free</summary>
   </entry>
 </feed>
