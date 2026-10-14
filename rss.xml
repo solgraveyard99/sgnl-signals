@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T17:13:57.315Z</updated>
+  <updated>2026-10-14T17:18:57.313Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 538.81 ETH (~$1.3M) · 17:10 UTC</title>
+    <link href="https://t.me/sgnl_free/28917"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28917</id>
+    <updated>2026-10-14T17:18:01.613Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 538.81 ETH (~$1.3M) · 17:10 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xaea8…4f5b
+Tx: https://etherscan.io/tx/0x013dcbca6eaf7850535533752c45ae838504e5f5d4bb3347609bb4e0aff1f2db
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 37687.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 908.00 ETH (~$2.2M) · 17:04 UTC</title>
     <link href="https://t.me/sgnl_free/28916"/>
@@ -796,18 +813,5 @@ Top 5 by size:
 • 🐋 Large withdrawal: $11M USDT ← Binance 18
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>📅 Day-ahead · 🟡 Medium impact</title>
-    <link href="https://t.me/sgnl_free/28867"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28867</id>
-    <updated>2026-10-14T12:02:27.407Z</updated>
-    <summary type="text">📅 Day-ahead · 🟡 Medium impact
-US PPI (September 2026) macro
-When: Thu, 15 Oct 2026 12:30:00 UTC
-
-Producer Price Index release by the U.S. Bureau of Labor Statistics, 8:30 a.m. ET. Schedule reminder only, not advice.
-
-details ↗</summary>
   </entry>
 </feed>
