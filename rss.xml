@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T17:58:57.315Z</updated>
+  <updated>2026-10-14T18:03:57.323Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-10-13</title>
+    <link href="https://t.me/sgnl_free/28920"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28920</id>
+    <updated>2026-10-14T18:01:25.843Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-13
+
+Yesterday&apos;s cohort: 41,578 launches
+  🟢 STRONG (score 8+): 569 (1.37%)
+  🟡 MIXED (score 5-7): 14,291 (34.37%)
+  🔴 WEAK  (score 0-4): 26,718 (64.26%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG GTA 6 Coin mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG CRAWLHIVE mcap=425 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG $HATE mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG ET0 mcap=348 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG CHILLHOT mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG GTA 6 Coin mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG $VICE mcap=72 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG ASNPHIL mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG ANSCAPY mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG MUNK mcap=78 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (368 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,500,000 USDT (~$1.5M) · 17:25 UTC</title>
     <link href="https://t.me/sgnl_free/28919"/>
@@ -788,23 +818,6 @@ From: 0xeae7…a4f4
 To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
 Tx: https://etherscan.io/tx/0x787ba3d6f2bd20cf423b4edb64c007630935c330e04fffebc3412ee6788a21d6
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64459.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1017.00 ETH (~$2.5M) · 12:33 UTC</title>
-    <link href="https://t.me/sgnl_free/28870"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28870</id>
-    <updated>2026-10-14T12:38:01.307Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1017.00 ETH (~$2.5M) · 12:33 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x51c7…2a7f
-Tx: https://etherscan.io/tx/0xf85da381ccfeead8fd5e46b6c6abeb39179449efbb5b4e22735d107d6739ffa7
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 37637.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
