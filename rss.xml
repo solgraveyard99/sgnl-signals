@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T20:58:57.344Z</updated>
+  <updated>2026-10-14T21:03:57.335Z</updated>
+  <entry>
+    <title>📈 Solana Buy Momentum Digest — 2026-10-13</title>
+    <link href="https://t.me/sgnl_free/28943"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28943</id>
+    <updated>2026-10-14T21:00:04.506Z</updated>
+    <summary type="text">📈 Solana Buy Momentum Digest — 2026-10-13
+
+Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 22
+Strong-bias tokens (buy/sell ≥3x): 8
+
+Top 10 by buy momentum (buys × buy/sell ratio):
+  📈 NEIL: 15073 buys / 2384 sells (6.3x)  vol1h=$593.3K  price1h +19%
+  📈 DOPEUS: 14497 buys / 2330 sells (6.2x)  vol1h=$520.4K  price1h +18%
+  📈 PICK: 18673 buys / 7889 sells (2.4x)  vol1h=$538.8K  price1h +61%
+  📈 FEED: 16191 buys / 7922 sells (2.0x)  vol1h=$487.3K  price1h +185%
+  📈 HUMPH: 4784 buys / 1722 sells (2.8x)  vol1h=$170.8K  price1h -6%
+  📈 Bumo: 1112 buys / 108 sells (10.3x)  vol1h=$12.3K  price1h +6%
+  📈 SWORDTRUMP: 1682 buys / 264 sells (6.4x)  vol1h=$131.7K  price1h +21%
+  📈 $HATE: 1407 buys / 735 sells (1.9x)  vol1h=$116.6K  price1h -22%
+  📈 SI276: 1326 buys / 743 sells (1.8x)  vol1h=$43.8K  price1h +8%
+  📈 BatCat: 814 buys / 282 sells (2.9x)  vol1h=$37.1K  price1h +2%
+
+Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
+Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 4498.00 ETH (~$10.9M) · 20:42 UTC</title>
     <link href="https://t.me/sgnl_free/28942"/>
@@ -805,20 +831,5 @@ Rate: 2.2× 30-day baseline
 ETH price: $2432
 
 Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28893"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28893</id>
-    <updated>2026-10-14T14:20:50.950Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 11 large deposits ($85M) · 15 large withdrawals ($208M).
-
-📥 2756 ETH ($6.7M)  →  Binance 14  0xeae738…
-
-7d: $4091M in · $3566M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
