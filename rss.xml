@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T20:18:57.339Z</updated>
+  <updated>2026-10-14T20:23:57.331Z</updated>
+  <entry>
+    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
+    <link href="https://t.me/sgnl_free/28939"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28939</id>
+    <updated>2026-10-14T20:23:50.310Z</updated>
+    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
+
+24h inflow: 87.0K ETH (~2,719 new validators)
+USD value: $211.5M
+Rate: 2.7× 30-day baseline
+ETH price: $2431
+
+Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 5,000,000 USDT (~$5.0M) · 20:16 UTC</title>
     <link href="https://t.me/sgnl_free/28938"/>
@@ -808,22 +822,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 5,166,990 USDT (~$5.2M) · 14:05 UTC</title>
-    <link href="https://t.me/sgnl_free/28889"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28889</id>
-    <updated>2026-10-14T14:07:37.386Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 5,166,990 USDT (~$5.2M) · 14:05 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x5eda194548c7f9ba88f7b4830fd45d96e4117ed50a9794b1f5835b422b7d916b
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64361.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
