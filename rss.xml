@@ -5,7 +5,56 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T17:03:57.313Z</updated>
+  <updated>2026-10-14T17:08:57.318Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 908.00 ETH (~$2.2M) · 17:04 UTC</title>
+    <link href="https://t.me/sgnl_free/28916"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28916</id>
+    <updated>2026-10-14T17:08:02.370Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 908.00 ETH (~$2.2M) · 17:04 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xbc8a…5ce0
+Tx: https://etherscan.io/tx/0xeeb282c14e38fca16066e3ebd2dd4aaf4914b39704d6b280cd92ba9c256b2dd2
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 37674.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2352.00 ETH (~$5.8M) · 17:04 UTC</title>
+    <link href="https://t.me/sgnl_free/28915"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28915</id>
+    <updated>2026-10-14T17:07:39.284Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2352.00 ETH (~$5.8M) · 17:04 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x04432a18f49aed876ad20ec0396cd9eea2b50d9fde33124c7b33d97af3cf429b
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64113.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/28914"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28914</id>
+    <updated>2026-10-14T17:06:03.044Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 14 large deposits ($98M) · 15 large withdrawals ($225M).
+
+📥 2352 ETH ($5.7M)  →  Binance 14  0xeae738…
+
+7d: $4045M in · $3487M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/28913"/>
@@ -760,67 +809,5 @@ When: Thu, 15 Oct 2026 12:30:00 UTC
 Producer Price Index release by the U.S. Bureau of Labor Statistics, 8:30 a.m. ET. Schedule reminder only, not advice.
 
 details ↗</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28866"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28866</id>
-    <updated>2026-10-14T12:00:51.196Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 11 large deposits ($120M) · 10 large withdrawals ($119M).
-
-📥 6.9M USDT ($6.9M)  →  Binance 14  0x123101…
-
-7d: $4157M in · $3687M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/28865"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28865</id>
-    <updated>2026-10-14T12:00:20.309Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $274.0B  (24h: +$273M)
-
-🔴 USDT: $183.93B  ($-100M)
-🟢 USDC: $73.04B  (+$185M)
-🟢 USDS: $7.15B  (+$186M)
-⚪ USDe: $4.78B  (+$15M)
-⚪ DAI: $4.74B  ($-7M)
-⚪ FDUSD: $0.32B  ($-6M)
-
-📊 Net supply Δ24h: +$273M (expansion band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-10-13</title>
-    <link href="https://t.me/sgnl_free/28864"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28864</id>
-    <updated>2026-10-14T12:00:04.477Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-13
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    710.7K μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: → 0% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 200.0K μlamp | Orca: 200.0K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
