@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T04:43:57.268Z</updated>
+  <updated>2026-10-14T04:48:57.271Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 552.00 ETH (~$1.4M) · 04:45 UTC</title>
+    <link href="https://t.me/sgnl_free/28804"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28804</id>
+    <updated>2026-10-14T04:47:37.513Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 552.00 ETH (~$1.4M) · 04:45 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x75f38486bcd716afa93dcf86c04fa683d023dd8f42ef4a5d244c6f67c75976fb
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64672.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3900.00 ETH (~$9.8M) · 04:05 UTC</title>
     <link href="https://t.me/sgnl_free/28803"/>
@@ -851,33 +868,5 @@ BTC: $83,202 (24h: +1.6%) | SOL: $106.85 (24h: +1.0%)
 Market activity index: 70/100 (high band)
 Next snapshot: 17:00 UTC
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-13</title>
-    <link href="https://t.me/sgnl_free/28754"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28754</id>
-    <updated>2026-10-14T00:00:07.299Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-13
-
-24h state transitions tracked: 301
-  💀 Died (gone): 182
-  😴 Went dormant: 52
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 SMM: had $0 liquidity · died at age 30.0d
-  💀 HONEYPOT: had $0 liquidity · died at age 30.0d
-  💀 ZFBRAIN: had $0 liquidity · died at age 30.0d
-  💀 SI: had $0 liquidity · died at age 19.3d
-  💀 MemeFirm: had $0 liquidity · died at age 19.3d
-  💀 noob: had $0 liquidity · died at age 19.3d
-  💀 XCAT: had $0 liquidity · died at age 19.3d
-  💀 CX: had $0 liquidity · died at age 19.3d
-  💀 CHICK: had $0 liquidity · died at age 19.3d
-  💀 BARRON: had $0 liquidity · died at age 19.3d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
