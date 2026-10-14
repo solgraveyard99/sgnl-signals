@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T01:23:57.252Z</updated>
+  <updated>2026-10-14T01:28:57.254Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 722.64 ETH (~$1.8M) · 01:22 UTC</title>
+    <link href="https://t.me/sgnl_free/28776"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28776</id>
+    <updated>2026-10-14T01:27:37.563Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 722.64 ETH (~$1.8M) · 01:22 UTC
+From: 0x9414…e82f
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x685c8508eb373e93a3fe01d8c5a29b25f316004122481d1b7ee19d86130d383e
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64724.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 11,314,222 USDe (~$11.3M) · 01:05 UTC</title>
     <link href="https://t.me/sgnl_free/28775"/>
@@ -873,15 +890,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>☀️ SGNL Midday Snapshot</title>
-    <link href="https://t.me/sgnl_free/28726"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28726</id>
-    <updated>2026-10-13T17:00:08.481Z</updated>
-    <summary type="text">☀️ SGNL Midday Snapshot
-BTC: $83,466 | SOL: $107.68
-Market activity index: 70/100 (high band)
-On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
   </entry>
 </feed>
