@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-13T23:58:57.262Z</updated>
+  <updated>2026-10-14T00:03:57.255Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/28755"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28755</id>
+    <updated>2026-10-14T00:00:22.981Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $83,202 (24h: +1.6%) | SOL: $106.85 (24h: +1.0%)
+Market activity index: 70/100 (high band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-13</title>
+    <link href="https://t.me/sgnl_free/28754"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28754</id>
+    <updated>2026-10-14T00:00:07.299Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-13
+
+24h state transitions tracked: 301
+  💀 Died (gone): 182
+  😴 Went dormant: 52
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 SMM: had $0 liquidity · died at age 30.0d
+  💀 HONEYPOT: had $0 liquidity · died at age 30.0d
+  💀 ZFBRAIN: had $0 liquidity · died at age 30.0d
+  💀 SI: had $0 liquidity · died at age 19.3d
+  💀 MemeFirm: had $0 liquidity · died at age 19.3d
+  💀 noob: had $0 liquidity · died at age 19.3d
+  💀 XCAT: had $0 liquidity · died at age 19.3d
+  💀 CX: had $0 liquidity · died at age 19.3d
+  💀 CHICK: had $0 liquidity · died at age 19.3d
+  💀 BARRON: had $0 liquidity · died at age 19.3d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3,198,543 USDT (~$3.2M) · 23:34 UTC</title>
     <link href="https://t.me/sgnl_free/28753"/>
@@ -819,39 +858,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 📤 6.0M USDT ($6.0M)  ←  Binance 17  0x6e6909…
 
 7d: $4533M in · $4138M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 39,999,988 USDT (~$40.0M) · 14:26 UTC</title>
-    <link href="https://t.me/sgnl_free/28705"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28705</id>
-    <updated>2026-10-13T14:26:58.587Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 39,999,988 USDT (~$40.0M) · 14:26 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x2e42…acbf
-Tx: https://etherscan.io/tx/0xbb7c232aa0b8df4e3cf4f3675fd34d11e65a2ae4986f801c85cec43af7fa2a1c
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 37776.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/28704"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28704</id>
-    <updated>2026-10-13T14:25:53.312Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 18 large deposits ($146M) · 10 large withdrawals ($103M).
-
-📤 24.0M USDT ($24.0M)  ←  Binance 17  0x2e42e6…
-📤 2884 ETH ($7.3M)  ←  Binance 19  0xf8191d…
-
-7d: $4539M in · $4107M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
