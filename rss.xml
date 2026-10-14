@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T00:28:57.252Z</updated>
+  <updated>2026-10-14T00:33:57.259Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/28765"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28765</id>
+    <updated>2026-10-14T00:29:13.926Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $71000 — expiry 30OCT26
+Direction: SELL
+Notional: ~$667K
+Contracts: 8
+Implied vol: 50.4%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/28764"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28764</id>
+    <updated>2026-10-14T00:28:58.271Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $85000 — expiry 14OCT26
+Direction: SELL
+Notional: ~$1076K
+Contracts: 12.9
+Implied vol: 34.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,000,000 USDT (~$1.0M) · 00:23 UTC</title>
     <link href="https://t.me/sgnl_free/28763"/>
@@ -825,37 +861,6 @@ monitor mode · no orders placed</summary>
 📥 4133 ETH ($10.4M)  →  Binance 14  0xeae738…
 
 7d: $4523M in · $4167M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28715"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28715</id>
-    <updated>2026-10-13T15:45:55.356Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 12 large deposits ($98M) · 13 large withdrawals ($159M).
-
-📥 2891 ETH ($7.3M)  →  Binance 14  0xeae738…
-
-7d: $4523M in · $4167M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/28714"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28714</id>
-    <updated>2026-10-13T15:40:50.780Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 12 large deposits ($96M) · 13 large withdrawals ($159M).
-
-📤 16.0M USDT ($16.0M)  ←  Binance 16  0xfc82b4…
-📤 14.0M USDT ($14.0M)  ←  Binance 17  0xfc82b4…
-
-7d: $4523M in · $4137M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
