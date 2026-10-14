@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T02:53:57.257Z</updated>
+  <updated>2026-10-14T02:58:57.257Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 556.00 ETH (~$1.4M) · 02:52 UTC</title>
+    <link href="https://t.me/sgnl_free/28786"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28786</id>
+    <updated>2026-10-14T02:57:37.411Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 556.00 ETH (~$1.4M) · 02:52 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x6c42865df1d0b22270063b49d6f86fb5bc478cdb95410adc79f28087c9c0a2b8
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64699.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 5,000,000 USDT (~$5.0M) · 02:43 UTC</title>
     <link href="https://t.me/sgnl_free/28785"/>
@@ -858,21 +875,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/28736"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28736</id>
-    <updated>2026-10-13T18:53:56.359Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.138477575 gwei  ·  Safe: 0.110291031 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
