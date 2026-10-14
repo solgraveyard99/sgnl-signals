@@ -5,7 +5,82 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T11:58:57.287Z</updated>
+  <updated>2026-10-14T12:03:57.286Z</updated>
+  <entry>
+    <title>📅 Day-ahead · 🟡 Medium impact</title>
+    <link href="https://t.me/sgnl_free/28867"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28867</id>
+    <updated>2026-10-14T12:02:27.407Z</updated>
+    <summary type="text">📅 Day-ahead · 🟡 Medium impact
+US PPI (September 2026) macro
+When: Thu, 15 Oct 2026 12:30:00 UTC
+
+Producer Price Index release by the U.S. Bureau of Labor Statistics, 8:30 a.m. ET. Schedule reminder only, not advice.
+
+details ↗</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/28866"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28866</id>
+    <updated>2026-10-14T12:00:51.196Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 11 large deposits ($120M) · 10 large withdrawals ($119M).
+
+📥 6.9M USDT ($6.9M)  →  Binance 14  0x123101…
+
+7d: $4157M in · $3687M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/28865"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28865</id>
+    <updated>2026-10-14T12:00:20.309Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $274.0B  (24h: +$273M)
+
+🔴 USDT: $183.93B  ($-100M)
+🟢 USDC: $73.04B  (+$185M)
+🟢 USDS: $7.15B  (+$186M)
+⚪ USDe: $4.78B  (+$15M)
+⚪ DAI: $4.74B  ($-7M)
+⚪ FDUSD: $0.32B  ($-6M)
+
+📊 Net supply Δ24h: +$273M (expansion band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-13</title>
+    <link href="https://t.me/sgnl_free/28864"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28864</id>
+    <updated>2026-10-14T12:00:04.477Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-13
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    710.7K μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 200.0K μlamp | Orca: 200.0K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/28863"/>
@@ -765,71 +840,6 @@ From: 0xd0e9…e938
 To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
 Tx: https://etherscan.io/tx/0x3f9a7efc7f1e43ae8ee6026b2a57bb29b5dbe35096812c68d5732ffe831b9a4e
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64659.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/28817"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28817</id>
-    <updated>2026-10-14T06:25:50.878Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 9 large deposits ($54M) · 3 large withdrawals ($21M).
-
-📥 2001 ETH ($5.0M)  →  Binance 14  0xd0e992…
-📥 2000 ETH ($5.0M)  →  Binance 14  0xc29bf2…
-
-7d: $4368M in · $3906M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28816"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28816</id>
-    <updated>2026-10-14T06:20:50.869Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 7 large deposits ($44M) · 3 large withdrawals ($21M).
-
-📥 3218 ETH ($8.1M)  →  Binance 14  0xeae738…
-
-7d: $4378M in · $3906M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,009,817 USDT (~$1.0M) · 06:14 UTC</title>
-    <link href="https://t.me/sgnl_free/28815"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28815</id>
-    <updated>2026-10-14T06:17:48.896Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,009,817 USDT (~$1.0M) · 06:14 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x76ef…b0da
-Tx: https://etherscan.io/tx/0x51510797cda9ce48b24abf3037054a8b8306c35e3e8611e80eaa63d5afc74125
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64683.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 3218.00 ETH (~$8.1M) · 06:16 UTC</title>
-    <link href="https://t.me/sgnl_free/28814"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28814</id>
-    <updated>2026-10-14T06:17:48.460Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 3218.00 ETH (~$8.1M) · 06:16 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x252baf39c6ae35045e24b4d86f9adcf2a154ca9e4329c721a369912032b0b603
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64653.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
