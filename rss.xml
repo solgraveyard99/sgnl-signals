@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T22:03:57.340Z</updated>
+  <updated>2026-10-14T22:08:57.348Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,000,001 USDT (~$1.0M) · 22:06 UTC</title>
+    <link href="https://t.me/sgnl_free/28949"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28949</id>
+    <updated>2026-10-14T22:08:02.007Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,000,001 USDT (~$1.0M) · 22:06 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x2a50…90cf
+Tx: https://etherscan.io/tx/0xd5d190aeb02a4775a9a479b98445a58a13cb35435c1aa2f34872ed8da8a0dc56
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 37903.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2000.00 ETH (~$4.8M) · 21:45 UTC</title>
     <link href="https://t.me/sgnl_free/28948"/>
@@ -806,32 +823,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-13</title>
-    <link href="https://t.me/sgnl_free/28899"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28899</id>
-    <updated>2026-10-14T15:00:04.352Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-13
-
-Tokens with liquidity drop ≥50%: 13
-Tokens with liquidity drop ≥90%: 8
-Tokens with liquidity drop ≥75%: 12
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL BATONA: -98.3%  $191.2K → $3.3K  in 3.4h
-  🚨 CRITICAL hellop: -95.2%  $115.0K → $5.5K  in 4.5h
-  🚨 CRITICAL SWORDTRUMP: -95.0%  $40.4K → $2.0K  in 10m
-  🚨 CRITICAL DOPEUS: -93.8%  $38.6K → $2.4K  in 1.2h
-  🚨 CRITICAL NEIL: -93.5%  $35.8K → $2.3K  in 15m
-  🚨 CRITICAL $HATE: -93.4%  $34.4K → $2.3K  in 8.2h
-  🚨 CRITICAL PICK: -91.2%  $33.9K → $3.0K  in 2.5h
-  🚨 CRITICAL FEED: -90.9%  $33.5K → $3.1K  in 35m
-  ⛔ SEVERE SOGE: -82.4%  $22.2K → $3.9K  in 4.3h
-  ⛔ SEVERE Bear: -82.4%  $60.7K → $10.7K  in 10.9h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
   </entry>
 </feed>
