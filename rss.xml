@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T12:53:57.296Z</updated>
+  <updated>2026-10-14T12:58:57.301Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 5977.00 ETH (~$14.8M) · 12:57 UTC</title>
+    <link href="https://t.me/sgnl_free/28873"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28873</id>
+    <updated>2026-10-14T12:57:37.509Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 5977.00 ETH (~$14.8M) · 12:57 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x51ff1e1a83ac5023851b16591f1cd90e0eeed828638b2776300d729b01c90353
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64407.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>⛽🟢 CHEAP GAS WINDOW</title>
+    <link href="https://t.me/sgnl_free/28872"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28872</id>
+    <updated>2026-10-14T12:53:58.807Z</updated>
+    <summary type="text">⛽🟢 CHEAP GAS WINDOW
+Fast: 0.228853989 gwei  ·  Safe: 0.218853989 gwei
+
+Optimal time for routine tx:
+• Token transfers (~$0.50)
+• Unclaimed airdrops
+• Swap batching
+• Approve revocations
+
+Windows like this typically last 30-60 min. Act now.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 4,831,874 USDT (~$4.8M) · 12:45 UTC</title>
     <link href="https://t.me/sgnl_free/28871"/>
@@ -812,38 +845,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/28823"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28823</id>
-    <updated>2026-10-14T06:53:47.320Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.064564419 gwei  ·  Safe: 0.063564419 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1119.00 ETH (~$2.8M) · 06:47 UTC</title>
-    <link href="https://t.me/sgnl_free/28822"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28822</id>
-    <updated>2026-10-14T06:48:09.664Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1119.00 ETH (~$2.8M) · 06:47 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x77f7…c70b
-Tx: https://etherscan.io/tx/0xd7f7407966fbe166d6c631a65ab842d8e884a268c6fca71a20448a7fef8dee6e
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 37667.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
