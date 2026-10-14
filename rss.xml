@@ -5,7 +5,49 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T14:58:57.299Z</updated>
+  <updated>2026-10-14T15:03:57.306Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/28900"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28900</id>
+    <updated>2026-10-14T15:01:00.327Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 11 large deposits ($86M) · 18 large withdrawals ($273M).
+
+📤 15.0M USDT ($15.0M)  ←  Binance 18  0xb99a2c…
+
+7d: $4109M in · $3567M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-13</title>
+    <link href="https://t.me/sgnl_free/28899"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28899</id>
+    <updated>2026-10-14T15:00:04.352Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-13
+
+Tokens with liquidity drop ≥50%: 13
+Tokens with liquidity drop ≥90%: 8
+Tokens with liquidity drop ≥75%: 12
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL BATONA: -98.3%  $191.2K → $3.3K  in 3.4h
+  🚨 CRITICAL hellop: -95.2%  $115.0K → $5.5K  in 4.5h
+  🚨 CRITICAL SWORDTRUMP: -95.0%  $40.4K → $2.0K  in 10m
+  🚨 CRITICAL DOPEUS: -93.8%  $38.6K → $2.4K  in 1.2h
+  🚨 CRITICAL NEIL: -93.5%  $35.8K → $2.3K  in 15m
+  🚨 CRITICAL $HATE: -93.4%  $34.4K → $2.3K  in 8.2h
+  🚨 CRITICAL PICK: -91.2%  $33.9K → $3.0K  in 2.5h
+  🚨 CRITICAL FEED: -90.9%  $33.5K → $3.1K  in 35m
+  ⛔ SEVERE SOGE: -82.4%  $22.2K → $3.9K  in 4.3h
+  ⛔ SEVERE Bear: -82.4%  $60.7K → $10.7K  in 10.9h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 52,371,677 USDT (~$52.4M) · 14:42 UTC</title>
     <link href="https://t.me/sgnl_free/28898"/>
@@ -785,38 +827,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 📤 16.5M USDT ($16.5M)  ←  Binance 18  0x53bbb7…
 
 7d: $4169M in · $3780M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 3,000,000 USDT (~$3.0M) · 10:20 UTC</title>
-    <link href="https://t.me/sgnl_free/28850"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28850</id>
-    <updated>2026-10-14T10:28:07.323Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 3,000,000 USDT (~$3.0M) · 10:20 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0xdca4…5223
-Tx: https://etherscan.io/tx/0x2d4529fa4dbf2607b0e2ac0f796b942a5ed80ccf41f61b959d84f6ca72ccc009
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 37637.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28849"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28849</id>
-    <updated>2026-10-14T10:25:50.901Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 11 large deposits ($118M) · 5 large withdrawals ($68M).
-
-📥 5319 ETH ($13.3M)  →  Binance 14  0xeae738…
-
-7d: $4155M in · $3791M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
