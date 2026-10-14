@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-14T02:43:57.257Z</updated>
+  <updated>2026-10-14T02:48:57.259Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 5,000,000 USDT (~$5.0M) · 02:43 UTC</title>
+    <link href="https://t.me/sgnl_free/28785"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28785</id>
+    <updated>2026-10-14T02:47:37.415Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 5,000,000 USDT (~$5.0M) · 02:43 UTC
+From: 0xde46…3aea
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xc64234c79788d55fdc097cdc83117872a5186db722f882991a39f8dd8488534e
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64743.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/28784"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28784</id>
+    <updated>2026-10-14T02:46:00.969Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Deposit cluster: 3 large deposits ($17M) in 6h.
+
+📥 5.0M USDT ($5.0M)  →  Binance 14  0xde46bd…
+
+7d: $4426M in · $4022M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/28783"/>
@@ -842,52 +874,5 @@ Optimal time for routine tx:
 • Approve revocations
 
 Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2,000,000 USDT (~$2.0M) · 18:43 UTC</title>
-    <link href="https://t.me/sgnl_free/28735"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28735</id>
-    <updated>2026-10-13T18:47:38.476Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2,000,000 USDT (~$2.0M) · 18:43 UTC
-From: 0xa64f…8d8a
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xdd85c3458d06d85c1c2854b751400fc4dcff6b63bf3280ff252b72391ebb4e4d
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64802.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-10-12</title>
-    <link href="https://t.me/sgnl_free/28734"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28734</id>
-    <updated>2026-10-13T18:01:26.029Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-12
-
-Yesterday&apos;s cohort: 46,830 launches
-  🟢 STRONG (score 8+): 707 (1.51%)
-  🟡 MIXED (score 5-7): 18,481 (39.46%)
-  🔴 WEAK  (score 0-4): 27,642 (59.03%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG QCHIMP mcap=173 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG QCHIMP mcap=75 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG $ZEVON mcap=309 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG DOGEFATHER mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG MEME mcap=6054 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG MIGALHAS mcap=209 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG MIGALHAS mcap=64 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG HEROGOGS mcap=93 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG CASINU mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG Pump Cat mcap=649 SOL [mcap60+,tg,tw,web,desc]
-
-✓grad = graduated to Raydium within 24h (276 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
