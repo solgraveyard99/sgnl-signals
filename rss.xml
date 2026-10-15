@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T07:58:57.364Z</updated>
+  <updated>2026-10-15T08:03:57.365Z</updated>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-10-14</title>
+    <link href="https://t.me/sgnl_free/29031"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29031</id>
+    <updated>2026-10-15T08:00:25.150Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-10-14
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 5 total)
+USDT 1537.61 → 0.6660 WETH
+USDC 458.02 → 0.0000 0x687496…
+USDC 2.00 → 0.0009 WETH
+
+🌉 Cross-chain (Wormhole, 24h)
+$15.9M across 11152 txs · top route Solana → Solana
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,000,000 USDT (~$1.0M) · 07:53 UTC</title>
     <link href="https://t.me/sgnl_free/29030"/>
@@ -847,23 +866,6 @@ From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public a
 To: 0x652a…a30b
 Tx: https://etherscan.io/tx/0xfbf3d1b6001bb3ae799cf6b8eba39a3b26f2aa541fe6a5d49450ee35a8b103fe
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38110.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,075,165 ENA (~$1.1M) · 02:26 UTC</title>
-    <link href="https://t.me/sgnl_free/28981"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28981</id>
-    <updated>2026-10-15T02:27:37.506Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,075,165 ENA (~$1.1M) · 02:26 UTC
-From: 0xe690…6e41
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xb43626b171b3f7ec16d183ffb9a3e6f825517a27b749c48b7aa2a5b78b70d12b
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64019.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
