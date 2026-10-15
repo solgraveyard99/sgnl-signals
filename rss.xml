@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T11:23:57.376Z</updated>
+  <updated>2026-10-15T11:28:57.383Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 75,274,446 USDT (~$75.3M) · 11:22 UTC</title>
+    <link href="https://t.me/sgnl_free/29065"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29065</id>
+    <updated>2026-10-15T11:28:01.449Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 75,274,446 USDT (~$75.3M) · 11:22 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x62da34a118cd294c28db84c1436aacab183fd795f84bddce7331c212b803b979
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38330.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>⏰ 1-hour warning · 🟡 Medium impact</title>
     <link href="https://t.me/sgnl_free/29064"/>
@@ -822,29 +839,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Pump.fun Daily Survival Report — 2026-10-14</title>
-    <link href="https://t.me/sgnl_free/29015"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29015</id>
-    <updated>2026-10-15T06:01:01.413Z</updated>
-    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-10-14
-
-Last 24h cohort: 299 launches
-  Graduated to Raydium: 299 (100.000%)
-  Timed out at 24h: 0 (0.000%)
-
-When tokens DO graduate, they graduate fast:
-  Median time-to-graduation: 1.5 min
-  Max observed today: 3.5 min
-  Graduations after 6 min: 0
-
-Cumulative since 2026-05-08 (156 days):
-  Cohort: 4,148,159
-  Total graduations: 31,684 (0.7638%)
-  Total timeouts: 4,116,475 (99.2362%)
-
-Source: Pump.fun on-chain + DexScreener
-Survival ≠ profitability. DYOR.</summary>
   </entry>
 </feed>
