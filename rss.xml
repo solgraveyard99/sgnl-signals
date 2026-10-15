@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T04:53:57.351Z</updated>
+  <updated>2026-10-15T04:58:57.366Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29005"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29005</id>
+    <updated>2026-10-15T04:55:51.939Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Deposit cluster: 8 large deposits ($64M) in 6h.
+
+📥 6.0M USDT ($6.0M)  →  Binance 14  0xde4b9a…
+
+7d: $3635M in · $2971M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,624,696 USDT (~$1.6M) · 04:36 UTC</title>
     <link href="https://t.me/sgnl_free/29004"/>
@@ -862,33 +877,5 @@ BTC: $81,620 (24h: −1.8%) | SOL: $104.15 (24h: −2.5%)
 Market activity index: 50/100 (mid band)
 Next snapshot: 17:00 UTC
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-14</title>
-    <link href="https://t.me/sgnl_free/28955"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28955</id>
-    <updated>2026-10-15T00:00:05.085Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-14
-
-24h state transitions tracked: 260
-  💀 Died (gone): 185
-  😴 Went dormant: 48
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-  💀 None: had $0 liquidity · died at age 0.0d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
