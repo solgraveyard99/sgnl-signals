@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T04:33:57.352Z</updated>
+  <updated>2026-10-15T04:38:57.352Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,624,696 USDT (~$1.6M) · 04:36 UTC</title>
+    <link href="https://t.me/sgnl_free/29004"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29004</id>
+    <updated>2026-10-15T04:38:01.240Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,624,696 USDT (~$1.6M) · 04:36 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xad14…6cdc
+Tx: https://etherscan.io/tx/0x8eddb80f1e5199eee5490703677a2bc95a4b60433349e4130e39b3c561661453
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38285.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/29003"/>
@@ -873,22 +890,5 @@ How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume
 Companion to morning survival report (06:00 UTC).
 Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
 DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 15723.49 ETH (~$38.0M) · 23:42 UTC</title>
-    <link href="https://t.me/sgnl_free/28954"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28954</id>
-    <updated>2026-10-14T23:48:02.477Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 15723.49 ETH (~$38.0M) · 23:42 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x6c2e4e7f74dbab1595a350ef417c59e5a98cdb71cc7f680c9da39abc8dd00a4f
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38018.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
