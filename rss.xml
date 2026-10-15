@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T01:03:57.339Z</updated>
+  <updated>2026-10-15T01:08:57.338Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 4,000,000 USDT (~$4.0M) · 01:02 UTC</title>
+    <link href="https://t.me/sgnl_free/28975"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28975</id>
+    <updated>2026-10-15T01:08:08.032Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 4,000,000 USDT (~$4.0M) · 01:02 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xd0a4…229f
+Tx: https://etherscan.io/tx/0x0b42e77afe219678aa20a298f650aa25fa2411d738c1bfb944dbe6ea3dedf99e
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38075.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 575.00 ETH (~$1.4M) · 00:54 UTC</title>
     <link href="https://t.me/sgnl_free/28974"/>
@@ -830,21 +847,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 📤 10.2M USDT ($10.2M)  ←  Binance 17  0xed0c60…
 
 7d: $3952M in · $3401M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28925"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28925</id>
-    <updated>2026-10-14T18:25:50.930Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 14 large deposits ($100M) · 15 large withdrawals ($221M).
-
-📤 5.0M USDT ($5.0M)  ←  Binance 15  0xf8191d…
-
-7d: $3961M in · $3396M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
