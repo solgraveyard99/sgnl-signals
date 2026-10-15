@@ -5,7 +5,44 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T00:23:57.343Z</updated>
+  <updated>2026-10-15T00:28:57.342Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/28969"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28969</id>
+    <updated>2026-10-15T00:24:11.765Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0000 SOL
+• 99th: 0.0134 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/28968"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28968</id>
+    <updated>2026-10-15T00:24:11.358Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $88000 — expiry 23OCT26
+Direction: BUY
+Notional: ~$963K
+Contracts: 11.8
+Implied vol: 34.8%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 18.8% APY</title>
     <link href="https://t.me/sgnl_free/28967"/>
@@ -821,36 +858,5 @@ Top 10 by quality signals:
 
 ✓grad = graduated to Raydium within 24h (368 total yesterday)
 Source: on-chain + pump.fun API. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,500,000 USDT (~$1.5M) · 17:25 UTC</title>
-    <link href="https://t.me/sgnl_free/28919"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28919</id>
-    <updated>2026-10-14T17:27:37.518Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,500,000 USDT (~$1.5M) · 17:25 UTC
-From: 0x2b54…7c6e
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xb63476744f1cf4118cb32e54b20cd28b534d146fc9ace97d2369f8a071772c02
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64088.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🚀 ETH STAKING 30-DAY HIGH</title>
-    <link href="https://t.me/sgnl_free/28918"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28918</id>
-    <updated>2026-10-14T17:23:46.416Z</updated>
-    <summary type="text">🚀 ETH STAKING 30-DAY HIGH
-
-24h stake inflow hit a new 30-day high: 79.3K ETH
-~2,478 validators queued
-USD: $193.8M
-ETH: $2444
-
-Largest single-day stake inflow in 30 days. Strong institutional conviction signal.</summary>
   </entry>
 </feed>
