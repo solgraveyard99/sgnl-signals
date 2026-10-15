@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T05:28:57.354Z</updated>
+  <updated>2026-10-15T05:33:57.353Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29010"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29010</id>
+    <updated>2026-10-15T05:30:51.168Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Deposit cluster: 8 large deposits ($64M) in 6h.
+
+📤 10.0M USDT ($10.0M)  ←  Binance 17  0x1e4e7e…
+
+7d: $3632M in · $2961M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 4,000,000 USDT (~$4.0M) · 05:24 UTC</title>
     <link href="https://t.me/sgnl_free/29009"/>
@@ -860,23 +875,6 @@ From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public
 To: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
 Tx: https://etherscan.io/tx/0xfec6e266f8d8fa4ea379d1426660d7b06448c3a5255e610a649531a5a1a4f59b
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38045.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 40,573,318 USDT (~$40.6M) · 00:02 UTC</title>
-    <link href="https://t.me/sgnl_free/28960"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28960</id>
-    <updated>2026-10-15T00:07:51.595Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 40,573,318 USDT (~$40.6M) · 00:02 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x9696…6976
-Tx: https://etherscan.io/tx/0xfec6e266f8d8fa4ea379d1426660d7b06448c3a5255e610a649531a5a1a4f59b
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 64024.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
