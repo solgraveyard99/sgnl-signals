@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T02:18:57.346Z</updated>
+  <updated>2026-10-15T02:23:57.346Z</updated>
+  <entry>
+    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
+    <link href="https://t.me/sgnl_free/28980"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28980</id>
+    <updated>2026-10-15T02:23:46.155Z</updated>
+    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
+
+24h inflow: 116.1K ETH (~3,629 new validators)
+USD value: $280.0M
+Rate: 3.6× 30-day baseline
+ETH price: $2412
+
+Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,300,000 USDT (~$1.3M) · 02:12 UTC</title>
     <link href="https://t.me/sgnl_free/28979"/>
@@ -840,22 +854,5 @@ Optimal time for routine tx:
 • Approve revocations
 
 Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 679.50 ETH (~$1.6M) · 18:45 UTC</title>
-    <link href="https://t.me/sgnl_free/28930"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28930</id>
-    <updated>2026-10-14T18:48:08.508Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 679.50 ETH (~$1.6M) · 18:45 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x724c…ffd4
-Tx: https://etherscan.io/tx/0xb61096c8155c25f15e2cb53f311f3718e7703565969e2c4a3a2c4c2bb9f33ab9
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 37744.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
