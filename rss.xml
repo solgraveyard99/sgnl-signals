@@ -5,7 +5,58 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T02:58:57.344Z</updated>
+  <updated>2026-10-15T03:03:57.356Z</updated>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/28995"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28995</id>
+    <updated>2026-10-15T03:03:45.850Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-10-14
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): $17.75 · 9 trades · WR 78%
+
+📆 Last 7 days
+🚀 Futures: $80.88 · 68 trades · WR 43%
+🐋 Solana Momentum: -400.00% · 4 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 2 trades · WR 0%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $230.03 · 1491 trades · WR 51%
+🐋 Solana Momentum: -10971.08% · 988 trades · WR 33%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 79 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-10-14</title>
+    <link href="https://t.me/sgnl_free/28994"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-28994</id>
+    <updated>2026-10-15T03:00:03.321Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-10-14
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3,319,400 USDT (~$3.3M) · 02:49 UTC</title>
     <link href="https://t.me/sgnl_free/28993"/>
@@ -827,37 +878,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 706.40 ETH (~$1.7M) · 21:12 UTC</title>
-    <link href="https://t.me/sgnl_free/28945"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28945</id>
-    <updated>2026-10-14T21:18:07.705Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 706.40 ETH (~$1.7M) · 21:12 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x724c…ffd4
-Tx: https://etherscan.io/tx/0x65616e168377ad4046621a48e10f1fdecfe82bb61437eabbb3ae777d9bad1096
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 37884.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/28944"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28944</id>
-    <updated>2026-10-14T21:15:50.991Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 9 large deposits ($69M) · 7 large withdrawals ($53M).
-
-📥 6.0M USDT ($6.0M)  →  Binance 14  0x4aaa5a…
-
-7d: $3953M in · $3226M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
