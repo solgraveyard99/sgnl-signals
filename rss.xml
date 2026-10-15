@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T14:33:57.385Z</updated>
+  <updated>2026-10-15T14:38:57.390Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 200,000,000 USDT (~$200.0M) · 14:37 UTC</title>
+    <link href="https://t.me/sgnl_free/29098"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29098</id>
+    <updated>2026-10-15T14:37:37.528Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 200,000,000 USDT (~$200.0M) · 14:37 UTC
+From: 0x2213…bc9e
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xc69b3995c9424ba34596e0b77b56153f8cc8810e1afe93dde630f64544922d4e
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63576.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2,000,020 USDT (~$2.0M) · 14:14 UTC</title>
     <link href="https://t.me/sgnl_free/29097"/>
@@ -815,26 +832,6 @@ Total voting power: 2717194
 Voting ends: 2026-10-16 03:40 UTC
 
 https://snapshot.org/#/gitcoindao.eth/proposal/0x8cc9d91c1ac903ab8a8676ca8b93f5623175ca6aa5297780073e09a270a66f70
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/29048"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29048</id>
-    <updated>2026-10-15T09:53:57.602Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-Should Starknet become an independent post-quantum L1?
-
-DAO: starknet.eth
-Votes cast: 32
-Total voting power: 12014265
-Voting ends: 2026-10-22 09:32 UTC
-
-https://snapshot.org/#/starknet.eth/proposal/0x31dffc8b6f24c580540cc967fdede3d8e9d513c105d3f699a14ae65bd0dc5d74
 
 Statistical pattern. Not financial advice.
 
