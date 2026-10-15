@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T11:53:57.383Z</updated>
+  <updated>2026-10-15T11:58:57.377Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 3,249,944 USDT (~$3.2M) · 11:56 UTC</title>
+    <link href="https://t.me/sgnl_free/29068"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29068</id>
+    <updated>2026-10-15T11:57:37.728Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 3,249,944 USDT (~$3.2M) · 11:56 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x2ef9…8bf7
+Tx: https://etherscan.io/tx/0x63872a63d048da5f9b38eada2249bcc8bfb1e0753bf1987841c64bea0511fa94
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63720.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🚀 ETH STAKING 30-DAY HIGH</title>
     <link href="https://t.me/sgnl_free/29067"/>
@@ -818,21 +835,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/29018"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29018</id>
-    <updated>2026-10-15T06:53:43.662Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.080560862 gwei  ·  Safe: 0.073168807 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
