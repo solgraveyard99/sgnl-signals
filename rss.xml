@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T08:48:57.366Z</updated>
+  <updated>2026-10-15T08:53:57.367Z</updated>
+  <entry>
+    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
+    <link href="https://t.me/sgnl_free/29041"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29041</id>
+    <updated>2026-10-15T08:53:46.205Z</updated>
+    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
+
+24h inflow: 126.2K ETH (~3,943 new validators)
+USD value: $299.3M
+Rate: 4.0× 30-day baseline
+ETH price: $2372
+
+Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 689.01 ETH (~$1.6M) · 08:35 UTC</title>
     <link href="https://t.me/sgnl_free/29040"/>
@@ -837,25 +851,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0001 SOL
 • 95th: 0.0056 SOL
 • 99th: 0.2611 SOL (~$26)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/28991"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28991</id>
-    <updated>2026-10-15T02:53:04.039Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0087 SOL
-• 75th: 0.0117 SOL
-• 95th: 0.0141 SOL
-• 99th: 0.0146 SOL (~$1)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
