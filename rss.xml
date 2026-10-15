@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T14:13:57.386Z</updated>
+  <updated>2026-10-15T14:18:57.382Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2,000,020 USDT (~$2.0M) · 14:14 UTC</title>
+    <link href="https://t.me/sgnl_free/29097"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29097</id>
+    <updated>2026-10-15T14:17:37.673Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2,000,020 USDT (~$2.0M) · 14:14 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x2a50…90cf
+Tx: https://etherscan.io/tx/0xf95f80565cf6f4caed389474f0f57ba42de14fbc82e568aa54238cf1c6c22532
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63625.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>📊 3 outflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/29096"/>
@@ -822,20 +839,5 @@ https://snapshot.org/#/starknet.eth/proposal/0x31dffc8b6f24c580540cc967fdede3d8e
 Statistical pattern. Not financial advice.
 
 #DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/29047"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29047</id>
-    <updated>2026-10-15T09:40:52.311Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 11 large deposits ($105M) · 8 large withdrawals ($73M).
-
-📤 5.5M USDT ($5.5M)  ←  Binance 17  0x42008c…
-
-7d: $3480M in · $2869M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
