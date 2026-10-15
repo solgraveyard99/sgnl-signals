@@ -5,7 +5,64 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T09:53:57.372Z</updated>
+  <updated>2026-10-15T09:58:57.375Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 699.99 ETH (~$1.7M) · 09:53 UTC</title>
+    <link href="https://t.me/sgnl_free/29050"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29050</id>
+    <updated>2026-10-15T09:57:50.266Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 699.99 ETH (~$1.7M) · 09:53 UTC
+From: 0xbd9f…54ed
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x40d31e4d9e1ebdecadf6bd8cf3f2e35d901641c88058b95a6d7df2fb03d2d4c4
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63792.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/29049"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29049</id>
+    <updated>2026-10-15T09:54:13.319Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+[PROPOSAL] Update Snapshot Quorum from 2.5M to 1.5M GTC
+
+DAO: gitcoindao.eth
+Votes cast: 337
+Total voting power: 2717194
+Voting ends: 2026-10-16 03:40 UTC
+
+https://snapshot.org/#/gitcoindao.eth/proposal/0x8cc9d91c1ac903ab8a8676ca8b93f5623175ca6aa5297780073e09a270a66f70
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/29048"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29048</id>
+    <updated>2026-10-15T09:53:57.602Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+Should Starknet become an independent post-quantum L1?
+
+DAO: starknet.eth
+Votes cast: 32
+Total voting power: 12014265
+Voting ends: 2026-10-22 09:32 UTC
+
+https://snapshot.org/#/starknet.eth/proposal/0x31dffc8b6f24c580540cc967fdede3d8e9d513c105d3f699a14ae65bd0dc5d74
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/29047"/>
@@ -792,61 +849,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0000 SOL
 • 95th: 0.0001 SOL
 • 99th: 0.0232 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/29000"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29000</id>
-    <updated>2026-10-15T03:52:04.110Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0002 SOL
-• 99th: 0.0511 SOL (~$5)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,408,120 USDT (~$1.4M) · 03:44 UTC</title>
-    <link href="https://t.me/sgnl_free/28999"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28999</id>
-    <updated>2026-10-15T03:47:40.334Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,408,120 USDT (~$1.4M) · 03:44 UTC
-From: 0x34e4…03ad
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x1af8ffcd325758de6b1bc234728f5efe8b72e19854b4fd4e6db2f8c40f2cb842
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63968.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/28998"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28998</id>
-    <updated>2026-10-15T03:46:04.134Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0012 SOL
-• 99th: 0.0461 SOL (~$5)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
