@@ -5,7 +5,61 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T05:23:57.351Z</updated>
+  <updated>2026-10-15T05:28:57.354Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 4,000,000 USDT (~$4.0M) · 05:24 UTC</title>
+    <link href="https://t.me/sgnl_free/29009"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29009</id>
+    <updated>2026-10-15T05:27:37.478Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 4,000,000 USDT (~$4.0M) · 05:24 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x1e4e…8c7d
+Tx: https://etherscan.io/tx/0x49ec125816d930c7f95e784a6ce35157949281a1434333b055c102c8792680d0
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63945.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/29008"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29008</id>
+    <updated>2026-10-15T05:25:04.103Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0021 SOL
+• 99th: 0.0110 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 15.5% APY</title>
+    <link href="https://t.me/sgnl_free/29007"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29007</id>
+    <updated>2026-10-15T05:23:59.401Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 15.5% APY
+compound-v3 / USDT on Ethereum
+Base: 15.5%  ·  Rewards: 0.0%  ·  TVL: $9.5M
+
+💡 +8.5% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+✅ established protocol
+
+⚠️ TVL &lt; $10M (thin liquidity)
+
+Pool details: https://defillama.com/yields/pool/f4d5b566-e815-4ca2-bb07-7bcd8bc797f1</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2,300,000 USDT (~$2.3M) · 05:06 UTC</title>
     <link href="https://t.me/sgnl_free/29006"/>
@@ -829,59 +883,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/28959"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28959</id>
-    <updated>2026-10-15T00:04:14.567Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $87000 — expiry 16OCT26
-Direction: SELL
-Notional: ~$652K
-Contracts: 8
-Implied vol: 45.2%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/28958"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28958</id>
-    <updated>2026-10-15T00:04:14.156Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $87000 — expiry 16OCT26
-Direction: SELL
-Notional: ~$693K
-Contracts: 8.5
-Implied vol: 45.2%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/28957"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-28957</id>
-    <updated>2026-10-15T00:03:58.487Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $93000 — expiry 30OCT26
-Direction: SELL
-Notional: ~$815K
-Contracts: 10
-Implied vol: 37.2%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
