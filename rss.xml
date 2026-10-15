@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T13:33:57.388Z</updated>
+  <updated>2026-10-15T13:38:57.383Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/29088"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29088</id>
+    <updated>2026-10-15T13:38:43.994Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.592799255 gwei (fast)  ·  🟢 cheap
+Safe: 0.538898543  ·  Propose: 0.538908414  ·  BaseFee: 0.5389
+
+24h range: 0.06–1.80 gwei  (avg 0.26)
+
+Simple transfer cost now: ~$0.0311</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/29087"/>
@@ -844,23 +858,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 7d: $3536M in · $2939M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 3 inflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/29038"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29038</id>
-    <updated>2026-10-15T08:18:19.186Z</updated>
-    <summary type="text">📊 3 inflow-heavy observations detected
-Sample: 3 concurrent observations · $177M total flow.
-
-Top observations (by size):
-• 🐋 Whale deposit cluster: 16 moves, $141M to exchanges
-• 🐋 Large deposit: $25M USDT → Binance 14
-• 🐋 Large deposit: $10M USDT → Binance 14
-
-Opposing flow: $31M (filtered — minority)
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
