@@ -5,7 +5,17 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T16:58:57.397Z</updated>
+  <updated>2026-10-15T17:03:57.397Z</updated>
+  <entry>
+    <title>☀️ SGNL Midday Snapshot</title>
+    <link href="https://t.me/sgnl_free/29126"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29126</id>
+    <updated>2026-10-15T17:00:10.295Z</updated>
+    <summary type="text">☀️ SGNL Midday Snapshot
+BTC: $82,083 | SOL: $105.75
+Market activity index: 50/100 (mid band)
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 5,001,266 USDT (~$5.0M) · 16:39 UTC</title>
     <link href="https://t.me/sgnl_free/29125"/>
@@ -805,21 +815,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/29076"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29076</id>
-    <updated>2026-10-15T12:53:43.819Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.247464408 gwei  ·  Safe: 0.216360807 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
