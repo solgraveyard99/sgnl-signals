@@ -5,7 +5,35 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T11:18:57.380Z</updated>
+  <updated>2026-10-15T11:23:57.376Z</updated>
+  <entry>
+    <title>⏰ 1-hour warning · 🟡 Medium impact</title>
+    <link href="https://t.me/sgnl_free/29064"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29064</id>
+    <updated>2026-10-15T11:22:17.399Z</updated>
+    <summary type="text">⏰ 1-hour warning · 🟡 Medium impact
+US PPI (September 2026) macro
+When: Thu, 15 Oct 2026 12:30:00 UTC
+
+Producer Price Index release by the U.S. Bureau of Labor Statistics, 8:30 a.m. ET. Schedule reminder only, not advice.
+
+details ↗</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29063"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29063</id>
+    <updated>2026-10-15T11:20:58.243Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 11 large deposits ($115M) · 11 large withdrawals ($127M).
+
+📤 20.0M USDT ($20.0M)  ←  Binance 18  0x091d1c…
+
+7d: $3405M in · $2873M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 20,000,000 USDT (~$20.0M) · 11:17 UTC</title>
     <link href="https://t.me/sgnl_free/29062"/>
@@ -818,38 +846,5 @@ Cumulative since 2026-05-08 (156 days):
 
 Source: Pump.fun on-chain + DexScreener
 Survival ≠ profitability. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/29014"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29014</id>
-    <updated>2026-10-15T05:59:04.099Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0027 SOL
-• 99th: 0.0120 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🚀 ETH STAKING 30-DAY HIGH</title>
-    <link href="https://t.me/sgnl_free/29013"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29013</id>
-    <updated>2026-10-15T05:53:59.403Z</updated>
-    <summary type="text">🚀 ETH STAKING 30-DAY HIGH
-
-24h stake inflow hit a new 30-day high: 125.3K ETH
-~3,917 validators queued
-USD: $295.1M
-ETH: $2355
-
-Largest single-day stake inflow in 30 days. Strong institutional conviction signal.</summary>
   </entry>
 </feed>
