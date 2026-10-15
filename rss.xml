@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T19:33:57.406Z</updated>
+  <updated>2026-10-15T19:38:57.404Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1353.00 ETH (~$3.3M) · 19:33 UTC</title>
+    <link href="https://t.me/sgnl_free/29137"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29137</id>
+    <updated>2026-10-15T19:37:38.023Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1353.00 ETH (~$3.3M) · 19:33 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xb9fb2e4325ceb30d75c9454818caa73b16e29e2f5daad286e9627a86e4940a9a
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63314.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/29136"/>
@@ -806,21 +823,5 @@ Safe: 0.538898543  ·  Propose: 0.538908414  ·  BaseFee: 0.5389
 24h range: 0.06–1.80 gwei  (avg 0.26)
 
 Simple transfer cost now: ~$0.0311</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/29087"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29087</id>
-    <updated>2026-10-15T13:30:59.313Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 8 large deposits ($88M) · 15 large withdrawals ($152M).
-
-📤 2318 ETH ($5.4M)  ←  Binance 19  0x98adef…
-📥 5.4M USDT ($5.4M)  →  Binance 14  0xc17a40…
-
-7d: $3374M in · $2808M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
