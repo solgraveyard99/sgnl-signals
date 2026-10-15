@@ -5,7 +5,56 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T14:03:57.386Z</updated>
+  <updated>2026-10-15T14:08:57.385Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 102,048,246 USDT (~$102.0M) · 14:05 UTC</title>
+    <link href="https://t.me/sgnl_free/29094"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29094</id>
+    <updated>2026-10-15T14:07:53.580Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 102,048,246 USDT (~$102.0M) · 14:05 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0xed9b…bcdd
+Tx: https://etherscan.io/tx/0xcf7b2a6a7bc5a3ca09036c92937b3ab591f26297307e526a90a754a7946016a6
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63629.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1000.00 ETH (~$2.3M) · 14:06 UTC</title>
+    <link href="https://t.me/sgnl_free/29093"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29093</id>
+    <updated>2026-10-15T14:07:37.777Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1000.00 ETH (~$2.3M) · 14:06 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x8bad…7d37
+Tx: https://etherscan.io/tx/0x5b2b95673bb45ec6cdff15e631d920268e221655132afdbb67f3af9a6d01bb30
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63606.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29092"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29092</id>
+    <updated>2026-10-15T14:05:51.018Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 7 large deposits ($78M) · 14 large withdrawals ($143M).
+
+📤 7.0M USDT ($7.0M)  ←  Binance 15  0xdca499…
+
+7d: $3334M in · $2813M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/29091"/>
@@ -787,74 +836,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-10-14</title>
-    <link href="https://t.me/sgnl_free/29044"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29044</id>
-    <updated>2026-10-15T09:00:19.948Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-14
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 20
-Median peak spike (top 50): 5.7x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump CFLARE: 24.0x  vol1h=$4.54M  price1h +1100.0%
-  🟢 pump PEGE: 24.0x  vol1h=$652.9K  price1h +579.0%
-  🟢 pump 1EDGE: 24.0x  vol1h=$135.6K  price1h +458.0%
-  🟢 pump Hydra: 24.0x  vol1h=$275.1K  price1h +399.0%
-  🟢 pump FWOYD: 24.0x  vol1h=$427.2K  price1h +361.0%
-  🟢 pump REVERSO: 24.0x  vol1h=$218.9K  price1h +159.0%
-  🟢 pump SI: 24.0x  vol1h=$76.8K  price1h +140.0%
-  🔴 dump Sonny: 24.0x  vol1h=$197.8K  price1h -75.1%
-  🟢 pump angrykitte: 24.0x  vol1h=$53.1K  price1h +69.1%
-  🔴 dump MM: 24.0x  vol1h=$289.5K  price1h -59.3%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-10-14</title>
-    <link href="https://t.me/sgnl_free/29043"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29043</id>
-    <updated>2026-10-15T09:00:04.032Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-10-14
-
-Top 5 whale-cluster events:
-• $299M ← CEX | 19 wallets | 15:36Z
-• $299M ← CEX | 19 wallets | 15:36Z
-• $299M ← CEX | 19 wallets | 15:36Z
-• $296M ← CEX | 19 wallets | 15:36Z
-• $292M ← CEX | 18 wallets | 15:08Z
-
-Alerts fired (24h):
-• Whale-cluster→CEX: 61
-• Whale-cluster←CEX: 50
-• Whale-large→CEX: 14
-• Whale-large←CEX: 11
-• Funding divergence: 3
-• Rug wallet: 1
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 742.25 ETH (~$1.8M) · 08:48 UTC</title>
-    <link href="https://t.me/sgnl_free/29042"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29042</id>
-    <updated>2026-10-15T08:58:03.407Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 742.25 ETH (~$1.8M) · 08:48 UTC
-From: 0x21a3…5549 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x2fa93ecb368e426b445a1b5b93cec2721fbb9b993bc90893545ea60438a7f932
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1828.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
