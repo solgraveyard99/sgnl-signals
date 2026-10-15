@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T18:33:57.395Z</updated>
+  <updated>2026-10-15T18:38:57.407Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2,003,625 USDT (~$2.0M) · 18:36 UTC</title>
+    <link href="https://t.me/sgnl_free/29133"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29133</id>
+    <updated>2026-10-15T18:37:37.561Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2,003,625 USDT (~$2.0M) · 18:36 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x4003…1505
+Tx: https://etherscan.io/tx/0xd71631629a689815bfff582b6ce6acc32e3c33ffff8b886f3ba978487df56961
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63375.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,500,000 USDT (~$1.5M) · 18:05 UTC</title>
     <link href="https://t.me/sgnl_free/29132"/>
@@ -808,24 +825,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/29083"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29083</id>
-    <updated>2026-10-15T13:24:03.977Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 14 → fresh wallet
-Wallet: 0xbee4…beee (1 prior txs)
-Amount: $3.66M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0xa54ad060df8a3f38f2d36017bbaa941d60cc74b91d3d8cd9b596a87d968126aa
-Wallet: https://etherscan.io/address/0xbee47b0fe59286778c9bfb28196368e0f0d7beee</summary>
   </entry>
 </feed>
