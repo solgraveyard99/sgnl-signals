@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T13:18:57.382Z</updated>
+  <updated>2026-10-15T13:23:57.390Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29082"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29082</id>
+    <updated>2026-10-15T13:20:51.032Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 10 large deposits ($101M) · 14 large withdrawals ($147M).
+
+📤 6.0M USDT ($6.0M)  ←  Binance 15  0x549d83…
+
+7d: $3374M in · $2889M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,152,389 USDT (~$1.2M) · 13:16 UTC</title>
     <link href="https://t.me/sgnl_free/29081"/>
@@ -838,18 +853,6 @@ Spread: 0.0052%/hr  (45.3% APR gross)
 
 Expected net: ~40% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>⚡ EXTREME FUNDING · SOL on Gate</title>
-    <link href="https://t.me/sgnl_free/29032"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29032</id>
-    <updated>2026-10-15T08:04:02.150Z</updated>
-    <summary type="text">⚡ EXTREME FUNDING · SOL on Gate
-Price: $103.04  ·  Funding: -0.0071%/hr (-62.2% APR)
-Prior 7d: this funding reading is in the 0th percentile for SOL on Gate. Descriptive only.
-
-🟢 Shorts paying longs on Gate. Statistical pattern only. Not investment advice.
 monitor mode · no orders placed</summary>
   </entry>
 </feed>
