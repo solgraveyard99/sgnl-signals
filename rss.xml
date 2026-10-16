@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T06:13:57.437Z</updated>
+  <updated>2026-10-16T06:18:57.436Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,000,000 USDT (~$1.0M) · 06:12 UTC</title>
+    <link href="https://t.me/sgnl_free/29210"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29210</id>
+    <updated>2026-10-16T06:17:37.651Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,000,000 USDT (~$1.0M) · 06:12 UTC
+From: 0x3093…36ec
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x741c7c2c847b46eaabb7455afb505267b8a3389b958de28c443c42ca435b78cc
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63273.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/29209"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29209</id>
+    <updated>2026-10-16T06:15:15.926Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0140 SOL
+• 99th: 0.0140 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 49,242,057 USDT (~$49.2M) · 06:02 UTC</title>
     <link href="https://t.me/sgnl_free/29208"/>
@@ -850,42 +886,6 @@ Direction: BUY
 Notional: ~$2462K
 Contracts: 30
 Implied vol: 33.6%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/29160"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29160</id>
-    <updated>2026-10-16T00:04:16.959Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $82000 — expiry 23OCT26
-Direction: BUY
-Notional: ~$648K
-Contracts: 7.9
-Implied vol: 33.6%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/29159"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29159</id>
-    <updated>2026-10-16T00:04:16.594Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $81000 — expiry 16OCT26
-Direction: SELL
-Notional: ~$2357K
-Contracts: 28.7
-Implied vol: 39.6%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
