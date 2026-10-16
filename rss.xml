@@ -5,7 +5,52 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T17:58:57.478Z</updated>
+  <updated>2026-10-16T18:03:57.471Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-10-15</title>
+    <link href="https://t.me/sgnl_free/29325"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29325</id>
+    <updated>2026-10-16T18:01:24.066Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-15
+
+Yesterday&apos;s cohort: 147 launches
+  🟢 STRONG (score 8+): 2 (1.36%)
+  🟡 MIXED (score 5-7): 53 (36.05%)
+  🔴 WEAK  (score 0-4): 92 (62.59%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG SB mcap=31 SOL [mcap30+,tg,tw,web,desc]
+  🟢 STRONG BZZOO mcap=30 SOL [mcap30+,tg,tw,web]
+  🟡 MIXED TELOMERE mcap=30 SOL [mcap30+,tg,tw]
+  🟡 MIXED MASK mcap=6140 SOL [mcap60+,tw,web]
+  🟡 MIXED Speed mcap=115 SOL [mcap60+,tw,web]
+  🟡 MIXED GMUP mcap=30 SOL [mcap30+,tw,web,desc]
+  🟡 MIXED VSO mcap=0 SOL [tg,tw,web]
+  🟡 MIXED ELT mcap=30 SOL [mcap30+,tw,web,desc]
+  🟡 MIXED SURETY mcap=49 SOL [mcap30+,tw,web,desc]
+  🟡 MIXED KEPN mcap=45 SOL [mcap30+,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (0 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29324"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29324</id>
+    <updated>2026-10-16T18:00:51.187Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 18 large deposits ($166M) · 11 large withdrawals ($132M).
+
+📥 2844 ETH ($6.9M)  →  Binance 14  0xeae738…
+
+7d: $3097M in · $2670M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 438.00 ETH (~$1.1M) · 17:57 UTC</title>
     <link href="https://t.me/sgnl_free/29323"/>
@@ -784,51 +829,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/29275"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29275</id>
-    <updated>2026-10-16T12:00:19.510Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $272.9B  (24h: $-486M)
-
-🔴 USDT: $183.49B  ($-392M)
-🔴 USDC: $72.58B  ($-201M)
-🟢 USDS: $7.06B  (+$187M)
-⚪ DAI: $4.72B  ($-17M)
-⚪ USDe: $4.70B  ($-60M)
-⚪ FDUSD: $0.32B  ($-3M)
-
-📊 Net supply Δ24h: -$486M (contraction band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-10-15</title>
-    <link href="https://t.me/sgnl_free/29274"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29274</id>
-    <updated>2026-10-16T12:00:03.650Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-15
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    8.1K μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: → 0% (Jupiter median)
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 200.0K μlamp | Orca: 200.0K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
