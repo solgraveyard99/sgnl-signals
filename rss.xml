@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T03:28:57.433Z</updated>
+  <updated>2026-10-16T03:33:57.430Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29191"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29191</id>
+    <updated>2026-10-16T03:31:01.031Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Deposit cluster: 3 large deposits ($25M) in 6h.
+
+📥 3198 ETH ($7.8M)  →  Binance 14  0xeae738…
+
+7d: $3049M in · $2651M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/29190"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29190</id>
+    <updated>2026-10-16T03:30:05.057Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0032 SOL
+• 99th: 0.0184 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 800.00 ETH (~$1.9M) · 03:22 UTC</title>
     <link href="https://t.me/sgnl_free/29189"/>
@@ -872,48 +906,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 864.00 ETH (~$2.1M) · 21:06 UTC</title>
-    <link href="https://t.me/sgnl_free/29141"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29141</id>
-    <updated>2026-10-15T21:07:43.661Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 864.00 ETH (~$2.1M) · 21:06 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0xbc8a…5ce0
-Tx: https://etherscan.io/tx/0x43f399aff2f16c34bd2dd22b3187ecfe74bd5cf99c278eee05841d9c5a44c8df
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63298.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-10-14</title>
-    <link href="https://t.me/sgnl_free/29140"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29140</id>
-    <updated>2026-10-15T21:00:04.987Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-10-14
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 15
-Strong-bias tokens (buy/sell ≥3x): 2
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 HUMPH: 8024 buys / 3056 sells (2.6x)  vol1h=$434.5K  price1h +17%
-  📈 PEGE: 6192 buys / 2383 sells (2.6x)  vol1h=$652.9K  price1h +506%
-  📈 SI: 1872 buys / 670 sells (2.8x)  vol1h=$9.2K  price1h +15%
-  📈 Pumpoween: 2106 buys / 853 sells (2.5x)  vol1h=$20.2K  price1h +0%
-  📈 SI276: 1841 buys / 1127 sells (1.6x)  vol1h=$58.2K  price1h +2%
-  📈 ABU: 557 buys / 253 sells (2.2x)  vol1h=$2.8K  price1h -7%
-  📈 CAT: 289 buys / 127 sells (2.3x)  vol1h=$1.7K  price1h -4%
-  📈 FARTCRACK: 245 buys / 157 sells (1.6x)  vol1h=$16.5K  price1h +39%
-  📈 CHONK: 173 buys / 96 sells (1.8x)  vol1h=$12.9K  price1h -37%
-  📈 YPILOT: 39 buys / 5 sells (7.8x)  vol1h=$1.6K  price1h +24%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
