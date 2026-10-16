@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T14:58:57.456Z</updated>
+  <updated>2026-10-16T15:03:57.459Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-15</title>
+    <link href="https://t.me/sgnl_free/29301"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29301</id>
+    <updated>2026-10-16T15:00:04.308Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-15
+
+Tokens with liquidity drop ≥50%: 13
+Tokens with liquidity drop ≥90%: 10
+Tokens with liquidity drop ≥75%: 11
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL INU: -100.0%  $176.5K → $3  in 4.8h
+  🚨 CRITICAL DOGEFATHER: -96.5%  $70.4K → $2.5K  in 1.0h
+  🚨 CRITICAL PLUS1: -96.4%  $60.2K → $2.2K  in 1.2h
+  🚨 CRITICAL $OTCATWALK: -96.2%  $70.4K → $2.6K  in 2.6h
+  🚨 CRITICAL dopewif: -96.1%  $120.2K → $4.7K  in 1.4h
+  🚨 CRITICAL DADOGE: -96.1%  $60.5K → $2.4K  in 55m
+  🚨 CRITICAL PEGE: -94.6%  $41.1K → $2.2K  in 35m
+  🚨 CRITICAL FROPE: -94.5%  $77.2K → $4.3K  in 5.5h
+  🚨 CRITICAL ALTAIDOPE: -94.2%  $82.2K → $4.8K  in 3.6h
+  🚨 CRITICAL DACAT: -91.7%  $25.0K → $2.1K  in 15m
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3,371,878 USDT (~$3.4M) · 14:45 UTC</title>
     <link href="https://t.me/sgnl_free/29300"/>
@@ -813,22 +840,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 3 large moves</title>
-    <link href="https://t.me/sgnl_free/29251"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29251</id>
-    <updated>2026-10-16T10:00:59.259Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 3 large moves
-📊 Clusters in both directions in 6h: 10 large deposits ($248M) · 9 large withdrawals ($95M).
-
-📥 25.0M USDT ($25.0M)  →  Binance 14  0x9abe3e…
-📤 2503 ETH ($6.1M)  ←  Binance 18  0xeef77f…
-📥 2406 ETH ($5.9M)  →  Binance 14  0xcde5d4…
-
-7d: $3071M in · $2598M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
