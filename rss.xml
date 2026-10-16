@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T04:28:57.433Z</updated>
+  <updated>2026-10-16T04:33:57.437Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/29199"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29199</id>
+    <updated>2026-10-16T04:30:51.250Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Deposit cluster: 5 large deposits ($36M) in 6h.
+
+📥 6.0M USDT ($6.0M)  →  Binance 14  0x842641…
+📥 5.0M USDT ($5.0M)  →  Binance 14  0xea59bb…
+
+7d: $3052M in · $2646M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
     <link href="https://t.me/sgnl_free/29198"/>
@@ -889,18 +905,5 @@ How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume
 Companion to morning survival report (06:00 UTC).
 Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
 DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📥 DEPOSIT · Binance 14</title>
-    <link href="https://t.me/sgnl_free/29149"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29149</id>
-    <updated>2026-10-15T23:30:51.425Z</updated>
-    <summary type="text">📥 DEPOSIT · Binance 14
-2957 ETH  ($7.2M)  →  0xeae738…
-⚪ Routine-size deposit (0.0× the 7-day daily average)
-Tx: https://etherscan.io/tx/0xaa0d1ae72bcfc83715e81822fda30e2c3fc8f0bb1196231e210a562651b8e37c
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
