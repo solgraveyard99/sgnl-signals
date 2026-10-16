@@ -5,7 +5,44 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T02:23:57.429Z</updated>
+  <updated>2026-10-16T02:28:57.425Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 4,000,000 USDT (~$4.0M) · 02:24 UTC</title>
+    <link href="https://t.me/sgnl_free/29180"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29180</id>
+    <updated>2026-10-16T02:28:16.857Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 4,000,000 USDT (~$4.0M) · 02:24 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xd0a4…229f
+Tx: https://etherscan.io/tx/0x9ea6c97caf2f050e84ed4abf4bb41bb3f396d530a7ab31d9d7ba086e2592ee61
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38631.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/29179"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29179</id>
+    <updated>2026-10-16T02:23:59.459Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+Transfer 1,700 ETH from the Treasury to the Arbitrum Developer Guild &amp; ATMC’s ETH Treasury Strategie
+
+DAO: arbitrumfoundation.eth
+Votes cast: 21
+Total voting power: 246468
+Voting ends: 2026-10-22 20:00 UTC
+
+https://snapshot.org/#/arbitrumfoundation.eth/proposal/0xe4e1011484f2c499a39d0ebce83ae2d402e8e8d61a56c336e3ceb09ecc1e5776
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
   <entry>
     <title>🗳️ Governance proposal active</title>
     <link href="https://t.me/sgnl_free/29178"/>
@@ -870,39 +907,5 @@ Top 10 by quality signals:
 
 ✓grad = graduated to Raydium within 24h (299 total yesterday)
 Source: on-chain + pump.fun API. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,872,000 USDT (~$1.9M) · 17:34 UTC</title>
-    <link href="https://t.me/sgnl_free/29130"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29130</id>
-    <updated>2026-10-15T17:38:02.345Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,872,000 USDT (~$1.9M) · 17:34 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x091d…8336
-Tx: https://etherscan.io/tx/0xbb17b024fa2e4fad1ba7a5465cd5ae5ed42016d1a044521aa84ee606eba367fa
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38471.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 753.51 ETH (~$1.8M) · 17:35 UTC</title>
-    <link href="https://t.me/sgnl_free/29129"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29129</id>
-    <updated>2026-10-15T17:37:37.972Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 753.51 ETH (~$1.8M) · 17:35 UTC
-From: 0xa9c6…c21d
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x8c3bf7c714cb43e3e6218e0f390f8789f8ff71302a7763b3a80a516f1e0ec51e
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63414.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
