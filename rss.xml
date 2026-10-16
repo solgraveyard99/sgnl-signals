@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T08:03:57.439Z</updated>
+  <updated>2026-10-16T08:08:57.449Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 851.01 ETH (~$2.1M) · 08:02 UTC</title>
+    <link href="https://t.me/sgnl_free/29228"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29228</id>
+    <updated>2026-10-16T08:07:37.537Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 851.01 ETH (~$2.1M) · 08:02 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xdfc0814c17710c090c57a2582b8683492c4be049d5d7f7bd83753c5cac44dd83
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63237.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔀 CROSS-VENUE CARRY · SOL</title>
     <link href="https://t.me/sgnl_free/29227"/>
@@ -842,26 +859,6 @@ Total voting power: 246468
 Voting ends: 2026-10-22 20:00 UTC
 
 https://snapshot.org/#/arbitrumfoundation.eth/proposal/0xe4e1011484f2c499a39d0ebce83ae2d402e8e8d61a56c336e3ceb09ecc1e5776
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/29178"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29178</id>
-    <updated>2026-10-16T02:08:58.153Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-[ARFC] Onboard USAT to Aave V3 Core Instance and Aave V4 Core Hub on Ethereum
-
-DAO: aavedao.eth
-Votes cast: 20
-Total voting power: 10001
-Voting ends: 2026-10-18 17:52 UTC
-
-https://snapshot.org/#/aavedao.eth/proposal/0x025fab1017e6da146fd56affe33737bd6b8476c9ace78466090156c8ea09f7ab
 
 Statistical pattern. Not financial advice.
 
