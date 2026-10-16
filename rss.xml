@@ -5,7 +5,38 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T13:33:57.454Z</updated>
+  <updated>2026-10-16T13:38:57.458Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/29292"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29292</id>
+    <updated>2026-10-16T13:38:43.705Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.19252944 gwei (fast)  ·  🟢 cheap
+Safe: 0.16535132  ·  Propose: 0.165365482  ·  BaseFee: 0.1654
+
+24h range: 0.06–1.72 gwei  (avg 0.19)
+
+Simple transfer cost now: ~$0.0101</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 724.00 ETH (~$1.8M) · 13:35 UTC</title>
+    <link href="https://t.me/sgnl_free/29291"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29291</id>
+    <updated>2026-10-16T13:37:42.908Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 724.00 ETH (~$1.8M) · 13:35 UTC
+From: 0xbd9f…54ed
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x4fe4be92bc1715d6be51b43c5122afa1eeb7baf99aa3d3492f24a7006f066bd0
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 62987.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🏦 Exchange reserves · 13 monitored wallets</title>
     <link href="https://t.me/sgnl_free/29290"/>
@@ -802,40 +833,6 @@ From: 0x6003…71d9
 To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
 Tx: https://etherscan.io/tx/0x8d0b79b699862e8d0d48227e2c4fe5048ee205b7118741f50fa8b2bdcee5f175
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63203.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,507,001 USDT (~$1.5M) · 09:02 UTC</title>
-    <link href="https://t.me/sgnl_free/29242"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29242</id>
-    <updated>2026-10-16T09:08:17.990Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,507,001 USDT (~$1.5M) · 09:02 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x7fec…3bf0
-Tx: https://etherscan.io/tx/0x454994a60049d0177571608e2ccdccb2c8245686267707d25394e7afcd5809d7
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38597.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,005,000 USDT (~$1.0M) · 09:04 UTC</title>
-    <link href="https://t.me/sgnl_free/29241"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29241</id>
-    <updated>2026-10-16T09:08:02.312Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,005,000 USDT (~$1.0M) · 09:04 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x7f33…93c1
-Tx: https://etherscan.io/tx/0xd102c0e8b2aef73cd07f61ad1c50cd1b9d8841d954f5b9269e9b6efd7f18c2dc
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38587.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
