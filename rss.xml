@@ -5,7 +5,27 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T02:08:57.429Z</updated>
+  <updated>2026-10-16T02:13:57.425Z</updated>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/29178"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29178</id>
+    <updated>2026-10-16T02:08:58.153Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+[ARFC] Onboard USAT to Aave V3 Core Instance and Aave V4 Core Hub on Ethereum
+
+DAO: aavedao.eth
+Votes cast: 20
+Total voting power: 10001
+Voting ends: 2026-10-18 17:52 UTC
+
+https://snapshot.org/#/aavedao.eth/proposal/0x025fab1017e6da146fd56affe33737bd6b8476c9ace78466090156c8ea09f7ab
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 625.00 ETH (~$1.5M) · 02:07 UTC</title>
     <link href="https://t.me/sgnl_free/29177"/>
@@ -878,23 +898,6 @@ From: 0xa9c6…c21d
 To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
 Tx: https://etherscan.io/tx/0x8c3bf7c714cb43e3e6218e0f390f8789f8ff71302a7763b3a80a516f1e0ec51e
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63414.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2196.00 ETH (~$5.4M) · 17:25 UTC</title>
-    <link href="https://t.me/sgnl_free/29128"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29128</id>
-    <updated>2026-10-15T17:27:37.956Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2196.00 ETH (~$5.4M) · 17:25 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x57f4157f4b39542a67a2b0578e6b6f582553f032c0921c5d34650f60b8ff9702
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63410.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
