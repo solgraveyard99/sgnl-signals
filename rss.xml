@@ -5,7 +5,59 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T02:58:57.426Z</updated>
+  <updated>2026-10-16T03:03:57.439Z</updated>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/29188"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29188</id>
+    <updated>2026-10-16T03:03:47.853Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-10-15
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): $32.73 · 6 trades · WR 50%
+⚙️ Other Strategy: +0.00% · 2 trades · WR 0%
+
+📆 Last 7 days
+🚀 Futures: $133.64 · 64 trades · WR 42%
+⚙️ Other Strategy: +0.00% · 4 trades · WR 0%
+🐋 Solana Momentum: -300.00% · 3 trades · WR 0%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $262.76 · 1497 trades · WR 51%
+🐋 Solana Momentum: -10971.08% · 988 trades · WR 33%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 81 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-10-15</title>
+    <link href="https://t.me/sgnl_free/29187"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29187</id>
+    <updated>2026-10-16T03:00:10.559Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-10-15
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,064,990 USDT (~$1.1M) · 02:53 UTC</title>
     <link href="https://t.me/sgnl_free/29186"/>
@@ -857,40 +909,6 @@ From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public a
 To: 0x51c7…2a7f
 Tx: https://etherscan.io/tx/0xaf069e74790dcf7c78ba1cb5320dd7a96c0e357d76f919a52f7037e00b9f8979
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38547.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 631.09 ETH (~$1.6M) · 20:35 UTC</title>
-    <link href="https://t.me/sgnl_free/29138"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29138</id>
-    <updated>2026-10-15T20:37:37.884Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 631.09 ETH (~$1.6M) · 20:35 UTC
-From: 0xa9c6…c21d
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x050303f1ead30df5ee569e5bd7860767fedcc6ba3aeff6635143a7b0b8a1764b
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63299.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1353.00 ETH (~$3.3M) · 19:33 UTC</title>
-    <link href="https://t.me/sgnl_free/29137"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29137</id>
-    <updated>2026-10-15T19:37:38.023Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1353.00 ETH (~$3.3M) · 19:33 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xb9fb2e4325ceb30d75c9454818caa73b16e29e2f5daad286e9627a86e4940a9a
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63314.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
