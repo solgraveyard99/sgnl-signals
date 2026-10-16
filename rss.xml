@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T12:03:57.447Z</updated>
+  <updated>2026-10-16T12:08:57.453Z</updated>
+  <entry>
+    <title>📊 Activity summary · 5 active observations</title>
+    <link href="https://t.me/sgnl_free/29277"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29277</id>
+    <updated>2026-10-16T12:08:28.961Z</updated>
+    <summary type="text">📊 Activity summary · 5 active observations
+
+Top 5 by size:
+• 🐋 Whale deposit cluster: 12 moves, $478M to exchanges
+• 🐋 Large deposit: $113M USDT → Binance 14
+• 🐋 Large deposit: $100M USDT → Binance 14
+• 🐋 Whale withdrawal cluster: 10 moves, $94M off exchanges
+• 🐋 Large deposit: $25M USDT → Binance 14
+
+On-chain observation, not advice.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,860,824 USDT (~$1.9M) · 12:04 UTC</title>
+    <link href="https://t.me/sgnl_free/29276"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29276</id>
+    <updated>2026-10-16T12:08:13.309Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,860,824 USDT (~$1.9M) · 12:04 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x549d…3425
+Tx: https://etherscan.io/tx/0x8ed98f51d1df4f01584f5ec7d2397d403370e0739179520be942570561cd55e9
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38573.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>💵 Stablecoin Supply Check</title>
     <link href="https://t.me/sgnl_free/29275"/>
@@ -827,39 +860,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · SOL</title>
-    <link href="https://t.me/sgnl_free/29227"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29227</id>
-    <updated>2026-10-16T08:03:48.826Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
-Spread: 0.0032%/hr  (27.6% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0019%/hr)
-🔴 SHORT on BingX  (funding 0.0013%/hr)
-
-Expected net: ~23% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>📡 SGNL Daily Digest · 2026-10-15</title>
-    <link href="https://t.me/sgnl_free/29226"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29226</id>
-    <updated>2026-10-16T08:00:27.165Z</updated>
-    <summary type="text">📡 SGNL Daily Digest · 2026-10-15
-What 30+ SGNL observers caught in the last 24h
-
-⚡ Aave V3 liquidations (24h, 30 total)
-0xc13919… 1922339.06 → 1578658.8041 0x9d39a5…
-USDC 1585794.92 → 576.4401 wstETH
-USDT 461189.11 → 205.8960 WETH
-
-🌉 Cross-chain (Wormhole, 24h)
-$14.4M across 10336 txs · top route Solana → Solana
-
-
-Free signals · No advice · t.me/sgnl_free</summary>
   </entry>
 </feed>
