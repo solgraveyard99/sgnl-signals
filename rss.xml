@@ -5,7 +5,65 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-15T23:58:57.417Z</updated>
+  <updated>2026-10-16T00:03:57.418Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/29152"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29152</id>
+    <updated>2026-10-16T00:02:04.546Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0000 SOL
+• 99th: 0.0434 SOL (~$4)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/29151"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29151</id>
+    <updated>2026-10-16T00:00:20.230Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $82,226 (24h: +0.7%) | SOL: $105.48 (24h: +1.3%)
+Market activity index: 50/100 (mid band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-15</title>
+    <link href="https://t.me/sgnl_free/29150"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29150</id>
+    <updated>2026-10-16T00:00:04.570Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-15
+
+24h state transitions tracked: 262
+  💀 Died (gone): 104
+  😴 Went dormant: 93
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 FOMO: had $0 liquidity · died at age 54.5d
+  💀 Xtubers: had $0 liquidity · died at age 10.3d
+  💀 VIRTUALZ: had $0 liquidity · died at age 10.3d
+  💀 FomoSI: had $0 liquidity · died at age 10.3d
+  💀 DOOMER: had $0 liquidity · died at age 10.3d
+  💀 agi16z: had $0 liquidity · died at age 10.3d
+  💀 nostalgiacat: had $0 liquidity · died at age 10.3d
+  💀 FIAT: had $0 liquidity · died at age 10.3d
+  💀 SI: had $0 liquidity · died at age 10.3d
+  💀 ELON: had $0 liquidity · died at age 10.3d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>📥 DEPOSIT · Binance 14</title>
     <link href="https://t.me/sgnl_free/29149"/>
@@ -796,52 +854,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 19,900,000 USDT (~$19.9M) · 14:55 UTC</title>
-    <link href="https://t.me/sgnl_free/29102"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29102</id>
-    <updated>2026-10-15T14:58:09.853Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 19,900,000 USDT (~$19.9M) · 14:55 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0xf89d…aa40
-Tx: https://etherscan.io/tx/0xcb1a88bf9793ba272593cf815df06a007585b7b31ca1eac4f54e9e1c8ad40c08
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38370.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/29101"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29101</id>
-    <updated>2026-10-15T14:55:53.264Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 6 large deposits ($238M) · 17 large withdrawals ($271M).
-
-📤 19.9M USDT ($19.9M)  ←  Binance 18  0xf89d7b…
-
-7d: $3477M in · $2880M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/29100"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29100</id>
-    <updated>2026-10-15T14:50:51.173Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 6 large deposits ($238M) · 16 large withdrawals ($251M).
-
-📥 5.2M USDT ($5.2M)  →  Binance 14  0xc17a40…
-
-7d: $3471M in · $2880M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
