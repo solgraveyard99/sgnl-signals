@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T15:43:57.462Z</updated>
+  <updated>2026-10-16T15:48:57.459Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2,200,000 USDT (~$2.2M) · 15:45 UTC</title>
+    <link href="https://t.me/sgnl_free/29307"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29307</id>
+    <updated>2026-10-16T15:47:37.599Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2,200,000 USDT (~$2.2M) · 15:45 UTC
+From: 0x34e4…03ad
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xfef1a4ad2f88b0669970f0f20820b6d8ce3517b0cc43081e8fc5a429f369195d
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 62789.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1435.00 ETH (~$3.5M) · 15:35 UTC</title>
     <link href="https://t.me/sgnl_free/29306"/>
@@ -820,19 +837,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
-    <link href="https://t.me/sgnl_free/29257"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29257</id>
-    <updated>2026-10-16T10:23:46.192Z</updated>
-    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
-
-24h inflow: 73.6K ETH (~2,301 new validators)
-USD value: $180.5M
-Rate: 2.3× 30-day baseline
-ETH price: $2452
-
-Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
   </entry>
 </feed>
