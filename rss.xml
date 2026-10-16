@@ -5,7 +5,75 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T02:43:57.426Z</updated>
+  <updated>2026-10-16T02:48:57.426Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 499.97 ETH (~$1.2M) · 02:42 UTC</title>
+    <link href="https://t.me/sgnl_free/29184"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29184</id>
+    <updated>2026-10-16T02:47:44.003Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 499.97 ETH (~$1.2M) · 02:42 UTC
+From: 0x0b2f…c8c2
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x598e2d55df9b6fb5b5b69529dc5be314e5056d5de263c37cf6584e703d0dbdff
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63228.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/29183"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29183</id>
+    <updated>2026-10-16T02:46:07.808Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0030 SOL
+• 99th: 0.0166 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>📥 DEPOSIT · Binance 14</title>
+    <link href="https://t.me/sgnl_free/29182"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29182</id>
+    <updated>2026-10-16T02:45:52.170Z</updated>
+    <summary type="text">📥 DEPOSIT · Binance 14
+10M USDT  ($10.0M)  →  0x842641…
+⚪ Routine-size deposit (0.0× the 7-day daily average)
+Tx: https://etherscan.io/tx/0x692e51e817b17bf7dd90624b1457d8fbee5d805ebd6ead104f8d4278d583dbd1
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/29181"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29181</id>
+    <updated>2026-10-16T02:45:18.952Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0200 SOL
+• 75th: 0.0200 SOL
+• 95th: 0.0200 SOL
+• 99th: 0.0200 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 4,000,000 USDT (~$4.0M) · 02:24 UTC</title>
     <link href="https://t.me/sgnl_free/29180"/>
@@ -827,85 +895,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/29134"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29134</id>
-    <updated>2026-10-15T18:53:43.622Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.141079303 gwei  ·  Safe: 0.140079303 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2,003,625 USDT (~$2.0M) · 18:36 UTC</title>
-    <link href="https://t.me/sgnl_free/29133"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29133</id>
-    <updated>2026-10-15T18:37:37.561Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2,003,625 USDT (~$2.0M) · 18:36 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x4003…1505
-Tx: https://etherscan.io/tx/0xd71631629a689815bfff582b6ce6acc32e3c33ffff8b886f3ba978487df56961
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63375.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,500,000 USDT (~$1.5M) · 18:05 UTC</title>
-    <link href="https://t.me/sgnl_free/29132"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29132</id>
-    <updated>2026-10-15T18:07:37.538Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,500,000 USDT (~$1.5M) · 18:05 UTC
-From: 0x1b20…9202
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x47cbf863435b5b73a9f76585e19c3199bd881572167d60cf32c49f8d86509bcc
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63415.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-10-14</title>
-    <link href="https://t.me/sgnl_free/29131"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29131</id>
-    <updated>2026-10-15T18:01:18.277Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-14
-
-Yesterday&apos;s cohort: 33,534 launches
-  🟢 STRONG (score 8+): 602 (1.80%)
-  🟡 MIXED (score 5-7): 10,424 (31.08%)
-  🔴 WEAK  (score 0-4): 22,508 (67.12%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG SIMIND mcap=2975 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG LUKA mcap=68 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG PUMPE mcap=80 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG PC mcap=6679 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG Pepe Art mcap=7849 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG SAMSUNG mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG NVIDIA mcap=115 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG PRIVACY mcap=679 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG CPAPA mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
-  🟢 STRONG BOKE mcap=64 SOL [mcap60+,tg,tw,web,desc]
-
-✓grad = graduated to Raydium within 24h (299 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
