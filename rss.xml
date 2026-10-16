@@ -5,7 +5,17 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T16:58:57.465Z</updated>
+  <updated>2026-10-16T17:03:57.467Z</updated>
+  <entry>
+    <title>☀️ SGNL Midday Snapshot</title>
+    <link href="https://t.me/sgnl_free/29316"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29316</id>
+    <updated>2026-10-16T17:00:16.540Z</updated>
+    <summary type="text">☀️ SGNL Midday Snapshot
+BTC: $81,383 | SOL: $103.87
+Market activity index: 60/100 (high band)
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/29315"/>
@@ -814,23 +824,6 @@ From: 0x86a0…4c63
 To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
 Tx: https://etherscan.io/tx/0x406785de5df134af67e63c19c87cc222de7ebbd96cf824d539617118ded22b25
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63144.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2,407,184 USDT (~$2.4M) · 11:16 UTC</title>
-    <link href="https://t.me/sgnl_free/29266"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29266</id>
-    <updated>2026-10-16T11:17:49.263Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2,407,184 USDT (~$2.4M) · 11:16 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0xc8a5…9497
-Tx: https://etherscan.io/tx/0x3712789e8d5b7b2723dfe491cd9f6e89c8f745fb8190dcc2cd051e463a064d86
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63117.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
