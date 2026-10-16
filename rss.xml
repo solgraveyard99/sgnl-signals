@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T07:58:57.446Z</updated>
+  <updated>2026-10-16T08:03:57.439Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · SOL</title>
+    <link href="https://t.me/sgnl_free/29227"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29227</id>
+    <updated>2026-10-16T08:03:48.826Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
+Spread: 0.0032%/hr  (27.6% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0019%/hr)
+🔴 SHORT on BingX  (funding 0.0013%/hr)
+
+Expected net: ~23% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-10-15</title>
+    <link href="https://t.me/sgnl_free/29226"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29226</id>
+    <updated>2026-10-16T08:00:27.165Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-10-15
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 30 total)
+0xc13919… 1922339.06 → 1578658.8041 0x9d39a5…
+USDC 1585794.92 → 576.4401 wstETH
+USDT 461189.11 → 205.8960 WETH
+
+🌉 Cross-chain (Wormhole, 24h)
+$14.4M across 10336 txs · top route Solana → Solana
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 9,000,000 USDT (~$9.0M) · 07:49 UTC</title>
     <link href="https://t.me/sgnl_free/29225"/>
@@ -828,43 +862,6 @@ Total voting power: 10001
 Voting ends: 2026-10-18 17:52 UTC
 
 https://snapshot.org/#/aavedao.eth/proposal/0x025fab1017e6da146fd56affe33737bd6b8476c9ace78466090156c8ea09f7ab
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 625.00 ETH (~$1.5M) · 02:07 UTC</title>
-    <link href="https://t.me/sgnl_free/29177"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29177</id>
-    <updated>2026-10-16T02:07:37.839Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 625.00 ETH (~$1.5M) · 02:07 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0xaea8…4f5b
-Tx: https://etherscan.io/tx/0x0be7542a2b7dc48f45f52dbc63572fd701ce9d34b3dc30b30f54592909bf4dbe
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63221.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/29176"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29176</id>
-    <updated>2026-10-16T01:54:13.373Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-[CONSTITUTIONAL] AIP: Update Arbitrum One and Nova L1-Pricing Parameters for Ethereum Glamsterdam
-
-DAO: arbitrumfoundation.eth
-Votes cast: 20
-Total voting power: 246191
-Voting ends: 2026-10-22 20:00 UTC
-
-https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x6bb55945d25b6a5ffe8469533b6c4953d27e0fd79e74ce1b5711eea9a3c47f4c
 
 Statistical pattern. Not financial advice.
 
