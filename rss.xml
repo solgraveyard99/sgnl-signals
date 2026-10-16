@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-16T10:33:57.448Z</updated>
+  <updated>2026-10-16T10:38:57.451Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2000.00 ETH (~$4.9M) · 10:36 UTC</title>
+    <link href="https://t.me/sgnl_free/29258"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29258</id>
+    <updated>2026-10-16T10:37:37.522Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2000.00 ETH (~$4.9M) · 10:36 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x8bad…7d37
+Tx: https://etherscan.io/tx/0x81e9d8ee081014c6ff47f3426149aa613620cf409da859f37078e6e46dc899ad
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63151.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
     <link href="https://t.me/sgnl_free/29257"/>
@@ -838,22 +855,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 49,242,057 USDT (~$49.2M) · 06:02 UTC</title>
-    <link href="https://t.me/sgnl_free/29208"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29208</id>
-    <updated>2026-10-16T06:07:37.522Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 49,242,057 USDT (~$49.2M) · 06:02 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x21a3…5549 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x552c1cb45b0dd420c351a03c9b861a899a6a3301a99b5438de18dd56cda758fb
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 63293.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
