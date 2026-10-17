@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-17T02:18:57.509Z</updated>
+  <updated>2026-10-17T02:23:57.511Z</updated>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 21.2% APY</title>
+    <link href="https://t.me/sgnl_free/29365"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29365</id>
+    <updated>2026-10-17T02:23:45.108Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 21.2% APY
+veranta / USDC on Base
+Base: 21.2%  ·  Rewards: n/a  ·  TVL: $9.7M
+
+💡 +14.2% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2000.00 ETH (~$4.8M) · 01:42 UTC</title>
     <link href="https://t.me/sgnl_free/29364"/>
@@ -854,21 +872,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 BTC: $81,383 | SOL: $103.87
 Market activity index: 60/100 (high band)
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/29315"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29315</id>
-    <updated>2026-10-16T16:45:55.189Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 17 large deposits ($126M) · 13 large withdrawals ($145M).
-
-📥 8.1M USDT ($8.1M)  →  Binance 14  0xe67821…
-📥 7.0M USDT ($7.0M)  →  Binance 14  0xc29bf2…
-
-7d: $3099M in · $2665M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
