@@ -5,7 +5,57 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-17T08:58:57.520Z</updated>
+  <updated>2026-10-17T09:03:57.520Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-10-16</title>
+    <link href="https://t.me/sgnl_free/29385"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29385</id>
+    <updated>2026-10-17T09:00:19.136Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-16
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 22
+Median peak spike (top 50): 17.5x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump ROADSTER: 24.0x  vol1h=$3.36M  price1h +7108.0%
+  🟢 pump NUBI: 24.0x  vol1h=$2.90M  price1h +6232.0%
+  🟢 pump Audaster: 24.0x  vol1h=$2.57M  price1h +3063.0%
+  🟢 pump FTR: 24.0x  vol1h=$909.9K  price1h +1242.0%
+  🟢 pump SILLY.EXE: 24.0x  vol1h=$4.10M  price1h +628.0%
+  🟢 pump SXTR: 24.0x  vol1h=$601.9K  price1h +552.0%
+  🟢 pump DTR: 24.0x  vol1h=$416.5K  price1h +394.0%
+  🟢 pump FTC: 24.0x  vol1h=$459.1K  price1h +335.0%
+  🟢 pump grokazon: 24.0x  vol1h=$631.3K  price1h +293.0%
+  🟢 pump FORGE: 24.0x  vol1h=$103.3K  price1h +154.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-16</title>
+    <link href="https://t.me/sgnl_free/29384"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29384</id>
+    <updated>2026-10-17T09:00:03.423Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-16
+
+Top 5 whale-cluster events:
+• $480M → CEX | 13 wallets | 13:17Z
+• $478M → CEX | 12 wallets | 12:08Z
+• $475M → CEX | 12 wallets | 13:17Z
+• $471M → CEX | 11 wallets | 11:37Z
+• $470M → CEX | 11 wallets | 12:30Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 39
+• Whale-cluster←CEX: 37
+• Whale-large→CEX: 9
+• Whale-large←CEX: 5
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,400,346 ENA (~$1.4M) · 08:53 UTC</title>
     <link href="https://t.me/sgnl_free/29383"/>
@@ -869,48 +919,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 902.00 ETH (~$2.2M) · 21:52 UTC</title>
-    <link href="https://t.me/sgnl_free/29335"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29335</id>
-    <updated>2026-10-16T21:57:37.823Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 902.00 ETH (~$2.2M) · 21:52 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xcecf0e070c5cacfaad97368ef5a31f3d7c3b295b5e47146470f81c2d8edb1a32
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 62520.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-10-15</title>
-    <link href="https://t.me/sgnl_free/29334"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29334</id>
-    <updated>2026-10-16T21:00:03.799Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-10-15
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 18
-Strong-bias tokens (buy/sell ≥3x): 7
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 $OTCATWALK: 15570 buys / 2967 sells (5.2x)  vol1h=$565.9K  price1h -52%
-  📈 DOGEFATHER: 16012 buys / 3926 sells (4.1x)  vol1h=$1.50M  price1h +22%
-  📈 DADOGE: 14519 buys / 4641 sells (3.1x)  vol1h=$753.8K  price1h +205%
-  📈 DACAT: 3727 buys / 548 sells (6.8x)  vol1h=$256.8K  price1h +103%
-  📈 OWLDACITY: 9332 buys / 3567 sells (2.6x)  vol1h=$425.1K  price1h +192%
-  📈 Starman: 4310 buys / 1013 sells (4.3x)  vol1h=$338.6K  price1h +127%
-  📈 PEGE: 5763 buys / 2427 sells (2.4x)  vol1h=$541.5K  price1h +84%
-  📈 Coco: 1987 buys / 548 sells (3.6x)  vol1h=$27.2K  price1h +41%
-  📈 STREAM: 3793 buys / 2441 sells (1.6x)  vol1h=$405.2K  price1h +289%
-  📈 SI276: 1360 buys / 705 sells (1.9x)  vol1h=$29.9K  price1h +5%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
