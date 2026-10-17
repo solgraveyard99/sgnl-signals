@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-17T13:28:57.539Z</updated>
+  <updated>2026-10-17T13:33:57.539Z</updated>
+  <entry>
+    <title>🏦 Exchange reserves · 13 monitored wallets</title>
+    <link href="https://t.me/sgnl_free/29405"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29405</id>
+    <updated>2026-10-17T13:30:58.401Z</updated>
+    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
+
+Total: $18.82B · 24h net change +$79M (+0.42%)
+
+ETH: 681.2K  ($1653M)
+USDT: $17166M
+USDC: $0.1M
+DAI: $0.02M
+
+Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/29404"/>
@@ -895,23 +912,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/29355"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29355</id>
-    <updated>2026-10-17T00:49:01.052Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $82500 — expiry 18OCT26
-Direction: SELL
-Notional: ~$627K
-Contracts: 7.7
-Implied vol: 16.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
