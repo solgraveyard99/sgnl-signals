@@ -5,7 +5,49 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-17T14:58:57.545Z</updated>
+  <updated>2026-10-17T15:03:57.547Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29417"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29417</id>
+    <updated>2026-10-17T15:01:00.099Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Deposit cluster: 10 large deposits ($84M) in 6h.
+
+📥 6.5M USDT ($6.5M)  →  Binance 14  0x800191…
+
+7d: $2904M in · $2631M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-16</title>
+    <link href="https://t.me/sgnl_free/29416"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29416</id>
+    <updated>2026-10-17T15:00:04.085Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-16
+
+Tokens with liquidity drop ≥50%: 11
+Tokens with liquidity drop ≥90%: 8
+Tokens with liquidity drop ≥75%: 10
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL ROADSTER: -98.7%  $246.2K → $3.2K  in 3.5h
+  🚨 CRITICAL Audaster: -97.7%  $122.0K → $2.8K  in 3.2h
+  🚨 CRITICAL FTR: -97.4%  $93.7K → $2.5K  in 1.7h
+  🚨 CRITICAL Starman: -97.3%  $83.3K → $2.2K  in 40m
+  🚨 CRITICAL SXTR: -96.1%  $59.1K → $2.3K  in 2.3h
+  🚨 CRITICAL SILLY.EXE: -96.1%  $135.6K → $5.2K  in 2.8h
+  🚨 CRITICAL grokazon: -94.0%  $38.7K → $2.3K  in 1.3h
+  🚨 CRITICAL VAULTA: -90.6%  $23.7K → $2.2K  in 1.3h
+  ⛔ SEVERE CATCYCLE: -88.9%  $24.5K → $2.7K  in 55m
+  ⛔ SEVERE FARTSLA: -86.4%  $21.4K → $2.9K  in 2.7h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 720.00 ETH (~$1.7M) · 14:48 UTC</title>
     <link href="https://t.me/sgnl_free/29415"/>
@@ -829,56 +871,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
-    <link href="https://t.me/sgnl_free/29367"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29367</id>
-    <updated>2026-10-17T03:03:52.605Z</updated>
-    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
-📅 2026-10-16
-
-⏱ Last 24 hours
-🚀 Futures (Hyperliquid): $8.87 · 7 trades · WR 29%
-
-📆 Last 7 days
-🚀 Futures: $137.32 · 60 trades · WR 42%
-⚙️ Other Strategy: +0.00% · 4 trades · WR 0%
-🐋 Solana Momentum: -300.00% · 3 trades · WR 0%
-
-📚 Cumulative since 2026-04-06
-🚀 Futures: $271.63 · 1504 trades · WR 51%
-🐋 Solana Momentum: -10971.08% · 988 trades · WR 33%
-🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
-🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
-⚙️ Other Strategy: +0.00% · 81 trades · WR 0%
-⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
-⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
-
-Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
-Not financial advice. Data for decision support.
-
-📲 t.me/sgnl_free</summary>
-  </entry>
-  <entry>
-    <title>🍯 Solana Honeypot / Trap Watch — 2026-10-16</title>
-    <link href="https://t.me/sgnl_free/29366"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29366</id>
-    <updated>2026-10-17T03:00:15.624Z</updated>
-    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-10-16
-
-Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
-Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
-
-Top 0 suspicious patterns yesterday:
-  (none flagged — quiet honeypot day)
-
-How to read:
-  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
-  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
-
-NOT a guarantee — thin sell side can be legitimate for very fresh launches.
-Always test with small amount before sizing up. Use rugcheck.xyz to verify.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
