@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-17T21:33:57.582Z</updated>
+  <updated>2026-10-17T21:38:57.582Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 4193.00 ETH (~$10.0M) · 21:35 UTC</title>
+    <link href="https://t.me/sgnl_free/29431"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29431</id>
+    <updated>2026-10-17T21:37:51.397Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 4193.00 ETH (~$10.0M) · 21:35 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x4e4d350ca7ea32b45acc75f7bdfe885bda92afbf4758dd51ee4c475f15b1414a
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 62085.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2949.00 ETH (~$7.1M) · 21:11 UTC</title>
     <link href="https://t.me/sgnl_free/29430"/>
@@ -829,24 +846,5 @@ $12.5M across 9803 txs · top route Solana → Solana
 
 
 Free signals · No advice · t.me/sgnl_free</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/29381"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29381</id>
-    <updated>2026-10-17T06:55:20.168Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0027 SOL
-• 75th: 0.0088 SOL
-• 95th: 0.0100 SOL
-• 99th: 0.0100 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
