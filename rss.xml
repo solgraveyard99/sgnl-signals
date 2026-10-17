@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-17T11:58:57.537Z</updated>
+  <updated>2026-10-17T12:03:57.553Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/29392"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29392</id>
+    <updated>2026-10-17T12:00:19.958Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $272.8B  (24h: $-270M)
+
+⚪ USDT: $183.34B  ($-86M)
+🔴 USDC: $72.69B  ($-122M)
+⚪ USDS: $7.05B  ($-22M)
+⚪ DAI: $4.72B  ($-5M)
+⚪ USDe: $4.69B  ($-36M)
+⚪ FDUSD: $0.32B  ($-0M)
+
+📊 Net supply Δ24h: -$270M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-16</title>
+    <link href="https://t.me/sgnl_free/29391"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29391</id>
+    <updated>2026-10-17T12:00:03.836Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-16
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    n/a
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 246.6K μlamp | Orca: 223.2K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>📥 DEPOSIT · Binance 14</title>
     <link href="https://t.me/sgnl_free/29390"/>
@@ -881,39 +927,5 @@ How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume
 Companion to morning survival report (06:00 UTC).
 Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
 DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 446.00 ETH (~$1.1M) · 23:22 UTC</title>
-    <link href="https://t.me/sgnl_free/29342"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29342</id>
-    <updated>2026-10-16T23:27:46.597Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 446.00 ETH (~$1.1M) · 23:22 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x40e7904810617fd2dc3084eefa2e2eaeec70c10581d13a4b194d2cc1cbdf4209
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 62484.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 40,201,194 USDT (~$40.2M) · 23:02 UTC</title>
-    <link href="https://t.me/sgnl_free/29341"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29341</id>
-    <updated>2026-10-16T23:08:02.287Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 40,201,194 USDT (~$40.2M) · 23:02 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xd370d4e9591a641242cfe1fcd254ac13097b992528680464d31e0f4dff017101
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38594.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
