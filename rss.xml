@@ -5,7 +5,31 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-17T05:58:57.512Z</updated>
+  <updated>2026-10-17T06:03:57.511Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-10-16</title>
+    <link href="https://t.me/sgnl_free/29376"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29376</id>
+    <updated>2026-10-17T06:00:57.961Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-10-16
+
+Last 24h cohort: 0 launches
+  Graduated to Raydium: 0 (0.000%)
+  Timed out at 24h: 0 (0.000%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 0.0 min
+  Max observed today: 0.0 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (156 days):
+  Cohort: 4,181,290
+  Total graduations: 31,684 (0.7578%)
+  Total timeouts: 4,149,606 (99.2422%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 877.00 ETH (~$2.1M) · 05:33 UTC</title>
     <link href="https://t.me/sgnl_free/29375"/>
@@ -880,22 +904,5 @@ Optimal time for routine tx:
 • Approve revocations
 
 Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 435.99 ETH (~$1.1M) · 18:35 UTC</title>
-    <link href="https://t.me/sgnl_free/29326"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29326</id>
-    <updated>2026-10-16T18:37:37.757Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 435.99 ETH (~$1.1M) · 18:35 UTC
-From: 0xa9c6…c21d
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xdbf2bab09af11edb5775eb6bd137e6b0f15662793003e8edd34ba34dc5e04885
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 62628.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
