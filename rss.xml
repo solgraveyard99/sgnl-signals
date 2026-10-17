@@ -5,7 +5,58 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-17T02:58:57.505Z</updated>
+  <updated>2026-10-17T03:03:57.517Z</updated>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/29367"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29367</id>
+    <updated>2026-10-17T03:03:52.605Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-10-16
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): $8.87 · 7 trades · WR 29%
+
+📆 Last 7 days
+🚀 Futures: $137.32 · 60 trades · WR 42%
+⚙️ Other Strategy: +0.00% · 4 trades · WR 0%
+🐋 Solana Momentum: -300.00% · 3 trades · WR 0%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $271.63 · 1504 trades · WR 51%
+🐋 Solana Momentum: -10971.08% · 988 trades · WR 33%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 81 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-10-16</title>
+    <link href="https://t.me/sgnl_free/29366"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29366</id>
+    <updated>2026-10-17T03:00:15.624Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-10-16
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 21.2% APY</title>
     <link href="https://t.me/sgnl_free/29365"/>
@@ -845,32 +896,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1015.00 ETH (~$2.5M) · 17:05 UTC</title>
-    <link href="https://t.me/sgnl_free/29317"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29317</id>
-    <updated>2026-10-16T17:08:01.613Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1015.00 ETH (~$2.5M) · 17:05 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x51c7…2a7f
-Tx: https://etherscan.io/tx/0x6674e6a943359901f295e01504cee7933a783aa20282480f2e138dc0643dc0ba
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 38467.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>☀️ SGNL Midday Snapshot</title>
-    <link href="https://t.me/sgnl_free/29316"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29316</id>
-    <updated>2026-10-16T17:00:16.540Z</updated>
-    <summary type="text">☀️ SGNL Midday Snapshot
-BTC: $81,383 | SOL: $103.87
-Market activity index: 60/100 (high band)
-On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
   </entry>
 </feed>
