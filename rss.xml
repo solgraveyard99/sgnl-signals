@@ -5,7 +5,17 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-17T16:58:57.552Z</updated>
+  <updated>2026-10-17T17:03:57.559Z</updated>
+  <entry>
+    <title>☀️ SGNL Midday Snapshot</title>
+    <link href="https://t.me/sgnl_free/29425"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29425</id>
+    <updated>2026-10-17T17:00:12.431Z</updated>
+    <summary type="text">☀️ SGNL Midday Snapshot
+BTC: $81,278 | SOL: $103.18
+Market activity index: 60/100 (high band)
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3466.00 ETH (~$8.3M) · 16:45 UTC</title>
     <link href="https://t.me/sgnl_free/29424"/>
@@ -842,22 +852,5 @@ Cumulative since 2026-05-08 (156 days):
 
 Source: Pump.fun on-chain + DexScreener
 Survival ≠ profitability. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 877.00 ETH (~$2.1M) · 05:33 UTC</title>
-    <link href="https://t.me/sgnl_free/29375"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29375</id>
-    <updated>2026-10-17T05:37:44.532Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 877.00 ETH (~$2.1M) · 05:33 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x8eb555d38f6156db0ab4d33cd5f60a1217ba0936d51684a27f346be5a7b1823b
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 62460.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
