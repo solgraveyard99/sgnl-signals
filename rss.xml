@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-17T05:33:57.524Z</updated>
+  <updated>2026-10-17T05:38:57.512Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 877.00 ETH (~$2.1M) · 05:33 UTC</title>
+    <link href="https://t.me/sgnl_free/29375"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29375</id>
+    <updated>2026-10-17T05:37:44.532Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 877.00 ETH (~$2.1M) · 05:33 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x8eb555d38f6156db0ab4d33cd5f60a1217ba0936d51684a27f346be5a7b1823b
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 62460.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🆕 FRESH WALLET FUNDED</title>
     <link href="https://t.me/sgnl_free/29374"/>
@@ -880,35 +897,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-10-15</title>
-    <link href="https://t.me/sgnl_free/29325"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29325</id>
-    <updated>2026-10-16T18:01:24.066Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-15
-
-Yesterday&apos;s cohort: 147 launches
-  🟢 STRONG (score 8+): 2 (1.36%)
-  🟡 MIXED (score 5-7): 53 (36.05%)
-  🔴 WEAK  (score 0-4): 92 (62.59%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG SB mcap=31 SOL [mcap30+,tg,tw,web,desc]
-  🟢 STRONG BZZOO mcap=30 SOL [mcap30+,tg,tw,web]
-  🟡 MIXED TELOMERE mcap=30 SOL [mcap30+,tg,tw]
-  🟡 MIXED MASK mcap=6140 SOL [mcap60+,tw,web]
-  🟡 MIXED Speed mcap=115 SOL [mcap60+,tw,web]
-  🟡 MIXED GMUP mcap=30 SOL [mcap30+,tw,web,desc]
-  🟡 MIXED VSO mcap=0 SOL [tg,tw,web]
-  🟡 MIXED ELT mcap=30 SOL [mcap30+,tw,web,desc]
-  🟡 MIXED SURETY mcap=49 SOL [mcap30+,tw,web,desc]
-  🟡 MIXED KEPN mcap=45 SOL [mcap30+,tw,web,desc]
-
-✓grad = graduated to Raydium within 24h (0 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
