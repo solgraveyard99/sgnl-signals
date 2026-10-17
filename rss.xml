@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-17T21:13:57.575Z</updated>
+  <updated>2026-10-17T21:18:57.578Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2949.00 ETH (~$7.1M) · 21:11 UTC</title>
+    <link href="https://t.me/sgnl_free/29430"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29430</id>
+    <updated>2026-10-17T21:18:07.771Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2949.00 ETH (~$7.1M) · 21:11 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xf819…73aa
+Tx: https://etherscan.io/tx/0x9145897590e00afdc24ef4832d4c760b0acf0976b2cc4e695eaf6e1a6cc7227c
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 35976.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29429"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29429</id>
+    <updated>2026-10-17T21:15:51.237Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Deposit cluster: 3 large deposits ($22M) in 6h.
+
+📤 2949 ETH ($7.1M)  ←  Binance 18  0xf8191d…
+
+7d: $2907M in · $2625M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📈 Solana Buy Momentum Digest — 2026-10-16</title>
     <link href="https://t.me/sgnl_free/29428"/>
@@ -816,38 +848,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/29380"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29380</id>
-    <updated>2026-10-17T06:53:43.966Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.074401122 gwei  ·  Safe: 0.067637384 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 579.00 ETH (~$1.4M) · 06:32 UTC</title>
-    <link href="https://t.me/sgnl_free/29379"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29379</id>
-    <updated>2026-10-17T06:37:37.732Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 579.00 ETH (~$1.4M) · 06:32 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x32d4…5145
-Tx: https://etherscan.io/tx/0xf1c86dab42f7b65f395e7b3f95a85f28254a840c4087cf6deae91a5c64211b48
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 62465.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
