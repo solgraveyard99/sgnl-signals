@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-17T14:53:57.546Z</updated>
+  <updated>2026-10-17T14:58:57.545Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 720.00 ETH (~$1.7M) · 14:48 UTC</title>
+    <link href="https://t.me/sgnl_free/29415"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29415</id>
+    <updated>2026-10-17T14:58:13.227Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 720.00 ETH (~$1.7M) · 14:48 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x3f41…1d30
+Tx: https://etherscan.io/tx/0xf7c75a9396b23b3191ca94a2c86163ae0996fe6d52e33b2655029abef4a42e9c
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 37200.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29414"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29414</id>
+    <updated>2026-10-17T14:55:56.576Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Deposit cluster: 9 large deposits ($78M) in 6h.
+
+📥 5.5M USDT ($5.5M)  →  Binance 14  0xf6a834…
+
+7d: $2898M in · $2631M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 5000.00 ETH (~$12.1M) · 14:42 UTC</title>
     <link href="https://t.me/sgnl_free/29413"/>
@@ -848,40 +880,5 @@ How to read:
 NOT a guarantee — thin sell side can be legitimate for very fresh launches.
 Always test with small amount before sizing up. Use rugcheck.xyz to verify.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 21.2% APY</title>
-    <link href="https://t.me/sgnl_free/29365"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29365</id>
-    <updated>2026-10-17T02:23:45.108Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 21.2% APY
-veranta / USDC on Base
-Base: 21.2%  ·  Rewards: n/a  ·  TVL: $9.7M
-
-💡 +14.2% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2000.00 ETH (~$4.8M) · 01:42 UTC</title>
-    <link href="https://t.me/sgnl_free/29364"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29364</id>
-    <updated>2026-10-17T01:47:37.829Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2000.00 ETH (~$4.8M) · 01:42 UTC
-From: 0xb4ed…0f5a
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x078f59724c0350e69ae917c9562f7975aac3a28a607647a9503e882b503182bd
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 62438.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
