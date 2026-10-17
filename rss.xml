@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-17T05:23:57.511Z</updated>
+  <updated>2026-10-17T05:28:57.514Z</updated>
+  <entry>
+    <title>🆕 FRESH WALLET FUNDED</title>
+    <link href="https://t.me/sgnl_free/29374"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29374</id>
+    <updated>2026-10-17T05:24:03.779Z</updated>
+    <summary type="text">🆕 FRESH WALLET FUNDED
+
+Binance 14 → fresh wallet
+Wallet: 0x5c52…a2c0 (1 prior txs)
+Amount: $4.85M ETH
+Tier: TIER2
+
+Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
+
+Statistical pattern. Not financial advice.
+
+Tx: https://etherscan.io/tx/0x3c8cc9a40e90282f906c76b6e51cb202e02f993ccf46c257bdff4012b1a766c7
+Wallet: https://etherscan.io/address/0x5c5251ca9019f1e4af49c2f96eeffe931713a2c0</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2000.00 ETH (~$4.9M) · 05:14 UTC</title>
     <link href="https://t.me/sgnl_free/29373"/>
@@ -891,20 +910,5 @@ Top 10 by quality signals:
 
 ✓grad = graduated to Raydium within 24h (0 total yesterday)
 Source: on-chain + pump.fun API. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/29324"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29324</id>
-    <updated>2026-10-16T18:00:51.187Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 18 large deposits ($166M) · 11 large withdrawals ($132M).
-
-📥 2844 ETH ($6.9M)  →  Binance 14  0xeae738…
-
-7d: $3097M in · $2670M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
