@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-17T23:58:57.588Z</updated>
+  <updated>2026-10-18T00:03:57.587Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/29437"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29437</id>
+    <updated>2026-10-18T00:00:21.871Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $81,453 (24h: −0.2%) | SOL: $103.39 (24h: −1.0%)
+Market activity index: 60/100 (high band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-17</title>
+    <link href="https://t.me/sgnl_free/29436"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29436</id>
+    <updated>2026-10-18T00:00:05.947Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-17
+
+24h state transitions tracked: 256
+  💀 Died (gone): 137
+  😴 Went dormant: 81
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 Nimrod: had $0 liquidity · died at age 53.5d
+  💀 pumpball: had $0 liquidity · died at age 29.8d
+  💀 MUSKIT: had $0 liquidity · died at age 29.8d
+  💀 NQDOG: had $0 liquidity · died at age 29.8d
+  💀 TOKPAID: had $0 liquidity · died at age 29.8d
+  💀 TRENCHIES: had $0 liquidity · died at age 29.8d
+  💀 DREAM: had $0 liquidity · died at age 29.8d
+  💀 DDD: had $0 liquidity · died at age 29.8d
+  💀 wif: had $0 liquidity · died at age 29.8d
+  💀 WINNIE: had $0 liquidity · died at age 29.5d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1457.00 ETH (~$3.5M) · 22:30 UTC</title>
     <link href="https://t.me/sgnl_free/29435"/>
@@ -794,39 +833,5 @@ Tx: https://etherscan.io/tx/0x8773585c39996c451e75c56f785cb8e14d72f305c84fc7f36e
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 3,780,098 USDT (~$3.8M) · 09:13 UTC</title>
-    <link href="https://t.me/sgnl_free/29387"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29387</id>
-    <updated>2026-10-17T09:17:53.316Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 3,780,098 USDT (~$3.8M) · 09:13 UTC
-From: 0xcde5…9b90
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x67b4de94c45c61ea919a7157bacc6268d1ffd5d46a8f194108f6b216eeb8d8f2
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 62440.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 3441.70 ETH (~$8.4M) · 09:15 UTC</title>
-    <link href="https://t.me/sgnl_free/29386"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29386</id>
-    <updated>2026-10-17T09:17:37.627Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 3441.70 ETH (~$8.4M) · 09:15 UTC
-From: 0xcde5…9b90
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x8773585c39996c451e75c56f785cb8e14d72f305c84fc7f36e74b3e1c141024d
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 62403.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
