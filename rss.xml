@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-18T11:58:57.618Z</updated>
+  <updated>2026-10-18T12:03:57.619Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-17</title>
+    <link href="https://t.me/sgnl_free/29487"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29487</id>
+    <updated>2026-10-18T12:00:23.157Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-17
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    n/a
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 206.8K μlamp | Orca: 201.1K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/29486"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29486</id>
+    <updated>2026-10-18T12:00:07.330Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $272.7B  (24h: $-95M)
+
+⚪ USDT: $183.39B  ($-59M)
+🔴 USDC: $72.54B  ($-184M)
+🟢 USDS: $7.04B  (+$174M)
+⚪ DAI: $4.73B  (+$4M)
+⚪ USDe: $4.68B  ($-31M)
+⚪ FDUSD: $0.32B  (+$0M)
+
+📊 Net supply Δ24h: $-95M (near-flat band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 542.40 ETH (~$1.3M) · 11:12 UTC</title>
     <link href="https://t.me/sgnl_free/29485"/>
@@ -866,44 +912,5 @@ Spread: 0.0045%/hr  (39.2% APR gross)
 Expected net: ~34% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
 monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>🌙 SGNL Evening Snapshot</title>
-    <link href="https://t.me/sgnl_free/29437"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29437</id>
-    <updated>2026-10-18T00:00:21.871Z</updated>
-    <summary type="text">🌙 SGNL Evening Snapshot
-BTC: $81,453 (24h: −0.2%) | SOL: $103.39 (24h: −1.0%)
-Market activity index: 60/100 (high band)
-Next snapshot: 17:00 UTC
-On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-17</title>
-    <link href="https://t.me/sgnl_free/29436"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29436</id>
-    <updated>2026-10-18T00:00:05.947Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-17
-
-24h state transitions tracked: 256
-  💀 Died (gone): 137
-  😴 Went dormant: 81
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 Nimrod: had $0 liquidity · died at age 53.5d
-  💀 pumpball: had $0 liquidity · died at age 29.8d
-  💀 MUSKIT: had $0 liquidity · died at age 29.8d
-  💀 NQDOG: had $0 liquidity · died at age 29.8d
-  💀 TOKPAID: had $0 liquidity · died at age 29.8d
-  💀 TRENCHIES: had $0 liquidity · died at age 29.8d
-  💀 DREAM: had $0 liquidity · died at age 29.8d
-  💀 DDD: had $0 liquidity · died at age 29.8d
-  💀 wif: had $0 liquidity · died at age 29.8d
-  💀 WINNIE: had $0 liquidity · died at age 29.5d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
