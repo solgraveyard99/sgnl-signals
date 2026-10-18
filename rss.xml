@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-18T12:03:57.619Z</updated>
+  <updated>2026-10-18T12:08:57.620Z</updated>
+  <entry>
+    <title>📊 Activity summary · 2 active observations</title>
+    <link href="https://t.me/sgnl_free/29488"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29488</id>
+    <updated>2026-10-18T12:08:19.234Z</updated>
+    <summary type="text">📊 Activity summary · 2 active observations
+
+Top 2 by size:
+• 🐋 Whale deposit cluster: 3 moves, $24M to exchanges
+• 🐋 Whale withdrawal cluster: 3 moves, $17M off exchanges
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-10-17</title>
     <link href="https://t.me/sgnl_free/29487"/>
@@ -897,20 +910,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · SOL</title>
-    <link href="https://t.me/sgnl_free/29438"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29438</id>
-    <updated>2026-10-18T00:03:58.775Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
-Spread: 0.0045%/hr  (39.2% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0034%/hr)
-🔴 SHORT on BingX  (funding 0.0011%/hr)
-
-Expected net: ~34% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
   </entry>
 </feed>
