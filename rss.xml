@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-18T13:58:57.627Z</updated>
+  <updated>2026-10-18T14:03:57.630Z</updated>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-10-18</title>
+    <link href="https://t.me/sgnl_free/29498"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29498</id>
+    <updated>2026-10-18T14:00:03.406Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-10-18
+Composite score: 50/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/29497"/>
@@ -882,21 +893,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/29448"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29448</id>
-    <updated>2026-10-18T00:53:43.778Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.040099615 gwei  ·  Safe: 0.039099615 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
