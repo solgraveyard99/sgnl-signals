@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-18T22:48:57.654Z</updated>
+  <updated>2026-10-18T22:53:57.653Z</updated>
+  <entry>
+    <title>🟠 ETH STAKING DROUGHT</title>
+    <link href="https://t.me/sgnl_free/29530"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29530</id>
+    <updated>2026-10-18T22:53:56.038Z</updated>
+    <summary type="text">🟠 ETH STAKING DROUGHT
+
+24h inflow collapsed to 7.7K ETH (~241 validators)
+Rate: 24% of 30-day baseline
+ETH price: $2393
+
+Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1264.00 ETH (~$3.0M) · 22:46 UTC</title>
     <link href="https://t.me/sgnl_free/29529"/>
@@ -837,22 +850,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 634.64 ETH (~$1.5M) · 09:35 UTC</title>
-    <link href="https://t.me/sgnl_free/29480"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29480</id>
-    <updated>2026-10-18T09:37:38.073Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 634.64 ETH (~$1.5M) · 09:35 UTC
-From: 0xa9c6…c21d
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xe0e2e3ebf94e506b2a56fb35e30b9560de7c327598fc8b4d7836f4cc75b826a3
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61889.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
