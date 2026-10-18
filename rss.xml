@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-18T22:08:57.648Z</updated>
+  <updated>2026-10-18T22:13:57.652Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29525"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29525</id>
+    <updated>2026-10-18T22:10:51.323Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Withdrawal cluster: 3 large withdrawals ($22M) in 6h.
+
+📤 3718 ETH ($8.8M)  ←  Binance 19  0xf8191d…
+
+7d: $2602M in · $2346M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📤 WITHDRAWAL · Binance 17</title>
     <link href="https://t.me/sgnl_free/29524"/>
@@ -851,18 +866,5 @@ Alerts fired (24h):
 All observations timestamped. Methodology public.
 
 #onchain #dailydigest</summary>
-  </entry>
-  <entry>
-    <title>📥 DEPOSIT · Binance 14</title>
-    <link href="https://t.me/sgnl_free/29475"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29475</id>
-    <updated>2026-10-18T08:20:51.308Z</updated>
-    <summary type="text">📥 DEPOSIT · Binance 14
-9M USDT  ($9.0M)  →  0xe69f81…
-⚪ Routine-size deposit (0.0× the 7-day daily average)
-Tx: https://etherscan.io/tx/0x62116003dc5bf96fafc806b98801d7b2038d8898a12c4737afb26cbac1d3af20
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
