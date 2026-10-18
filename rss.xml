@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-18T13:38:57.628Z</updated>
+  <updated>2026-10-18T13:43:57.628Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29497"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29497</id>
+    <updated>2026-10-18T13:41:00.573Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 3 large deposits ($24M) · 3 large withdrawals ($31M).
+
+📥 3090 ETH ($7.4M)  →  Binance 14  0xeae738…
+
+7d: $2674M in · $2579M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Gas Check · 24h</title>
     <link href="https://t.me/sgnl_free/29496"/>
@@ -883,24 +898,5 @@ Optimal time for routine tx:
 • Approve revocations
 
 Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/29447"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29447</id>
-    <updated>2026-10-18T00:21:05.572Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0073 SOL
-• 99th: 0.0100 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
