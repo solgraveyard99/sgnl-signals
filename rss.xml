@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-18T14:58:57.631Z</updated>
+  <updated>2026-10-18T15:03:57.631Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-17</title>
+    <link href="https://t.me/sgnl_free/29504"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29504</id>
+    <updated>2026-10-18T15:00:04.919Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-17
+
+Tokens with liquidity drop ≥50%: 4
+Tokens with liquidity drop ≥90%: 1
+Tokens with liquidity drop ≥75%: 1
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL CARDBOARD: -94.7%  $40.6K → $2.1K  in 1.3h
+  ⚠ HIGH AE: -71.8%  $38.1K → $10.8K  in 5.9h
+  ⚠ HIGH OMNI: -63.0%  $84.5K → $31.3K  in 3.4h
+  ⚠ HIGH Ventrion: -60.1%  $26.1K → $10.4K  in 1.2h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>⏰ DAO VOTE ENDING SOON · Aave</title>
     <link href="https://t.me/sgnl_free/29503"/>
@@ -875,23 +896,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/29454"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29454</id>
-    <updated>2026-10-18T01:24:03.665Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $2260 — expiry 21OCT26
-Direction: SELL
-Notional: ~$962K
-Contracts: 400
-Implied vol: 56.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
