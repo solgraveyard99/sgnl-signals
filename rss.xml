@@ -5,7 +5,78 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-18T01:23:57.586Z</updated>
+  <updated>2026-10-18T01:28:57.587Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 16681.79 ETH (~$40.1M) · 01:22 UTC</title>
+    <link href="https://t.me/sgnl_free/29455"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29455</id>
+    <updated>2026-10-18T01:27:40.562Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 16681.79 ETH (~$40.1M) · 01:22 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x21a3…5549 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x6f0036232d41475f19894fe18c1b1687dd34f26cb313463337ce77fb79cd5c27
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 62056.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/29454"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29454</id>
+    <updated>2026-10-18T01:24:03.665Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Put — strike $2260 — expiry 21OCT26
+Direction: SELL
+Notional: ~$962K
+Contracts: 400
+Implied vol: 56.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/29453"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29453</id>
+    <updated>2026-10-18T01:24:03.226Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Put — strike $2260 — expiry 21OCT26
+Direction: SELL
+Notional: ~$1109K
+Contracts: 461
+Implied vol: 56.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/29452"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29452</id>
+    <updated>2026-10-18T01:24:02.866Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Put — strike $2260 — expiry 21OCT26
+Direction: SELL
+Notional: ~$1203K
+Contracts: 500
+Implied vol: 56.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1069.00 ETH (~$2.6M) · 01:12 UTC</title>
     <link href="https://t.me/sgnl_free/29451"/>
@@ -772,74 +843,5 @@ Safe: 0.071472635  ·  Propose: 0.072472635  ·  BaseFee: 0.0715
 24h range: 0.05–0.67 gwei  (avg 0.11)
 
 Simple transfer cost now: ~$0.0043</summary>
-  </entry>
-  <entry>
-    <title>🏦 Exchange reserves · 13 monitored wallets</title>
-    <link href="https://t.me/sgnl_free/29405"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29405</id>
-    <updated>2026-10-17T13:30:58.401Z</updated>
-    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
-
-Total: $18.82B · 24h net change +$79M (+0.42%)
-
-ETH: 681.2K  ($1653M)
-USDT: $17166M
-USDC: $0.1M
-DAI: $0.02M
-
-Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/29404"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29404</id>
-    <updated>2026-10-17T13:15:57.045Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Deposit cluster: 5 large deposits ($41M) in 6h.
-
-📥 6.0M USDT ($6.0M)  →  Binance 14  0xde46bd…
-
-7d: $2877M in · $2639M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌅 Morning Brief · 2026-10-17</title>
-    <link href="https://t.me/sgnl_free/29403"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29403</id>
-    <updated>2026-10-17T13:04:16.610Z</updated>
-    <summary type="text">🌅 Morning Brief · 2026-10-17
-
-🐋 Whale flow (24h)
-36 large moves · net +$74M 📥 toward exchanges
-
-⚡ Perp funding snapshot
-BTC ⚪ neutral funding (HL)
-ETH ⚪ neutral funding (HL)
-SOL ⚪ neutral funding (HL)
-
-💰 Top yields right now
-Stables: 21.2% · veranta/USDC @ Base
-ETH/LST: 6.2% · fusion-by-ipor/WETH @ Ethereum
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/29402"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29402</id>
-    <updated>2026-10-17T12:53:43.649Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.073528574 gwei  ·  Safe: 0.065844159 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
