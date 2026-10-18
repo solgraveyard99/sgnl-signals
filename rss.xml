@@ -5,7 +5,38 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-18T13:33:57.627Z</updated>
+  <updated>2026-10-18T13:38:57.628Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/29496"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29496</id>
+    <updated>2026-10-18T13:38:43.924Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.13391373 gwei (fast)  ·  🟢 cheap
+Safe: 0.121730619  ·  Propose: 0.121739755  ·  BaseFee: 0.1217
+
+24h range: 0.03–0.15 gwei  (avg 0.05)
+
+Simple transfer cost now: ~$0.0070</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 3089.90 ETH (~$7.4M) · 13:35 UTC</title>
+    <link href="https://t.me/sgnl_free/29495"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29495</id>
+    <updated>2026-10-18T13:37:37.680Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 3089.90 ETH (~$7.4M) · 13:35 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x94f81b55523f245235d0874181ef125ec064f3ae737498b5c2cf4ca2b78f5171
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61834.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/29494"/>
@@ -871,41 +902,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 2 active observations</title>
-    <link href="https://t.me/sgnl_free/29446"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29446</id>
-    <updated>2026-10-18T00:08:29.171Z</updated>
-    <summary type="text">📊 Activity summary · 2 active observations
-
-Top 2 by size:
-• 🐋 Whale deposit cluster: 4 moves, $32M to exchanges
-• 🔀 Cross-venue funding divergence: SOL 39% APR spread
-
-On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Week in Review · ending 2026-10-18</title>
-    <link href="https://t.me/sgnl_free/29445"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29445</id>
-    <updated>2026-10-18T00:06:12.028Z</updated>
-    <summary type="text">📊 Week in Review · ending 2026-10-18
-
-🐋 Whale Flows (7d)
-393 large moves
-Net CEX flow (7d): $-276M (positive = withdrawn from CEXs)
-Biggest withdrawal: $102M USDT from Binance 14 label: public address list, unverified
-
-⚡ Perp Funding Regime
-BTC avg: 0.0008%/hr (~7% APR)
-ETH avg: 0.0005%/hr (~5% APR)
-SOL avg: 0.0005%/hr (~4% APR)
-
-💰 Best Yields Right Now
-Stables: 21.1% — veranta/USDC @ Base
-ETH/LST: 6.3% — fusion-by-ipor/WETH @ Ethereum
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
