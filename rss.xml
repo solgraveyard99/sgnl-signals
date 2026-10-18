@@ -5,7 +5,17 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-18T16:58:57.639Z</updated>
+  <updated>2026-10-18T17:03:57.648Z</updated>
+  <entry>
+    <title>☀️ SGNL Midday Snapshot</title>
+    <link href="https://t.me/sgnl_free/29511"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29511</id>
+    <updated>2026-10-18T17:00:13.404Z</updated>
+    <summary type="text">☀️ SGNL Midday Snapshot
+BTC: $81,087 | SOL: $102.07
+Market activity index: 50/100 (mid band)
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1417.47 ETH (~$3.4M) · 16:52 UTC</title>
     <link href="https://t.me/sgnl_free/29510"/>
@@ -856,23 +866,5 @@ Tx: https://etherscan.io/tx/0x4d95ff311e96882bc164b8f5a53d0cbb316a5fb4a54f2fced5
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 22.6% APY</title>
-    <link href="https://t.me/sgnl_free/29461"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29461</id>
-    <updated>2026-10-18T03:23:47.196Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 22.6% APY
-veranta / USDC on Base
-Base: 22.6%  ·  Rewards: n/a  ·  TVL: $9.7M
-
-💡 +15.6% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
   </entry>
 </feed>
