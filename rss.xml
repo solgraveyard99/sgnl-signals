@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T20:53:57.746Z</updated>
+  <updated>2026-10-19T20:58:57.743Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 440.73 ETH (~$1.1M) · 20:52 UTC</title>
+    <link href="https://t.me/sgnl_free/29700"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29700</id>
+    <updated>2026-10-19T20:57:37.901Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 440.73 ETH (~$1.1M) · 20:52 UTC
+From: 0x08dc…4396
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x23b90793e09e43450a9ff04895a7e58a05bd2442bcb8275c375a1d814ef015d8
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60922.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,043,186 USDT (~$1.0M) · 20:43 UTC</title>
     <link href="https://t.me/sgnl_free/29699"/>
@@ -804,20 +821,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/29650"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29650</id>
-    <updated>2026-10-19T14:20:53.046Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 10 large deposits ($88M) · 8 large withdrawals ($85M).
-
-📥 6547 ETH ($15.6M)  →  Binance 14  0xeae738…
-
-7d: $2287M in · $1810M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
