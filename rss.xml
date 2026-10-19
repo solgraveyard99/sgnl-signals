@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T05:13:57.685Z</updated>
+  <updated>2026-10-19T05:18:57.695Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 8,000,000 USDT (~$8.0M) · 05:14 UTC</title>
+    <link href="https://t.me/sgnl_free/29591"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29591</id>
+    <updated>2026-10-19T05:18:07.697Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 8,000,000 USDT (~$8.0M) · 05:14 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x25e5…c03a
+Tx: https://etherscan.io/tx/0x5ec17a6bc3c5e501a102a4804afe689796f594c692bb94195cdcd2dede85469a
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 32323.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29590"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29590</id>
+    <updated>2026-10-19T05:15:51.259Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Deposit cluster: 5 large deposits ($28M) in 6h.
+
+📤 8.0M USDT ($8.0M)  ←  Binance 18  0x25e567…
+
+7d: $2608M in · $2195M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,500,000 USDT (~$1.5M) · 05:02 UTC</title>
     <link href="https://t.me/sgnl_free/29589"/>
@@ -833,50 +865,5 @@ BTC: $82,032 (24h: +0.7%) | SOL: $104.18 (24h: +0.7%)
 Market activity index: 50/100 (mid band)
 Next snapshot: 17:00 UTC
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-18</title>
-    <link href="https://t.me/sgnl_free/29541"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29541</id>
-    <updated>2026-10-19T00:00:10.909Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-18
-
-24h state transitions tracked: 308
-  💀 Died (gone): 218
-  😴 Went dormant: 59
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 FANCYDUCKY: had $0 liquidity · died at age 10.8d
-  💀 AP: had $0 liquidity · died at age 10.8d
-  💀 tCat: had $0 liquidity · died at age 10.8d
-  💀 Rewind: had $0 liquidity · died at age 10.8d
-  💀 CraftPad: had $0 liquidity · died at age 10.8d
-  💀 RIPS: had $0 liquidity · died at age 10.8d
-  💀 TEHC: had $0 liquidity · died at age 10.8d
-  💀 Bapepe: had $0 liquidity · died at age 10.8d
-  💀 WIKIPAD: had $0 liquidity · died at age 10.8d
-  💀 RSE2: had $0 liquidity · died at age 10.8d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 5,000,000 USDT (~$5.0M) · 23:52 UTC</title>
-    <link href="https://t.me/sgnl_free/29540"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29540</id>
-    <updated>2026-10-18T23:57:54.541Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 5,000,000 USDT (~$5.0M) · 23:52 UTC
-From: 0xa3f4…91b0
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xb9f6e77188f13378146b274c3d7c4e12d0457e2a0022049a0d494827cad4e330
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61613.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
