@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T18:43:57.730Z</updated>
+  <updated>2026-10-19T18:48:57.734Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29686"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29686</id>
+    <updated>2026-10-19T18:45:54.829Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 15 large deposits ($127M) · 8 large withdrawals ($55M).
+
+📥 5.5M USDT ($5.5M)  →  Binance 14  0x4aaa5a…
+
+7d: $2319M in · $1732M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 9,955,411 USDC (~$10.0M) · 18:36 UTC</title>
     <link href="https://t.me/sgnl_free/29685"/>
@@ -799,21 +814,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/29636"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29636</id>
-    <updated>2026-10-19T12:53:43.783Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.086242553 gwei  ·  Safe: 0.073402321 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
