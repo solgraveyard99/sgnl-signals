@@ -5,7 +5,58 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T02:58:57.668Z</updated>
+  <updated>2026-10-19T03:03:57.675Z</updated>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/29574"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29574</id>
+    <updated>2026-10-19T03:03:55.096Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-10-18
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): $17.38 · 9 trades · WR 56%
+
+📆 Last 7 days
+🚀 Futures: $143.02 · 61 trades · WR 49%
+🐋 Solana Momentum: -200.00% · 2 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 3 trades · WR 0%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $288.68 · 1523 trades · WR 51%
+🐋 Solana Momentum: -10971.08% · 988 trades · WR 33%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 81 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-10-18</title>
+    <link href="https://t.me/sgnl_free/29573"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29573</id>
+    <updated>2026-10-19T03:00:18.179Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-10-18
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/29572"/>
@@ -822,44 +873,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📤 WITHDRAWAL · Binance 17</title>
-    <link href="https://t.me/sgnl_free/29524"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29524</id>
-    <updated>2026-10-18T21:50:51.297Z</updated>
-    <summary type="text">📤 WITHDRAWAL · Binance 17
-3104 ETH  ($7.3M)  ←  0xf8191d…
-⚪ Routine-size withdrawal (0.0× the 7-day daily average)
-Tx: https://etherscan.io/tx/0x8ec80bea6754a8f554aba0c594f085f2f2dad8ae0d78f7a0b03aa529162e4e65
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-10-17</title>
-    <link href="https://t.me/sgnl_free/29523"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29523</id>
-    <updated>2026-10-18T21:00:04.173Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-10-17
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 28
-Strong-bias tokens (buy/sell ≥3x): 8
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 CARDBOARD: 6091 buys / 698 sells (8.7x)  vol1h=$544.9K  price1h +161%
-  📈 MINTER: 21108 buys / 9064 sells (2.3x)  vol1h=$3.64M  price1h +1248%
-  📈 NUBI: 9071 buys / 3135 sells (2.9x)  vol1h=$251.5K  price1h -4%
-  📈 DEGEN: 9422 buys / 3866 sells (2.4x)  vol1h=$2.3K  price1h +0%
-  📈 YILONGMA: 4571 buys / 920 sells (5.0x)  vol1h=$149.5K  price1h +44%
-  📈 Chaton: 3725 buys / 735 sells (5.1x)  vol1h=$223.6K  price1h +108%
-  📈 PROINU: 1837 buys / 313 sells (5.9x)  vol1h=$31.8K  price1h +17%
-  📈 SI276: 1211 buys / 559 sells (2.2x)  vol1h=$14.9K  price1h +1%
-  📈 Nillionair: 823 buys / 525 sells (1.6x)  vol1h=$66.2K  price1h -23%
-  📈 MASKCAT: 219 buys / 67 sells (3.3x)  vol1h=$31.0K  price1h +29%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
