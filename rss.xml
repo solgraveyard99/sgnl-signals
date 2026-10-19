@@ -5,7 +5,32 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T16:58:57.744Z</updated>
+  <updated>2026-10-19T17:03:57.728Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29676"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29676</id>
+    <updated>2026-10-19T17:00:51.536Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 12 large deposits ($99M) · 9 large withdrawals ($65M).
+
+📥 5.9M USDT ($5.9M)  →  Binance 14  0xeae738…
+
+7d: $2297M in · $1732M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>☀️ SGNL Midday Snapshot</title>
+    <link href="https://t.me/sgnl_free/29675"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29675</id>
+    <updated>2026-10-19T17:00:14.450Z</updated>
+    <summary type="text">☀️ SGNL Midday Snapshot
+BTC: $81,995 | SOL: $104.56
+Market activity index: 70/100 (high band)
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 5,908,491 USDT (~$5.9M) · 16:55 UTC</title>
     <link href="https://t.me/sgnl_free/29674"/>
@@ -805,35 +830,5 @@ Fees change in seconds. DYOR before tx.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 ETH STAKING DROUGHT</title>
-    <link href="https://t.me/sgnl_free/29626"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29626</id>
-    <updated>2026-10-19T11:23:55.844Z</updated>
-    <summary type="text">🟠 ETH STAKING DROUGHT
-
-24h inflow collapsed to 6.2K ETH (~193 validators)
-Rate: 20% of 30-day baseline
-ETH price: $2416
-
-Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 870.00 ETH (~$2.1M) · 11:14 UTC</title>
-    <link href="https://t.me/sgnl_free/29625"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29625</id>
-    <updated>2026-10-19T11:17:37.786Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 870.00 ETH (~$2.1M) · 11:14 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x51c7…2a7f
-Tx: https://etherscan.io/tx/0xdb05d8e3718be85be8d462af57fde64a3c43d7c6df02db889b6717938a71d160
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61355.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
