@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T15:33:57.724Z</updated>
+  <updated>2026-10-19T15:38:57.720Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2910.00 ETH (~$7.0M) · 15:36 UTC</title>
+    <link href="https://t.me/sgnl_free/29665"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29665</id>
+    <updated>2026-10-19T15:37:38.112Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2910.00 ETH (~$7.0M) · 15:36 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xf418ae80b15aa7e4e379da71d8b28a0e026edc29548029e2a3dd61c8cae131d7
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61123.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29664"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29664</id>
+    <updated>2026-10-19T15:36:00.259Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 9 large deposits ($78M) · 9 large withdrawals ($69M).
+
+📤 5.5M USDT ($5.5M)  ←  Binance 16  0xdca499…
+
+7d: $2285M in · $1721M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2,500,000 USDT (~$2.5M) · 15:25 UTC</title>
     <link href="https://t.me/sgnl_free/29663"/>
@@ -800,46 +832,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/29615"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29615</id>
-    <updated>2026-10-19T09:05:59.316Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 7 large deposits ($92M) · 5 large withdrawals ($59M).
-
-📤 28.3M USDT ($28.3M)  ←  Binance 16  0xc65ac2…
-
-7d: $2361M in · $1980M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-10-18</title>
-    <link href="https://t.me/sgnl_free/29614"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29614</id>
-    <updated>2026-10-19T09:00:19.523Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-18
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 20
-Median peak spike (top 50): 5.6x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump mucron: 24.0x  vol1h=$797.4K  price1h +288.0%
-  🟢 pump ZENO: 24.0x  vol1h=$62.6K  price1h +202.0%
-  🟢 pump sir: 24.0x  vol1h=$49.0K  price1h +97.2%
-  🟢 pump bwigitte: 24.0x  vol1h=$86.2K  price1h +73.6%
-  🟢 pump WIF: 24.0x  vol1h=$299.6K  price1h +39.1%
-  🟢 pump USOE: 23.7x  vol1h=$6.3K  price1h +10.9%
-  🟢 pump PIPS: 21.2x  vol1h=$253.1K  price1h +95.3%
-  🟢 pump Groklet: 19.4x  vol1h=$311.2K  price1h +131.0%
-  🟢 pump CATONICE: 19.2x  vol1h=$800.0K  price1h +373.0%
-  🟢 pump Deadpool : 17.4x  vol1h=$204.8K  price1h +265.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
