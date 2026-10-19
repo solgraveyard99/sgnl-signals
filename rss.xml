@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T10:13:57.702Z</updated>
+  <updated>2026-10-19T10:18:57.696Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,155,950 USDT (~$1.2M) · 10:13 UTC</title>
+    <link href="https://t.me/sgnl_free/29622"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29622</id>
+    <updated>2026-10-19T10:17:37.959Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,155,950 USDT (~$1.2M) · 10:13 UTC
+From: 0x06fd…e3b0
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x6b01786d8b525f8062fe15ac36867489c58cf306858f7c8831d8516a42deb721
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61422.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1258.00 ETH (~$3.1M) · 10:01 UTC</title>
     <link href="https://t.me/sgnl_free/29621"/>
@@ -862,24 +879,5 @@ How to read:
 NOT a guarantee — thin sell side can be legitimate for very fresh launches.
 Always test with small amount before sizing up. Use rugcheck.xyz to verify.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/29572"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29572</id>
-    <updated>2026-10-19T02:43:15.624Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0007 SOL
-• 99th: 0.0160 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
