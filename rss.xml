@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T04:03:57.680Z</updated>
+  <updated>2026-10-19T04:08:57.677Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 5,094,548 USDT (~$5.1M) · 04:04 UTC</title>
+    <link href="https://t.me/sgnl_free/29581"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29581</id>
+    <updated>2026-10-19T04:07:44.904Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 5,094,548 USDT (~$5.1M) · 04:04 UTC
+From: 0xf6a8…e2a7
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x785dfd9f8fbf24440c9bb68d09e884f45ccb2e813d1e158d8fe1b752fe9e7ee1
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61537.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29580"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29580</id>
+    <updated>2026-10-19T04:05:52.407Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Deposit cluster: 5 large deposits ($28M) in 6h.
+
+📥 5.1M USDT ($5.1M)  →  Binance 14  0xf6a834…
+
+7d: $2609M in · $2212M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/29579"/>
@@ -848,35 +880,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 4,700,000 USDT (~$4.7M) · 22:53 UTC</title>
-    <link href="https://t.me/sgnl_free/29531"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29531</id>
-    <updated>2026-10-18T22:57:38.078Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 4,700,000 USDT (~$4.7M) · 22:53 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x109e…c671
-Tx: https://etherscan.io/tx/0x5e13edb8869ff91f39b1cf446391903403e19df97ee11323c53419e495b4773b
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61617.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🟠 ETH STAKING DROUGHT</title>
-    <link href="https://t.me/sgnl_free/29530"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29530</id>
-    <updated>2026-10-18T22:53:56.038Z</updated>
-    <summary type="text">🟠 ETH STAKING DROUGHT
-
-24h inflow collapsed to 7.7K ETH (~241 validators)
-Rate: 24% of 30-day baseline
-ETH price: $2393
-
-Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
   </entry>
 </feed>
