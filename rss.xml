@@ -5,7 +5,57 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T08:58:57.704Z</updated>
+  <updated>2026-10-19T09:03:57.699Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-10-18</title>
+    <link href="https://t.me/sgnl_free/29614"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29614</id>
+    <updated>2026-10-19T09:00:19.523Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-18
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 20
+Median peak spike (top 50): 5.6x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump mucron: 24.0x  vol1h=$797.4K  price1h +288.0%
+  🟢 pump ZENO: 24.0x  vol1h=$62.6K  price1h +202.0%
+  🟢 pump sir: 24.0x  vol1h=$49.0K  price1h +97.2%
+  🟢 pump bwigitte: 24.0x  vol1h=$86.2K  price1h +73.6%
+  🟢 pump WIF: 24.0x  vol1h=$299.6K  price1h +39.1%
+  🟢 pump USOE: 23.7x  vol1h=$6.3K  price1h +10.9%
+  🟢 pump PIPS: 21.2x  vol1h=$253.1K  price1h +95.3%
+  🟢 pump Groklet: 19.4x  vol1h=$311.2K  price1h +131.0%
+  🟢 pump CATONICE: 19.2x  vol1h=$800.0K  price1h +373.0%
+  🟢 pump Deadpool : 17.4x  vol1h=$204.8K  price1h +265.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-18</title>
+    <link href="https://t.me/sgnl_free/29613"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29613</id>
+    <updated>2026-10-19T09:00:03.552Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-18
+
+Top 5 whale-cluster events:
+• $97M → CEX | 8 wallets | 08:54Z
+• $79M → CEX | 6 wallets | 08:54Z
+• $79M → CEX | 6 wallets | 08:00Z
+• $79M → CEX | 6 wallets | 08:10Z
+• $61M → CEX | 5 wallets | 08:00Z
+
+Alerts fired (24h):
+• Whale-cluster←CEX: 20
+• Whale-cluster→CEX: 16
+• Whale-large→CEX: 4
+• Whale-large←CEX: 3
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/29612"/>
@@ -831,42 +881,6 @@ From: 0xeae7…a4f4
 To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
 Tx: https://etherscan.io/tx/0xa6548da81ce52eadb799a39f28974bba62aa5ad382844a3b5ba03e51bc125280
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61571.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/29564"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29564</id>
-    <updated>2026-10-19T01:18:09.312Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0005 SOL
-• 95th: 0.0101 SOL
-• 99th: 0.0101 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,363,300 USDT (~$1.4M) · 01:02 UTC</title>
-    <link href="https://t.me/sgnl_free/29563"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29563</id>
-    <updated>2026-10-19T01:07:38.996Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,363,300 USDT (~$1.4M) · 01:02 UTC
-From: 0x27df…3305
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x6f2fc3c1f6501f07013061d2d95b7f08f14b9be3161ccbd84fd47ec1b0cdd8b1
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61606.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
