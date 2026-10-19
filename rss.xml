@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T11:18:57.720Z</updated>
+  <updated>2026-10-19T11:23:57.714Z</updated>
+  <entry>
+    <title>🟠 ETH STAKING DROUGHT</title>
+    <link href="https://t.me/sgnl_free/29626"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29626</id>
+    <updated>2026-10-19T11:23:55.844Z</updated>
+    <summary type="text">🟠 ETH STAKING DROUGHT
+
+24h inflow collapsed to 6.2K ETH (~193 validators)
+Rate: 20% of 30-day baseline
+ETH price: $2416
+
+Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 870.00 ETH (~$2.1M) · 11:14 UTC</title>
     <link href="https://t.me/sgnl_free/29625"/>
@@ -847,22 +860,5 @@ Base: 24.4%  ·  Rewards: n/a  ·  TVL: $9.7M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2289.01 ETH (~$5.5M) · 03:04 UTC</title>
-    <link href="https://t.me/sgnl_free/29576"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29576</id>
-    <updated>2026-10-19T03:07:38.011Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2289.01 ETH (~$5.5M) · 03:04 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x6cc487771f93058f0314ffe73da65c484631299116611496148a5bfc7273014c
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61527.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
