@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T19:58:57.739Z</updated>
+  <updated>2026-10-19T20:03:57.742Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29692"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29692</id>
+    <updated>2026-10-19T20:00:51.573Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 14 large deposits ($117M) · 5 large withdrawals ($32M).
+
+📥 10.0M USDT ($10.0M)  →  Binance 14  0xea59bb…
+
+7d: $2329M in · $1732M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📊 3 inflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/29691"/>
@@ -794,22 +809,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🏦 Exchange reserves · 13 monitored wallets</title>
-    <link href="https://t.me/sgnl_free/29642"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29642</id>
-    <updated>2026-10-19T13:30:46.491Z</updated>
-    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
-
-Total: $18.89B · 24h net change +$32M (+0.17%)
-
-ETH: 693.4K  ($1681M)
-USDT: $17209M
-USDC: $0.1M
-DAI: $0.03M
-
-Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
