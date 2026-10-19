@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T23:18:57.750Z</updated>
+  <updated>2026-10-19T23:23:57.749Z</updated>
+  <entry>
+    <title>🟠 ETH STAKING DROUGHT</title>
+    <link href="https://t.me/sgnl_free/29708"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29708</id>
+    <updated>2026-10-19T23:23:52.730Z</updated>
+    <summary type="text">🟠 ETH STAKING DROUGHT
+
+24h inflow collapsed to 9.3K ETH (~292 validators)
+Rate: 29% of 30-day baseline
+ETH price: $2404
+
+Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/29707"/>
@@ -800,31 +813,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-18</title>
-    <link href="https://t.me/sgnl_free/29658"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29658</id>
-    <updated>2026-10-19T15:00:18.845Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-18
-
-Tokens with liquidity drop ≥50%: 9
-Tokens with liquidity drop ≥90%: 3
-Tokens with liquidity drop ≥75%: 6
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL Eternia: -92.8%  $71.1K → $5.1K  in 6.3h
-  🚨 CRITICAL PIPS: -91.0%  $36.4K → $3.3K  in 10.1h
-  🚨 CRITICAL bwigitte: -90.2%  $27.9K → $2.7K  in 3.1h
-  ⛔ SEVERE WIF: -89.8%  $22.7K → $2.3K  in 3.3h
-  ⛔ SEVERE mucron: -80.6%  $163.1K → $31.6K  in 8.8h
-  ⛔ SEVERE AFC: -76.3%  $33.1K → $7.8K  in 11.9h
-  ⚠ HIGH CATSZN: -74.7%  $109.4K → $27.7K  in 8.4h
-  ⚠ HIGH iMolest : -72.8%  $28.5K → $7.7K  in 21.9h
-  ⚠ HIGH Chaton: -51.8%  $94.4K → $45.5K  in 4.1h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
   </entry>
 </feed>
