@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T15:13:57.720Z</updated>
+  <updated>2026-10-19T15:18:57.723Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 4,400,000 USDT (~$4.4M) · 15:12 UTC</title>
+    <link href="https://t.me/sgnl_free/29662"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29662</id>
+    <updated>2026-10-19T15:18:01.897Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 4,400,000 USDT (~$4.4M) · 15:12 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xdca4…5223
+Tx: https://etherscan.io/tx/0x083f0707b8faf6151089185a86aa64e2dcb8fe25135da2552a2ae602e4159830
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 31340.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/29661"/>
@@ -831,21 +848,5 @@ Alerts fired (24h):
 All observations timestamped. Methodology public.
 
 #onchain #dailydigest</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/29612"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29612</id>
-    <updated>2026-10-19T08:30:51.510Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 8 large deposits ($97M) · 4 large withdrawals ($30M).
-
-📥 10.0M USDT ($10.0M)  →  Binance 14  0xc8262e…
-📥 8.3M USDT ($8.3M)  →  Binance 14  0xe8887c…
-
-7d: $2412M in · $1980M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
