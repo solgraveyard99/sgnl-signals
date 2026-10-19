@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T17:18:57.743Z</updated>
+  <updated>2026-10-19T17:23:57.728Z</updated>
+  <entry>
+    <title>🟠 ETH STAKING DROUGHT</title>
+    <link href="https://t.me/sgnl_free/29678"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29678</id>
+    <updated>2026-10-19T17:23:46.244Z</updated>
+    <summary type="text">🟠 ETH STAKING DROUGHT
+
+24h inflow collapsed to 6.7K ETH (~210 validators)
+Rate: 22% of 30-day baseline
+ETH price: $2399
+
+Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,873,963 USDT (~$1.9M) · 17:06 UTC</title>
     <link href="https://t.me/sgnl_free/29677"/>
@@ -806,31 +819,5 @@ Total tracked: $272.7B  (24h: +$38M)
 
 Source: DeFiLlama stablecoin supply data.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-10-18</title>
-    <link href="https://t.me/sgnl_free/29628"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29628</id>
-    <updated>2026-10-19T12:00:03.952Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-18
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    4.8K μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: → 0% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 287.3K μlamp | Orca: 303.6K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
