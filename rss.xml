@@ -5,7 +5,54 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T11:58:57.716Z</updated>
+  <updated>2026-10-19T12:03:57.706Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/29629"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29629</id>
+    <updated>2026-10-19T12:00:19.628Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $272.7B  (24h: +$38M)
+
+⚪ USDT: $183.46B  (+$30M)
+🔴 USDC: $72.50B  ($-123M)
+🟢 USDS: $7.01B  (+$147M)
+⚪ DAI: $4.72B  ($-5M)
+⚪ USDe: $4.68B  ($-1M)
+⚪ FDUSD: $0.31B  ($-10M)
+
+📊 Net supply Δ24h: +$38M (near-flat band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-18</title>
+    <link href="https://t.me/sgnl_free/29628"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29628</id>
+    <updated>2026-10-19T12:00:03.952Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-18
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    4.8K μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 287.3K μlamp | Orca: 303.6K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/29627"/>
@@ -819,43 +866,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/29579"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29579</id>
-    <updated>2026-10-19T03:43:18.330Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0002 SOL
-• 99th: 0.0109 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/29578"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29578</id>
-    <updated>2026-10-19T03:34:19.278Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0013 SOL
-• 99th: 0.0299 SOL (~$3)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
