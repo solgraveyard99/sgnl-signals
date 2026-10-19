@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T13:43:57.719Z</updated>
+  <updated>2026-10-19T13:48:57.712Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 4,473,614 USDT (~$4.5M) · 13:46 UTC</title>
+    <link href="https://t.me/sgnl_free/29647"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29647</id>
+    <updated>2026-10-19T13:47:43.377Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 4,473,614 USDT (~$4.5M) · 13:46 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x6c26405b4957abacde092019939ea3961e6df0b1152a8fc083873382c4b856e3
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61239.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1876.00 ETH (~$4.5M) · 13:44 UTC</title>
+    <link href="https://t.me/sgnl_free/29646"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29646</id>
+    <updated>2026-10-19T13:47:42.951Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1876.00 ETH (~$4.5M) · 13:44 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xa1ce40bcc7d95047e2fec3999491c178576ddd6d4ba421e682c39635372f0591
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61224.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>⛽ Gas Check · 24h</title>
     <link href="https://t.me/sgnl_free/29645"/>
@@ -817,48 +851,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/29597"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29597</id>
-    <updated>2026-10-19T06:28:08.016Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0091 SOL
-• 99th: 0.8037 SOL (~$80)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🪦 Pump.fun Daily Survival Report — 2026-10-18</title>
-    <link href="https://t.me/sgnl_free/29596"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29596</id>
-    <updated>2026-10-19T06:01:00.137Z</updated>
-    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-10-18
-
-Last 24h cohort: 0 launches
-  Graduated to Raydium: 0 (0.000%)
-  Timed out at 24h: 0 (0.000%)
-
-When tokens DO graduate, they graduate fast:
-  Median time-to-graduation: 0.0 min
-  Max observed today: 0.0 min
-  Graduations after 6 min: 0
-
-Cumulative since 2026-05-08 (156 days):
-  Cohort: 4,181,290
-  Total graduations: 31,684 (0.7578%)
-  Total timeouts: 4,149,606 (99.2422%)
-
-Source: Pump.fun on-chain + DexScreener
-Survival ≠ profitability. DYOR.</summary>
   </entry>
 </feed>
