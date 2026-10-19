@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T09:33:57.692Z</updated>
+  <updated>2026-10-19T09:38:57.702Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 4,356,862 USDT (~$4.4M) · 09:34 UTC</title>
+    <link href="https://t.me/sgnl_free/29618"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29618</id>
+    <updated>2026-10-19T09:37:50.823Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 4,356,862 USDT (~$4.4M) · 09:34 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xe9805d41edc8748ef9a92253d5b2e8a5c084380569205866da9f7e63a2c89c87
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61429.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/29617"/>
@@ -866,22 +883,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 864.00 ETH (~$2.1M) · 02:00 UTC</title>
-    <link href="https://t.me/sgnl_free/29568"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29568</id>
-    <updated>2026-10-19T02:07:37.859Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 864.00 ETH (~$2.1M) · 02:00 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xf5d239b94472359ccbdd7094821d21217879041255ce1234f048505fa2878b76
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61550.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
