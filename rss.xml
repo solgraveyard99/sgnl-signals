@@ -5,7 +5,60 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T00:13:57.657Z</updated>
+  <updated>2026-10-19T00:18:57.660Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1000.02 ETH (~$2.4M) · 00:14 UTC</title>
+    <link href="https://t.me/sgnl_free/29554"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29554</id>
+    <updated>2026-10-19T00:17:51.253Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1000.02 ETH (~$2.4M) · 00:14 UTC
+From: 0x9a21…6e42
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xea3985997aa4871db3221d6ef3726cbf81232e4c92b95c72c0d027f0d9da6af5
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61573.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/29553"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29553</id>
+    <updated>2026-10-19T00:14:14.346Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $80000 — expiry 27NOV26
+Direction: SELL
+Notional: ~$10258K
+Contracts: 125
+Implied vol: 37.4%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/29552"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29552</id>
+    <updated>2026-10-19T00:13:58.688Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $80000 — expiry 27NOV26
+Direction: SELL
+Notional: ~$10258K
+Contracts: 125
+Implied vol: 37.5%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>📊 Activity summary · 1 active observation</title>
     <link href="https://t.me/sgnl_free/29551"/>
@@ -794,61 +847,6 @@ From: 0xc17a…a753
 To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
 Tx: https://etherscan.io/tx/0x611dbddd27c1a77d859ebf9512bd375fd842e0b65a0a65a316e817db33fc33c0
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61723.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-17</title>
-    <link href="https://t.me/sgnl_free/29504"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29504</id>
-    <updated>2026-10-18T15:00:04.919Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-17
-
-Tokens with liquidity drop ≥50%: 4
-Tokens with liquidity drop ≥90%: 1
-Tokens with liquidity drop ≥75%: 1
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL CARDBOARD: -94.7%  $40.6K → $2.1K  in 1.3h
-  ⚠ HIGH AE: -71.8%  $38.1K → $10.8K  in 5.9h
-  ⚠ HIGH OMNI: -63.0%  $84.5K → $31.3K  in 3.4h
-  ⚠ HIGH Ventrion: -60.1%  $26.1K → $10.4K  in 1.2h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>⏰ DAO VOTE ENDING SOON · Aave</title>
-    <link href="https://t.me/sgnl_free/29503"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29503</id>
-    <updated>2026-10-18T14:53:46.437Z</updated>
-    <summary type="text">⏰ DAO VOTE ENDING SOON · Aave
-
-[ARFC] Onboard USAT to Aave V3 Core Instance and Aave V4 Core Hub on Ethereum
-
-Ends in: ~3h
-Token: $AAVE  ·  Votes: 0.37M tokens
-Status: High-impact keyword match
-
-If the outcome lands on a protocol-critical parameter, expect price reaction on token within 24h of close.
-
-https://snapshot.org/#/aavedao.eth/proposal/0x025fab1017e6da146fd56affe33737bd6b8476c9ace78466090156c8ea09f7ab</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 939.00 ETH (~$2.2M) · 14:31 UTC</title>
-    <link href="https://t.me/sgnl_free/29502"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29502</id>
-    <updated>2026-10-18T14:38:01.555Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 939.00 ETH (~$2.2M) · 14:31 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x51c7…2a7f
-Tx: https://etherscan.io/tx/0x2160d3d609d3acd69f080886614902343d49ef43578af0bde4f1e4b702742421
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 33850.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
