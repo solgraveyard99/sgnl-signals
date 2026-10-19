@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-19T10:23:57.692Z</updated>
+  <updated>2026-10-19T10:28:57.697Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1600.00 ETH (~$3.9M) · 10:22 UTC</title>
+    <link href="https://t.me/sgnl_free/29623"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29623</id>
+    <updated>2026-10-19T10:27:37.853Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1600.00 ETH (~$3.9M) · 10:22 UTC
+From: 0xbd9f…54ed
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xf65408fd3dffe72c72572cad64a12eaf7624c31d8f7db22c685ed742431b3661
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61381.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,155,950 USDT (~$1.2M) · 10:13 UTC</title>
     <link href="https://t.me/sgnl_free/29622"/>
@@ -858,26 +875,5 @@ Every trade is logged and published. Paper mode until validation targets hit (30
 Not financial advice. Data for decision support.
 
 📲 t.me/sgnl_free</summary>
-  </entry>
-  <entry>
-    <title>🍯 Solana Honeypot / Trap Watch — 2026-10-18</title>
-    <link href="https://t.me/sgnl_free/29573"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29573</id>
-    <updated>2026-10-19T03:00:18.179Z</updated>
-    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-10-18
-
-Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
-Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
-
-Top 0 suspicious patterns yesterday:
-  (none flagged — quiet honeypot day)
-
-How to read:
-  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
-  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
-
-NOT a guarantee — thin sell side can be legitimate for very fresh launches.
-Always test with small amount before sizing up. Use rugcheck.xyz to verify.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
