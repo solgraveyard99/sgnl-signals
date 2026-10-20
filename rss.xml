@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-20T13:28:57.813Z</updated>
+  <updated>2026-10-20T13:33:57.814Z</updated>
+  <entry>
+    <title>🏦 Exchange reserves · 13 monitored wallets</title>
+    <link href="https://t.me/sgnl_free/29825"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29825</id>
+    <updated>2026-10-20T13:30:53.265Z</updated>
+    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
+
+Total: $18.92B · 24h net change +$34M (+0.18%)
+
+ETH: 711.2K  ($1704M)
+USDT: $17220M
+USDC: $0.1M
+DAI: $0.03M
+
+Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/29824"/>
@@ -830,19 +847,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📡 SGNL Daily Digest · 2026-10-19</title>
-    <link href="https://t.me/sgnl_free/29775"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29775</id>
-    <updated>2026-10-20T08:00:16.948Z</updated>
-    <summary type="text">📡 SGNL Daily Digest · 2026-10-19
-What 30+ SGNL observers caught in the last 24h
-
-🌉 Cross-chain (Wormhole, 24h)
-$11.5M across 9882 txs · top route Solana → Solana
-
-
-Free signals · No advice · t.me/sgnl_free</summary>
   </entry>
 </feed>
