@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-20T03:23:57.767Z</updated>
+  <updated>2026-10-20T03:28:57.771Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 3,003,366 USDT (~$3.0M) · 03:20 UTC</title>
+    <link href="https://t.me/sgnl_free/29751"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29751</id>
+    <updated>2026-10-20T03:28:01.657Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 3,003,366 USDT (~$3.0M) · 03:20 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x838c…9bb5
+Tx: https://etherscan.io/tx/0xac850c0447d1d236a8b484065c98b6ba3b86e0394036b8496cc84250eaf20f3c
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 30734.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/29750"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29750</id>
+    <updated>2026-10-20T03:24:06.589Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0011 SOL
+• 99th: 0.0522 SOL (~$5)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/29749"/>
@@ -845,48 +881,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-10-18</title>
-    <link href="https://t.me/sgnl_free/29701"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29701</id>
-    <updated>2026-10-19T21:00:03.381Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-10-18
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 20
-Strong-bias tokens (buy/sell ≥3x): 6
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 startupSI: 10727 buys / 3226 sells (3.3x)  vol1h=$750.4K  price1h +213%
-  📈 Chaton: 3261 buys / 443 sells (7.4x)  vol1h=$142.8K  price1h +7%
-  📈 CATONICE: 7298 buys / 2421 sells (3.0x)  vol1h=$582.8K  price1h +10%
-  📈 YILONGMA: 3908 buys / 811 sells (4.8x)  vol1h=$155.7K  price1h +40%
-  📈 CATSZN: 10157 buys / 6008 sells (1.7x)  vol1h=$688.9K  price1h +111%
-  📈 Doomsday: 3091 buys / 1928 sells (1.6x)  vol1h=$118.3K  price1h +108%
-  📈 Eternia: 1399 buys / 520 sells (2.7x)  vol1h=$495.0K  price1h -18%
-  📈 Gold: 2227 buys / 1419 sells (1.6x)  vol1h=$171.0K  price1h -25%
-  📈 SI276: 1265 buys / 561 sells (2.3x)  vol1h=$45.3K  price1h +83%
-  📈 P6900: 346 buys / 143 sells (2.4x)  vol1h=$1.0K  price1h +2%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 440.73 ETH (~$1.1M) · 20:52 UTC</title>
-    <link href="https://t.me/sgnl_free/29700"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29700</id>
-    <updated>2026-10-19T20:57:37.901Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 440.73 ETH (~$1.1M) · 20:52 UTC
-From: 0x08dc…4396
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x23b90793e09e43450a9ff04895a7e58a05bd2442bcb8275c375a1d814ef015d8
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60922.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
