@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-20T19:43:57.827Z</updated>
+  <updated>2026-10-20T19:48:57.830Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 13060.44 ETH (~$31.8M) · 19:42 UTC</title>
+    <link href="https://t.me/sgnl_free/29872"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29872</id>
+    <updated>2026-10-20T19:48:02.536Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 13060.44 ETH (~$31.8M) · 19:42 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x41104212bd495bebc6551b5699b4c928fc42d5b2634344134cb6bd1c32eff498
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 30625.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 13060.44 ETH (~$31.8M) · 19:42 UTC</title>
+    <link href="https://t.me/sgnl_free/29871"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29871</id>
+    <updated>2026-10-20T19:47:38.003Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 13060.44 ETH (~$31.8M) · 19:42 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x9696…6976
+Tx: https://etherscan.io/tx/0x41104212bd495bebc6551b5699b4c928fc42d5b2634344134cb6bd1c32eff498
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60249.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3,805,497 USDT (~$3.8M) · 19:35 UTC</title>
     <link href="https://t.me/sgnl_free/29870"/>
@@ -775,43 +809,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌅 Morning Brief · 2026-10-20</title>
-    <link href="https://t.me/sgnl_free/29822"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29822</id>
-    <updated>2026-10-20T13:04:16.624Z</updated>
-    <summary type="text">🌅 Morning Brief · 2026-10-20
-
-🐋 Whale flow (24h)
-55 large moves · net +$93M 📥 toward exchanges
-
-⚡ Perp funding snapshot
-BTC ⚪ neutral funding (HL)
-ETH ⚪ neutral funding (HL)
-SOL ⚪ neutral funding (HL)
-
-💰 Top yields right now
-Stables: 25.3% · veranta/USDC @ Base
-ETH/LST: 6.3% · fusion-by-ipor/WETH @ Ethereum
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1101.00 ETH (~$2.6M) · 12:53 UTC</title>
-    <link href="https://t.me/sgnl_free/29821"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29821</id>
-    <updated>2026-10-20T12:57:38.006Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1101.00 ETH (~$2.6M) · 12:53 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xb81eef272421634ac9209eab97c9187203ec3544df92d44c6d3675d61807bc69
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60367.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
