@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-20T17:18:57.820Z</updated>
+  <updated>2026-10-20T17:23:57.820Z</updated>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 18.0% APY</title>
+    <link href="https://t.me/sgnl_free/29856"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29856</id>
+    <updated>2026-10-20T17:23:46.501Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 18.0% APY
+ember-protocol / USDC on Ethereum
+Base: 18.0%  ·  Rewards: n/a  ·  TVL: $18.0M
+
+💡 +11.0% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/4ae1f481-ae46-5a2c-82a2-13e192180594</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,143,922 USDT (~$1.1M) · 17:06 UTC</title>
     <link href="https://t.me/sgnl_free/29855"/>
@@ -807,30 +824,5 @@ Total tracked: $271.7B  (24h: $-834M)
 
 Source: DeFiLlama stablecoin supply data.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-10-19</title>
-    <link href="https://t.me/sgnl_free/29806"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29806</id>
-    <updated>2026-10-20T12:00:09.913Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-19
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    n/a
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: → 0% (Jupiter median)
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 281.9K μlamp | Orca: 288.4K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
