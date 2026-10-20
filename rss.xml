@@ -5,7 +5,35 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-20T17:23:57.820Z</updated>
+  <updated>2026-10-20T17:28:57.825Z</updated>
+  <entry>
+    <title>🚀 ETH STAKING 30-DAY HIGH</title>
+    <link href="https://t.me/sgnl_free/29858"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29858</id>
+    <updated>2026-10-20T17:24:02.614Z</updated>
+    <summary type="text">🚀 ETH STAKING 30-DAY HIGH
+
+24h stake inflow hit a new 30-day high: 116.0K ETH
+~3,624 validators queued
+USD: $283.9M
+ETH: $2448
+
+Largest single-day stake inflow in 30 days. Strong institutional conviction signal.</summary>
+  </entry>
+  <entry>
+    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
+    <link href="https://t.me/sgnl_free/29857"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29857</id>
+    <updated>2026-10-20T17:24:02.204Z</updated>
+    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
+
+24h inflow: 116.0K ETH (~3,624 new validators)
+USD value: $283.9M
+Rate: 3.4× 30-day baseline
+ETH price: $2448
+
+Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 18.0% APY</title>
     <link href="https://t.me/sgnl_free/29856"/>
@@ -788,41 +816,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/29808"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29808</id>
-    <updated>2026-10-20T12:05:51.453Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 10 large deposits ($77M) · 10 large withdrawals ($84M).
-
-📤 3398 ETH ($8.1M)  ←  Binance 16  0xf8191d…
-
-7d: $2242M in · $1554M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/29807"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29807</id>
-    <updated>2026-10-20T12:00:10.353Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $271.7B  (24h: $-834M)
-
-🔴 USDT: $182.99B  ($-430M)
-🔴 USDC: $72.19B  ($-407M)
-⚪ USDS: $6.86B  (+$14M)
-⚪ DAI: $4.72B  ($-0M)
-⚪ USDe: $4.68B  (+$0M)
-⚪ FDUSD: $0.30B  ($-11M)
-
-📊 Net supply Δ24h: -$834M (contraction band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
