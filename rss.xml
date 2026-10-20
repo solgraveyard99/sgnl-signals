@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-20T21:03:57.833Z</updated>
+  <updated>2026-10-20T21:08:57.833Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 428.00 ETH (~$1.0M) · 21:01 UTC</title>
+    <link href="https://t.me/sgnl_free/29877"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29877</id>
+    <updated>2026-10-20T21:07:42.317Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 428.00 ETH (~$1.0M) · 21:01 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x2a3f9158b315f11d606873fb3edd5c4061fa8819c21f06d70658b03f48cebd5e
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60281.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>📈 Solana Buy Momentum Digest — 2026-10-19</title>
     <link href="https://t.me/sgnl_free/29876"/>
@@ -806,19 +823,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/29827"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29827</id>
-    <updated>2026-10-20T13:38:47.788Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.132344603 gwei (fast)  ·  🟢 cheap
-Safe: 0.119313276  ·  Propose: 0.131244603  ·  BaseFee: 0.1193
-
-24h range: 0.04–0.69 gwei  (avg 0.14)
-
-Simple transfer cost now: ~$0.0069</summary>
   </entry>
 </feed>
