@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-20T06:13:57.772Z</updated>
+  <updated>2026-10-20T06:18:57.772Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2995.58 ETH (~$7.2M) · 06:16 UTC</title>
+    <link href="https://t.me/sgnl_free/29762"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29762</id>
+    <updated>2026-10-20T06:17:41.016Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2995.58 ETH (~$7.2M) · 06:16 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0xed9b…bcdd
+Tx: https://etherscan.io/tx/0xfbc18207fe49b4323694fecbc9525f2edb84185c9008077d8ce9a51969e04ad1
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60657.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,500,000 USDT (~$1.5M) · 06:00 UTC</title>
     <link href="https://t.me/sgnl_free/29761"/>
@@ -875,33 +892,5 @@ BTC: $81,989 (24h: −0.1%) | SOL: $105.08 (24h: +0.9%)
 Market activity index: 60/100 (high band)
 Next snapshot: 17:00 UTC
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-19</title>
-    <link href="https://t.me/sgnl_free/29712"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29712</id>
-    <updated>2026-10-20T00:00:06.756Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-19
-
-24h state transitions tracked: 255
-  💀 Died (gone): 115
-  😴 Went dormant: 91
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 GREENLAND: had $0 liquidity · died at age 30.0d
-  💀 pogg: had $0 liquidity · died at age 30.0d
-  💀 Apu: had $0 liquidity · died at age 30.0d
-  💀 Sprout: had $0 liquidity · died at age 30.0d
-  💀 LCAT: had $0 liquidity · died at age 29.8d
-  💀 PumpTok: had $0 liquidity · died at age 20.6d
-  💀 Chachamaru: had $0 liquidity · died at age 20.3d
-  💀 FLIGHT14: had $0 liquidity · died at age 20.3d
-  💀 PumpOG: had $0 liquidity · died at age 10.8d
-  💀 Topless: had $0 liquidity · died at age 10.8d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
