@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-20T00:28:57.772Z</updated>
+  <updated>2026-10-20T00:33:57.757Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/29729"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29729</id>
+    <updated>2026-10-20T00:31:03.271Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Deposit cluster: 9 large deposits ($67M) in 6h.
+
+📥 3121 ETH ($7.5M)  →  Binance 14  0xeae738…
+
+7d: $2348M in · $1608M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/29728"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29728</id>
+    <updated>2026-10-20T00:30:07.264Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0007 SOL
+• 99th: 0.0649 SOL (~$6)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 13860.48 ETH (~$33.2M) · 00:22 UTC</title>
     <link href="https://t.me/sgnl_free/29727"/>
@@ -819,33 +853,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/29679"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29679</id>
-    <updated>2026-10-19T17:26:02.872Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 13 large deposits ($104M) · 9 large withdrawals ($65M).
-
-📥 5.0M USDT ($5.0M)  →  Binance 14  0x112c56…
-
-7d: $2303M in · $1732M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 ETH STAKING DROUGHT</title>
-    <link href="https://t.me/sgnl_free/29678"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29678</id>
-    <updated>2026-10-19T17:23:46.244Z</updated>
-    <summary type="text">🟠 ETH STAKING DROUGHT
-
-24h inflow collapsed to 6.7K ETH (~210 validators)
-Rate: 22% of 30-day baseline
-ETH price: $2399
-
-Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
   </entry>
 </feed>
