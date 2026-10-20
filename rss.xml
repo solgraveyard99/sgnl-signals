@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-20T00:23:57.757Z</updated>
+  <updated>2026-10-20T00:28:57.772Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 13860.48 ETH (~$33.2M) · 00:22 UTC</title>
+    <link href="https://t.me/sgnl_free/29727"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29727</id>
+    <updated>2026-10-20T00:27:37.962Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 13860.48 ETH (~$33.2M) · 00:22 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x4976…2327
+Tx: https://etherscan.io/tx/0x3428233685eb71fbf0b28cec1ac15095c671a100e6d15f41e928da2c35b627cd
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60817.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🆕 FRESH WALLET FUNDED</title>
+    <link href="https://t.me/sgnl_free/29726"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29726</id>
+    <updated>2026-10-20T00:24:17.325Z</updated>
+    <summary type="text">🆕 FRESH WALLET FUNDED
+
+Binance 14 → fresh wallet
+Wallet: 0x51c7…2a7f (1 prior txs)
+Amount: $2.13M ETH
+Tier: TIER2
+
+Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
+
+Statistical pattern. Not financial advice.
+
+Tx: https://etherscan.io/tx/0x163cf9627dc71687d5fcac25512471febb8a7bb594e5042febbe11e87dbbc280
+Wallet: https://etherscan.io/address/0x51c72848c68a965f66fa7a88855f9f7784502a7f</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/29725"/>
@@ -811,37 +847,5 @@ Rate: 22% of 30-day baseline
 ETH price: $2399
 
 Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,873,963 USDT (~$1.9M) · 17:06 UTC</title>
-    <link href="https://t.me/sgnl_free/29677"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29677</id>
-    <updated>2026-10-19T17:07:50.214Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,873,963 USDT (~$1.9M) · 17:06 UTC
-From: 0xc17a…a753
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x4354af460624e49157c1a1c00223a8512b0765f876b11fb74d0a74dfe8a39859
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 61045.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/29676"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29676</id>
-    <updated>2026-10-19T17:00:51.536Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 12 large deposits ($99M) · 9 large withdrawals ($65M).
-
-📥 5.9M USDT ($5.9M)  →  Binance 14  0xeae738…
-
-7d: $2297M in · $1732M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
