@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-20T02:03:57.772Z</updated>
+  <updated>2026-10-20T02:08:57.764Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 500.00 ETH (~$1.2M) · 02:03 UTC</title>
+    <link href="https://t.me/sgnl_free/29741"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29741</id>
+    <updated>2026-10-20T02:08:03.176Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 500.00 ETH (~$1.2M) · 02:03 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x549d…3425
+Tx: https://etherscan.io/tx/0x0db32bf5ee2e1d9f4f64489895b1bb5bd2b91c8b798d5642249465e939c53d7b
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 30718.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/29740"/>
@@ -842,23 +859,6 @@ Statistical pattern. Not financial advice.</summary>
 7d: $2329M in · $1732M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 3 inflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/29691"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29691</id>
-    <updated>2026-10-19T19:13:19.334Z</updated>
-    <summary type="text">📊 3 inflow-heavy observations detected
-Sample: 3 concurrent observations · $130M total flow.
-
-Top observations (by size):
-• 🐋 Whale deposit cluster: 13 moves, $107M to exchanges
-• 🐋 Large deposit: $12M ETH → Binance 14
-• 🐋 Large deposit: $11M USDT → Binance 14
-
-Opposing flow: $38M (filtered — minority)
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
