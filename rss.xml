@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-20T23:48:57.856Z</updated>
+  <updated>2026-10-20T23:53:57.852Z</updated>
+  <entry>
+    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
+    <link href="https://t.me/sgnl_free/29885"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29885</id>
+    <updated>2026-10-20T23:53:57.440Z</updated>
+    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
+
+24h inflow: 216.1K ETH (~6,753 new validators)
+USD value: $528.9M
+Rate: 5.5× 30-day baseline
+ETH price: $2448
+
+Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 958.00 ETH (~$2.3M) · 23:44 UTC</title>
     <link href="https://t.me/sgnl_free/29884"/>
@@ -811,23 +825,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 7d: $2210M in · $1579M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 3 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/29835"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29835</id>
-    <updated>2026-10-20T14:18:19.413Z</updated>
-    <summary type="text">📊 3 outflow-heavy observations detected
-Sample: 3 concurrent observations · $165M total flow.
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 13 moves, $126M off exchanges
-• 🐋 Large withdrawal: $20M USDT ← Binance 14
-• 🐋 Large withdrawal: $20M USDT ← Binance 17
-
-Opposing flow: $55M (filtered — minority)
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
