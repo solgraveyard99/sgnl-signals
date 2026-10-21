@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T00:58:57.841Z</updated>
+  <updated>2026-10-21T01:03:57.843Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/29907"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29907</id>
+    <updated>2026-10-21T01:00:07.184Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0030 SOL
+• 99th: 0.0122 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/29906"/>
@@ -833,19 +852,5 @@ USD: $283.9M
 ETH: $2448
 
 Largest single-day stake inflow in 30 days. Strong institutional conviction signal.</summary>
-  </entry>
-  <entry>
-    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
-    <link href="https://t.me/sgnl_free/29857"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29857</id>
-    <updated>2026-10-20T17:24:02.204Z</updated>
-    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
-
-24h inflow: 116.0K ETH (~3,624 new validators)
-USD value: $283.9M
-Rate: 3.4× 30-day baseline
-ETH price: $2448
-
-Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
   </entry>
 </feed>
