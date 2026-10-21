@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T14:18:48.757Z</updated>
+  <updated>2026-10-21T14:23:48.760Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,852,339 USDT (~$1.9M) · 14:11 UTC</title>
+    <link href="https://t.me/sgnl_free/30023"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30023</id>
+    <updated>2026-10-21T14:20:53.707Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,852,339 USDT (~$1.9M) · 14:11 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x2c9c…8e38
+Tx: https://etherscan.io/tx/0x262e99650703583f8f69b3205e4feb683fc5575cf9affe5eddc1b397871b4ca6
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 29357.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 429.09 ETH (~$1.1M) · 14:04 UTC</title>
     <link href="https://t.me/sgnl_free/30022"/>
@@ -832,29 +849,5 @@ Top 10 by peak spike ratio (volume1h / avg-hourly):
 Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
 Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-10-20</title>
-    <link href="https://t.me/sgnl_free/29973"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29973</id>
-    <updated>2026-10-21T09:00:07.712Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-10-20
-
-Top 5 whale-cluster events:
-• $158M ← CEX | 15 wallets | 16:35Z
-• $158M ← CEX | 15 wallets | 16:35Z
-• $158M ← CEX | 15 wallets | 15:24Z
-• $158M ← CEX | 15 wallets | 16:35Z
-• $155M → CEX | 14 wallets | 08:38Z
-
-Alerts fired (24h):
-• Whale-cluster→CEX: 48
-• Whale-cluster←CEX: 43
-• Whale-large→CEX: 9
-• Whale-large←CEX: 7
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
