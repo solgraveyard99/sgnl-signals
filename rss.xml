@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T04:23:57.864Z</updated>
+  <updated>2026-10-21T04:28:57.855Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 500.00 ETH (~$1.2M) · 04:22 UTC</title>
+    <link href="https://t.me/sgnl_free/29936"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29936</id>
+    <updated>2026-10-21T04:27:37.755Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 500.00 ETH (~$1.2M) · 04:22 UTC
+From: 0xe866…7e94
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xd80f1c50e2cc3d498f033f07e15888f371e72462526a7fcb055bb1e0f316cac3
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60170.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 500.01 ETH (~$1.2M) · 04:12 UTC</title>
     <link href="https://t.me/sgnl_free/29935"/>
@@ -876,19 +893,5 @@ How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume
 Companion to morning survival report (06:00 UTC).
 Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
 DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🚀 ETH STAKING 30-DAY HIGH</title>
-    <link href="https://t.me/sgnl_free/29886"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29886</id>
-    <updated>2026-10-20T23:53:57.940Z</updated>
-    <summary type="text">🚀 ETH STAKING 30-DAY HIGH
-
-24h stake inflow hit a new 30-day high: 216.1K ETH
-~6,753 validators queued
-USD: $528.9M
-ETH: $2448
-
-Largest single-day stake inflow in 30 days. Strong institutional conviction signal.</summary>
   </entry>
 </feed>
