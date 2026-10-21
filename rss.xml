@@ -5,7 +5,54 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T17:58:48.774Z</updated>
+  <updated>2026-10-21T18:03:48.797Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-10-20</title>
+    <link href="https://t.me/sgnl_free/30057"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30057</id>
+    <updated>2026-10-21T18:01:24.183Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-20
+
+Yesterday&apos;s cohort: 23,575 launches
+  🟢 STRONG (score 8+): 439 (1.86%)
+  🟡 MIXED (score 5-7): 9,617 (40.79%)
+  🔴 WEAK  (score 0-4): 13,519 (57.34%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG ZET mcap=702 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG RAT mcap=1248 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG KAI mcap=104 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG RL mcap=710 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG RL mcap=99 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG SAI mcap=148 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG POKEARENA mcap=2000 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG DTC mcap=75 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG DTC mcap=710 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG WAVY mcap=710 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (32 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 992.00 ETH (~$2.5M) · 18:00 UTC</title>
+    <link href="https://t.me/sgnl_free/30056"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30056</id>
+    <updated>2026-10-21T18:00:28.145Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 992.00 ETH (~$2.5M) · 18:00 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x359d9f45dc8ddbcd891055865edc8c74d94901739cbe01a8ebffed4e34de985a
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60146.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2,705,592 USDT (~$2.7M) · 17:35 UTC</title>
     <link href="https://t.me/sgnl_free/30055"/>
@@ -798,37 +845,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🏦 Exchange reserves · 13 monitored wallets</title>
-    <link href="https://t.me/sgnl_free/30007"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30007</id>
-    <updated>2026-10-21T13:30:49.607Z</updated>
-    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
-
-Total: $19.03B · 24h net change +$106M (+0.56%)
-
-ETH: 723.5K  ($1784M)
-USDT: $17244M
-USDC: $0.1M
-DAI: $0.04M
-
-Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30006"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30006</id>
-    <updated>2026-10-21T13:19:29.802Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 9 large deposits ($96M) · 16 large withdrawals ($109M).
-
-📤 11.1M USDT ($11.1M)  ←  Binance 16  0x98adef…
-
-7d: $2312M in · $1536M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
