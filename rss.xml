@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T19:38:48.793Z</updated>
+  <updated>2026-10-21T19:43:48.777Z</updated>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 18.2% APY</title>
+    <link href="https://t.me/sgnl_free/30076"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30076</id>
+    <updated>2026-10-21T19:38:50.613Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 18.2% APY
+kamino-lend / USDC on Solana
+Base: 18.2%  ·  Rewards: n/a  ·  TVL: $19.3M
+
+💡 +11.2% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/058afa77-d1cc-537c-9c28-1da002b45631</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2,955,616 USDT (~$3.0M) · 19:19 UTC</title>
     <link href="https://t.me/sgnl_free/30075"/>
@@ -816,32 +833,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-20</title>
-    <link href="https://t.me/sgnl_free/30026"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30026</id>
-    <updated>2026-10-21T15:00:03.990Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-20
-
-Tokens with liquidity drop ≥50%: 12
-Tokens with liquidity drop ≥90%: 10
-Tokens with liquidity drop ≥75%: 10
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL aDOGymous: -97.4%  $93.8K → $2.4K  in 9.0h
-  🚨 CRITICAL GDC: -97.1%  $84.4K → $2.4K  in 5.4h
-  🚨 CRITICAL RL: -96.1%  $82.3K → $3.2K  in 1.3h
-  🚨 CRITICAL Rosy: -96.1%  $77.6K → $3.0K  in 1.7h
-  🚨 CRITICAL PUNCHDOG: -96.0%  $84.7K → $3.4K  in 20m
-  🚨 CRITICAL LEONIDA: -94.7%  $39.1K → $2.1K  in 40m
-  🚨 CRITICAL OSI: -94.5%  $39.2K → $2.2K  in 1.2h
-  🚨 CRITICAL Twyne: -93.9%  $47.1K → $2.9K  in 6.0h
-  🚨 CRITICAL DACITY: -93.2%  $31.4K → $2.1K  in 5m
-  🚨 CRITICAL TROAD: -92.5%  $31.7K → $2.4K  in 2.0h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
   </entry>
 </feed>
