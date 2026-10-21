@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T12:08:48.746Z</updated>
+  <updated>2026-10-21T12:13:48.750Z</updated>
+  <entry>
+    <title>📊 Activity summary · 2 active observations</title>
+    <link href="https://t.me/sgnl_free/29995"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29995</id>
+    <updated>2026-10-21T12:09:07.919Z</updated>
+    <summary type="text">📊 Activity summary · 2 active observations
+
+Top 2 by size:
+• 🐋 Whale deposit cluster: 14 moves, $148M to exchanges
+• 🐋 Whale withdrawal cluster: 15 moves, $105M off exchanges
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/29994"/>
@@ -840,21 +853,5 @@ Rate: 6.9× 30-day baseline
 ETH price: $2437
 
 Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/29945"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29945</id>
-    <updated>2026-10-21T06:15:51.621Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Deposit cluster: 8 large deposits ($69M) in 6h.
-
-📥 7.0M USDT ($7.0M)  →  Binance 14  0x842641…
-📥 5.0M USDT ($5.0M)  →  Binance 14  0xe769a2…
-
-7d: $2298M in · $1570M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
