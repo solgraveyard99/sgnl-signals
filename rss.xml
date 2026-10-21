@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T06:18:57.856Z</updated>
+  <updated>2026-10-21T06:23:57.858Z</updated>
+  <entry>
+    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
+    <link href="https://t.me/sgnl_free/29946"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29946</id>
+    <updated>2026-10-21T06:23:46.272Z</updated>
+    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
+
+24h inflow: 268.5K ETH (~8,391 new validators)
+USD value: $654.2M
+Rate: 6.9× 30-day baseline
+ETH price: $2437
+
+Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/29945"/>
@@ -865,24 +879,6 @@ Direction: SELL
 Notional: ~$1036K
 Contracts: 12.5
 Implied vol: 26.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/29896"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29896</id>
-    <updated>2026-10-21T00:04:32.760Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $81500 — expiry 21OCT26
-Direction: BUY
-Notional: ~$1036K
-Contracts: 12.5
-Implied vol: 31.7%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
