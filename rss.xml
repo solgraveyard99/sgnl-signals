@@ -5,7 +5,57 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T08:58:48.740Z</updated>
+  <updated>2026-10-21T09:03:48.742Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-10-20</title>
+    <link href="https://t.me/sgnl_free/29974"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29974</id>
+    <updated>2026-10-21T09:00:08.128Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-20
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 28
+Median peak spike (top 50): 11.1x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump DTC: 24.0x  vol1h=$1.35M  price1h +1508.0%
+  🟢 pump PUNCHDOG: 24.0x  vol1h=$2.62M  price1h +666.0%
+  🟢 pump RL: 24.0x  vol1h=$2.91M  price1h +644.0%
+  🟢 pump GDC: 24.0x  vol1h=$766.6K  price1h +641.0%
+  🟢 pump WiSP: 24.0x  vol1h=$191.4K  price1h +621.0%
+  🟢 pump Rosy: 24.0x  vol1h=$1.94M  price1h +525.0%
+  🟢 pump OSI: 24.0x  vol1h=$275.1K  price1h +406.0%
+  🟢 pump DUST: 24.0x  vol1h=$293.7K  price1h +300.0%
+  🟢 pump LEONIDA: 24.0x  vol1h=$239.4K  price1h +297.0%
+  🟢 pump GTAa: 24.0x  vol1h=$351.6K  price1h +239.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-20</title>
+    <link href="https://t.me/sgnl_free/29973"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29973</id>
+    <updated>2026-10-21T09:00:07.712Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-20
+
+Top 5 whale-cluster events:
+• $158M ← CEX | 15 wallets | 16:35Z
+• $158M ← CEX | 15 wallets | 16:35Z
+• $158M ← CEX | 15 wallets | 15:24Z
+• $158M ← CEX | 15 wallets | 16:35Z
+• $155M → CEX | 14 wallets | 08:38Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 48
+• Whale-cluster←CEX: 43
+• Whale-large→CEX: 9
+• Whale-large←CEX: 7
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/29972"/>
@@ -813,54 +863,5 @@ https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x2281f0e25992b203f031854
 Statistical pattern. Not financial advice.
 
 #DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/29924"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29924</id>
-    <updated>2026-10-21T03:24:09.699Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-[ARFC] Onboard PAXGy to Aave V4 Global Dollar Hub
-
-DAO: aavedao.eth
-Votes cast: 20
-Total voting power: 486
-Voting ends: 2026-10-23 18:24 UTC
-
-https://snapshot.org/#/aavedao.eth/proposal/0xf987dd5aed6586169b232af7691e2cbb268cf61e2845bf6a04a83b60a5404bd8
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
-    <link href="https://t.me/sgnl_free/29923"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29923</id>
-    <updated>2026-10-21T03:03:46.252Z</updated>
-    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
-📅 2026-10-20
-
-⏱ Last 24 hours
-🚀 Futures (Hyperliquid): +$2.20 · 12 trades · WR 58%
-
-📆 Last 7 days
-🚀 Futures: $87.04 · 60 trades · WR 52%
-⚙️ Other Strategy: +0.00% · 3 trades · WR 0%
-
-📚 Cumulative since 2026-04-06
-🚀 Futures: $299.32 · 1542 trades · WR 51%
-🐋 Solana Momentum: -10971.08% · 988 trades · WR 33%
-🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
-🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
-⚙️ Other Strategy: +0.00% · 82 trades · WR 0%
-⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
-⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
-
-Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
-Not financial advice. Data for decision support.
-
-📲 t.me/sgnl_free</summary>
   </entry>
 </feed>
