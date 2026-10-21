@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T13:03:48.755Z</updated>
+  <updated>2026-10-21T13:08:48.753Z</updated>
+  <entry>
+    <title>🌅 Morning Brief · 2026-10-21</title>
+    <link href="https://t.me/sgnl_free/30000"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30000</id>
+    <updated>2026-10-21T13:03:53.463Z</updated>
+    <summary type="text">🌅 Morning Brief · 2026-10-21
+
+🐋 Whale flow (24h)
+60 large moves · net +$78M 📥 toward exchanges
+
+⚡ Perp funding snapshot
+BTC ⚪ neutral funding (HL)
+ETH ⚪ neutral funding (HL)
+SOL ⚪ neutral funding (HL)
+
+💰 Top yields right now
+Stables: 26.1% · veranta/USDC @ Base
+ETH/LST: 6.3% · fusion-by-ipor/WETH @ Ethereum
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 4,999,998 USDT (~$5.0M) · 12:48 UTC</title>
     <link href="https://t.me/sgnl_free/29999"/>
@@ -841,20 +862,5 @@ Rate: 6.9× 30-day baseline
 ETH price: $2443
 
 Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/29950"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29950</id>
-    <updated>2026-10-21T06:35:51.490Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 9 large deposits ($80M) · 3 large withdrawals ($29M).
-
-📤 6000 ETH ($14.6M)  ←  Binance 16  0xf89d7b…
-
-7d: $2310M in · $1578M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
