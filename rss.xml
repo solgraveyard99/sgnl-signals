@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T19:18:48.779Z</updated>
+  <updated>2026-10-21T19:23:48.774Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2,955,616 USDT (~$3.0M) · 19:19 UTC</title>
+    <link href="https://t.me/sgnl_free/30075"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30075</id>
+    <updated>2026-10-21T19:20:28.033Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2,955,616 USDT (~$3.0M) · 19:19 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x5913de1cc3727da119aaa64e8257ef63991b86ceebd39c695d20369d69a976ef
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60134.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/30074"/>
@@ -826,24 +843,5 @@ Top 10 biggest drops yesterday (peak → trough):
 Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
 Filter: peak liquidity ≥$20K, drop ≥50%.
 Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/30025"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30025</id>
-    <updated>2026-10-21T14:48:55.878Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0052 SOL
-• 99th: 0.0200 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
