@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T22:18:48.785Z</updated>
+  <updated>2026-10-21T22:23:48.792Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1066.00 ETH (~$2.7M) · 22:18 UTC</title>
+    <link href="https://t.me/sgnl_free/30086"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30086</id>
+    <updated>2026-10-21T22:20:51.802Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1066.00 ETH (~$2.7M) · 22:18 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xbc8a…5ce0
+Tx: https://etherscan.io/tx/0x9c87467a858aea84e3e4ebe2cce1cacaa37b8c56492b13e2497b9e5f93c8f240
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 28350.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 625.00 ETH (~$1.6M) · 22:03 UTC</title>
     <link href="https://t.me/sgnl_free/30085"/>
@@ -826,18 +843,5 @@ Statistical pattern. Not financial advice.
 
 Tx: https://etherscan.io/tx/0xaaaf18a73acde6fe12f3190372b99cb11b386a4aaf81b64b3bd0a7a78d9cfeca
 Wallet: https://etherscan.io/address/0xbee47b0fe59286778c9bfb28196368e0f0d7beee</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDT</title>
-    <link href="https://t.me/sgnl_free/30036"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30036</id>
-    <updated>2026-10-21T15:38:54.215Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDT
-Supply change 24h: -$521M
-New supply: $182.45B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
