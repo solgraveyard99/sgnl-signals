@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T09:58:48.741Z</updated>
+  <updated>2026-10-21T10:03:48.756Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,279,247 USDT (~$1.3M) · 09:51 UTC</title>
+    <link href="https://t.me/sgnl_free/29979"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29979</id>
+    <updated>2026-10-21T10:00:49.983Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,279,247 USDT (~$1.3M) · 09:51 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xc7d3…e668
+Tx: https://etherscan.io/tx/0x93ce1caf41fbbdf934829ef9a766404c947753884b1c3b279b294f2df78ecbe7
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1808.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1573.13 ETH (~$3.9M) · 10:00 UTC</title>
+    <link href="https://t.me/sgnl_free/29978"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29978</id>
+    <updated>2026-10-21T10:00:28.133Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1573.13 ETH (~$3.9M) · 10:00 UTC
+From: 0x0b2f…c8c2
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x3c55d8033df23adeaa6ca4efbf7c3b11a54c027f655fca0c8aa571a4c4c09e27
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60118.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/29977"/>
@@ -810,45 +844,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/29929"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29929</id>
-    <updated>2026-10-21T03:24:11.698Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-Should Starknet become an independent post-quantum L1?
-
-DAO: starknet.eth
-Votes cast: 2862
-Total voting power: 398779969
-Voting ends: 2026-10-22 09:32 UTC
-
-https://snapshot.org/#/starknet.eth/proposal/0x31dffc8b6f24c580540cc967fdede3d8e9d513c105d3f699a14ae65bd0dc5d74
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/29928"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29928</id>
-    <updated>2026-10-21T03:24:11.182Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-[CONSTITUTIONAL] AIP: Update Arbitrum One and Nova L1-Pricing Parameters for Ethereum Glamsterdam
-
-DAO: arbitrumfoundation.eth
-Votes cast: 953
-Total voting power: 64983261
-Voting ends: 2026-10-22 20:00 UTC
-
-https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x6bb55945d25b6a5ffe8469533b6c4953d27e0fd79e74ce1b5711eea9a3c47f4c
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
   </entry>
 </feed>
