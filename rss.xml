@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T13:33:48.767Z</updated>
+  <updated>2026-10-21T13:38:48.749Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/30010"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30010</id>
+    <updated>2026-10-21T13:38:39.059Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.263281898 gwei (fast)  ·  🟢 cheap
+Safe: 0.263181898  ·  Propose: 0.263207192  ·  BaseFee: 0.2632
+
+24h range: 0.03–2.96 gwei  (avg 0.24)
+
+Simple transfer cost now: ~$0.0138</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/30009"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30009</id>
+    <updated>2026-10-21T13:34:42.198Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 11 large deposits ($113M) · 16 large withdrawals ($109M).
+
+📥 3456 ETH ($8.6M)  →  Binance 14  0xeae738…
+📥 8.5M USDT ($8.5M)  →  Binance 14  0x78b5e3…
+
+7d: $2300M in · $1547M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,185,563 USDT (~$1.2M) · 13:26 UTC</title>
     <link href="https://t.me/sgnl_free/30008"/>
@@ -835,39 +865,5 @@ $14.4M across 10895 txs · top route Solana → Solana
 
 
 Free signals · No advice · t.me/sgnl_free</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/29960"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29960</id>
-    <updated>2026-10-21T07:49:29.756Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 11 large deposits ($108M) · 5 large withdrawals ($45M).
-
-📤 5.8M USDT ($5.8M)  ←  Binance 16  0xa7af2a…
-
-7d: $2322M in · $1603M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/29959"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29959</id>
-    <updated>2026-10-21T07:48:59.342Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 14 → fresh wallet
-Wallet: 0xdfd5…963d (tx count unavailable)
-Amount: $30.99M ETH
-Tier: TIER3
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x8fd0e7950e4219ce207b84b86d0314072b185e4ffbf01f0c4d91b567c2481b4c
-Wallet: https://etherscan.io/address/0xdfd5293d8e347dfe59e90efd55b2956a1343963d</summary>
   </entry>
 </feed>
