@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T04:13:57.857Z</updated>
+  <updated>2026-10-21T04:18:57.857Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 500.01 ETH (~$1.2M) · 04:12 UTC</title>
+    <link href="https://t.me/sgnl_free/29935"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29935</id>
+    <updated>2026-10-21T04:17:41.139Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 500.01 ETH (~$1.2M) · 04:12 UTC
+From: 0x926d…9a83
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x08957638a071487cf07a13cc32a23558720f6e6c253be08129fe216f6ed43947
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60171.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1228.38 ETH (~$3.0M) · 04:00 UTC</title>
     <link href="https://t.me/sgnl_free/29934"/>
@@ -873,19 +890,5 @@ USD: $528.9M
 ETH: $2448
 
 Largest single-day stake inflow in 30 days. Strong institutional conviction signal.</summary>
-  </entry>
-  <entry>
-    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
-    <link href="https://t.me/sgnl_free/29885"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29885</id>
-    <updated>2026-10-20T23:53:57.440Z</updated>
-    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
-
-24h inflow: 216.1K ETH (~6,753 new validators)
-USD value: $528.9M
-Rate: 5.5× 30-day baseline
-ETH price: $2448
-
-Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
   </entry>
 </feed>
