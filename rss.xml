@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-20T23:58:57.842Z</updated>
+  <updated>2026-10-21T00:03:57.840Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/29888"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29888</id>
+    <updated>2026-10-21T00:00:18.398Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $83,053 (24h: +1.3%) | SOL: $106.57 (24h: +1.4%)
+Market activity index: 70/100 (high band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-20</title>
+    <link href="https://t.me/sgnl_free/29887"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29887</id>
+    <updated>2026-10-21T00:00:17.702Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-20
+
+24h state transitions tracked: 266
+  💀 Died (gone): 166
+  😴 Went dormant: 64
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+  💀 None: had $0 liquidity · died at age 0.0d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>🚀 ETH STAKING 30-DAY HIGH</title>
     <link href="https://t.me/sgnl_free/29886"/>
@@ -791,39 +830,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 499.25 ETH (~$1.2M) · 14:35 UTC</title>
-    <link href="https://t.me/sgnl_free/29838"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29838</id>
-    <updated>2026-10-20T14:37:37.897Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 499.25 ETH (~$1.2M) · 14:35 UTC
-From: 0x0b2f…c8c2
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xa2c6a79e113ef03e8d2c12814de39e2cdef386e6e7a3314bb3647338d2fbb5f3
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60235.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 610.00 ETH (~$1.5M) · 14:25 UTC</title>
-    <link href="https://t.me/sgnl_free/29837"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29837</id>
-    <updated>2026-10-20T14:27:37.746Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 610.00 ETH (~$1.5M) · 14:25 UTC
-From: 0x27bf…a155
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xd40bbae47ee996e7557d08347291cdb5fc170194c25bbbcb93ef7551d0ad4575
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60239.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
