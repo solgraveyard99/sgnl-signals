@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T07:08:48.729Z</updated>
+  <updated>2026-10-21T07:13:48.730Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,000,337 USDT (~$1.0M) · 07:06 UTC</title>
+    <link href="https://t.me/sgnl_free/29956"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29956</id>
+    <updated>2026-10-21T07:10:27.986Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,000,337 USDT (~$1.0M) · 07:06 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x161c…6c69
+Tx: https://etherscan.io/tx/0x7a9c952cb529ecc3522b90b4320bd0f14a2a77de03af3a3b35e52213e2cb2047
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60227.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/29955"/>
@@ -849,21 +866,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/29906"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29906</id>
-    <updated>2026-10-21T00:53:43.837Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.06024014 gwei  ·  Safe: 0.054763764 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
