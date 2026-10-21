@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T06:23:57.858Z</updated>
+  <updated>2026-10-21T06:28:57.860Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/29948"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29948</id>
+    <updated>2026-10-21T06:25:51.547Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Deposit cluster: 8 large deposits ($72M) in 6h.
+
+📥 10.0M USDT ($10.0M)  →  Binance 14  0xf6a834…
+📤 3424 ETH ($8.3M)  ←  Binance 17  0xed9b63…
+
+7d: $2292M in · $1570M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🚀 ETH STAKING 30-DAY HIGH</title>
+    <link href="https://t.me/sgnl_free/29947"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29947</id>
+    <updated>2026-10-21T06:24:01.951Z</updated>
+    <summary type="text">🚀 ETH STAKING 30-DAY HIGH
+
+24h stake inflow hit a new 30-day high: 268.5K ETH
+~8,391 validators queued
+USD: $654.2M
+ETH: $2437
+
+Largest single-day stake inflow in 30 days. Strong institutional conviction signal.</summary>
+  </entry>
   <entry>
     <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
     <link href="https://t.me/sgnl_free/29946"/>
@@ -853,36 +883,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 2 active observations</title>
-    <link href="https://t.me/sgnl_free/29898"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29898</id>
-    <updated>2026-10-21T00:08:20.641Z</updated>
-    <summary type="text">📊 Activity summary · 2 active observations
-
-Top 2 by size:
-• 🐋 Whale deposit cluster: 5 moves, $87M to exchanges
-• 🐋 Whale withdrawal cluster: 4 moves, $45M off exchanges
-
-On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/29897"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29897</id>
-    <updated>2026-10-21T00:04:33.185Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $82000 — expiry 21OCT26
-Direction: SELL
-Notional: ~$1036K
-Contracts: 12.5
-Implied vol: 26.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
