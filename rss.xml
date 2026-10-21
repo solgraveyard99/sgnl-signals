@@ -5,7 +5,51 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T14:58:48.760Z</updated>
+  <updated>2026-10-21T15:03:48.758Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2638.00 ETH (~$6.6M) · 15:00 UTC</title>
+    <link href="https://t.me/sgnl_free/30027"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30027</id>
+    <updated>2026-10-21T15:00:28.007Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2638.00 ETH (~$6.6M) · 15:00 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x08661bfebf2e4bc28a142117c10431c53484d1948fa1e47daf4df0f2217e9b0b
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60142.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-20</title>
+    <link href="https://t.me/sgnl_free/30026"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30026</id>
+    <updated>2026-10-21T15:00:03.990Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-20
+
+Tokens with liquidity drop ≥50%: 12
+Tokens with liquidity drop ≥90%: 10
+Tokens with liquidity drop ≥75%: 10
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL aDOGymous: -97.4%  $93.8K → $2.4K  in 9.0h
+  🚨 CRITICAL GDC: -97.1%  $84.4K → $2.4K  in 5.4h
+  🚨 CRITICAL RL: -96.1%  $82.3K → $3.2K  in 1.3h
+  🚨 CRITICAL Rosy: -96.1%  $77.6K → $3.0K  in 1.7h
+  🚨 CRITICAL PUNCHDOG: -96.0%  $84.7K → $3.4K  in 20m
+  🚨 CRITICAL LEONIDA: -94.7%  $39.1K → $2.1K  in 40m
+  🚨 CRITICAL OSI: -94.5%  $39.2K → $2.2K  in 1.2h
+  🚨 CRITICAL Twyne: -93.9%  $47.1K → $2.9K  in 6.0h
+  🚨 CRITICAL DACITY: -93.2%  $31.4K → $2.1K  in 5m
+  🚨 CRITICAL TROAD: -92.5%  $31.7K → $2.4K  in 2.0h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/30025"/>
@@ -810,36 +854,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/29977"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29977</id>
-    <updated>2026-10-21T09:44:29.724Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 14 large deposits ($171M) · 15 large withdrawals ($105M).
-
-📥 7.0M USDT ($7.0M)  →  Binance 14  0x2bd072…
-
-7d: $2328M in · $1651M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/29976"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29976</id>
-    <updated>2026-10-21T09:24:29.730Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 14 large deposits ($169M) · 15 large withdrawals ($105M).
-
-📤 4000 ETH ($9.8M)  ←  Binance 14  0xdea611…
-📤 6.0M USDT ($6.0M)  ←  Binance 17  0x838c54…
-
-7d: $2328M in · $1645M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
