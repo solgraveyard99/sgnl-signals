@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T18:48:48.776Z</updated>
+  <updated>2026-10-21T18:53:48.785Z</updated>
+  <entry>
+    <title>🆕 FRESH WALLET FUNDED</title>
+    <link href="https://t.me/sgnl_free/30069"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30069</id>
+    <updated>2026-10-21T18:49:07.203Z</updated>
+    <summary type="text">🆕 FRESH WALLET FUNDED
+
+Binance 14 → fresh wallet
+Wallet: 0x9696…6976 (tx count unavailable)
+Amount: $43.58M USDT
+Tier: TIER3
+
+Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
+
+Statistical pattern. Not financial advice.
+
+Tx: https://etherscan.io/tx/0xb18240b82fa51ae38ea3929fcccc8cf454ec491d1a5ac3e621994c4956100df0
+Wallet: https://etherscan.io/address/0x9696f59e4d72e237be84ffd425dcad154bf96976</summary>
+  </entry>
   <entry>
     <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
     <link href="https://t.me/sgnl_free/30068"/>
@@ -829,22 +848,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 955.16 ETH (~$2.4M) · 13:59 UTC</title>
-    <link href="https://t.me/sgnl_free/30019"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30019</id>
-    <updated>2026-10-21T14:00:43.142Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 955.16 ETH (~$2.4M) · 13:59 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0xbee4…beee
-Tx: https://etherscan.io/tx/0xfee368c23b0553125738dd457b1d31344272a38aa603d73dd1b28760d131beab
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60134.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
