@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T16:18:48.770Z</updated>
+  <updated>2026-10-21T16:23:48.775Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 6,800,000 USDT (~$6.8M) · 16:16 UTC</title>
+    <link href="https://t.me/sgnl_free/30044"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30044</id>
+    <updated>2026-10-21T16:20:30.906Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 6,800,000 USDT (~$6.8M) · 16:16 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x6576add7b624312d3b1c58bf2b25305d36feb31751f74f1822d96fcffa95564a
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60211.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30043"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30043</id>
+    <updated>2026-10-21T16:19:34.712Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 17 large deposits ($131M) · 5 large withdrawals ($536M).
+
+📥 6.8M USDT ($6.8M)  →  Binance 14  0xeae738…
+
+7d: $2354M in · $1883M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,524,552 USDT (~$1.5M) · 16:09 UTC</title>
     <link href="https://t.me/sgnl_free/30042"/>
@@ -797,45 +829,5 @@ Top 2 by size:
 • 🐋 Whale withdrawal cluster: 15 moves, $105M off exchanges
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/29994"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29994</id>
-    <updated>2026-10-21T12:02:49.483Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0001 SOL
-• 99th: 0.0357 SOL (~$4)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/29993"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29993</id>
-    <updated>2026-10-21T12:01:04.218Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $271.4B  (24h: $-190M)
-
-🔴 USDT: $182.73B  ($-234M)
-⚪ USDC: $72.17B  ($-47M)
-⚪ USDS: $6.82B  (+$78M)
-⚪ DAI: $4.76B  (+$27M)
-⚪ USDe: $4.66B  ($-12M)
-⚪ FDUSD: $0.30B  ($-1M)
-
-📊 Net supply Δ24h: $-190M (near-flat band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
