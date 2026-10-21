@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T05:33:57.860Z</updated>
+  <updated>2026-10-21T05:38:57.859Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,257,922 USDT (~$1.3M) · 05:35 UTC</title>
+    <link href="https://t.me/sgnl_free/29940"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29940</id>
+    <updated>2026-10-21T05:38:04.174Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,257,922 USDT (~$1.3M) · 05:35 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xed89…60e7
+Tx: https://etherscan.io/tx/0xe9608c1ecd614ca46dec1e61c1717d39a00310c1f82953611eddd5e360427152
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1778.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/29939"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-29939</id>
+    <updated>2026-10-21T05:35:07.258Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0150 SOL
+• 99th: 0.0159 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 26.1% APY</title>
     <link href="https://t.me/sgnl_free/29938"/>
@@ -846,42 +882,6 @@ Direction: SELL
 Notional: ~$4146K
 Contracts: 50
 Implied vol: 37.6%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/29890"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29890</id>
-    <updated>2026-10-21T00:04:30.019Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $90000 — expiry 25DEC26
-Direction: BUY
-Notional: ~$16585K
-Contracts: 200
-Implied vol: 35.5%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/29889"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29889</id>
-    <updated>2026-10-21T00:03:59.006Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $80000 — expiry 25DEC26
-Direction: SELL
-Notional: ~$12439K
-Contracts: 150
-Implied vol: 37.1%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
