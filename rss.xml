@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-21T14:33:48.759Z</updated>
+  <updated>2026-10-21T14:38:48.763Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30024"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30024</id>
+    <updated>2026-10-21T14:34:34.682Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 12 large deposits ($99M) · 7 large withdrawals ($553M).
+
+📥 4912 ETH ($12.1M)  →  Binance 14  0xeae738…
+
+7d: $2309M in · $1935M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,852,339 USDT (~$1.9M) · 14:11 UTC</title>
     <link href="https://t.me/sgnl_free/30023"/>
@@ -823,31 +838,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-10-20</title>
-    <link href="https://t.me/sgnl_free/29974"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-29974</id>
-    <updated>2026-10-21T09:00:08.128Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-20
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 28
-Median peak spike (top 50): 11.1x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump DTC: 24.0x  vol1h=$1.35M  price1h +1508.0%
-  🟢 pump PUNCHDOG: 24.0x  vol1h=$2.62M  price1h +666.0%
-  🟢 pump RL: 24.0x  vol1h=$2.91M  price1h +644.0%
-  🟢 pump GDC: 24.0x  vol1h=$766.6K  price1h +641.0%
-  🟢 pump WiSP: 24.0x  vol1h=$191.4K  price1h +621.0%
-  🟢 pump Rosy: 24.0x  vol1h=$1.94M  price1h +525.0%
-  🟢 pump OSI: 24.0x  vol1h=$275.1K  price1h +406.0%
-  🟢 pump DUST: 24.0x  vol1h=$293.7K  price1h +300.0%
-  🟢 pump LEONIDA: 24.0x  vol1h=$239.4K  price1h +297.0%
-  🟢 pump GTAa: 24.0x  vol1h=$351.6K  price1h +239.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
