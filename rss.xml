@@ -5,7 +5,52 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T17:58:48.861Z</updated>
+  <updated>2026-10-22T18:03:48.870Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-10-21</title>
+    <link href="https://t.me/sgnl_free/30284"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30284</id>
+    <updated>2026-10-22T18:01:32.098Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-21
+
+Yesterday&apos;s cohort: 47,112 launches
+  🟢 STRONG (score 8+): 935 (1.98%)
+  🟡 MIXED (score 5-7): 19,120 (40.58%)
+  🔴 WEAK  (score 0-4): 27,057 (57.43%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG POOPER mcap=685 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG SHARKCASH mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG gangroach mcap=679 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG gangroach mcap=99 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG AFTL mcap=691 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG GTA 6 Coin mcap=115 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG BROUGE mcap=691 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG GTA 6 Coin mcap=115 SOL [mcap60+,tg,tw,web,desc] ✓grad
+  🟢 STRONG SQWEN mcap=691 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG FUCKM mcap=691 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (233 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30283"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30283</id>
+    <updated>2026-10-22T17:59:38.261Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 18 large deposits ($158M) · 12 large withdrawals ($99M).
+
+📤 7.9M USDT ($7.9M)  ←  Binance 16  0x6e6909…
+
+7d: $2333M in · $1903M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 586.00 ETH (~$1.4M) · 17:47 UTC</title>
     <link href="https://t.me/sgnl_free/30282"/>
@@ -792,38 +837,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 📤 5.9M USDT ($5.9M)  ←  Binance 14  0x091d1c…
 
 7d: $2534M in · $2056M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2,522,308 USDT (~$2.5M) · 12:46 UTC</title>
-    <link href="https://t.me/sgnl_free/30234"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30234</id>
-    <updated>2026-10-22T12:50:28.043Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2,522,308 USDT (~$2.5M) · 12:46 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xa3ed1220366339099b61ff9a002d3eb274bc586eb103bc782f9823eb98b0831a
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59775.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30233"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30233</id>
-    <updated>2026-10-22T12:49:29.896Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 22 large deposits ($189M) · 11 large withdrawals ($296M).
-
-📤 12.0M USDT ($12.0M)  ←  Binance 16  0x549d83…
-
-7d: $2534M in · $2044M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
