@@ -5,7 +5,56 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T03:48:48.809Z</updated>
+  <updated>2026-10-22T03:53:48.804Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,012,170 USDT (~$1.0M) · 03:43 UTC</title>
+    <link href="https://t.me/sgnl_free/30147"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30147</id>
+    <updated>2026-10-22T03:50:43.776Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,012,170 USDT (~$1.0M) · 03:43 UTC
+From: 0xbc8b…aca5
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x7c121a52c6790a7c272294d18768e248935e7fea4e37335b2e3c12f8ff6d0a7b
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59922.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2,513,133 USDT (~$2.5M) · 03:47 UTC</title>
+    <link href="https://t.me/sgnl_free/30146"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30146</id>
+    <updated>2026-10-22T03:50:28.112Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2,513,133 USDT (~$2.5M) · 03:47 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0xd4ca…6f4e
+Tx: https://etherscan.io/tx/0x34d0e860d2832059771b2906600ec336960972ce68f0fe16109925574fccc4d4
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59896.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30145"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30145</id>
+    <updated>2026-10-22T03:49:29.872Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 9 large deposits ($72M) · 3 large withdrawals ($33M).
+
+📤 7.5M USDT ($7.5M)  ←  Binance 18  0x5c370f…
+
+7d: $2408M in · $1891M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/30144"/>
@@ -828,47 +877,5 @@ Drivers:
 • hash at/near ATH (+10)
 
 Price: $82943  ·  Hash: 0.0 EH/s  ·  Addrs24h: 472,935</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 2 active observations</title>
-    <link href="https://t.me/sgnl_free/30097"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30097</id>
-    <updated>2026-10-22T00:08:53.250Z</updated>
-    <summary type="text">📊 Activity summary · 2 active observations
-
-Top 2 by size:
-• 🐋 Whale deposit cluster: 12 moves, $96M to exchanges
-• 🐋 Whale withdrawal cluster: 3 moves, $33M off exchanges
-
-On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/30096"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30096</id>
-    <updated>2026-10-22T00:03:49.562Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $83500 — expiry 24OCT26
-Direction: SELL
-Notional: ~$2522K
-Contracts: 30
-Implied vol: 29.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🌙 SGNL Evening Snapshot</title>
-    <link href="https://t.me/sgnl_free/30095"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30095</id>
-    <updated>2026-10-22T00:00:27.962Z</updated>
-    <summary type="text">🌙 SGNL Evening Snapshot
-BTC: $84,157 (24h: +1.3%) | SOL: $106.89 (24h: +0.4%)
-Market activity index: 70/100 (high band)
-Next snapshot: 17:00 UTC
-On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
   </entry>
 </feed>
