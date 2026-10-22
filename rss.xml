@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T08:18:48.812Z</updated>
+  <updated>2026-10-22T08:23:48.810Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1966.00 ETH (~$4.7M) · 08:16 UTC</title>
+    <link href="https://t.me/sgnl_free/30185"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30185</id>
+    <updated>2026-10-22T08:20:27.973Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1966.00 ETH (~$4.7M) · 08:16 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xc8c48d074278365eea535ee46dbf3dec87067cae04ba27515700ccf5ec51074f
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59744.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/30184"/>
@@ -818,26 +835,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🍯 Solana Honeypot / Trap Watch — 2026-10-21</title>
-    <link href="https://t.me/sgnl_free/30135"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30135</id>
-    <updated>2026-10-22T03:00:03.711Z</updated>
-    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-10-21
-
-Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 1
-Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
-
-Top 1 suspicious patterns yesterday:
-  ⚠ HONEYPOT? KimchiWeen: 450:7 buys:sells  vol1h=$779  liq=$158.3K  price1h +6544%
-
-How to read:
-  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
-  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
-
-NOT a guarantee — thin sell side can be legitimate for very fresh launches.
-Always test with small amount before sizing up. Use rugcheck.xyz to verify.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
