@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T16:03:48.848Z</updated>
+  <updated>2026-10-22T16:08:48.842Z</updated>
+  <entry>
+    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
+    <link href="https://t.me/sgnl_free/30271"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30271</id>
+    <updated>2026-10-22T16:08:45.805Z</updated>
+    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
+
+24h inflow: 93.6K ETH (~2,925 new validators)
+USD value: $224.4M
+Rate: 2.2× 30-day baseline
+ETH price: $2398
+
+Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 15387.85 ETH (~$36.8M) · 15:42 UTC</title>
     <link href="https://t.me/sgnl_free/30270"/>
@@ -813,27 +827,6 @@ On-chain observation, not advice.</summary>
 7d: $2507M in · $2034M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/30221"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30221</id>
-    <updated>2026-10-22T12:01:03.794Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $271.7B  (24h: +$301M)
-
-🔴 USDT: $182.67B  ($-111M)
-🟢 USDC: $72.53B  (+$302M)
-🟢 USDS: $6.82B  (+$100M)
-⚪ DAI: $4.76B  (+$23M)
-⚪ USDe: $4.65B  ($-14M)
-⚪ FDUSD: $0.30B  (+$0M)
-
-📊 Net supply Δ24h: +$301M (expansion band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
