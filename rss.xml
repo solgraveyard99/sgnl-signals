@@ -5,7 +5,42 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T00:48:48.803Z</updated>
+  <updated>2026-10-22T00:53:48.813Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,015,754 USDT (~$1.0M) · 00:45 UTC</title>
+    <link href="https://t.me/sgnl_free/30105"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30105</id>
+    <updated>2026-10-22T00:50:28.223Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,015,754 USDT (~$1.0M) · 00:45 UTC
+From: 0x86a0…4c63
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xcec14066d7c1f97f521b25a6af465708decd56dfa43d08579a94d9a6c3556472
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60010.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/30104"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30104</id>
+    <updated>2026-10-22T00:48:49.686Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $68000 — expiry 30OCT26
+Direction: BUY
+Notional: ~$674K
+Contracts: 8
+Implied vol: 61.8%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/30103"/>
@@ -808,40 +843,6 @@ From: 0xeae7…a4f4
 To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
 Tx: https://etherscan.io/tx/0x359d9f45dc8ddbcd891055865edc8c74d94901739cbe01a8ebffed4e34de985a
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60146.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2,705,592 USDT (~$2.7M) · 17:35 UTC</title>
-    <link href="https://t.me/sgnl_free/30055"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30055</id>
-    <updated>2026-10-21T17:40:28.009Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2,705,592 USDT (~$2.7M) · 17:35 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x57acfeaf10948b04ff1c427813dd2f094e0af92483e9c00316dd994baed5c12d
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60195.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 841.00 ETH (~$2.1M) · 17:12 UTC</title>
-    <link href="https://t.me/sgnl_free/30054"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30054</id>
-    <updated>2026-10-21T17:21:05.427Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 841.00 ETH (~$2.1M) · 17:12 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x51c7…2a7f
-Tx: https://etherscan.io/tx/0x5752a9ec35662007e3d726e90a8f42a27554233bc0d0d68d503820a7b00eded2
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 28863.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
