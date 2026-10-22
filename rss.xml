@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T07:08:48.812Z</updated>
+  <updated>2026-10-22T07:13:48.809Z</updated>
+  <entry>
+    <title>📊 3 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/30168"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30168</id>
+    <updated>2026-10-22T07:09:03.157Z</updated>
+    <summary type="text">📊 3 inflow-heavy observations detected
+Sample: 3 concurrent observations · $191M total flow.
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 14 moves, $140M to exchanges
+• 🐋 Large deposit: $32M USDT → Binance 14
+• 🐋 Large deposit: $20M USDT → Binance 14
+
+Opposing flow: $41M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/30167"/>
@@ -838,24 +855,6 @@ Direction: SELL
 Notional: ~$2509K
 Contracts: 30
 Implied vol: 68.2%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/30118"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30118</id>
-    <updated>2026-10-22T01:44:05.420Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $94000 — expiry 25OCT26
-Direction: SELL
-Notional: ~$1673K
-Contracts: 20
-Implied vol: 49.3%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
