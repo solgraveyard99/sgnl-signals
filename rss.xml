@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T00:53:48.813Z</updated>
+  <updated>2026-10-22T00:58:48.797Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/30106"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30106</id>
+    <updated>2026-10-22T00:53:49.587Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $75000 — expiry 30OCT26
+Direction: SELL
+Notional: ~$842K
+Contracts: 10
+Implied vol: 44.0%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,015,754 USDT (~$1.0M) · 00:45 UTC</title>
     <link href="https://t.me/sgnl_free/30105"/>
@@ -832,22 +850,5 @@ Top 10 by quality signals:
 
 ✓grad = graduated to Raydium within 24h (32 total yesterday)
 Source: on-chain + pump.fun API. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 992.00 ETH (~$2.5M) · 18:00 UTC</title>
-    <link href="https://t.me/sgnl_free/30056"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30056</id>
-    <updated>2026-10-21T18:00:28.145Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 992.00 ETH (~$2.5M) · 18:00 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x359d9f45dc8ddbcd891055865edc8c74d94901739cbe01a8ebffed4e34de985a
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60146.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
