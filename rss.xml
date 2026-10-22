@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T19:08:48.852Z</updated>
+  <updated>2026-10-22T19:13:48.854Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2,369,999 USDT (~$2.4M) · 19:01 UTC</title>
+    <link href="https://t.me/sgnl_free/30295"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30295</id>
+    <updated>2026-10-22T19:10:56.142Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2,369,999 USDT (~$2.4M) · 19:01 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x2a50…90cf
+Tx: https://etherscan.io/tx/0xce5bc7a19acfe0861121e1c7d92ce06bfe6976f770f3ae1d92ad606d5b8154ea
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26882.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 4,999,999 USDT (~$5.0M) · 19:04 UTC</title>
+    <link href="https://t.me/sgnl_free/30294"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30294</id>
+    <updated>2026-10-22T19:10:55.660Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 4,999,999 USDT (~$5.0M) · 19:04 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xa937…a915
+Tx: https://etherscan.io/tx/0xd5a00620d67396f7a4dcdf697ec2826ebf85cd6510983c9794bea6355ebedf90
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26868.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/30293"/>
@@ -803,40 +837,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 5,794,656 USDT (~$5.8M) · 13:18 UTC</title>
-    <link href="https://t.me/sgnl_free/30245"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30245</id>
-    <updated>2026-10-22T13:20:39.253Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 5,794,656 USDT (~$5.8M) · 13:18 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xdd5cff61846f2be93349def55891ac45635bea637c1979d793a9c14f4b4b4bf1
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59772.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 4 large moves</title>
-    <link href="https://t.me/sgnl_free/30244"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30244</id>
-    <updated>2026-10-22T13:19:43.279Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 4 large moves
-📊 Clusters in both directions in 6h: 24 large deposits ($187M) · 15 large withdrawals ($326M).
-
-📥 7.3M USDT ($7.3M)  →  Binance 14  0xcde5d4…
-📤 2997 ETH ($7.2M)  ←  Binance 15  0xf8191d…
-📤 7.0M USDT ($7.0M)  ←  Binance 14  0x549d83…
-📥 5.8M USDT ($5.8M)  →  Binance 14  0xeae738…
-
-7d: $2545M in · $2057M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
