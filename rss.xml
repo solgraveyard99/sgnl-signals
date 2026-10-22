@@ -5,7 +5,89 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T08:58:48.825Z</updated>
+  <updated>2026-10-22T09:03:48.815Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 7,759,181 USDT (~$7.8M) · 08:57 UTC</title>
+    <link href="https://t.me/sgnl_free/30197"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30197</id>
+    <updated>2026-10-22T09:00:34.560Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 7,759,181 USDT (~$7.8M) · 08:57 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xb8221e8f37ba01775b3829fb6ba29cf3c318ccd4a5a21030fd8d25891fa754fe
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59780.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-10-21</title>
+    <link href="https://t.me/sgnl_free/30196"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30196</id>
+    <updated>2026-10-22T09:00:18.861Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-21
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 20
+Median peak spike (top 50): 15.2x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump KIMCHI: 24.0x  vol1h=$4.64M  price1h +9501.0%
+  🟢 pump chud: 24.0x  vol1h=$79.2K  price1h +2775.0%
+  🟢 pump KIMCHIBOSS: 24.0x  vol1h=$875.0K  price1h +1523.0%
+  🟢 pump CHOO: 24.0x  vol1h=$575.8K  price1h +1247.0%
+  🟢 pump PEPA: 24.0x  vol1h=$3.55M  price1h +1103.0%
+  🟢 pump GUZZLEGOAT: 24.0x  vol1h=$3.08M  price1h +831.0%
+  🟢 pump KIMPHIL: 24.0x  vol1h=$2.00M  price1h +662.0%
+  🟢 pump SHADOW: 24.0x  vol1h=$356.0K  price1h +174.0%
+  🟢 pump BAKDINU: 24.0x  vol1h=$145.4K  price1h +89.2%
+  🔴 dump KimchiWeen: 24.0x  vol1h=$16.9K  price1h -57.6%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-21</title>
+    <link href="https://t.me/sgnl_free/30195"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30195</id>
+    <updated>2026-10-22T09:00:03.179Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-21
+
+Top 5 whale-cluster events:
+• $578M ← CEX | 12 wallets | 14:04Z
+• $570M ← CEX | 8 wallets | 18:24Z
+• $570M ← CEX | 8 wallets | 18:38Z
+• $570M ← CEX | 8 wallets | 18:54Z
+• $570M ← CEX | 8 wallets | 19:09Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 63
+• Whale-cluster←CEX: 53
+• Whale-large→CEX: 11
+• Whale-large←CEX: 7
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30194"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30194</id>
+    <updated>2026-10-22T08:59:40.176Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 20 large deposits ($189M) · 5 large withdrawals ($227M).
+
+📥 7.8M USDT ($7.8M)  →  Binance 14  0xeae738…
+
+7d: $2468M in · $2079M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30193"/>
@@ -748,73 +830,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,012,170 USDT (~$1.0M) · 03:43 UTC</title>
-    <link href="https://t.me/sgnl_free/30147"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30147</id>
-    <updated>2026-10-22T03:50:43.776Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,012,170 USDT (~$1.0M) · 03:43 UTC
-From: 0xbc8b…aca5
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x7c121a52c6790a7c272294d18768e248935e7fea4e37335b2e3c12f8ff6d0a7b
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59922.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2,513,133 USDT (~$2.5M) · 03:47 UTC</title>
-    <link href="https://t.me/sgnl_free/30146"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30146</id>
-    <updated>2026-10-22T03:50:28.112Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2,513,133 USDT (~$2.5M) · 03:47 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0xd4ca…6f4e
-Tx: https://etherscan.io/tx/0x34d0e860d2832059771b2906600ec336960972ce68f0fe16109925574fccc4d4
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59896.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30145"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30145</id>
-    <updated>2026-10-22T03:49:29.872Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 9 large deposits ($72M) · 3 large withdrawals ($33M).
-
-📤 7.5M USDT ($7.5M)  ←  Binance 18  0x5c370f…
-
-7d: $2408M in · $1891M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/30144"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30144</id>
-    <updated>2026-10-22T03:46:49.862Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0002 SOL
-• 99th: 0.0116 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
