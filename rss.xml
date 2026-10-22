@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T20:18:48.857Z</updated>
+  <updated>2026-10-22T20:23:48.855Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,624,474 USDT (~$1.6M) · 20:15 UTC</title>
+    <link href="https://t.me/sgnl_free/30303"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30303</id>
+    <updated>2026-10-22T20:20:28.700Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,624,474 USDT (~$1.6M) · 20:15 UTC
+From: 0xed89…60e7
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xf0ba6c81d1e734d0b39665232243ee6836e575a7e947e72c3d90602745c3bfd9
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59698.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30302"/>
@@ -817,22 +834,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🏦 Exchange reserves · 13 monitored wallets</title>
-    <link href="https://t.me/sgnl_free/30253"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30253</id>
-    <updated>2026-10-22T13:30:59.709Z</updated>
-    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
-
-Total: $18.53B · 24h net change −$488M (-2.57%)
-
-ETH: 644.8K  ($1547M)
-USDT: $16987M
-USDC: $0.1M
-DAI: $0.04M
-
-Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
