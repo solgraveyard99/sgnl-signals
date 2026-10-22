@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T00:03:48.789Z</updated>
+  <updated>2026-10-22T00:08:48.798Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/30096"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30096</id>
+    <updated>2026-10-22T00:03:49.562Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $83500 — expiry 24OCT26
+Direction: SELL
+Notional: ~$2522K
+Contracts: 30
+Implied vol: 29.9%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>🌙 SGNL Evening Snapshot</title>
     <link href="https://t.me/sgnl_free/30095"/>
@@ -831,22 +849,5 @@ Wallet: https://etherscan.io/address/0x56eddb7aa87536c09ccc2793473599fd21a8b17f<
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,901,168 USDT (~$1.9M) · 16:30 UTC</title>
-    <link href="https://t.me/sgnl_free/30046"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30046</id>
-    <updated>2026-10-21T16:30:27.980Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,901,168 USDT (~$1.9M) · 16:30 UTC
-From: 0xb467…7d2b
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x0f4320dc030dca010de59e51045bdf9d9ed0027581279374479962558e098572
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 60210.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
