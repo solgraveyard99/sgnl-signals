@@ -5,7 +5,61 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T01:43:48.796Z</updated>
+  <updated>2026-10-22T01:48:48.798Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/30119"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30119</id>
+    <updated>2026-10-22T01:44:05.912Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $65000 — expiry 30OCT26
+Direction: SELL
+Notional: ~$2509K
+Contracts: 30
+Implied vol: 68.2%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/30118"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30118</id>
+    <updated>2026-10-22T01:44:05.420Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $94000 — expiry 25OCT26
+Direction: SELL
+Notional: ~$1673K
+Contracts: 20
+Implied vol: 49.3%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/30117"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30117</id>
+    <updated>2026-10-22T01:43:49.581Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $65000 — expiry 30OCT26
+Direction: SELL
+Notional: ~$2512K
+Contracts: 30
+Implied vol: 68.5%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1002.00 ETH (~$2.5M) · 01:39 UTC</title>
     <link href="https://t.me/sgnl_free/30116"/>
@@ -800,54 +854,6 @@ Statistical pattern. Not financial advice.</summary>
 📥 5.0M USDT ($5.0M)  →  Binance 14  0x8859b9…
 
 7d: $2387M in · $1887M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/30069"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30069</id>
-    <updated>2026-10-21T18:49:07.203Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 14 → fresh wallet
-Wallet: 0x9696…6976 (tx count unavailable)
-Amount: $43.58M USDT
-Tier: TIER3
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0xb18240b82fa51ae38ea3929fcccc8cf454ec491d1a5ac3e621994c4956100df0
-Wallet: https://etherscan.io/address/0x9696f59e4d72e237be84ffd425dcad154bf96976</summary>
-  </entry>
-  <entry>
-    <title>🟢 ETH STAKING ACCUMULATION SPIKE</title>
-    <link href="https://t.me/sgnl_free/30068"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30068</id>
-    <updated>2026-10-21T18:38:47.363Z</updated>
-    <summary type="text">🟢 ETH STAKING ACCUMULATION SPIKE
-
-24h inflow: 110.0K ETH (~3,437 new validators)
-USD value: $276.5M
-Rate: 2.8× 30-day baseline
-ETH price: $2514
-
-Institutions are accumulating ETH and staking at elevated pace. When this diverges from price (staking up, price flat/down), it historically precedes ETH rallies by 5-20 days.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30067"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30067</id>
-    <updated>2026-10-21T18:34:29.835Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 19 large deposits ($161M) · 8 large withdrawals ($570M).
-
-📥 5.3M USDT ($5.3M)  →  Binance 14  0x48bc99…
-
-7d: $2382M in · $1894M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
