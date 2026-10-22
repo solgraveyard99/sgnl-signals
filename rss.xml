@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T13:48:48.834Z</updated>
+  <updated>2026-10-22T13:53:48.841Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 4,247,003 USDT (~$4.2M) · 13:47 UTC</title>
+    <link href="https://t.me/sgnl_free/30257"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30257</id>
+    <updated>2026-10-22T13:50:34.644Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 4,247,003 USDT (~$4.2M) · 13:47 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xe04724602a666562742ac9e878a3f3492443778b4cd3e911b2bd457c754932c6
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59758.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>⛽ Gas Check · 24h</title>
     <link href="https://t.me/sgnl_free/30256"/>
@@ -814,21 +831,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 📤 20.0M USDT ($20.0M)  ←  Binance 15  0x28c1e0…
 
 7d: $2511M in · $2044M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30207"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30207</id>
-    <updated>2026-10-22T10:14:41.988Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 23 large deposits ($207M) · 4 large withdrawals ($218M).
-
-📥 6.1M USDT ($6.1M)  →  Binance 14  0xecf0e8…
-
-7d: $2504M in · $2044M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
