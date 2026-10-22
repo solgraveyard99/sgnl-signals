@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T14:58:48.838Z</updated>
+  <updated>2026-10-22T15:03:48.845Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-21</title>
+    <link href="https://t.me/sgnl_free/30265"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30265</id>
+    <updated>2026-10-22T15:00:16.112Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-21
+
+Tokens with liquidity drop ≥50%: 10
+Tokens with liquidity drop ≥90%: 5
+Tokens with liquidity drop ≥75%: 8
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL DTC: -97.2%  $101.4K → $2.9K  in 4.4h
+  🚨 CRITICAL KIMCHIBOSS: -97.0%  $92.5K → $2.7K  in 8.1h
+  🚨 CRITICAL GUZZLEGOAT: -96.6%  $102.8K → $3.5K  in 30m
+  🚨 CRITICAL PEPA: -92.0%  $108.1K → $8.6K  in 7.2h
+  🚨 CRITICAL KIMPHIL: -91.4%  $53.5K → $4.6K  in 10m
+  ⛔ SEVERE LORE: -89.9%  $31.3K → $3.2K  in 5.7h
+  ⛔ SEVERE KATCHI: -89.4%  $23.6K → $2.5K  in 2.6h
+  ⛔ SEVERE KIMCHI: -82.7%  $385.6K → $66.7K  in 2.6h
+  ⚠ HIGH BAKDINU: -74.6%  $23.6K → $6.0K  in 5.6h
+  ⚠ HIGH CPU: -58.4%  $34.2K → $14.2K  in 3.2h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30264"/>
@@ -816,22 +843,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,579,695 USDT (~$1.6M) · 11:07 UTC</title>
-    <link href="https://t.me/sgnl_free/30215"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30215</id>
-    <updated>2026-10-22T11:11:02.682Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,579,695 USDT (~$1.6M) · 11:07 UTC
-From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0xed89…60e7
-Tx: https://etherscan.io/tx/0xa27f6278e501c44971cbcd992d8ff24ee5369f1a52cc29518677936024564287
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1900.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
