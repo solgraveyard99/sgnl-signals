@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T16:38:48.846Z</updated>
+  <updated>2026-10-22T16:43:48.839Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 875.00 ETH (~$2.1M) · 16:36 UTC</title>
+    <link href="https://t.me/sgnl_free/30274"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30274</id>
+    <updated>2026-10-22T16:40:30.679Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 875.00 ETH (~$2.1M) · 16:36 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0xbc8a…5ce0
+Tx: https://etherscan.io/tx/0x5b41c581e1f66b69c66c619f52851854f3a56e5f562a1302a63e1b7f88554464
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59735.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30273"/>
@@ -808,24 +825,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/30224"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30224</id>
-    <updated>2026-10-22T12:09:14.009Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 14 → fresh wallet
-Wallet: 0xdfd5…963d (tx count unavailable)
-Amount: $29.95M ETH
-Tier: TIER3
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0xc0011920a83595c1053df5f7486a7e557f5a8d1678090d90f73d91e65bc7332a
-Wallet: https://etherscan.io/address/0xdfd5293d8e347dfe59e90efd55b2956a1343963d</summary>
   </entry>
 </feed>
