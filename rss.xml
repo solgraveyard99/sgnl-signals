@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T20:58:48.864Z</updated>
+  <updated>2026-10-22T21:03:48.870Z</updated>
+  <entry>
+    <title>📈 Solana Buy Momentum Digest — 2026-10-21</title>
+    <link href="https://t.me/sgnl_free/30304"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30304</id>
+    <updated>2026-10-22T21:00:03.642Z</updated>
+    <summary type="text">📈 Solana Buy Momentum Digest — 2026-10-21
+
+Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 24
+Strong-bias tokens (buy/sell ≥3x): 10
+
+Top 10 by buy momentum (buys × buy/sell ratio):
+  📈 KIMCHIBULL: 13495 buys / 2141 sells (6.3x)  vol1h=$1.13M  price1h -11%
+  📈 KIMCHI: 21998 buys / 9089 sells (2.4x)  vol1h=$4.64M  price1h +2127%
+  📈 MONEYBIZ: 11029 buys / 2409 sells (4.6x)  vol1h=$238.6K  price1h -13%
+  📈 KIMCHIBOSS: 11940 buys / 3123 sells (3.8x)  vol1h=$875.0K  price1h +183%
+  📈 GUZZLEGOAT: 11043 buys / 6816 sells (1.6x)  vol1h=$2.72M  price1h +828%
+  📈 DTC: 7668 buys / 3878 sells (2.0x)  vol1h=$225.4K  price1h -44%
+  📈 Pokecity: 3149 buys / 1887 sells (1.7x)  vol1h=$138.4K  price1h +148%
+  📈 KimchiWeen: 450 buys / 7 sells (20x+)  vol1h=$779  price1h +6544%
+  📈 SI276: 1247 buys / 485 sells (2.6x)  vol1h=$12.6K  price1h +27%
+  📈 SHADOW: 1118 buys / 394 sells (2.8x)  vol1h=$9.9K  price1h +31%
+
+Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
+Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,624,474 USDT (~$1.6M) · 20:15 UTC</title>
     <link href="https://t.me/sgnl_free/30303"/>
@@ -817,22 +843,5 @@ Simple transfer cost now: ~$0.0187</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2213.08 ETH (~$5.3M) · 13:28 UTC</title>
-    <link href="https://t.me/sgnl_free/30254"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30254</id>
-    <updated>2026-10-22T13:31:00.093Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2213.08 ETH (~$5.3M) · 13:28 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x98ad…ba9d
-Tx: https://etherscan.io/tx/0xafdac1b0a86ab0e63e3b43d8ba06ae184febdec3c4625ba6382d580db730c0a9
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 27159.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
