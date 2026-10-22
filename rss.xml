@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T13:08:48.831Z</updated>
+  <updated>2026-10-22T13:13:48.832Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,601,882 USDT (~$1.6M) · 13:04 UTC</title>
+    <link href="https://t.me/sgnl_free/30242"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30242</id>
+    <updated>2026-10-22T13:10:43.750Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,601,882 USDT (~$1.6M) · 13:04 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x4200…faf9
+Tx: https://etherscan.io/tx/0x1dcd5709f3698800d656c3ec31bacdddd3524a5e1a270cc2ff7b592d3517fea8
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59804.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,024,976 USDT (~$1.0M) · 13:05 UTC</title>
+    <link href="https://t.me/sgnl_free/30241"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30241</id>
+    <updated>2026-10-22T13:10:28.027Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,024,976 USDT (~$1.0M) · 13:05 UTC
+From: 0xc17a…a753
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x966efba14180e91b7501c6a6df55f10d34ef01fa083614bf03b078c7bc6a33f5
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59797.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/30240"/>
@@ -806,34 +840,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟢 Circle MINT · USDC</title>
-    <link href="https://t.me/sgnl_free/30192"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30192</id>
-    <updated>2026-10-22T08:53:46.212Z</updated>
-    <summary type="text">🟢 Circle MINT · USDC
-
-+$520.9M in last 24h
-Tier: TIER2
-
-New stablecoin supply typically deploys into BTC/ETH within 24-48h — historically precedes market absorption.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1995.00 ETH (~$4.8M) · 08:46 UTC</title>
-    <link href="https://t.me/sgnl_free/30191"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30191</id>
-    <updated>2026-10-22T08:50:43.828Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1995.00 ETH (~$4.8M) · 08:46 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x6126c50dedbe88246e9d6795435be6f4ddf5acc46ddad9006256f52a9867921e
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59750.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
