@@ -5,7 +5,38 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T01:03:48.803Z</updated>
+  <updated>2026-10-22T01:08:48.798Z</updated>
+  <entry>
+    <title>⛽🟢 CHEAP GAS WINDOW</title>
+    <link href="https://t.me/sgnl_free/30108"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30108</id>
+    <updated>2026-10-22T01:08:47.222Z</updated>
+    <summary type="text">⛽🟢 CHEAP GAS WINDOW
+Fast: 0.04730998 gwei  ·  Safe: 0.041727893 gwei
+
+Optimal time for routine tx:
+• Token transfers (~$0.50)
+• Unclaimed airdrops
+• Swap batching
+• Approve revocations
+
+Windows like this typically last 30-60 min. Act now.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30107"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30107</id>
+    <updated>2026-10-22T01:04:29.949Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Deposit cluster: 9 large deposits ($63M) in 6h.
+
+📥 5.8M USDT ($5.8M)  →  Binance 14  0x95425d…
+
+7d: $2398M in · $1866M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/30106"/>
@@ -805,50 +836,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30058"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30058</id>
-    <updated>2026-10-21T18:04:30.079Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 17 large deposits ($136M) · 6 large withdrawals ($548M).
-
-📥 9.0M USDT ($9.0M)  →  Binance 14  0x8859b9…
-
-7d: $2363M in · $1887M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-10-20</title>
-    <link href="https://t.me/sgnl_free/30057"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30057</id>
-    <updated>2026-10-21T18:01:24.183Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-20
-
-Yesterday&apos;s cohort: 23,575 launches
-  🟢 STRONG (score 8+): 439 (1.86%)
-  🟡 MIXED (score 5-7): 9,617 (40.79%)
-  🔴 WEAK  (score 0-4): 13,519 (57.34%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG ZET mcap=702 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG RAT mcap=1248 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG KAI mcap=104 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG RL mcap=710 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG RL mcap=99 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG SAI mcap=148 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG POKEARENA mcap=2000 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG DTC mcap=75 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG DTC mcap=710 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG WAVY mcap=710 SOL [mcap60+,tg,tw,web,desc]
-
-✓grad = graduated to Raydium within 24h (32 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
