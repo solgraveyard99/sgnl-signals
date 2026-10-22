@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-22T01:23:48.796Z</updated>
+  <updated>2026-10-22T01:28:48.797Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/30112"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30112</id>
+    <updated>2026-10-22T01:23:49.561Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $74000 — expiry 30OCT26
+Direction: SELL
+Notional: ~$4466K
+Contracts: 53
+Implied vol: 44.5%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2,000,000 USDT (~$2.0M) · 01:03 UTC</title>
     <link href="https://t.me/sgnl_free/30111"/>
@@ -828,22 +846,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>📊 3 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/30062"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30062</id>
-    <updated>2026-10-21T18:18:53.344Z</updated>
-    <summary type="text">📊 3 outflow-heavy observations detected
-Sample: 3 concurrent observations · $584M total flow.
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 7 moves, $560M off exchanges
-• 🐋 Large withdrawal: $13M ETH ← Binance 17
-• 🐋 Large withdrawal: $11M ETH ← Binance 17
-
-Opposing flow: $175M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
