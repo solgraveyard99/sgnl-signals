@@ -5,7 +5,51 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-23T14:58:39.583Z</updated>
+  <updated>2026-10-23T15:03:39.582Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 4,849,734 USDT (~$4.8M) · 14:56 UTC</title>
+    <link href="https://t.me/sgnl_free/30476"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30476</id>
+    <updated>2026-10-23T15:00:44.307Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 4,849,734 USDT (~$4.8M) · 14:56 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x51c7…2a7f
+Tx: https://etherscan.io/tx/0x243f9c4a8a60ed387b4270550f43629363a73a56c8268edaa7a5725b2e87ce25
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26385.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-22</title>
+    <link href="https://t.me/sgnl_free/30475"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30475</id>
+    <updated>2026-10-23T15:00:04.378Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-22
+
+Tokens with liquidity drop ≥50%: 19
+Tokens with liquidity drop ≥90%: 13
+Tokens with liquidity drop ≥75%: 17
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL MI: -97.3%  $78.5K → $2.2K  in 55m
+  🚨 CRITICAL DOCHI: -96.8%  $66.9K → $2.1K  in 55m
+  🚨 CRITICAL Nailong: -96.7%  $102.6K → $3.4K  in 5.7h
+  🚨 CRITICAL YAPROACH: -96.6%  $106.4K → $3.6K  in 6.3h
+  🚨 CRITICAL GTA: -95.7%  $51.5K → $2.2K  in 35m
+  🚨 CRITICAL 1GTA: -94.8%  $39.3K → $2.0K  in 25m
+  🚨 CRITICAL BTC: -94.7%  $42.1K → $2.2K  in 25m
+  🚨 CRITICAL CYBERCOIN: -94.6%  $37.7K → $2.0K  in 1.3h
+  🚨 CRITICAL BIKECHI: -94.2%  $66.7K → $3.8K  in 7.8h
+  🚨 CRITICAL KIMSEM: -94.1%  $51.8K → $3.0K  in 2.3h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2,500,001 USDT (~$2.5M) · 14:45 UTC</title>
     <link href="https://t.me/sgnl_free/30474"/>
@@ -791,37 +835,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30426"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30426</id>
-    <updated>2026-10-23T10:14:34.640Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 9 large deposits ($95M) · 13 large withdrawals ($123M).
-
-📤 20.0M USDT ($20.0M)  ←  Binance 16  0x28c1e0…
-
-7d: $2115M in · $1978M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 4,932,850 USDT (~$4.9M) · 09:36 UTC</title>
-    <link href="https://t.me/sgnl_free/30425"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30425</id>
-    <updated>2026-10-23T09:40:25.171Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 4,932,850 USDT (~$4.9M) · 09:36 UTC
-From: 0xecf0…0e76
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xef0ab3236189b4613b1e34dbc1593f011dd08015f300d1e18801ca94974f87dd
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59248.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
