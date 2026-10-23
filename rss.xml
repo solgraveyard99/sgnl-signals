@@ -5,7 +5,54 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-23T11:58:39.582Z</updated>
+  <updated>2026-10-23T12:03:39.581Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/30443"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30443</id>
+    <updated>2026-10-23T12:00:59.752Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $271.1B  (24h: $-539M)
+
+🔴 USDT: $182.51B  ($-106M)
+🔴 USDC: $72.09B  ($-540M)
+🟢 USDS: $6.88B  (+$161M)
+⚪ DAI: $4.75B  (+$1M)
+⚪ USDe: $4.60B  ($-54M)
+⚪ FDUSD: $0.30B  (+$0M)
+
+📊 Net supply Δ24h: -$539M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-22</title>
+    <link href="https://t.me/sgnl_free/30442"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30442</id>
+    <updated>2026-10-23T12:00:03.800Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-22
+
+Yesterday&apos;s Jupiter route fee market (289 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    2.00M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 265.9K μlamp | Orca: 241.4K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30441"/>
@@ -810,40 +857,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/30393"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30393</id>
-    <updated>2026-10-23T07:18:50.334Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 15 → fresh wallet
-Wallet: 0x51c7…2a7f (tx count unavailable)
-Amount: $2.66M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0xa633f4acf23a5aced13bba70960439edad0a44db6a7ebd1afa5177a6e3cd613e
-Wallet: https://etherscan.io/address/0x51c72848c68a965f66fa7a88855f9f7784502a7f</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/30392"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30392</id>
-    <updated>2026-10-23T07:13:40.710Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.097404894 gwei  ·  Safe: 0.088549763 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
