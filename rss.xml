@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-23T17:23:39.591Z</updated>
+  <updated>2026-10-23T17:28:39.606Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30492"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30492</id>
+    <updated>2026-10-23T17:24:22.783Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 13 large deposits ($98M) · 9 large withdrawals ($87M).
+
+📥 10.0M USDT ($10.0M)  →  Binance 14  0xecf0e8…
+
+7d: $1980M in · $1945M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30491"/>
@@ -806,31 +821,5 @@ Total tracked: $271.1B  (24h: $-539M)
 
 Source: DeFiLlama stablecoin supply data.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-10-22</title>
-    <link href="https://t.me/sgnl_free/30442"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30442</id>
-    <updated>2026-10-23T12:00:03.800Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-22
-
-Yesterday&apos;s Jupiter route fee market (289 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    2.00M μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: → 0% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 265.9K μlamp | Orca: 241.4K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
