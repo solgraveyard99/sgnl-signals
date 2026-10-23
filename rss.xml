@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-23T08:08:39.566Z</updated>
+  <updated>2026-10-23T08:13:39.549Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 15991.95 ETH (~$38.4M) · 08:02 UTC</title>
+    <link href="https://t.me/sgnl_free/30407"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30407</id>
+    <updated>2026-10-23T08:10:43.807Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 15991.95 ETH (~$38.4M) · 08:02 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x6ee084eb75642b990ff427650ee41c2ff6568154fe9f1d0423a1cb2fa5991f7a
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26537.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🆕 FRESH WALLET FUNDED</title>
+    <link href="https://t.me/sgnl_free/30406"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30406</id>
+    <updated>2026-10-23T08:08:49.680Z</updated>
+    <summary type="text">🆕 FRESH WALLET FUNDED
+
+Binance 14 → fresh wallet
+Wallet: 0x9696…6976 (tx count unavailable)
+Amount: $38.38M ETH
+Tier: TIER3
+
+Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
+
+Statistical pattern. Not financial advice.
+
+Tx: https://etherscan.io/tx/0x6ee084eb75642b990ff427650ee41c2ff6568154fe9f1d0423a1cb2fa5991f7a
+Wallet: https://etherscan.io/address/0x9696f59e4d72e237be84ffd425dcad154bf96976</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30405"/>
@@ -821,43 +857,5 @@ Not financial advice. Data for decision support.
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 5,500,000 USDT (~$5.5M) · 03:00 UTC</title>
-    <link href="https://t.me/sgnl_free/30357"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30357</id>
-    <updated>2026-10-23T03:00:28.107Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 5,500,000 USDT (~$5.5M) · 03:00 UTC
-From: 0x33eb…4a39
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xbff3fea8d49a08b583a5bdc566b2059c5bde467265d4cbba411af21528c4faef
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59503.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🍯 Solana Honeypot / Trap Watch — 2026-10-22</title>
-    <link href="https://t.me/sgnl_free/30356"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30356</id>
-    <updated>2026-10-23T03:00:07.223Z</updated>
-    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-10-22
-
-Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
-Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
-
-Top 0 suspicious patterns yesterday:
-  (none flagged — quiet honeypot day)
-
-How to read:
-  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
-  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
-
-NOT a guarantee — thin sell side can be legitimate for very fresh launches.
-Always test with small amount before sizing up. Use rugcheck.xyz to verify.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
