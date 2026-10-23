@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-23T14:48:39.578Z</updated>
+  <updated>2026-10-23T14:53:39.579Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2,500,001 USDT (~$2.5M) · 14:45 UTC</title>
+    <link href="https://t.me/sgnl_free/30474"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30474</id>
+    <updated>2026-10-23T14:50:20.032Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2,500,001 USDT (~$2.5M) · 14:45 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x2a50…90cf
+Tx: https://etherscan.io/tx/0x4ff1031d01762292dfa5a35f397c0c0dfeaff71d4936cdfb9ce3fb48b12436ca
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59261.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30473"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30473</id>
+    <updated>2026-10-23T14:49:22.762Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 13 large deposits ($104M) · 14 large withdrawals ($146M).
+
+📤 5.7M USDT ($5.7M)  ←  Binance 17  0x539211…
+
+7d: $2028M in · $1996M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30472"/>
@@ -791,33 +823,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/30424"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30424</id>
-    <updated>2026-10-23T09:28:45.060Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDC
-Supply change 24h: -$510M
-New supply: $72.12B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30423"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30423</id>
-    <updated>2026-10-23T09:24:22.621Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 10 large deposits ($105M) · 12 large withdrawals ($103M).
-
-📥 10.0M USDT ($10.0M)  →  Binance 14  0xc8262e…
-
-7d: $2282M in · $1985M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
