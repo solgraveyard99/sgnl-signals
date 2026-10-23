@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-23T23:03:39.617Z</updated>
+  <updated>2026-10-23T23:08:39.627Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30511"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30511</id>
+    <updated>2026-10-23T23:04:22.727Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 5 large deposits ($39M) · 3 large withdrawals ($19M).
+
+📥 2419 ETH ($5.8M)  →  Binance 14  0xeae738…
+
+7d: $1936M in · $1947M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 606.00 ETH (~$1.4M) · 22:56 UTC</title>
     <link href="https://t.me/sgnl_free/30510"/>
@@ -823,19 +838,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/30461"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30461</id>
-    <updated>2026-10-23T13:43:39.809Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.2716162 gwei (fast)  ·  🟢 cheap
-Safe: 0.2694162  ·  Propose: 0.269440862  ·  BaseFee: 0.2694
-
-24h range: 0.04–3.20 gwei  (avg 0.27)
-
-Simple transfer cost now: ~$0.0143</summary>
   </entry>
 </feed>
