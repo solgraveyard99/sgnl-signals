@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-23T06:48:39.545Z</updated>
+  <updated>2026-10-23T06:53:39.547Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 725.00 ETH (~$1.7M) · 06:44 UTC</title>
+    <link href="https://t.me/sgnl_free/30386"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30386</id>
+    <updated>2026-10-23T06:50:44.672Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 725.00 ETH (~$1.7M) · 06:44 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x091d…8336
+Tx: https://etherscan.io/tx/0x6a75b41e3216f32072cf7ef05911a6fb2d75bbd891b8501f2478e5360305212e
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26540.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🕵️ Repeat-rug wallet fingerprint matched</title>
     <link href="https://t.me/sgnl_free/30385"/>
@@ -851,21 +868,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/30336"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30336</id>
-    <updated>2026-10-23T01:08:39.276Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.053281604 gwei  ·  Safe: 0.048511741 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
