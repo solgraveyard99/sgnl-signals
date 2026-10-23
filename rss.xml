@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-23T12:38:39.568Z</updated>
+  <updated>2026-10-23T12:43:39.577Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 10,000,000 USDT (~$10.0M) · 12:36 UTC</title>
+    <link href="https://t.me/sgnl_free/30448"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30448</id>
+    <updated>2026-10-23T12:40:23.845Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 10,000,000 USDT (~$10.0M) · 12:36 UTC
+From: 0xecf0…0e76
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xfc316168688f90436a64f416533088ec17dd9a615389e75782631846b76675b6
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59205.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30447"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30447</id>
+    <updated>2026-10-23T12:39:27.906Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 12 large deposits ($122M) · 15 large withdrawals ($144M).
+
+📥 10.0M USDT ($10.0M)  →  Binance 14  0xecf0e8…
+
+7d: $2006M in · $2009M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/30446"/>
@@ -823,39 +855,5 @@ Statistical pattern. Not financial advice.
 
 Tx: https://etherscan.io/tx/0x7cc25613c889a89118af0dd3fb848056df8429bf2114512f94b70e24a88a6df7
 Wallet: https://etherscan.io/address/0x56eddb7aa87536c09ccc2793473599fd21a8b17f</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 499.59 ETH (~$1.2M) · 07:40 UTC</title>
-    <link href="https://t.me/sgnl_free/30398"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30398</id>
-    <updated>2026-10-23T07:40:44.657Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 499.59 ETH (~$1.2M) · 07:40 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x652a…a30b
-Tx: https://etherscan.io/tx/0x989a0aa5c86f81eac835d81b1e464a9c683b9272c67eede2718357726a1a4eae
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26530.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 16,240,029 USDT (~$16.2M) · 07:33 UTC</title>
-    <link href="https://t.me/sgnl_free/30397"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30397</id>
-    <updated>2026-10-23T07:40:20.338Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 16,240,029 USDT (~$16.2M) · 07:33 UTC
-From: 0xecf0…0e76
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x5c6f96efbc1c0e6c9abeb6add56089d9be4f0d9b7a650d0788b991d0270bac53
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59350.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
