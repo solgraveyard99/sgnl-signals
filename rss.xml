@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-23T06:58:39.542Z</updated>
+  <updated>2026-10-23T07:03:39.547Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 9,245,818 USDT (~$9.2M) · 06:59 UTC</title>
+    <link href="https://t.me/sgnl_free/30388"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30388</id>
+    <updated>2026-10-23T07:00:58.868Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 9,245,818 USDT (~$9.2M) · 06:59 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xed0c…4312
+Tx: https://etherscan.io/tx/0x7acc4e4a86ad2a39ea7fe7a460e72c531f51af27e331a5f1422a733addd2d162
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26553.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30387"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30387</id>
+    <updated>2026-10-23T06:59:22.631Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 5 large deposits ($38M) · 9 large withdrawals ($60M).
+
+📤 11.5M USDT ($11.5M)  ←  Binance 15  0x98adef…
+
+7d: $2217M in · $1958M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 725.00 ETH (~$1.7M) · 06:44 UTC</title>
     <link href="https://t.me/sgnl_free/30386"/>
@@ -826,42 +858,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0010 SOL
 • 95th: 0.0021 SOL
 • 99th: 0.0179 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1744.00 ETH (~$4.2M) · 01:14 UTC</title>
-    <link href="https://t.me/sgnl_free/30338"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30338</id>
-    <updated>2026-10-23T01:20:52.100Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1744.00 ETH (~$4.2M) · 01:14 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x549d…3425
-Tx: https://etherscan.io/tx/0x20d88b7b4dc06e16b5acc86488315c874c883961f08e2857d9f2051a19b998a2
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26672.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/30337"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30337</id>
-    <updated>2026-10-23T01:16:50.306Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0008 SOL
-• 95th: 0.0117 SOL
-• 99th: 0.0185 SOL (~$2)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
