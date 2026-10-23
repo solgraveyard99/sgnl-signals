@@ -5,7 +5,38 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-23T13:13:39.575Z</updated>
+  <updated>2026-10-23T13:18:39.580Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30455"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30455</id>
+    <updated>2026-10-23T13:14:37.083Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 13 large deposits ($129M) · 14 large withdrawals ($153M).
+
+📥 2942 ETH ($7.1M)  →  Binance 14  0xcde5d4…
+
+7d: $1997M in · $2011M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽🟢 CHEAP GAS WINDOW</title>
+    <link href="https://t.me/sgnl_free/30454"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30454</id>
+    <updated>2026-10-23T13:13:41.131Z</updated>
+    <summary type="text">⛽🟢 CHEAP GAS WINDOW
+Fast: 0.116335789 gwei  ·  Safe: 0.107631934 gwei
+
+Optimal time for routine tx:
+• Token transfers (~$0.50)
+• Unclaimed airdrops
+• Swap batching
+• Approve revocations
+
+Windows like this typically last 30-60 min. Act now.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 29,060,934 USDT (~$29.1M) · 13:02 UTC</title>
     <link href="https://t.me/sgnl_free/30453"/>
@@ -819,39 +850,5 @@ Statistical pattern. Not financial advice.
 
 Tx: https://etherscan.io/tx/0x6ee084eb75642b990ff427650ee41c2ff6568154fe9f1d0423a1cb2fa5991f7a
 Wallet: https://etherscan.io/address/0x9696f59e4d72e237be84ffd425dcad154bf96976</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30405"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30405</id>
-    <updated>2026-10-23T08:04:22.727Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 8 large deposits ($78M) · 12 large withdrawals ($86M).
-
-📤 10.0M USDT ($10.0M)  ←  Binance 14  0x549d83…
-
-7d: $2257M in · $1962M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📡 SGNL Daily Digest · 2026-10-22</title>
-    <link href="https://t.me/sgnl_free/30404"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30404</id>
-    <updated>2026-10-23T08:01:20.494Z</updated>
-    <summary type="text">📡 SGNL Daily Digest · 2026-10-22
-What 30+ SGNL observers caught in the last 24h
-
-⚡ Aave V3 liquidations (24h, 3 total)
-USDC 1187.99 → 0.5181 WETH
-USDC 800.00 → 0.3482 WETH
-0x4c9edd… 50.46 → 50.9168 0x14bdc3…
-
-🌉 Cross-chain (Wormhole, 24h)
-$19.8M across 10867 txs · top route Solana → Solana
-
-
-Free signals · No advice · t.me/sgnl_free</summary>
   </entry>
 </feed>
