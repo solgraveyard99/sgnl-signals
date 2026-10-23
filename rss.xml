@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-23T17:58:39.597Z</updated>
+  <updated>2026-10-23T18:03:39.621Z</updated>
+  <entry>
+    <title>🔍 Pump.fun Quality Scan — 2026-10-22</title>
+    <link href="https://t.me/sgnl_free/30496"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30496</id>
+    <updated>2026-10-23T18:01:25.932Z</updated>
+    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-22
+
+Yesterday&apos;s cohort: 34,603 launches
+  🟢 STRONG (score 8+): 887 (2.56%)
+  🟡 MIXED (score 5-7): 14,067 (40.65%)
+  🔴 WEAK  (score 0-4): 19,649 (56.78%)
+
+Scoring model: initial mcap + telegram + twitter + website + description
+(Weights derived from observed graduation hazards; not financial advice)
+
+Top 10 by quality signals:
+  🟢 STRONG STEIPETE mcap=349 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG SPOUR mcap=637 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG GENGAR mcap=637 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG GOURDGEIST mcap=637 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG KIMCHIPE mcap=637 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG BINDPAD mcap=637 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG X402S mcap=637 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG FLOAT mcap=2584 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG POURPAD mcap=672 SOL [mcap60+,tg,tw,web,desc]
+  🟢 STRONG BOSS mcap=224059 SOL [mcap60+,tg,tw,web,desc]
+
+✓grad = graduated to Raydium within 24h (211 total yesterday)
+Source: on-chain + pump.fun API. DYOR.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30495"/>
@@ -796,22 +826,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 📥 10.0M USDT ($10.0M)  →  Binance 14  0xecf0e8…
 
 7d: $2006M in · $2009M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/30446"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30446</id>
-    <updated>2026-10-23T12:14:22.670Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 13 large deposits ($125M) · 16 large withdrawals ($154M).
-
-📤 10.0M USDT ($10.0M)  ←  Binance 14  0x549d83…
-📥 9.1M USDT ($9.1M)  →  Binance 14  0xecf0e8…
-
-7d: $2009M in · $2005M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
