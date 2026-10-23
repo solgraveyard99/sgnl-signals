@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-23T14:18:39.579Z</updated>
+  <updated>2026-10-23T14:23:39.581Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30467"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30467</id>
+    <updated>2026-10-23T14:19:23.519Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 11 large deposits ($92M) · 15 large withdrawals ($156M).
+
+📤 6.5M USDT ($6.5M)  ←  Binance 15  0x1eab50…
+
+7d: $2031M in · $2010M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 868.00 ETH (~$2.1M) · 13:57 UTC</title>
     <link href="https://t.me/sgnl_free/30466"/>
@@ -805,31 +820,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-10-22</title>
-    <link href="https://t.me/sgnl_free/30417"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30417</id>
-    <updated>2026-10-23T09:00:19.125Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-22
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 35
-Median peak spike (top 50): 24.0x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump Nailong: 24.0x  vol1h=$2.24M  price1h +2625.0%
-  🟢 pump BIKECHI: 24.0x  vol1h=$2.86M  price1h +1115.0%
-  🟢 pump BTC: 24.0x  vol1h=$1.01M  price1h +1075.0%
-  🟢 pump YAPROACH: 24.0x  vol1h=$3.32M  price1h +1045.0%
-  🟢 pump KIMCHINU: 24.0x  vol1h=$954.8K  price1h +968.0%
-  🟢 pump DOCHI: 24.0x  vol1h=$582.3K  price1h +779.0%
-  🟢 pump KIMSEM: 24.0x  vol1h=$2.41M  price1h +625.0%
-  🟢 pump NOOX: 24.0x  vol1h=$580.1K  price1h +461.0%
-  🟢 pump 1GTA: 24.0x  vol1h=$223.6K  price1h +392.0%
-  🟢 pump BLACKTOBER: 24.0x  vol1h=$751.2K  price1h +373.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
