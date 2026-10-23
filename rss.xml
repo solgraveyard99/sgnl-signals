@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-23T13:28:39.570Z</updated>
+  <updated>2026-10-23T13:33:39.578Z</updated>
+  <entry>
+    <title>🏦 Exchange reserves · 13 monitored wallets</title>
+    <link href="https://t.me/sgnl_free/30458"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30458</id>
+    <updated>2026-10-23T13:30:39.526Z</updated>
+    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
+
+Total: $18.50B · 24h net change −$35M (-0.19%)
+
+ETH: 649.8K  ($1562M)
+USDT: $16938M
+USDC: $0.1M
+DAI: $0.02M
+
+Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 7,948,101 USDT (~$7.9M) · 13:15 UTC</title>
     <link href="https://t.me/sgnl_free/30457"/>
@@ -827,22 +844,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 📤 10.0M USDT ($10.0M)  ←  Binance 16  0x549d83…
 
 7d: $2274M in · $1945M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/30408"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30408</id>
-    <updated>2026-10-23T08:14:22.709Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 10 large deposits ($103M) · 12 large withdrawals ($86M).
-
-📥 19.5M USDT ($19.5M)  →  Binance 14  0x0069d7…
-📥 5.6M USDT ($5.6M)  →  Binance 14  0xecf0e8…
-
-7d: $2249M in · $1972M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
