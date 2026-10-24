@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T03:48:39.629Z</updated>
+  <updated>2026-10-24T03:53:39.625Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 3,499,999 USDT (~$3.5M) · 03:45 UTC</title>
+    <link href="https://t.me/sgnl_free/30545"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30545</id>
+    <updated>2026-10-24T03:50:19.919Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 3,499,999 USDT (~$3.5M) · 03:45 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0xd0a4…229f
+Tx: https://etherscan.io/tx/0x93b30c2598b8f2cd531b76af9ac1ec9a314d64f35f0d45682e521506f9a7ee86
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 58846.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1091.00 ETH (~$2.6M) · 03:35 UTC</title>
     <link href="https://t.me/sgnl_free/30544"/>
@@ -880,20 +897,5 @@ Top 10 by quality signals:
 
 ✓grad = graduated to Raydium within 24h (211 total yesterday)
 Source: on-chain + pump.fun API. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30495"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30495</id>
-    <updated>2026-10-23T17:54:24.889Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 12 large deposits ($93M) · 9 large withdrawals ($86M).
-
-📤 7.1M USDT ($7.1M)  ←  Binance 18  0x091d1c…
-
-7d: $1944M in · $1952M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
