@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T18:38:39.666Z</updated>
+  <updated>2026-10-24T18:43:39.669Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 906.00 ETH (~$2.1M) · 18:35 UTC</title>
+    <link href="https://t.me/sgnl_free/30604"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30604</id>
+    <updated>2026-10-24T18:40:20.270Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 906.00 ETH (~$2.1M) · 18:35 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x1d2d3ac4bf991ffa4f5c04eaf61332a0ad48b1ed9f3cc04d5a8d20a0fddf9b4c
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 58333.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30603"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30603</id>
+    <updated>2026-10-24T18:39:22.836Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 3 large deposits ($24M) · 4 large withdrawals ($26M).
+
+📤 3235 ETH ($7.5M)  ←  Binance 16  0xf8191d…
+
+7d: $1869M in · $2007M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>☀️ SGNL Midday Snapshot</title>
     <link href="https://t.me/sgnl_free/30602"/>
@@ -829,36 +861,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📤 WITHDRAWAL · Binance 15</title>
-    <link href="https://t.me/sgnl_free/30554"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30554</id>
-    <updated>2026-10-24T06:44:27.831Z</updated>
-    <summary type="text">📤 WITHDRAWAL · Binance 15
-19.9M USDT  ($19.9M)  ←  0xf89d7b…
-⚪ Routine-size withdrawal (0.1× the 7-day daily average)
-Tx: https://etherscan.io/tx/0x77ddb74cb86795581a19e54780f0334c0cad648f176044d483b3b514c795c93b
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 27.4% APY</title>
-    <link href="https://t.me/sgnl_free/30553"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30553</id>
-    <updated>2026-10-24T06:28:46.274Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 27.4% APY
-veranta / USDC on Base
-Base: 27.4%  ·  Rewards: n/a  ·  TVL: $9.8M
-
-💡 +20.4% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
   </entry>
 </feed>
