@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T13:38:39.661Z</updated>
+  <updated>2026-10-24T13:43:39.657Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/30584"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30584</id>
+    <updated>2026-10-24T13:43:29.815Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.078864751 gwei (fast)  ·  🟢 cheap
+Safe: 0.071693429  ·  Propose: 0.071695229  ·  BaseFee: 0.0717
+
+24h range: 0.03–0.40 gwei  (avg 0.10)
+
+Simple transfer cost now: ~$0.0041</summary>
+  </entry>
   <entry>
     <title>🏦 Exchange reserves · 13 monitored wallets</title>
     <link href="https://t.me/sgnl_free/30583"/>
@@ -903,21 +917,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/30534"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30534</id>
-    <updated>2026-10-24T01:13:29.972Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.044123603 gwei  ·  Safe: 0.039612367 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
