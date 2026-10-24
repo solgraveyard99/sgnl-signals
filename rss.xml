@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T03:58:39.625Z</updated>
+  <updated>2026-10-24T04:03:39.623Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/30546"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30546</id>
+    <updated>2026-10-24T04:02:40.649Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0006 SOL
+• 99th: 0.0550 SOL (~$5)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3,499,999 USDT (~$3.5M) · 03:45 UTC</title>
     <link href="https://t.me/sgnl_free/30545"/>
@@ -867,35 +886,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔍 Pump.fun Quality Scan — 2026-10-22</title>
-    <link href="https://t.me/sgnl_free/30496"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30496</id>
-    <updated>2026-10-23T18:01:25.932Z</updated>
-    <summary type="text">🔍 Pump.fun Quality Scan — 2026-10-22
-
-Yesterday&apos;s cohort: 34,603 launches
-  🟢 STRONG (score 8+): 887 (2.56%)
-  🟡 MIXED (score 5-7): 14,067 (40.65%)
-  🔴 WEAK  (score 0-4): 19,649 (56.78%)
-
-Scoring model: initial mcap + telegram + twitter + website + description
-(Weights derived from observed graduation hazards; not financial advice)
-
-Top 10 by quality signals:
-  🟢 STRONG STEIPETE mcap=349 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG SPOUR mcap=637 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG GENGAR mcap=637 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG GOURDGEIST mcap=637 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG KIMCHIPE mcap=637 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG BINDPAD mcap=637 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG X402S mcap=637 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG FLOAT mcap=2584 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG POURPAD mcap=672 SOL [mcap60+,tg,tw,web,desc]
-  🟢 STRONG BOSS mcap=224059 SOL [mcap60+,tg,tw,web,desc]
-
-✓grad = graduated to Raydium within 24h (211 total yesterday)
-Source: on-chain + pump.fun API. DYOR.</summary>
   </entry>
 </feed>
