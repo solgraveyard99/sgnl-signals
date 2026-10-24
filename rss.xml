@@ -5,7 +5,57 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T08:58:39.647Z</updated>
+  <updated>2026-10-24T09:03:39.636Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-10-23</title>
+    <link href="https://t.me/sgnl_free/30570"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30570</id>
+    <updated>2026-10-24T09:00:05.702Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-23
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 18
+Median peak spike (top 50): 3.8x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump BITCHES: 24.0x  vol1h=$1.98M  price1h +3668.0%
+  🟢 pump KIMCHINU: 24.0x  vol1h=$1.15M  price1h +1779.0%
+  🟢 pump YMBCOIN: 24.0x  vol1h=$1.35M  price1h +1287.0%
+  🟢 pump CI: 24.0x  vol1h=$1.15M  price1h +1285.0%
+  🟢 pump CHUNKEE: 24.0x  vol1h=$336.1K  price1h +721.0%
+  🟢 pump MCRIBINU: 24.0x  vol1h=$253.2K  price1h +674.0%
+  🟢 pump KURIBO: 24.0x  vol1h=$448.8K  price1h +363.0%
+  🟢 pump SCX: 24.0x  vol1h=$20.5K  price1h +201.0%
+  🟢 pump ARCTIS: 24.0x  vol1h=$88.7K  price1h +97.6%
+  🟢 pump GRINDCORE: 24.0x  vol1h=$112.3K  price1h +75.5%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-23</title>
+    <link href="https://t.me/sgnl_free/30569"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30569</id>
+    <updated>2026-10-24T09:00:05.155Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-23
+
+Top 5 whale-cluster events:
+• $160M ← CEX | 15 wallets | 15:28Z
+• $160M ← CEX | 15 wallets | 13:58Z
+• $160M ← CEX | 15 wallets | 13:58Z
+• $159M ← CEX | 15 wallets | 13:28Z
+• $156M ← CEX | 15 wallets | 15:28Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 41
+• Whale-cluster←CEX: 39
+• Whale-large←CEX: 5
+• Whale-large→CEX: 4
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>📥 DEPOSIT · Binance 14</title>
     <link href="https://t.me/sgnl_free/30568"/>
@@ -856,42 +906,6 @@ ETH Put — strike $2000 — expiry 6NOV26
 Direction: SELL
 Notional: ~$596K
 Contracts: 250
-Implied vol: 64.0%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/30520"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30520</id>
-    <updated>2026-10-24T00:03:57.246Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $2000 — expiry 6NOV26
-Direction: SELL
-Notional: ~$596K
-Contracts: 250
-Implied vol: 64.0%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/30519"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30519</id>
-    <updated>2026-10-24T00:03:56.890Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $2000 — expiry 6NOV26
-Direction: SELL
-Notional: ~$510K
-Contracts: 214
 Implied vol: 64.0%
 Venue: Deribit
 
