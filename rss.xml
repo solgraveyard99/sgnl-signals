@@ -5,7 +5,49 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T14:58:39.657Z</updated>
+  <updated>2026-10-24T15:03:39.669Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,521,185 USDT (~$1.5M) · 14:59 UTC</title>
+    <link href="https://t.me/sgnl_free/30594"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30594</id>
+    <updated>2026-10-24T15:00:20.046Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,521,185 USDT (~$1.5M) · 14:59 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x549d…3425
+Tx: https://etherscan.io/tx/0x659ccc5771e4bd7df7a5249555439c99521b8adb9dd5a69ae518c62ab91ad3cf
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 58424.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-23</title>
+    <link href="https://t.me/sgnl_free/30593"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30593</id>
+    <updated>2026-10-24T15:00:03.731Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-23
+
+Tokens with liquidity drop ≥50%: 8
+Tokens with liquidity drop ≥90%: 4
+Tokens with liquidity drop ≥75%: 6
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL KIMCHINU: -97.8%  $111.5K → $2.5K  in 1.8h
+  🚨 CRITICAL BTC: -97.4%  $103.3K → $2.7K  in 45m
+  🚨 CRITICAL CI: -97.4%  $87.8K → $2.3K  in 4.1h
+  🚨 CRITICAL CHUNKEE: -96.1%  $51.4K → $2.0K  in 2.8h
+  ⛔ SEVERE CTA: -87.9%  $25.2K → $3.1K  in 3.8h
+  ⛔ SEVERE CYBERCAT: -82.4%  $28.3K → $5.0K  in 50m
+  ⚠ HIGH POOT: -56.0%  $29.5K → $13.0K  in 8.9h
+  ⚠ HIGH McNugget: -54.8%  $100.6K → $45.4K  in 3.5h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3,199,998 USDT (~$3.2M) · 14:35 UTC</title>
     <link href="https://t.me/sgnl_free/30592"/>
@@ -845,54 +887,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1091.00 ETH (~$2.6M) · 03:35 UTC</title>
-    <link href="https://t.me/sgnl_free/30544"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30544</id>
-    <updated>2026-10-24T03:40:20.387Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1091.00 ETH (~$2.6M) · 03:35 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x92840f86450655a700a77f13ceea251b9e22b18f6d6bdff79a76f08f9105376a
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 58824.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
-    <link href="https://t.me/sgnl_free/30543"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30543</id>
-    <updated>2026-10-24T03:08:31.510Z</updated>
-    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
-📅 2026-10-23
-
-⏱ Last 24 hours
-🚀 Futures (Hyperliquid): $12.13 · 11 trades · WR 55%
-🐋 Solana Momentum: -272.90% · 10 trades · WR 30%
-⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
-
-📆 Last 7 days
-🚀 Futures: $29.12 · 65 trades · WR 55%
-⚙️ Other Strategy: +0.00% · 2 trades · WR 0%
-🐋 Solana Momentum: -405.25% · 13 trades · WR 23%
-
-📚 Cumulative since 2026-04-06
-🚀 Futures: $300.75 · 1569 trades · WR 51%
-🐋 Solana Momentum: -11376.33% · 1001 trades · WR 32%
-🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
-🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
-⚙️ Other Strategy: +0.00% · 83 trades · WR 0%
-⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
-⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
-
-Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
-Not financial advice. Data for decision support.
-
-📲 t.me/sgnl_free</summary>
   </entry>
 </feed>
