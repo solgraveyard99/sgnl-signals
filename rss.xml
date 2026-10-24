@@ -5,7 +5,67 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T05:28:39.632Z</updated>
+  <updated>2026-10-24T05:33:39.625Z</updated>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/30551"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30551</id>
+    <updated>2026-10-24T05:28:56.468Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+[BIP-934] Burn the 10M BEETS held by the Balancer DAO on Sonic
+
+DAO: balancer.eth
+Votes cast: 22
+Total voting power: 1
+Voting ends: 2026-10-27 18:00 UTC
+
+https://snapshot.org/#/balancer.eth/proposal/0xa5d326424f026ada8b589e662898998fd14a83256ac679ef3dacac05e91384ee
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/30550"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30550</id>
+    <updated>2026-10-24T05:28:56.045Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+[BIP-935] Claim leftover AAVE rewards
+
+DAO: balancer.eth
+Votes cast: 23
+Total voting power: 303319
+Voting ends: 2026-10-27 18:00 UTC
+
+https://snapshot.org/#/balancer.eth/proposal/0xbf8b6055dcc089ff8a0ac5c1b48ef1e57be44169c503835c1f3d8e3805035d29
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/30549"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30549</id>
+    <updated>2026-10-24T05:28:40.377Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+[BIP-936] Onchain Wind-down of Protocol: Specs
+
+DAO: balancer.eth
+Votes cast: 22
+Total voting power: 1
+Voting ends: 2026-10-27 18:00 UTC
+
+https://snapshot.org/#/balancer.eth/proposal/0x47126e7bd8e02a63ee7022e32c01ec2884a4443c770b9533621391b001663563
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 7,255,238 USDe (~$7.3M) · 04:26 UTC</title>
     <link href="https://t.me/sgnl_free/30548"/>
@@ -837,56 +897,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30501"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30501</id>
-    <updated>2026-10-23T19:54:25.870Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 8 large deposits ($54M) · 6 large withdrawals ($38M).
-
-📤 5.4M USDT ($5.4M)  ←  Binance 18  0x16f6d1…
-
-7d: $1939M in · $1950M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/30500"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30500</id>
-    <updated>2026-10-23T19:28:40.472Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-[7.2] [Social] Funding Request: ENS Meta-Governance Working Group Term 7 (Oct. Window)
-
-DAO: ens.eth
-Votes cast: 20
-Total voting power: 188131
-Voting ends: 2026-10-26 21:00 UTC
-
-https://snapshot.org/#/ens.eth/proposal/0xbbadb404accf9dddd246f8942f51f7e3511b6145d57e62197f163380128b720b
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/30499"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30499</id>
-    <updated>2026-10-23T19:13:37.239Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.274857557 gwei  ·  Safe: 0.24985878 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
   </entry>
 </feed>
