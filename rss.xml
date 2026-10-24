@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-23T23:58:39.615Z</updated>
+  <updated>2026-10-24T00:03:39.619Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/30516"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30516</id>
+    <updated>2026-10-24T00:00:19.871Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $81,180 (24h: −0.3%) | SOL: $102.93 (24h: −0.7%)
+Market activity index: 50/100 (mid band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-23</title>
+    <link href="https://t.me/sgnl_free/30515"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30515</id>
+    <updated>2026-10-24T00:00:04.226Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-23
+
+24h state transitions tracked: 278
+  💀 Died (gone): 170
+  😴 Went dormant: 65
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 MineDash: had $0 liquidity · died at age 11.0d
+  💀 Grokbit: had $0 liquidity · died at age 11.0d
+  💀 MM: had $0 liquidity · died at age 11.0d
+  💀 GROK: had $0 liquidity · died at age 11.0d
+  💀 PEGE: had $0 liquidity · died at age 11.0d
+  💀 coal: had $0 liquidity · died at age 11.0d
+  💀 OUTSIDE: had $0 liquidity · died at age 11.0d
+  💀 Motion: had $0 liquidity · died at age 11.0d
+  💀 SHITCOIN: had $0 liquidity · died at age 41.0d
+  💀 IGM: had $0 liquidity · died at age 30.0d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>⏳ Token Unlock · advance notice (on or about)</title>
     <link href="https://t.me/sgnl_free/30514"/>
@@ -813,34 +852,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 7d: $2031M in · $2010M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 868.00 ETH (~$2.1M) · 13:57 UTC</title>
-    <link href="https://t.me/sgnl_free/30466"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30466</id>
-    <updated>2026-10-23T14:00:19.977Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 868.00 ETH (~$2.1M) · 13:57 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x484b4f718cab411f30edbfce1413b16e94031d78e663773df0e9ef77660ee2ce
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59173.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily Market Composite — 2026-10-23</title>
-    <link href="https://t.me/sgnl_free/30465"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30465</id>
-    <updated>2026-10-23T14:00:02.979Z</updated>
-    <summary type="text">📊 Daily Market Composite — 2026-10-23
-Composite score: 50/100
-
-Raw composite reading. No directional interpretation.
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
