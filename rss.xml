@@ -5,7 +5,56 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T14:28:39.650Z</updated>
+  <updated>2026-10-24T14:33:39.656Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 9,039,142 USDT (~$9.0M) · 14:28 UTC</title>
+    <link href="https://t.me/sgnl_free/30591"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30591</id>
+    <updated>2026-10-24T14:30:36.096Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 9,039,142 USDT (~$9.0M) · 14:28 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x39df5d215c1d7fc3f36e96891ae7da3f57169ffa133ca24d040569491dc08a98
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 58450.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1528.00 ETH (~$3.6M) · 14:26 UTC</title>
+    <link href="https://t.me/sgnl_free/30590"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30590</id>
+    <updated>2026-10-24T14:30:20.205Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1528.00 ETH (~$3.6M) · 14:26 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x8c8dbe640df1d83212a48857673d7c7823def1eb2a9727b2ca1c0eb611bbf5d1
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 58438.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30589"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30589</id>
+    <updated>2026-10-24T14:29:22.902Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Deposit cluster: 5 large deposits ($40M) in 6h.
+
+📥 9.0M USDT ($9.0M)  →  Binance 14  0xeae738…
+
+7d: $1906M in · $2002M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30588"/>
@@ -849,59 +898,5 @@ How to read:
 NOT a guarantee — thin sell side can be legitimate for very fresh launches.
 Always test with small amount before sizing up. Use rugcheck.xyz to verify.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30541"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30541</id>
-    <updated>2026-10-24T02:39:22.716Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Deposit cluster: 3 large deposits ($21M) in 6h.
-
-📤 7.0M USDT ($7.0M)  ←  Binance 16  0xed0c60…
-
-7d: $1939M in · $1955M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/30540"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30540</id>
-    <updated>2026-10-24T02:16:40.638Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0033 SOL
-• 99th: 0.0154 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/30539"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30539</id>
-    <updated>2026-10-24T02:13:40.366Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-[ARFC] Onboard mWIN (Midas / Wellington Management) to Aave Horizon
-
-DAO: aavedao.eth
-Votes cast: 20
-Total voting power: 25517
-Voting ends: 2026-10-26 15:28 UTC
-
-https://snapshot.org/#/aavedao.eth/proposal/0xdbf52c6d05122bc161b68f1fbc067050753cbe17559fa8daead55cb6e91a4faf
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
   </entry>
 </feed>
