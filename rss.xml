@@ -5,7 +5,17 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T16:58:39.668Z</updated>
+  <updated>2026-10-24T17:03:39.669Z</updated>
+  <entry>
+    <title>☀️ SGNL Midday Snapshot</title>
+    <link href="https://t.me/sgnl_free/30602"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30602</id>
+    <updated>2026-10-24T17:00:17.499Z</updated>
+    <summary type="text">☀️ SGNL Midday Snapshot
+BTC: $80,267 | SOL: $100.59
+Market activity index: 30/100 (low band)
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 592.23 ETH (~$1.4M) · 16:13 UTC</title>
     <link href="https://t.me/sgnl_free/30601"/>
@@ -850,29 +860,5 @@ Base: 27.4%  ·  Rewards: n/a  ·  TVL: $9.8M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
-  </entry>
-  <entry>
-    <title>🪦 Pump.fun Daily Survival Report — 2026-10-23</title>
-    <link href="https://t.me/sgnl_free/30552"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30552</id>
-    <updated>2026-10-24T06:00:59.119Z</updated>
-    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-10-23
-
-Last 24h cohort: 0 launches
-  Graduated to Raydium: 0 (0.000%)
-  Timed out at 24h: 0 (0.000%)
-
-When tokens DO graduate, they graduate fast:
-  Median time-to-graduation: 0.0 min
-  Max observed today: 0.0 min
-  Graduations after 6 min: 0
-
-Cumulative since 2026-05-08 (164 days):
-  Cohort: 4,249,578
-  Total graduations: 32,160 (0.7568%)
-  Total timeouts: 4,217,418 (99.2432%)
-
-Source: Pump.fun on-chain + DexScreener
-Survival ≠ profitability. DYOR.</summary>
   </entry>
 </feed>
