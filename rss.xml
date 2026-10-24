@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T15:38:39.667Z</updated>
+  <updated>2026-10-24T15:43:39.659Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 498.96 ETH (~$1.1M) · 15:31 UTC</title>
+    <link href="https://t.me/sgnl_free/30599"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30599</id>
+    <updated>2026-10-24T15:40:44.349Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 498.96 ETH (~$1.1M) · 15:31 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x652a…a30b
+Tx: https://etherscan.io/tx/0xa39f00ea35703eefe03d9750faf4ff825116d137c5504f94c61668fc0d180131
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 24898.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 499.35 ETH (~$1.1M) · 15:17 UTC</title>
     <link href="https://t.me/sgnl_free/30598"/>
@@ -861,26 +878,6 @@ Total voting power: 303319
 Voting ends: 2026-10-27 18:00 UTC
 
 https://snapshot.org/#/balancer.eth/proposal/0xbf8b6055dcc089ff8a0ac5c1b48ef1e57be44169c503835c1f3d8e3805035d29
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/30549"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30549</id>
-    <updated>2026-10-24T05:28:40.377Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-[BIP-936] Onchain Wind-down of Protocol: Specs
-
-DAO: balancer.eth
-Votes cast: 22
-Total voting power: 1
-Voting ends: 2026-10-27 18:00 UTC
-
-https://snapshot.org/#/balancer.eth/proposal/0x47126e7bd8e02a63ee7022e32c01ec2884a4443c770b9533621391b001663563
 
 Statistical pattern. Not financial advice.
 
