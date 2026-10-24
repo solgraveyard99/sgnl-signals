@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T13:28:39.656Z</updated>
+  <updated>2026-10-24T13:33:39.651Z</updated>
+  <entry>
+    <title>🏦 Exchange reserves · 13 monitored wallets</title>
+    <link href="https://t.me/sgnl_free/30583"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30583</id>
+    <updated>2026-10-24T13:30:47.620Z</updated>
+    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
+
+Total: $18.43B · 24h net change −$65M (-0.35%)
+
+ETH: 676.9K  ($1602M)
+USDT: $16833M
+USDC: $0.1M
+DAI: $0.03M
+
+Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 CHEAP GAS WINDOW</title>
     <link href="https://t.me/sgnl_free/30582"/>
@@ -902,20 +919,5 @@ Optimal time for routine tx:
 • Approve revocations
 
 Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>📊 BTC ONCHAIN REGIME SHIFT</title>
-    <link href="https://t.me/sgnl_free/30533"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30533</id>
-    <updated>2026-10-24T00:59:06.568Z</updated>
-    <summary type="text">📊 BTC ONCHAIN REGIME SHIFT
-
-⚪ balanced on-chain flows (60) → 📊 exchange-outflow-heavy (70)
-
-Drivers:
-• hash 7d&gt;30d (+10)
-• hash at/near ATH (+10)
-
-Price: $81316  ·  Hash: 0.0 EH/s  ·  Addrs24h: 488,219</summary>
   </entry>
 </feed>
