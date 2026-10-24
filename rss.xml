@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T06:53:39.631Z</updated>
+  <updated>2026-10-24T06:58:39.642Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/30557"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30557</id>
+    <updated>2026-10-24T06:55:40.697Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0007 SOL
+• 99th: 0.0192 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/30556"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30556</id>
+    <updated>2026-10-24T06:53:44.852Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $87M total flow.
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 3 moves, $47M off exchanges
+• 🐋 Large withdrawal: $20M USDT ← Binance 15
+• 🐋 Large withdrawal: $20M USDT ← Binance 17
+
+Opposing flow: $21M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30555"/>
@@ -860,35 +896,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,499,999 USDT (~$1.5M) · 21:23 UTC</title>
-    <link href="https://t.me/sgnl_free/30507"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30507</id>
-    <updated>2026-10-23T21:30:21.324Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,499,999 USDT (~$1.5M) · 21:23 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0xdca4…5223
-Tx: https://etherscan.io/tx/0x004971900d456fdd16ed47c185cd0639033e5767fdbd2d12eb4987577abc2fb2
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 59103.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/30506"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30506</id>
-    <updated>2026-10-23T21:28:45.099Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDC
-Supply change 24h: -$762M
-New supply: $71.87B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
