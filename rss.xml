@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T06:48:39.628Z</updated>
+  <updated>2026-10-24T06:53:39.631Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30555"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30555</id>
+    <updated>2026-10-24T06:49:25.311Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Withdrawal cluster: 3 large withdrawals ($47M) in 6h.
+
+📤 19.9M USDT ($19.9M)  ←  Binance 17  0xf89d7b…
+
+7d: $1930M in · $1982M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📤 WITHDRAWAL · Binance 15</title>
     <link href="https://t.me/sgnl_free/30554"/>
@@ -875,31 +890,5 @@ New supply: $71.87B
 Net supply contraction event. Descriptive observation only.
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-10-22</title>
-    <link href="https://t.me/sgnl_free/30505"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30505</id>
-    <updated>2026-10-23T21:00:10.980Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-10-22
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 29
-Strong-bias tokens (buy/sell ≥3x): 12
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 BTC: 17894 buys / 1576 sells (11.4x)  vol1h=$1.01M  price1h +110%
-  📈 BTC: 10915 buys / 855 sells (12.8x)  vol1h=$661.5K  price1h +37%
-  📈 GTA: 10047 buys / 1337 sells (7.5x)  vol1h=$721.2K  price1h -44%
-  📈 MONEYBIZ: 11126 buys / 1717 sells (6.5x)  vol1h=$159.5K  price1h -11%
-  📈 KIMCHIBULL: 7127 buys / 661 sells (10.8x)  vol1h=$319.8K  price1h -16%
-  📈 KIMCHAI: 24333 buys / 8360 sells (2.9x)  vol1h=$602.6K  price1h +79%
-  📈 GTACHI: 8796 buys / 1625 sells (5.4x)  vol1h=$333.7K  price1h +73%
-  📈 KIMCHINU: 13970 buys / 4413 sells (3.2x)  vol1h=$954.8K  price1h +968%
-  📈 Nailong: 23811 buys / 14826 sells (1.6x)  vol1h=$2.24M  price1h -66%
-  📈 TRENCHERS: 4067 buys / 655 sells (6.2x)  vol1h=$66.0K  price1h +34%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
