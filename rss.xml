@@ -5,7 +5,54 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T11:58:39.653Z</updated>
+  <updated>2026-10-24T12:03:39.645Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/30575"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30575</id>
+    <updated>2026-10-24T12:00:59.357Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $270.7B  (24h: $-452M)
+
+⚪ USDT: $182.44B  ($-87M)
+🔴 USDC: $71.79B  ($-434M)
+🟢 USDS: $6.85B  (+$108M)
+⚪ DAI: $4.74B  ($-2M)
+⚪ USDe: $4.59B  ($-37M)
+⚪ FDUSD: $0.30B  (+$0M)
+
+📊 Net supply Δ24h: -$452M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-23</title>
+    <link href="https://t.me/sgnl_free/30574"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30574</id>
+    <updated>2026-10-24T12:00:03.272Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-23
+
+Yesterday&apos;s Jupiter route fee market (290 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    4.99M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 236.3K μlamp | Orca: 251.4K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 884.00 ETH (~$2.1M) · 10:39 UTC</title>
     <link href="https://t.me/sgnl_free/30573"/>
@@ -874,38 +921,5 @@ Top 2 by size:
 • 🐋 Whale withdrawal cluster: 3 moves, $19M off exchanges
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30525"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30525</id>
-    <updated>2026-10-24T00:09:23.142Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Deposit cluster: 3 large deposits ($22M) in 6h.
-
-📤 3535 ETH ($8.4M)  ←  Binance 17  0xf8191d…
-
-7d: $1932M in · $1947M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/30524"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30524</id>
-    <updated>2026-10-24T00:08:55.975Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $1800 — expiry 27NOV26
-Direction: SELL
-Notional: ~$1223K
-Contracts: 513
-Implied vol: 62.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
