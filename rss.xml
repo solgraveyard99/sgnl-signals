@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-25T13:58:39.727Z</updated>
+  <updated>2026-10-25T14:03:39.733Z</updated>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-10-25</title>
+    <link href="https://t.me/sgnl_free/30677"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30677</id>
+    <updated>2026-10-25T14:00:04.976Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-10-25
+Composite score: 50/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 4,100,309 USDT (~$4.1M) · 13:48 UTC</title>
     <link href="https://t.me/sgnl_free/30676"/>
@@ -868,18 +879,5 @@ Drivers:
 • hash 7d&gt;30d (+10)
 
 Price: $81070  ·  Hash: 0.0 EH/s  ·  Addrs24h: 497,584</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 2 active observations</title>
-    <link href="https://t.me/sgnl_free/30627"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30627</id>
-    <updated>2026-10-25T00:14:00.150Z</updated>
-    <summary type="text">📊 Activity summary · 2 active observations
-
-Top 2 by size:
-• 🐋 Whale deposit cluster: 3 moves, $24M to exchanges
-• 🐋 Whale withdrawal cluster: 3 moves, $24M off exchanges
-
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
