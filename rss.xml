@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-24T23:58:39.685Z</updated>
+  <updated>2026-10-25T00:03:39.687Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/30615"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30615</id>
+    <updated>2026-10-25T00:00:21.153Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $80,922 (24h: −0.3%) | SOL: $102.39 (24h: −0.4%)
+Market activity index: 50/100 (mid band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-24</title>
+    <link href="https://t.me/sgnl_free/30614"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30614</id>
+    <updated>2026-10-25T00:00:05.394Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-24
+
+24h state transitions tracked: 235
+  💀 Died (gone): 70
+  😴 Went dormant: 121
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 nigr: had $0 liquidity · died at age 10.7d
+  💀 NPCS: had $0 liquidity · died at age 10.7d
+  💀 MarsX: had $0 liquidity · died at age 10.7d
+  💀 CLAUDECHUD: had $0 liquidity · died at age 10.7d
+  💀 CALLOUTS: had $0 liquidity · died at age 10.7d
+  💀 test: had $0 liquidity · died at age 10.7d
+  💀 KnightDog: had $0 liquidity · died at age 10.7d
+  💀 Grimpoteuthi: had $0 liquidity · died at age 10.7d
+  💀 Sol: had $0 liquidity · died at age 10.7d
+  💀 COWE: had $0 liquidity · died at age 10.7d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3187.00 ETH (~$7.5M) · 23:47 UTC</title>
     <link href="https://t.me/sgnl_free/30613"/>
@@ -822,44 +861,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0000 SOL
 • 95th: 0.0275 SOL
 • 99th: 0.0455 SOL (~$5)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/30565"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30565</id>
-    <updated>2026-10-24T08:10:40.896Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0001 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0002 SOL
-• 99th: 0.0814 SOL (~$8)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/30564"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30564</id>
-    <updated>2026-10-24T08:05:40.730Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0001 SOL
-• 99th: 0.0407 SOL (~$4)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
