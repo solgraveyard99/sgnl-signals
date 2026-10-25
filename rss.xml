@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-25T23:23:39.751Z</updated>
+  <updated>2026-10-25T23:28:39.749Z</updated>
+  <entry>
+    <title>📥 DEPOSIT · Binance 14</title>
+    <link href="https://t.me/sgnl_free/30701"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30701</id>
+    <updated>2026-10-25T23:24:32.232Z</updated>
+    <summary type="text">📥 DEPOSIT · Binance 14
+6.5M USDT  ($6.5M)  →  0xc29bf2…
+⚪ Routine-size deposit (0.0× the 7-day daily average)
+Tx: https://etherscan.io/tx/0xb01d00c0373f3f6773ba7fd3d743c063931f597331a952acab8a5e266a0a6d7e
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,398,359 USDT (~$1.4M) · 22:43 UTC</title>
     <link href="https://t.me/sgnl_free/30700"/>
@@ -819,18 +832,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>📤 WITHDRAWAL · Binance 18</title>
-    <link href="https://t.me/sgnl_free/30651"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30651</id>
-    <updated>2026-10-25T08:44:32.290Z</updated>
-    <summary type="text">📤 WITHDRAWAL · Binance 18
-2318 ETH  ($5.4M)  ←  0x51c728…
-⚪ Routine-size withdrawal (0.0× the 7-day daily average)
-Tx: https://etherscan.io/tx/0xb15e705305cba792f59e161e2caadb37d7416ef2aa00d7eaa82948605258375f
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
