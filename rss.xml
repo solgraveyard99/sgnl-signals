@@ -5,7 +5,54 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-25T22:08:39.745Z</updated>
+  <updated>2026-10-25T22:13:39.762Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 3,799,999 USDT (~$3.8M) · 22:04 UTC</title>
+    <link href="https://t.me/sgnl_free/30699"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30699</id>
+    <updated>2026-10-25T22:10:36.502Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 3,799,999 USDT (~$3.8M) · 22:04 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0xd0a4…229f
+Tx: https://etherscan.io/tx/0xc4f63adff0288e8bffa23cc631709b5cf6e14a99527d2b68e2dc5cac5bbaa28a
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 57409.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 3618.00 ETH (~$8.5M) · 22:05 UTC</title>
+    <link href="https://t.me/sgnl_free/30698"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30698</id>
+    <updated>2026-10-25T22:10:20.729Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 3618.00 ETH (~$8.5M) · 22:05 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x01248898c346451d0c261f40c1c82c8a7c142f4ce329f79b81687dc20cda2f83
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 57386.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>📥 DEPOSIT · Binance 14</title>
+    <link href="https://t.me/sgnl_free/30697"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30697</id>
+    <updated>2026-10-25T22:09:23.015Z</updated>
+    <summary type="text">📥 DEPOSIT · Binance 14
+3618 ETH  ($8.4M)  →  0xeae738…
+⚪ Routine-size deposit (0.0× the 7-day daily average)
+Tx: https://etherscan.io/tx/0x01248898c346451d0c261f40c1c82c8a7c142f4ce329f79b81687dc20cda2f83
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 500.01 ETH (~$1.2M) · 21:22 UTC</title>
     <link href="https://t.me/sgnl_free/30696"/>
@@ -785,53 +832,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>📡 SGNL Daily Digest · 2026-10-24</title>
-    <link href="https://t.me/sgnl_free/30649"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30649</id>
-    <updated>2026-10-25T08:00:24.373Z</updated>
-    <summary type="text">📡 SGNL Daily Digest · 2026-10-24
-What 30+ SGNL observers caught in the last 24h
-
-⚡ Aave V3 liquidations (24h, 19 total)
-USDT 53424.15 → 5017.4950 LINK
-USDC 47350.60 → 21.3174 WETH
-USDT 28488.44 → 12.6745 WETH
-
-🌉 Cross-chain (Wormhole, 24h)
-$11.2M across 11424 txs · top route Solana → NEAR
-
-
-Free signals · No advice · t.me/sgnl_free</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 CHEAP GAS WINDOW</title>
-    <link href="https://t.me/sgnl_free/30648"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30648</id>
-    <updated>2026-10-25T07:13:30.312Z</updated>
-    <summary type="text">⛽🟢 CHEAP GAS WINDOW
-Fast: 0.033193718 gwei  ·  Safe: 0.032193718 gwei
-
-Optimal time for routine tx:
-• Token transfers (~$0.50)
-• Unclaimed airdrops
-• Swap batching
-• Approve revocations
-
-Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>📥 DEPOSIT · Binance 14</title>
-    <link href="https://t.me/sgnl_free/30647"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30647</id>
-    <updated>2026-10-25T07:04:22.998Z</updated>
-    <summary type="text">📥 DEPOSIT · Binance 14
-5155 ETH  ($12.1M)  →  0xeae738…
-⚪ Routine-size deposit (0.0× the 7-day daily average)
-Tx: https://etherscan.io/tx/0x4c7b2c90e3145f405c5ffb2e6d43e24b423ab9b09bac44353fb5ee548d9ed289
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
