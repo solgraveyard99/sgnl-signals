@@ -5,7 +5,44 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-25T06:23:39.699Z</updated>
+  <updated>2026-10-25T06:28:39.709Z</updated>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 27.5% APY</title>
+    <link href="https://t.me/sgnl_free/30644"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30644</id>
+    <updated>2026-10-25T06:28:38.763Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 27.5% APY
+veranta / USDC on Base
+Base: 27.5%  ·  Rewards: n/a  ·  TVL: $9.8M
+
+💡 +20.5% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/30643"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30643</id>
+    <updated>2026-10-25T06:23:41.154Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0003 SOL
+• 99th: 0.0729 SOL (~$7)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🪦 Pump.fun Daily Survival Report — 2026-10-24</title>
     <link href="https://t.me/sgnl_free/30642"/>
@@ -859,47 +896,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,521,185 USDT (~$1.5M) · 14:59 UTC</title>
-    <link href="https://t.me/sgnl_free/30594"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30594</id>
-    <updated>2026-10-24T15:00:20.046Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,521,185 USDT (~$1.5M) · 14:59 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x549d…3425
-Tx: https://etherscan.io/tx/0x659ccc5771e4bd7df7a5249555439c99521b8adb9dd5a69ae518c62ab91ad3cf
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 58424.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-23</title>
-    <link href="https://t.me/sgnl_free/30593"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30593</id>
-    <updated>2026-10-24T15:00:03.731Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-23
-
-Tokens with liquidity drop ≥50%: 8
-Tokens with liquidity drop ≥90%: 4
-Tokens with liquidity drop ≥75%: 6
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL KIMCHINU: -97.8%  $111.5K → $2.5K  in 1.8h
-  🚨 CRITICAL BTC: -97.4%  $103.3K → $2.7K  in 45m
-  🚨 CRITICAL CI: -97.4%  $87.8K → $2.3K  in 4.1h
-  🚨 CRITICAL CHUNKEE: -96.1%  $51.4K → $2.0K  in 2.8h
-  ⛔ SEVERE CTA: -87.9%  $25.2K → $3.1K  in 3.8h
-  ⛔ SEVERE CYBERCAT: -82.4%  $28.3K → $5.0K  in 50m
-  ⚠ HIGH POOT: -56.0%  $29.5K → $13.0K  in 8.9h
-  ⚠ HIGH McNugget: -54.8%  $100.6K → $45.4K  in 3.5h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
   </entry>
 </feed>
