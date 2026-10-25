@@ -5,7 +5,55 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-25T03:08:39.686Z</updated>
+  <updated>2026-10-25T03:13:39.685Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 909.00 ETH (~$2.1M) · 03:01 UTC</title>
+    <link href="https://t.me/sgnl_free/30635"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30635</id>
+    <updated>2026-10-25T03:10:22.870Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 909.00 ETH (~$2.1M) · 03:01 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xe0f018a090618554326db23b147dc6445cb48610ee4fec7c1c42d00c46a3c368
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 58043.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/30634"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30634</id>
+    <updated>2026-10-25T03:08:46.599Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-10-24
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): +$4.75 · 12 trades · WR 50%
+🐋 Solana Momentum: -125.79% · 5 trades · WR 0%
+
+📆 Last 7 days
+🚀 Futures: $24.70 · 67 trades · WR 55%
+⚙️ Other Strategy: +0.00% · 2 trades · WR 0%
+🐋 Solana Momentum: -531.04% · 18 trades · WR 17%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $296.00 · 1581 trades · WR 51%
+🐋 Solana Momentum: -11502.12% · 1006 trades · WR 32%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 83 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 499.80 ETH (~$1.2M) · 02:30 UTC</title>
     <link href="https://t.me/sgnl_free/30633"/>
@@ -832,30 +880,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily Market Composite — 2026-10-24</title>
-    <link href="https://t.me/sgnl_free/30585"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30585</id>
-    <updated>2026-10-24T14:00:04.027Z</updated>
-    <summary type="text">📊 Daily Market Composite — 2026-10-24
-Composite score: 30/100
-
-Raw composite reading. No directional interpretation.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/30584"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30584</id>
-    <updated>2026-10-24T13:43:29.815Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.078864751 gwei (fast)  ·  🟢 cheap
-Safe: 0.071693429  ·  Propose: 0.071695229  ·  BaseFee: 0.0717
-
-24h range: 0.03–0.40 gwei  (avg 0.10)
-
-Simple transfer cost now: ~$0.0041</summary>
   </entry>
 </feed>
