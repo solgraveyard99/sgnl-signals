@@ -5,7 +5,31 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-25T05:58:39.699Z</updated>
+  <updated>2026-10-25T06:03:39.738Z</updated>
+  <entry>
+    <title>🪦 Pump.fun Daily Survival Report — 2026-10-24</title>
+    <link href="https://t.me/sgnl_free/30642"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30642</id>
+    <updated>2026-10-25T06:01:03.587Z</updated>
+    <summary type="text">🪦 Pump.fun Daily Survival Report — 2026-10-24
+
+Last 24h cohort: 0 launches
+  Graduated to Raydium: 0 (0.000%)
+  Timed out at 24h: 0 (0.000%)
+
+When tokens DO graduate, they graduate fast:
+  Median time-to-graduation: 0.0 min
+  Max observed today: 0.0 min
+  Graduations after 6 min: 0
+
+Cumulative since 2026-05-08 (164 days):
+  Cohort: 4,249,578
+  Total graduations: 32,160 (0.7568%)
+  Total timeouts: 4,217,418 (99.2432%)
+
+Source: Pump.fun on-chain + DexScreener
+Survival ≠ profitability. DYOR.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/30641"/>
@@ -877,22 +901,5 @@ Top 10 biggest drops yesterday (peak → trough):
 Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
 Filter: peak liquidity ≥$20K, drop ≥50%.
 Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 3,199,998 USDT (~$3.2M) · 14:35 UTC</title>
-    <link href="https://t.me/sgnl_free/30592"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30592</id>
-    <updated>2026-10-24T14:40:20.085Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 3,199,998 USDT (~$3.2M) · 14:35 UTC
-From: 0x0b2f…c8c2
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x3638746c0de0c56904a5fe0cc11bb51d5facc410144f9091160a9bb924ebc0f0
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 58485.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
