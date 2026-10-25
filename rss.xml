@@ -5,7 +5,32 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-25T08:58:39.707Z</updated>
+  <updated>2026-10-25T09:03:39.719Z</updated>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-24</title>
+    <link href="https://t.me/sgnl_free/30653"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30653</id>
+    <updated>2026-10-25T09:00:03.505Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-24
+
+Top 5 whale-cluster events:
+• $47M ← CEX | 3 wallets | 10:40Z
+• $40M → CEX | 5 wallets | 15:28Z
+• $33M → CEX | 4 wallets | 15:58Z
+• $31M → CEX | 4 wallets | 15:28Z
+• $29M → CEX | 4 wallets | 13:28Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 8
+• Whale-cluster←CEX: 5
+• Whale-large←CEX: 1
+• Rug wallet: 1
+• Whale-large→CEX: 1
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2318.00 ETH (~$5.4M) · 08:42 UTC</title>
     <link href="https://t.me/sgnl_free/30652"/>
@@ -881,20 +906,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30603"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30603</id>
-    <updated>2026-10-24T18:39:22.836Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 3 large deposits ($24M) · 4 large withdrawals ($26M).
-
-📤 3235 ETH ($7.5M)  ←  Binance 16  0xf8191d…
-
-7d: $1869M in · $2007M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
