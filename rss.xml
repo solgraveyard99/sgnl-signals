@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-25T11:58:39.719Z</updated>
+  <updated>2026-10-25T12:03:39.719Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/30665"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30665</id>
+    <updated>2026-10-25T12:01:00.974Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $270.6B  (24h: $-50M)
+
+⚪ USDT: $182.43B  ($-15M)
+🔴 USDC: $71.70B  ($-123M)
+⚪ USDS: $6.83B  (+$96M)
+⚪ DAI: $4.74B  (+$3M)
+⚪ USDe: $4.58B  ($-12M)
+⚪ FDUSD: $0.30B  (+$0M)
+
+📊 Net supply Δ24h: $-50M (near-flat band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-24</title>
+    <link href="https://t.me/sgnl_free/30664"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30664</id>
+    <updated>2026-10-25T12:00:04.136Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-24
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    n/a
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 236.2K μlamp | Orca: 202.9K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30663"/>
@@ -858,44 +904,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🌙 SGNL Evening Snapshot</title>
-    <link href="https://t.me/sgnl_free/30615"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30615</id>
-    <updated>2026-10-25T00:00:21.153Z</updated>
-    <summary type="text">🌙 SGNL Evening Snapshot
-BTC: $80,922 (24h: −0.3%) | SOL: $102.39 (24h: −0.4%)
-Market activity index: 50/100 (mid band)
-Next snapshot: 17:00 UTC
-On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-24</title>
-    <link href="https://t.me/sgnl_free/30614"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30614</id>
-    <updated>2026-10-25T00:00:05.394Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-24
-
-24h state transitions tracked: 235
-  💀 Died (gone): 70
-  😴 Went dormant: 121
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 nigr: had $0 liquidity · died at age 10.7d
-  💀 NPCS: had $0 liquidity · died at age 10.7d
-  💀 MarsX: had $0 liquidity · died at age 10.7d
-  💀 CLAUDECHUD: had $0 liquidity · died at age 10.7d
-  💀 CALLOUTS: had $0 liquidity · died at age 10.7d
-  💀 test: had $0 liquidity · died at age 10.7d
-  💀 KnightDog: had $0 liquidity · died at age 10.7d
-  💀 Grimpoteuthi: had $0 liquidity · died at age 10.7d
-  💀 Sol: had $0 liquidity · died at age 10.7d
-  💀 COWE: had $0 liquidity · died at age 10.7d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
