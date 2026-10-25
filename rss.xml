@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-25T02:38:39.685Z</updated>
+  <updated>2026-10-25T02:43:39.688Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 499.80 ETH (~$1.2M) · 02:30 UTC</title>
+    <link href="https://t.me/sgnl_free/30633"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30633</id>
+    <updated>2026-10-25T02:40:20.102Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 499.80 ETH (~$1.2M) · 02:30 UTC
+From: 0x0b2f…c8c2
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x19189aa27a9b92eebccf4377efc0681e022e3b8f00be62a34744ad9023687d17
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 58061.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/30632"/>
@@ -840,22 +857,5 @@ Safe: 0.071693429  ·  Propose: 0.071695229  ·  BaseFee: 0.0717
 24h range: 0.03–0.40 gwei  (avg 0.10)
 
 Simple transfer cost now: ~$0.0041</summary>
-  </entry>
-  <entry>
-    <title>🏦 Exchange reserves · 13 monitored wallets</title>
-    <link href="https://t.me/sgnl_free/30583"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30583</id>
-    <updated>2026-10-24T13:30:47.620Z</updated>
-    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
-
-Total: $18.43B · 24h net change −$65M (-0.35%)
-
-ETH: 676.9K  ($1602M)
-USDT: $16833M
-USDC: $0.1M
-DAI: $0.03M
-
-Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
