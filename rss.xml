@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-25T15:08:39.744Z</updated>
+  <updated>2026-10-25T15:13:39.733Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 10,778,609 USDe (~$10.8M) · 15:04 UTC</title>
+    <link href="https://t.me/sgnl_free/30679"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30679</id>
+    <updated>2026-10-25T15:10:36.142Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 10,778,609 USDe (~$10.8M) · 15:04 UTC
+From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xf5339d808a470c19170698be2dea3fefc757d72ff209fecf5205128b807c77ac
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 144.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 10,778,609 USDe (~$10.8M) · 15:04 UTC</title>
+    <link href="https://t.me/sgnl_free/30678"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30678</id>
+    <updated>2026-10-25T15:10:20.377Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 10,778,609 USDe (~$10.8M) · 15:04 UTC
+From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xf5339d808a470c19170698be2dea3fefc757d72ff209fecf5205128b807c77ac
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 57701.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>📊 Daily Market Composite — 2026-10-25</title>
     <link href="https://t.me/sgnl_free/30677"/>
@@ -851,33 +885,5 @@ Optimal time for routine tx:
 • Approve revocations
 
 Windows like this typically last 30-60 min. Act now.</summary>
-  </entry>
-  <entry>
-    <title>📊 BTC ONCHAIN REGIME SHIFT</title>
-    <link href="https://t.me/sgnl_free/30629"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30629</id>
-    <updated>2026-10-25T00:59:06.181Z</updated>
-    <summary type="text">📊 BTC ONCHAIN REGIME SHIFT
-
-📊 exchange-outflow-heavy (70) → ⚪ balanced on-chain flows (60)
-
-Drivers:
-• hash 7d&gt;30d (+10)
-
-Price: $81070  ·  Hash: 0.0 EH/s  ·  Addrs24h: 497,584</summary>
-  </entry>
-  <entry>
-    <title>📊 BTC ONCHAIN REGIME SHIFT</title>
-    <link href="https://t.me/sgnl_free/30628"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30628</id>
-    <updated>2026-10-25T00:58:50.521Z</updated>
-    <summary type="text">📊 BTC ONCHAIN REGIME SHIFT
-
-📊 exchange-outflow-heavy (70) → ⚪ balanced on-chain flows (60)
-
-Drivers:
-• hash 7d&gt;30d (+10)
-
-Price: $81070  ·  Hash: 0.0 EH/s  ·  Addrs24h: 497,584</summary>
   </entry>
 </feed>
