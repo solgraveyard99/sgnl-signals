@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-25T08:48:39.713Z</updated>
+  <updated>2026-10-25T08:53:39.707Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2318.00 ETH (~$5.4M) · 08:42 UTC</title>
+    <link href="https://t.me/sgnl_free/30652"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30652</id>
+    <updated>2026-10-25T08:50:50.362Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2318.00 ETH (~$5.4M) · 08:42 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x51c7…2a7f
+Tx: https://etherscan.io/tx/0xb15e705305cba792f59e161e2caadb37d7416ef2aa00d7eaa82948605258375f
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 24617.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>📤 WITHDRAWAL · Binance 18</title>
     <link href="https://t.me/sgnl_free/30651"/>
@@ -879,15 +896,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>☀️ SGNL Midday Snapshot</title>
-    <link href="https://t.me/sgnl_free/30602"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30602</id>
-    <updated>2026-10-24T17:00:17.499Z</updated>
-    <summary type="text">☀️ SGNL Midday Snapshot
-BTC: $80,267 | SOL: $100.59
-Market activity index: 30/100 (low band)
-On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
   </entry>
 </feed>
