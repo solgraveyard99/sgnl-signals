@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-25T13:48:39.730Z</updated>
+  <updated>2026-10-25T13:53:39.728Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 4,100,309 USDT (~$4.1M) · 13:48 UTC</title>
+    <link href="https://t.me/sgnl_free/30676"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30676</id>
+    <updated>2026-10-25T13:50:20.230Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 4,100,309 USDT (~$4.1M) · 13:48 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x98ad…ba9d
+Tx: https://etherscan.io/tx/0x415c0f26e054928efff35c11e94a88d81b568456a09381f7234e64a2720b53ff
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 57695.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30675"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30675</id>
+    <updated>2026-10-25T13:49:22.950Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 7 large deposits ($243M) · 4 large withdrawals ($407M).
+
+📤 2851 ETH ($6.6M)  ←  Binance 16  0x98adef…
+
+7d: $2083M in · $2384M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Gas Check · 24h</title>
     <link href="https://t.me/sgnl_free/30674"/>
@@ -849,46 +881,5 @@ Top 2 by size:
 • 🐋 Whale withdrawal cluster: 3 moves, $24M off exchanges
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Week in Review · ending 2026-10-25</title>
-    <link href="https://t.me/sgnl_free/30626"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30626</id>
-    <updated>2026-10-25T00:13:44.438Z</updated>
-    <summary type="text">📊 Week in Review · ending 2026-10-25
-
-🐋 Whale Flows (7d)
-360 large moves
-Net CEX flow (7d): +$164M (positive = withdrawn from CEXs)
-Biggest withdrawal: $500M USDT from Binance 14 label: public address list, unverified
-
-⚡ Perp Funding Regime
-BTC avg: 0.0011%/hr (~9% APR)
-ETH avg: 0.0009%/hr (~8% APR)
-SOL avg: 0.0007%/hr (~6% APR)
-
-💰 Best Yields Right Now
-Stables: 27.4% — veranta/USDC @ Base
-ETH/LST: 6.5% — fusion-by-ipor/WETH @ Ethereum
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/30625"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30625</id>
-    <updated>2026-10-25T00:03:59.823Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $2320 — expiry 26OCT26
-Direction: SELL
-Notional: ~$1020K
-Contracts: 433
-Implied vol: 43.6%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
