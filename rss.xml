@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-25T09:58:39.703Z</updated>
+  <updated>2026-10-25T10:03:39.703Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/30659"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30659</id>
+    <updated>2026-10-25T10:00:41.375Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0001 SOL
+• 99th: 0.0166 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 9,066,981 USDT (~$9.1M) · 09:28 UTC</title>
     <link href="https://t.me/sgnl_free/30658"/>
@@ -876,31 +895,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-10-23</title>
-    <link href="https://t.me/sgnl_free/30609"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30609</id>
-    <updated>2026-10-24T21:00:11.541Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-10-23
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 36
-Strong-bias tokens (buy/sell ≥3x): 13
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 BITCHES: 23760 buys / 5813 sells (4.1x)  vol1h=$1.45M  price1h +85%
-  📈 KIMCHINU: 19421 buys / 6356 sells (3.1x)  vol1h=$1.15M  price1h +154%
-  📈 TRENCHERS: 5722 buys / 212 sells (20x+)  vol1h=$27.8K  price1h -35%
-  📈 BTC: 14447 buys / 4464 sells (3.2x)  vol1h=$755.1K  price1h +233%
-  📈 CI: 10970 buys / 2637 sells (4.2x)  vol1h=$397.6K  price1h -79%
-  📈 ODIE: 17835 buys / 7076 sells (2.5x)  vol1h=$2.36M  price1h +258%
-  📈 McNugget: 4033 buys / 713 sells (5.7x)  vol1h=$141.5K  price1h -54%
-  📈 YMBCOIN: 7884 buys / 3118 sells (2.5x)  vol1h=$1.35M  price1h +69%
-  📈 CHUNKEE: 4823 buys / 2031 sells (2.4x)  vol1h=$336.1K  price1h +202%
-  📈 MCRIBINU: 4136 buys / 1852 sells (2.2x)  vol1h=$253.2K  price1h +539%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
