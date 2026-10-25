@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-25T00:13:39.676Z</updated>
+  <updated>2026-10-25T00:18:39.687Z</updated>
+  <entry>
+    <title>📊 Activity summary · 2 active observations</title>
+    <link href="https://t.me/sgnl_free/30627"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30627</id>
+    <updated>2026-10-25T00:14:00.150Z</updated>
+    <summary type="text">📊 Activity summary · 2 active observations
+
+Top 2 by size:
+• 🐋 Whale deposit cluster: 3 moves, $24M to exchanges
+• 🐋 Whale withdrawal cluster: 3 moves, $24M off exchanges
+
+On-chain observation, not advice.</summary>
+  </entry>
+  <entry>
+    <title>📊 Week in Review · ending 2026-10-25</title>
+    <link href="https://t.me/sgnl_free/30626"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30626</id>
+    <updated>2026-10-25T00:13:44.438Z</updated>
+    <summary type="text">📊 Week in Review · ending 2026-10-25
+
+🐋 Whale Flows (7d)
+360 large moves
+Net CEX flow (7d): +$164M (positive = withdrawn from CEXs)
+Biggest withdrawal: $500M USDT from Binance 14 label: public address list, unverified
+
+⚡ Perp Funding Regime
+BTC avg: 0.0011%/hr (~9% APR)
+ETH avg: 0.0009%/hr (~8% APR)
+SOL avg: 0.0007%/hr (~6% APR)
+
+💰 Best Yields Right Now
+Stables: 27.4% — veranta/USDC @ Base
+ETH/LST: 6.5% — fusion-by-ipor/WETH @ Ethereum
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/30625"/>
@@ -823,32 +859,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🕵️ Repeat-rug wallet fingerprint matched</title>
-    <link href="https://t.me/sgnl_free/30577"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30577</id>
-    <updated>2026-10-24T12:48:41.747Z</updated>
-    <summary type="text">🕵️ Repeat-rug wallet fingerprint matched
-
-Wallet Cqjm..R7L4 now tied to 2 prior rug events
-Cumulative peak liquidity: $16K
-
-Historical observation. Public on-chain data.
-
-#onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 2 active observations</title>
-    <link href="https://t.me/sgnl_free/30576"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30576</id>
-    <updated>2026-10-24T12:14:00.048Z</updated>
-    <summary type="text">📊 Activity summary · 2 active observations
-
-Top 2 by size:
-• 🐋 Whale withdrawal cluster: 3 moves, $47M off exchanges
-• 🐋 Whale deposit cluster: 3 moves, $22M to exchanges
-
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
