@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-26T13:38:39.792Z</updated>
+  <updated>2026-10-26T13:43:39.794Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1870.00 ETH (~$4.3M) · 13:39 UTC</title>
+    <link href="https://t.me/sgnl_free/30834"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30834</id>
+    <updated>2026-10-26T13:40:55.763Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1870.00 ETH (~$4.3M) · 13:39 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xf4d18830e1a50df07ea060098131a9ff38f17536482030b7fe073e125638e32f
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 56807.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30833"/>
@@ -824,20 +841,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · SOL</title>
-    <link href="https://t.me/sgnl_free/30784"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30784</id>
-    <updated>2026-10-26T08:03:34.173Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
-Spread: 0.0044%/hr  (38.3% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0031%/hr)
-🔴 SHORT on MEXC  (funding 0.0013%/hr)
-
-Expected net: ~33% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
   </entry>
 </feed>
