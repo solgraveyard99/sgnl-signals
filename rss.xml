@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-26T17:33:39.808Z</updated>
+  <updated>2026-10-26T17:38:39.809Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30868"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30868</id>
+    <updated>2026-10-26T17:34:23.020Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 15 large deposits ($132M) · 12 large withdrawals ($146M).
+
+📤 14.9M USDT ($14.9M)  ←  Binance 15  0x091d1c…
+
+7d: $2429M in · $2951M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30867"/>
@@ -796,31 +811,5 @@ Total tracked: $270.3B  (24h: $-244M)
 
 Source: DeFiLlama stablecoin supply data.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-10-25</title>
-    <link href="https://t.me/sgnl_free/30818"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30818</id>
-    <updated>2026-10-26T12:00:04.144Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-25
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    1.3K μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: → 0% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 205.7K μlamp | Orca: 200.5K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
