@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-26T01:58:39.765Z</updated>
+  <updated>2026-10-26T02:03:39.759Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1050.40 ETH (~$2.4M) · 01:54 UTC</title>
+    <link href="https://t.me/sgnl_free/30732"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30732</id>
+    <updated>2026-10-26T02:00:20.311Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1050.40 ETH (~$2.4M) · 01:54 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xce1719ee5c4aee54ce0bd519558fe37e559f3948f90355e886c920468d3329c6
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 57252.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30731"/>
@@ -820,21 +837,6 @@ Statistical pattern. Not financial advice.</summary>
 📥 6.0M USDT ($6.0M)  →  Binance 14  0x35d0bb…
 
 7d: $2057M in · $2380M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30682"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30682</id>
-    <updated>2026-10-25T15:59:26.907Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 5 large deposits ($226M) · 3 large withdrawals ($399M).
-
-📤 6.1M USDT ($6.1M)  ←  Binance 18  0xab5a9f…
-
-7d: $2083M in · $2374M out · net flow: outflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
