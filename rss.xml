@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-26T13:03:39.788Z</updated>
+  <updated>2026-10-26T13:08:39.788Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30826"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30826</id>
+    <updated>2026-10-26T13:04:23.037Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 16 large deposits ($389M) · 17 large withdrawals ($571M).
+
+📤 15.0M USDT ($15.0M)  ←  Binance 16  0x549d83…
+
+7d: $2389M in · $2875M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🌅 Morning Brief · 2026-10-26</title>
+    <link href="https://t.me/sgnl_free/30825"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30825</id>
+    <updated>2026-10-26T13:03:44.710Z</updated>
+    <summary type="text">🌅 Morning Brief · 2026-10-26
+
+🐋 Whale flow (24h)
+56 large moves · net -$163M 📤 out of exchanges
+
+⚡ Perp funding snapshot
+BTC ⚪ neutral funding (HL)
+ETH ⚪ neutral funding (HL)
+SOL ⚪ neutral funding (HL)
+
+💰 Top yields right now
+Stables: 27.3% · veranta/USDC @ Base
+ETH/LST: 6.2% · fusion-by-ipor/WETH @ Ethereum
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/30824"/>
@@ -807,40 +843,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 27.3% APY</title>
-    <link href="https://t.me/sgnl_free/30776"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30776</id>
-    <updated>2026-10-26T07:28:39.125Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 27.3% APY
-veranta / USDC on Base
-Base: 27.3%  ·  Rewards: n/a  ·  TVL: $9.8M
-
-💡 +20.3% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 9,252,533 USDT (~$9.3M) · 07:18 UTC</title>
-    <link href="https://t.me/sgnl_free/30775"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30775</id>
-    <updated>2026-10-26T07:20:20.221Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 9,252,533 USDT (~$9.3M) · 07:18 UTC
-From: 0xcde5…9b90
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xd97de4113577e258c431d2f5e75e42c93a1d8cafe339c1d9850a3103a0ac68c8
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 57073.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
