@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-26T07:38:39.766Z</updated>
+  <updated>2026-10-26T07:43:39.766Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 4,227,301 USDT (~$4.2M) · 07:35 UTC</title>
+    <link href="https://t.me/sgnl_free/30778"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30778</id>
+    <updated>2026-10-26T07:40:20.381Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 4,227,301 USDT (~$4.2M) · 07:35 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x549d…3425
+Tx: https://etherscan.io/tx/0x1f211e8e5f594a9563746c203f0d72244304e2dc5dfb0310812956b19367e891
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 57080.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/30777"/>
@@ -842,24 +859,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/30728"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30728</id>
-    <updated>2026-10-26T01:29:51.983Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0002 SOL
-• 99th: 0.0138 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
