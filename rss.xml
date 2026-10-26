@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-26T03:03:39.772Z</updated>
+  <updated>2026-10-26T03:08:39.786Z</updated>
+  <entry>
+    <title>📊 SGNL Paper Portfolio — Daily Ledger</title>
+    <link href="https://t.me/sgnl_free/30742"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30742</id>
+    <updated>2026-10-26T03:08:35.872Z</updated>
+    <summary type="text">📊 SGNL Paper Portfolio — Daily Ledger
+📅 2026-10-25
+
+⏱ Last 24 hours
+🚀 Futures (Hyperliquid): $3.41 · 10 trades · WR 50%
+⚙️ Other Strategy: +0.00% · 1 trades · WR 0%
+🐋 Solana Momentum: -122.15% · 3 trades · WR 0%
+
+📆 Last 7 days
+🚀 Futures: $10.73 · 68 trades · WR 54%
+⚙️ Other Strategy: +0.00% · 3 trades · WR 0%
+🐋 Solana Momentum: -653.19% · 21 trades · WR 14%
+
+📚 Cumulative since 2026-04-06
+🚀 Futures: $299.41 · 1591 trades · WR 51%
+🐋 Solana Momentum: -11624.27% · 1009 trades · WR 32%
+🦄 ETH Memecoins: -15.06% · 10 trades · WR 20%
+🟦 Base Memecoins: +17.16% · 5 trades · WR 40%
+⚙️ Other Strategy: +0.00% · 84 trades · WR 0%
+⚙️ Other Strategy: +0.00% · 48 trades · WR 0%
+⚙️ Other Strategy: +18.48% · 20 trades · WR 30%
+
+Every trade is logged and published. Paper mode until validation targets hit (30-day moving winrate + Sharpe).
+Not financial advice. Data for decision support.
+
+📲 t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/30741"/>
@@ -846,20 +878,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30692"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30692</id>
-    <updated>2026-10-25T20:24:37.701Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Withdrawal cluster: 3 large withdrawals ($21M) in 6h.
-
-📤 7.4M USDT ($7.4M)  ←  Binance 14  0xed0c60…
-
-7d: $2063M in · $2382M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
