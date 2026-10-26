@@ -5,7 +5,35 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-26T13:58:39.794Z</updated>
+  <updated>2026-10-26T14:03:39.794Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 928.00 ETH (~$2.1M) · 13:58 UTC</title>
+    <link href="https://t.me/sgnl_free/30838"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30838</id>
+    <updated>2026-10-26T14:01:16.895Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 928.00 ETH (~$2.1M) · 13:58 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0xbc8a…5ce0
+Tx: https://etherscan.io/tx/0x2511b0e089615a5cb5968a96b9a3c3d9c669a6f4d999018b76ca4abb511fb0c2
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 56799.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-10-26</title>
+    <link href="https://t.me/sgnl_free/30837"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30837</id>
+    <updated>2026-10-26T14:00:33.540Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-10-26
+Composite score: 50/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,002,918 USDT (~$1.0M) · 13:46 UTC</title>
     <link href="https://t.me/sgnl_free/30836"/>
@@ -810,35 +838,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30788"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30788</id>
-    <updated>2026-10-26T08:19:22.949Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 15 large deposits ($185M) · 7 large withdrawals ($77M).
-
-📤 7.0M USDT ($7.0M)  ←  Binance 17  0xfb1908…
-
-7d: $2191M in · $2422M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30787"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30787</id>
-    <updated>2026-10-26T08:14:23.003Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 15 large deposits ($185M) · 6 large withdrawals ($70M).
-
-📥 9.0M USDT ($9.0M)  →  Binance 14  0x7f352d…
-
-7d: $2182M in · $2422M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
