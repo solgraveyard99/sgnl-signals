@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-26T13:23:39.796Z</updated>
+  <updated>2026-10-26T13:28:39.789Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30830"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30830</id>
+    <updated>2026-10-26T13:24:50.552Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 17 large deposits ($411M) · 15 large withdrawals ($547M).
+
+📥 10.0M USDT ($10.0M)  →  Binance 14  0xc8262e…
+
+7d: $2420M in · $2890M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/30829"/>
@@ -827,22 +842,5 @@ Top observations (by size):
 Opposing flow: $82M (filtered — minority)
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,376,870 USDT (~$1.4M) · 07:41 UTC</title>
-    <link href="https://t.me/sgnl_free/30780"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30780</id>
-    <updated>2026-10-26T07:50:55.702Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,376,870 USDT (~$1.4M) · 07:41 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0xbee3…a000
-Tx: https://etherscan.io/tx/0xacba43b428506e81af001986e704effeb788a9caf838dd49eb7dece7f29ade15
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 25932.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
