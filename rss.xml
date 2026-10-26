@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-26T06:48:39.765Z</updated>
+  <updated>2026-10-26T06:53:39.769Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,499,999 USDT (~$1.5M) · 06:47 UTC</title>
+    <link href="https://t.me/sgnl_free/30767"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30767</id>
+    <updated>2026-10-26T06:50:43.894Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,499,999 USDT (~$1.5M) · 06:47 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xf626…3c4d
+Tx: https://etherscan.io/tx/0xf4dd98ec66d17951c19da7426056b7070424e6a174d01216414d68dc5611222a
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 25993.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,000,000 USDT (~$1.0M) · 06:31 UTC</title>
     <link href="https://t.me/sgnl_free/30766"/>
@@ -843,24 +860,6 @@ Direction: SELL
 Notional: ~$601K
 Contracts: 7.5
 Implied vol: 36.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/30717"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30717</id>
-    <updated>2026-10-26T00:03:59.391Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $80000 — expiry 27OCT26
-Direction: SELL
-Notional: ~$601K
-Contracts: 7.5
-Implied vol: 34.8%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
