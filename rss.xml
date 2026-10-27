@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-27T11:58:39.880Z</updated>
+  <updated>2026-10-27T12:03:39.870Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/30996"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30996</id>
+    <updated>2026-10-27T12:00:47.463Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $269.4B  (24h: $-788M)
+
+🔴 USDT: $181.86B  ($-375M)
+🔴 USDC: $71.17B  ($-503M)
+⚪ USDS: $6.79B  (+$98M)
+⚪ DAI: $4.73B  (+$14M)
+⚪ USDe: $4.56B  ($-20M)
+⚪ FDUSD: $0.30B  ($-2M)
+
+📊 Net supply Δ24h: -$788M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-26</title>
+    <link href="https://t.me/sgnl_free/30995"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30995</id>
+    <updated>2026-10-27T12:00:11.312Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-26
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    n/a
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 274.9K μlamp | Orca: 257.0K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,999,999 USDT (~$2.0M) · 11:45 UTC</title>
     <link href="https://t.me/sgnl_free/30994"/>
@@ -798,39 +844,5 @@ Statistical pattern. Not financial advice.
 
 Tx: https://etherscan.io/tx/0x83f094ff564f85192273c718fa6811fb740960a981ae93a2494913b77d6111a1
 Wallet: https://etherscan.io/address/0x51c72848c68a965f66fa7a88855f9f7784502a7f</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,999,999 USDT (~$2.0M) · 05:25 UTC</title>
-    <link href="https://t.me/sgnl_free/30946"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30946</id>
-    <updated>2026-10-27T05:30:44.020Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,999,999 USDT (~$2.0M) · 05:25 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x0980…d1c2
-Tx: https://etherscan.io/tx/0xd1fa9025b76b347a4db0278e8b9026ba65ec2813f58f652b740e9d773d8ae44d
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26834.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 41,764,198 USDT (~$41.8M) · 05:02 UTC</title>
-    <link href="https://t.me/sgnl_free/30945"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30945</id>
-    <updated>2026-10-27T05:10:37.383Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 41,764,198 USDT (~$41.8M) · 05:02 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0xdfd5…963d · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x6baf97b7445d9c6e884a26c1cebb4f0555979b3ce281ef2c203f70b1e92b8029
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 56445.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
