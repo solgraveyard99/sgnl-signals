@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-27T06:58:39.848Z</updated>
+  <updated>2026-10-27T07:03:39.850Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 35,305,557 USDT (~$35.3M) · 06:57 UTC</title>
+    <link href="https://t.me/sgnl_free/30957"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30957</id>
+    <updated>2026-10-27T07:00:24.908Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 35,305,557 USDT (~$35.3M) · 06:57 UTC
+From: 0xcde5…9b90
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x6c2a5ee4ae5878a263396942c2731d471c9044ef817e2f4e7c6f07bc83e47987
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 56363.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30956"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30956</id>
+    <updated>2026-10-27T06:59:28.812Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Deposit cluster: 8 large deposits ($121M) in 6h.
+
+📥 35.3M USDT ($35.3M)  →  Binance 14  0xcde5d4…
+
+7d: $2673M in · $2978M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,276,307 USDT (~$1.3M) · 06:35 UTC</title>
     <link href="https://t.me/sgnl_free/30955"/>
@@ -819,41 +851,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/30907"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30907</id>
-    <updated>2026-10-27T00:04:02.298Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Call — strike $2380 — expiry 27OCT26
-Direction: BUY
-Notional: ~$1111K
-Contracts: 479
-Implied vol: 41.5%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/30906"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30906</id>
-    <updated>2026-10-27T00:04:01.876Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $88000 — expiry 30OCT26
-Direction: BUY
-Notional: ~$710K
-Contracts: 8.9
-Implied vol: 50.2%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
