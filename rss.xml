@@ -5,7 +5,31 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-27T08:58:39.864Z</updated>
+  <updated>2026-10-27T09:03:39.865Z</updated>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-26</title>
+    <link href="https://t.me/sgnl_free/30976"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30976</id>
+    <updated>2026-10-27T09:00:09.201Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-26
+
+Top 5 whale-cluster events:
+• $571M ← CEX | 17 wallets | 13:10Z
+• $569M ← CEX | 16 wallets | 11:28Z
+• $562M ← CEX | 17 wallets | 12:58Z
+• $561M ← CEX | 15 wallets | 10:28Z
+• $561M ← CEX | 15 wallets | 11:28Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 62
+• Whale-cluster←CEX: 56
+• Whale-large→CEX: 20
+• Whale-large←CEX: 14
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/30975"/>
@@ -827,20 +851,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/30926"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30926</id>
-    <updated>2026-10-27T02:19:23.013Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 5 large deposits ($35M) · 3 large withdrawals ($22M).
-
-📥 3669 ETH ($8.5M)  →  Binance 14  0xeae738…
-
-7d: $2587M in · $2986M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
