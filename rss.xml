@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-27T01:13:39.840Z</updated>
+  <updated>2026-10-27T01:18:39.828Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/30920"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30920</id>
+    <updated>2026-10-27T01:16:42.049Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0051 SOL
+• 99th: 0.0136 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/30919"/>
@@ -833,22 +852,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 6,099,999 USDT (~$6.1M) · 17:38 UTC</title>
-    <link href="https://t.me/sgnl_free/30870"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30870</id>
-    <updated>2026-10-26T17:40:20.129Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 6,099,999 USDT (~$6.1M) · 17:38 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x43fe…a54f
-Tx: https://etherscan.io/tx/0x59fd72898c0f415c9cb9190cd6407deb775e95d072bef8f846255dce6773837d
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 56752.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
