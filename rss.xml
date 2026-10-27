@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-27T18:58:39.897Z</updated>
+  <updated>2026-10-27T19:03:39.900Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 896.00 ETH (~$2.1M) · 18:54 UTC</title>
+    <link href="https://t.me/sgnl_free/31053"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31053</id>
+    <updated>2026-10-27T19:00:44.161Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 896.00 ETH (~$2.1M) · 18:54 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xbc8a…5ce0
+Tx: https://etherscan.io/tx/0xfcd57703dab8e95f8cfa06dba985ce5c8aa63f59990401a757786cb0be6a2267
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26789.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1486.00 ETH (~$3.5M) · 18:34 UTC</title>
     <link href="https://t.me/sgnl_free/31052"/>
@@ -769,27 +786,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 7d: $2774M in · $3006M out · net flow: outflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌅 Morning Brief · 2026-10-27</title>
-    <link href="https://t.me/sgnl_free/31003"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31003</id>
-    <updated>2026-10-27T13:03:45.051Z</updated>
-    <summary type="text">🌅 Morning Brief · 2026-10-27
-
-🐋 Whale flow (24h)
-71 large moves · net +$362M 📥 toward exchanges
-
-⚡ Perp funding snapshot
-BTC ⚪ neutral funding (HL)
-ETH ⚪ neutral funding (HL)
-SOL ⚪ neutral funding (HL)
-
-💰 Top yields right now
-Stables: 27.1% · veranta/USDC @ Base
-ETH/LST: 6.3% · ipor-fusion/WETH @ Ethereum
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
