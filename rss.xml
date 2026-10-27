@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-27T07:08:39.850Z</updated>
+  <updated>2026-10-27T07:13:39.852Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2,196,181 USDT (~$2.2M) · 07:04 UTC</title>
+    <link href="https://t.me/sgnl_free/30959"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30959</id>
+    <updated>2026-10-27T07:10:20.101Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2,196,181 USDT (~$2.2M) · 07:04 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0xbee3…a000
+Tx: https://etherscan.io/tx/0x4ef8a44b10e82e405815d19c3e0969d19b0d2bf909054a5b208916d34f9f5a72
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 56379.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30958"/>
@@ -834,19 +851,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 3 active observations</title>
-    <link href="https://t.me/sgnl_free/30909"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30909</id>
-    <updated>2026-10-27T00:13:45.121Z</updated>
-    <summary type="text">📊 Activity summary · 3 active observations
-
-Top 3 by size:
-• 🐋 Whale deposit cluster: 8 moves, $249M to exchanges
-• 🐋 Whale withdrawal cluster: 4 moves, $28M off exchanges
-• 🚨 Depeg watch: FDUSD at $0.9966
-
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
