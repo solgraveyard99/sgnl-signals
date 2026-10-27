@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-27T14:28:39.882Z</updated>
+  <updated>2026-10-27T14:33:39.885Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 12,999,949 USDT (~$13.0M) · 14:20 UTC</title>
+    <link href="https://t.me/sgnl_free/31022"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31022</id>
+    <updated>2026-10-27T14:30:59.958Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 12,999,949 USDT (~$13.0M) · 14:20 UTC
+From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x091d…8336
+Tx: https://etherscan.io/tx/0x818a21c1fbe69a1c6568bd6651782bce1d0aa21e5262138464e35b9ae370191b
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26876.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 52,685,475 USDT (~$52.7M) · 14:22 UTC</title>
+    <link href="https://t.me/sgnl_free/31021"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31021</id>
+    <updated>2026-10-27T14:30:44.201Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 52,685,475 USDT (~$52.7M) · 14:22 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xd957dc22cf60a6be192060de4af1e3209deaa29c7ce5d19e84ae579ea143427f
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26869.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/31020"/>
@@ -797,40 +831,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 10,000,000 USDT (~$10.0M) · 08:29 UTC</title>
-    <link href="https://t.me/sgnl_free/30972"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30972</id>
-    <updated>2026-10-27T08:30:20.144Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 10,000,000 USDT (~$10.0M) · 08:29 UTC
-From: 0xe69f…3abb
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x7dd6e6e7beb10a7b5b2860d545d20f34f2944af6a71cf077d988b5c19eefa2ac
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 56289.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 27.1% APY</title>
-    <link href="https://t.me/sgnl_free/30971"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30971</id>
-    <updated>2026-10-27T08:28:32.801Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 27.1% APY
-veranta / USDC on Base
-Base: 27.1%  ·  Rewards: n/a  ·  TVL: $9.9M
-
-💡 +20.1% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
   </entry>
 </feed>
