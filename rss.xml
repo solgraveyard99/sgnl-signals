@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-27T15:23:39.883Z</updated>
+  <updated>2026-10-27T15:28:39.899Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/31028"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31028</id>
+    <updated>2026-10-27T15:24:23.157Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 12 large deposits ($154M) · 10 large withdrawals ($107M).
+
+📥 7.0M USDT ($7.0M)  →  Binance 14  0x87ffb3…
+
+7d: $2800M in · $2940M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3,709,999 USDT (~$3.7M) · 15:09 UTC</title>
     <link href="https://t.me/sgnl_free/31027"/>
@@ -804,22 +819,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,532,983 USDT (~$1.5M) · 09:54 UTC</title>
-    <link href="https://t.me/sgnl_free/30978"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30978</id>
-    <updated>2026-10-27T10:00:23.857Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,532,983 USDT (~$1.5M) · 09:54 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x58c5f9c15663ad2e98876a3b9ba69ecbf978c489d73120da2ad78a9b101e9f46
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 56273.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
