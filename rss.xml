@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-27T07:03:39.850Z</updated>
+  <updated>2026-10-27T07:08:39.850Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/30958"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30958</id>
+    <updated>2026-10-27T07:04:23.057Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Deposit cluster: 8 large deposits ($121M) in 6h.
+
+📤 3514 ETH ($8.1M)  ←  Binance 14  0xed9b63…
+
+7d: $2696M in · $2978M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 35,305,557 USDT (~$35.3M) · 06:57 UTC</title>
     <link href="https://t.me/sgnl_free/30957"/>
@@ -833,23 +848,5 @@ Top 3 by size:
 • 🚨 Depeg watch: FDUSD at $0.9966
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/30908"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30908</id>
-    <updated>2026-10-27T00:04:02.969Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Call — strike $2380 — expiry 27OCT26
-Direction: BUY
-Notional: ~$1160K
-Contracts: 500
-Implied vol: 41.5%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
