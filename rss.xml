@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-27T15:03:39.880Z</updated>
+  <updated>2026-10-27T15:08:39.881Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/31026"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31026</id>
+    <updated>2026-10-27T15:04:23.348Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 11 large deposits ($147M) · 10 large withdrawals ($107M).
+
+📥 2390 ETH ($5.6M)  →  Binance 14  0xeae738…
+
+7d: $2808M in · $2946M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/31025"/>
@@ -804,29 +819,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-10-26</title>
-    <link href="https://t.me/sgnl_free/30976"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30976</id>
-    <updated>2026-10-27T09:00:09.201Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-10-26
-
-Top 5 whale-cluster events:
-• $571M ← CEX | 17 wallets | 13:10Z
-• $569M ← CEX | 16 wallets | 11:28Z
-• $562M ← CEX | 17 wallets | 12:58Z
-• $561M ← CEX | 15 wallets | 10:28Z
-• $561M ← CEX | 15 wallets | 11:28Z
-
-Alerts fired (24h):
-• Whale-cluster→CEX: 62
-• Whale-cluster←CEX: 56
-• Whale-large→CEX: 20
-• Whale-large←CEX: 14
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
