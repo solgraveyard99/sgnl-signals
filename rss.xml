@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-26T23:58:39.844Z</updated>
+  <updated>2026-10-27T00:03:39.836Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/30901"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30901</id>
+    <updated>2026-10-27T00:00:19.957Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $80,138 (24h: +0.0%) | SOL: $100.95 (24h: −0.4%)
+Market activity index: 50/100 (mid band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-26</title>
+    <link href="https://t.me/sgnl_free/30900"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-30900</id>
+    <updated>2026-10-27T00:00:04.168Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-26
+
+24h state transitions tracked: 233
+  💀 Died (gone): 95
+  😴 Went dormant: 86
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 CHIKUN: had $0 liquidity · died at age 30.0d
+  💀 Cassie: had $0 liquidity · died at age 30.0d
+  💀 GUYLI: had $0 liquidity · died at age 30.0d
+  💀 SNIPE: had $0 liquidity · died at age 21.0d
+  💀 BATONSEM: had $0 liquidity · died at age 21.0d
+  💀 Windchill: had $0 liquidity · died at age 10.5d
+  💀 Nihilism: had $0 liquidity · died at age 10.5d
+  💀 GROK: had $0 liquidity · died at age 10.5d
+  💀 Nema: had $0 liquidity · died at age 10.5d
+  💀 LIQUID: had $0 liquidity · died at age 10.5d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/30899"/>
@@ -780,41 +819,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 15742.14 ETH (~$36.7M) · 15:22 UTC</title>
-    <link href="https://t.me/sgnl_free/30851"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30851</id>
-    <updated>2026-10-26T15:30:44.461Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 15742.14 ETH (~$36.7M) · 15:22 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x9053e41a7647ae313c08d3c5633b1fb4daad039f83d269f99028515445f6c029
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26154.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/30850"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-30850</id>
-    <updated>2026-10-26T15:28:49.795Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 14 → fresh wallet
-Wallet: 0x9696…6976 (tx count unavailable)
-Amount: $36.60M ETH
-Tier: TIER3
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x9053e41a7647ae313c08d3c5633b1fb4daad039f83d269f99028515445f6c029
-Wallet: https://etherscan.io/address/0x9696f59e4d72e237be84ffd425dcad154bf96976</summary>
   </entry>
 </feed>
