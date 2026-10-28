@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-28T08:40:40.195Z</updated>
+  <updated>2026-10-28T08:45:40.199Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 10,000,000 USDe (~$10.0M) · 08:33 UTC</title>
+    <link href="https://t.me/sgnl_free/31119"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31119</id>
+    <updated>2026-10-28T08:42:36.220Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 10,000,000 USDe (~$10.0M) · 08:33 UTC
+From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x5407fd92dd5a530399320dab2fc69d53da89d111b36e8b9cf85bb66d70cb661b
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 154.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 20.00 WBTC (~$1.6M) · 08:38 UTC</title>
+    <link href="https://t.me/sgnl_free/31118"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31118</id>
+    <updated>2026-10-28T08:42:20.482Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 20.00 WBTC (~$1.6M) · 08:38 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x8652…8d96
+Tx: https://etherscan.io/tx/0x7aff16258bf1963a4e034e4445c94a4bcf005383795e6a1d35a3189edaeb01dc
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55685.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1998.00 ETH (~$4.7M) · 08:30 UTC</title>
     <link href="https://t.me/sgnl_free/31117"/>
@@ -812,44 +846,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🌙 SGNL Evening Snapshot</title>
-    <link href="https://t.me/sgnl_free/31069"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31069</id>
-    <updated>2026-10-28T00:00:20.630Z</updated>
-    <summary type="text">🌙 SGNL Evening Snapshot
-BTC: $80,914 (24h: +1.0%) | SOL: $101.41 (24h: +0.5%)
-Market activity index: 50/100 (mid band)
-Next snapshot: 17:00 UTC
-On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-27</title>
-    <link href="https://t.me/sgnl_free/31068"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31068</id>
-    <updated>2026-10-28T00:00:04.472Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-27
-
-24h state transitions tracked: 225
-  💀 Died (gone): 88
-  😴 Went dormant: 88
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 CTA: had $0 liquidity · died at age 21.0d
-  💀 SOLBOOK: had $0 liquidity · died at age 21.0d
-  💀 zDOG: had $0 liquidity · died at age 21.0d
-  💀 goHusky: had $0 liquidity · died at age 10.5d
-  💀 Puter: had $0 liquidity · died at age 10.5d
-  💀 BACK: had $0 liquidity · died at age 10.5d
-  💀 HASHED: had $0 liquidity · died at age 10.5d
-  💀 LOTTO: had $0 liquidity · died at age 30.0d
-  💀 Rain: had $0 liquidity · died at age 20.8d
-  💀 bul: had $0 liquidity · died at age 20.8d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
