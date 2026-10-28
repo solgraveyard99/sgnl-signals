@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-28T16:50:40.241Z</updated>
+  <updated>2026-10-28T16:55:40.241Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,517,840 USDT (~$1.5M) · 16:49 UTC</title>
+    <link href="https://t.me/sgnl_free/31183"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31183</id>
+    <updated>2026-10-28T16:52:20.563Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,517,840 USDT (~$1.5M) · 16:49 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0xbee3…a000
+Tx: https://etherscan.io/tx/0x825559db58a5467509f7c12be8f10d08daa1f535bf2a7885c37ec815f614af57
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55772.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>⏰ 1-hour warning · 🔴 HIGH IMPACT</title>
+    <link href="https://t.me/sgnl_free/31182"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31182</id>
+    <updated>2026-10-28T16:50:44.342Z</updated>
+    <summary type="text">⏰ 1-hour warning · 🔴 HIGH IMPACT
+FOMC statement (Oct 27-28 meeting) macro
+When: Wed, 28 Oct 2026 18:00:00 UTC
+
+Federal Reserve FOMC statement at 2:00 p.m. ET; press conference at 2:30 p.m. ET. Schedule reminder only, not advice.
+
+details ↗</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/31181"/>
@@ -774,40 +804,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,934,215 USDT (~$1.9M) · 09:47 UTC</title>
-    <link href="https://t.me/sgnl_free/31133"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31133</id>
-    <updated>2026-10-28T09:52:20.932Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,934,215 USDT (~$1.9M) · 09:47 UTC
-From: 0xc17a…a753
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xc723944ffcfd4d7191f54ce15d0389db2cc07d08942e262411cd61e3cd75b1e5
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55689.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 25.0% APY</title>
-    <link href="https://t.me/sgnl_free/31132"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31132</id>
-    <updated>2026-10-28T09:50:34.377Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 25.0% APY
-curve-llamalend / CRVUSD on Ethereum
-Base: 22.6%  ·  Rewards: 2.4%  ·  TVL: $5.4M
-
-💡 +18.0% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/0b777a97-3753-58f0-964b-260269b09f7e</summary>
   </entry>
 </feed>
