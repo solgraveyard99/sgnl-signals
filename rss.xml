@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-28T17:40:40.247Z</updated>
+  <updated>2026-10-28T17:45:40.257Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/31195"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31195</id>
+    <updated>2026-10-28T17:41:17.210Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 Clusters in both directions in 6h: 12 large deposits ($146M) · 13 large withdrawals ($118M).
+
+📤 8.9M USDT ($8.9M)  ←  Binance 18  0xf8191d…
+📤 7.8M USDT ($7.8M)  ←  Binance 15  0xf8191d…
+📤 7.5M USDT ($7.5M)  ←  Binance 17  0xf8191d…
+
+7d: $2926M in · $2448M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🆕 FRESH WALLET FUNDED</title>
+    <link href="https://t.me/sgnl_free/31194"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31194</id>
+    <updated>2026-10-28T17:40:49.232Z</updated>
+    <summary type="text">🆕 FRESH WALLET FUNDED
+
+Binance 14 → fresh wallet
+Wallet: 0xf819…73aa (tx count unavailable)
+Amount: $5.00M USDT
+Tier: TIER2
+
+Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
+
+Statistical pattern. Not financial advice.
+
+Tx: https://etherscan.io/tx/0xea97575b579c66ffc542d37bfcd3d4a2036f088a7927a9e3ba46d8c77a9ace1f
+Wallet: https://etherscan.io/address/0xf8191d98ae98d2f7abdfb63a9b0b812b93c873aa</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/31193"/>
@@ -760,40 +796,6 @@ From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public
 To: 0x838c…9bb5
 Tx: https://etherscan.io/tx/0xa53a14997e863c42149d0f7e11cc61b3b5033d5fa94b01803fb76b991ab9746c
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55691.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,007,570 USDT (~$1.0M) · 11:00 UTC</title>
-    <link href="https://t.me/sgnl_free/31145"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31145</id>
-    <updated>2026-10-28T11:02:45.102Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,007,570 USDT (~$1.0M) · 11:00 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x019d…74a6
-Tx: https://etherscan.io/tx/0x26d394e40cfa449d7aca827e96b0ec881e8174177a44cf1f6934a36d1c54f2ea
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 27358.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 4,699,999 USDT (~$4.7M) · 11:01 UTC</title>
-    <link href="https://t.me/sgnl_free/31144"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31144</id>
-    <updated>2026-10-28T11:02:21.232Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 4,699,999 USDT (~$4.7M) · 11:01 UTC
-From: 0x112c…e333
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x65df58fc63f06eb004b8ebe2c9c0a784dd13ce2372d367845c4d072eedcba6aa
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55683.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
