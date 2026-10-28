@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-28T12:00:40.229Z</updated>
+  <updated>2026-10-28T12:05:40.215Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/31154"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31154</id>
+    <updated>2026-10-28T12:01:00.392Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $268.7B  (24h: $-727M)
+
+🔴 USDT: $181.18B  ($-693M)
+⚪ USDC: $71.27B  (+$47M)
+⚪ USDS: $6.68B  ($-7M)
+⚪ DAI: $4.70B  ($-7M)
+⚪ USDe: $4.53B  ($-64M)
+⚪ FDUSD: $0.30B  ($-2M)
+
+📊 Net supply Δ24h: -$727M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>📅 Day-ahead · 🟡 Medium impact</title>
+    <link href="https://t.me/sgnl_free/31153"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31153</id>
+    <updated>2026-10-28T12:00:44.540Z</updated>
+    <summary type="text">📅 Day-ahead · 🟡 Medium impact
+US Personal Income and Outlays, incl. PCE prices (September 2026) macro
+When: Thu, 29 Oct 2026 12:30:00 UTC
+
+Includes the PCE price index. Release by the U.S. Bureau of Economic Analysis, 8:30 a.m. ET. Schedule reminder only, not advice.
+
+details ↗</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-10-27</title>
     <link href="https://t.me/sgnl_free/31152"/>
@@ -790,36 +824,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 📥 4843 ETH ($11.4M)  →  Binance 14  0xcde5d4…
 
 7d: $2776M in · $2938M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/31104"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31104</id>
-    <updated>2026-10-28T07:01:16.935Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Deposit cluster: 4 large deposits ($54M) in 6h.
-
-📥 20.0M USDT ($20.0M)  →  Binance 14  0x06d700…
-
-7d: $2756M in · $2938M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/31103"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31103</id>
-    <updated>2026-10-28T06:56:16.972Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Deposit cluster: 3 large deposits ($34M) in 6h.
-
-📥 3503 ETH ($8.2M)  →  Binance 14  0xeae738…
-
-7d: $2756M in · $2938M out · net flow: outflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
