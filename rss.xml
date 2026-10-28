@@ -5,7 +5,47 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-28T08:55:40.199Z</updated>
+  <updated>2026-10-28T09:00:40.201Z</updated>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-27</title>
+    <link href="https://t.me/sgnl_free/31123"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31123</id>
+    <updated>2026-10-28T09:00:03.844Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-27
+
+Top 5 whale-cluster events:
+• $196M → CEX | 14 wallets | 11:40Z
+• $196M → CEX | 14 wallets | 11:28Z
+• $196M → CEX | 14 wallets | 12:28Z
+• $195M → CEX | 13 wallets | 10:09Z
+• $186M → CEX | 13 wallets | 10:58Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 50
+• Whale-cluster←CEX: 40
+• Whale-large→CEX: 20
+• Whale-large←CEX: 6
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/31122"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31122</id>
+    <updated>2026-10-28T08:56:26.726Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Deposit cluster: 14 large deposits ($156M) in 6h.
+
+📥 10.0M USDT ($10.0M)  →  Binance 14  0x87ffb3…
+📥 5.1M USDT ($5.1M)  →  Binance 14  0xc7faf7…
+
+7d: $2816M in · $2878M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/31121"/>
@@ -805,42 +845,6 @@ BTC Call — strike $82000 — expiry 30OCT26
 Direction: BUY
 Notional: ~$703K
 Contracts: 8.7
-Implied vol: 39.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/31073"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31073</id>
-    <updated>2026-10-28T00:03:57.789Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $82000 — expiry 30OCT26
-Direction: BUY
-Notional: ~$703K
-Contracts: 8.7
-Implied vol: 39.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/31072"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31072</id>
-    <updated>2026-10-28T00:03:56.897Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $82000 — expiry 30OCT26
-Direction: BUY
-Notional: ~$1374K
-Contracts: 17
 Implied vol: 39.9%
 Venue: Deribit
 
