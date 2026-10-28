@@ -5,7 +5,32 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-28T11:55:40.213Z</updated>
+  <updated>2026-10-28T12:00:40.229Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-27</title>
+    <link href="https://t.me/sgnl_free/31152"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31152</id>
+    <updated>2026-10-28T12:00:14.706Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-27
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    n/a
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 239.8K μlamp | Orca: 252.4K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 10,000,000 USDT (~$10.0M) · 11:50 UTC</title>
     <link href="https://t.me/sgnl_free/31151"/>
@@ -798,22 +823,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2,899,999 USDT (~$2.9M) · 06:45 UTC</title>
-    <link href="https://t.me/sgnl_free/31102"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31102</id>
-    <updated>2026-10-28T06:51:41.838Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2,899,999 USDT (~$2.9M) · 06:45 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x57d7…cd0b
-Tx: https://etherscan.io/tx/0x002c73cd2c7c299f5afba735707a99a103d46e26d27732d272646c7967ec4384
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 27001.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
