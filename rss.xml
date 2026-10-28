@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-28T13:55:40.222Z</updated>
+  <updated>2026-10-28T14:00:40.224Z</updated>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-10-28</title>
+    <link href="https://t.me/sgnl_free/31171"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31171</id>
+    <updated>2026-10-28T14:00:02.615Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-10-28
+Composite score: 50/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/31170"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31170</id>
+    <updated>2026-10-28T13:56:17.219Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 29 large deposits ($260M) · 8 large withdrawals ($70M).
+
+📥 4244 ETH ($9.9M)  →  Binance 14  0xeae738…
+
+7d: $2924M in · $2899M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Gas Check · 24h</title>
     <link href="https://t.me/sgnl_free/31169"/>
@@ -791,42 +817,5 @@ All observations timestamped. Methodology public.
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31121"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31121</id>
-    <updated>2026-10-28T08:50:48.048Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0007 SOL
-• 99th: 0.0142 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 27.3% APY</title>
-    <link href="https://t.me/sgnl_free/31120"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31120</id>
-    <updated>2026-10-28T08:50:32.293Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 27.3% APY
-veranta / USDC on Base
-Base: 27.3%  ·  Rewards: n/a  ·  TVL: $9.9M
-
-💡 +20.3% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
   </entry>
 </feed>
