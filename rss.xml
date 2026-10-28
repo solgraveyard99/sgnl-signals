@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-28T03:48:39.929Z</updated>
+  <updated>2026-10-28T03:53:39.930Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/31094"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31094</id>
+    <updated>2026-10-28T03:48:53.809Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0010 SOL
+• 99th: 0.0201 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/31093"/>
@@ -829,22 +848,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2,907,912 USDT (~$2.9M) · 16:53 UTC</title>
-    <link href="https://t.me/sgnl_free/31044"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31044</id>
-    <updated>2026-10-27T17:00:44.206Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2,907,912 USDT (~$2.9M) · 16:53 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0xa7af…e05d
-Tx: https://etherscan.io/tx/0x2a4f38b4318bf10f0298884b5df72de2a8eb181b5573bc56ba95833ab6812a07
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26802.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
