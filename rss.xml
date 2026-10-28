@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-28T07:55:40.200Z</updated>
+  <updated>2026-10-28T08:00:40.195Z</updated>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-10-27</title>
+    <link href="https://t.me/sgnl_free/31112"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31112</id>
+    <updated>2026-10-28T08:00:25.273Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-10-27
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 5 total)
+USDT 14.84 → 0.0066 WETH
+USDT 8.73 → 0.0039 WETH
+WBTC 0.16 → 5.6600 WETH
+
+🌉 Cross-chain (Wormhole, 24h)
+$17.7M across 12439 txs · top route Solana → Solana
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🔴 STABLECOIN BURN · USDT</title>
     <link href="https://t.me/sgnl_free/31111"/>
@@ -832,20 +851,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/31062"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31062</id>
-    <updated>2026-10-27T21:24:24.029Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 12 large deposits ($107M) · 6 large withdrawals ($65M).
-
-📥 3037 ETH ($7.1M)  →  Binance 14  0xeae738…
-
-7d: $2810M in · $2975M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
