@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T11:55:40.325Z</updated>
+  <updated>2026-10-29T12:00:40.317Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-28</title>
+    <link href="https://t.me/sgnl_free/31373"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31373</id>
+    <updated>2026-10-29T12:00:11.339Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-28
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    300.0K μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 291.3K μlamp | Orca: 295.2K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 5,000,009 USDT (~$5.0M) · 11:17 UTC</title>
     <link href="https://t.me/sgnl_free/31372"/>
@@ -806,20 +832,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/31323"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31323</id>
-    <updated>2026-10-29T05:16:17.101Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Deposit cluster: 4 large deposits ($75M) in 6h.
-
-📤 3518 ETH ($8.2M)  ←  Binance 17  0xf8191d…
-
-7d: $3003M in · $2641M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
