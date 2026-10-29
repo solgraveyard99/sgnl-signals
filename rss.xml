@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T21:00:40.358Z</updated>
+  <updated>2026-10-29T21:05:40.360Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 899.99 ETH (~$2.0M) · 21:00 UTC</title>
+    <link href="https://t.me/sgnl_free/31451"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31451</id>
+    <updated>2026-10-29T21:02:21.502Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 899.99 ETH (~$2.0M) · 21:00 UTC
+From: 0x112c…e333
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xe00067e6dc25db3b16a93899c38d6f89936428316258e16da771792794333f1f
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55935.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔴 DEPEG · DAI (DAI)</title>
+    <link href="https://t.me/sgnl_free/31450"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31450</id>
+    <updated>2026-10-29T21:00:45.259Z</updated>
+    <summary type="text">🔴 DEPEG · DAI (DAI)
+Price: $1.0110  (↑ 1.100% above peg)
+24h change: +1.127%
+Duration: 15 min off-peg
+
+Large deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>📊 Exchange reserve change · monitored wallets −5.69% in 24h</title>
     <link href="https://t.me/sgnl_free/31449"/>
@@ -764,40 +796,6 @@ From: 0xeae7…a4f4
 To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
 Tx: https://etherscan.io/tx/0xf6bf72099a100342ae78ec39fbd55fdad6f3124cef6a76c07332ead02fed33d2
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55858.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1703.00 ETH (~$4.0M) · 15:00 UTC</title>
-    <link href="https://t.me/sgnl_free/31401"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31401</id>
-    <updated>2026-10-29T15:02:24.077Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1703.00 ETH (~$4.0M) · 15:00 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xfdd04e1b93d37bdb816878d5a29640d88b0ba785261e15554de03928c683c946
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55838.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 598.00 ETH (~$1.4M) · 14:46 UTC</title>
-    <link href="https://t.me/sgnl_free/31400"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31400</id>
-    <updated>2026-10-29T14:52:44.606Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 598.00 ETH (~$1.4M) · 14:46 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x32d4…5145
-Tx: https://etherscan.io/tx/0xa700d3fca459176c0209f28d0fa2f4474baa1f724f921e70264d0bc5f71aa7aa
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 26580.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
