@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T10:55:40.314Z</updated>
+  <updated>2026-10-29T11:00:40.326Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/31368"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31368</id>
+    <updated>2026-10-29T10:56:28.832Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 12 large deposits ($129M) · 9 large withdrawals ($74M).
+
+📥 10.0M USDT ($10.0M)  →  Binance 14  0xecf0e8…
+📤 3401 ETH ($7.9M)  ←  Binance 15  0xf8191d…
+
+7d: $2908M in · $2469M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 5,681,068 USDT (~$5.7M) · 10:43 UTC</title>
     <link href="https://t.me/sgnl_free/31367"/>
@@ -817,22 +833,5 @@ https://snapshot.org/#/aavedao.eth/proposal/0xe425ad8fc8cf631c358427d1cd37beb0de
 Statistical pattern. Not financial advice.
 
 #DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 3,999,999 USDT (~$4.0M) · 03:44 UTC</title>
-    <link href="https://t.me/sgnl_free/31318"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31318</id>
-    <updated>2026-10-29T03:52:20.753Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 3,999,999 USDT (~$4.0M) · 03:44 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x1d5c…bdb8
-Tx: https://etherscan.io/tx/0xc6192a391c994888bf74ebba10e29cae8d07d7e558a0581f5fac7c098a5104eb
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55706.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
