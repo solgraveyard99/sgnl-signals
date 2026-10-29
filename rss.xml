@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T19:20:40.342Z</updated>
+  <updated>2026-10-29T19:25:40.344Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 801.19 ETH (~$1.9M) · 19:20 UTC</title>
+    <link href="https://t.me/sgnl_free/31439"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31439</id>
+    <updated>2026-10-29T19:22:29.277Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 801.19 ETH (~$1.9M) · 19:20 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x6687…5a4c
+Tx: https://etherscan.io/tx/0x96807fd8457b1ee1f7906ddfff87ae9753ec65c2d1e63537baeebe7b99ed53a4
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55961.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🆕 FRESH WALLET FUNDED</title>
     <link href="https://t.me/sgnl_free/31438"/>
@@ -788,17 +805,5 @@ Safe: 0.132596533  ·  Propose: 0.13259663  ·  BaseFee: 0.1326
 24h range: 0.04–0.59 gwei  (avg 0.12)
 
 Simple transfer cost now: ~$0.0081</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/31389"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31389</id>
-    <updated>2026-10-29T13:35:46.430Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.154877209 gwei  ·  Safe: 0.132596533 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
