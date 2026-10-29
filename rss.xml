@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T15:45:40.336Z</updated>
+  <updated>2026-10-29T15:50:40.343Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/31412"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31412</id>
+    <updated>2026-10-29T15:46:17.315Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 11 large deposits ($1693M) · 18 large withdrawals ($185M).
+
+📥 7.5M USDT ($7.5M)  →  Binance 14  0x3284ac…
+📤 6.0M USDT ($6.0M)  ←  Binance 15  0xd0a4f3…
+
+7d: $4445M in · $2485M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3254.00 ETH (~$7.7M) · 15:30 UTC</title>
     <link href="https://t.me/sgnl_free/31411"/>
@@ -809,20 +825,5 @@ Statistical pattern. Not financial advice.
 
 Tx: https://etherscan.io/tx/0x8366ae4ca239e489513cca81422f6fd9bf9b156271e7992ac39cb207682faa62
 Wallet: https://etherscan.io/address/0x9696f59e4d72e237be84ffd425dcad154bf96976</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/31362"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31362</id>
-    <updated>2026-10-29T10:26:17.073Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 11 large deposits ($119M) · 6 large withdrawals ($56M).
-
-📤 10.9M USDT ($10.9M)  ←  Binance 16  0x838c54…
-
-7d: $2921M in · $2448M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
