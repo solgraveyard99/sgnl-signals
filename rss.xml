@@ -5,7 +5,47 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T04:35:40.297Z</updated>
+  <updated>2026-10-29T04:40:40.287Z</updated>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/31320"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31320</id>
+    <updated>2026-10-29T04:35:56.984Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+[ARFC] Aave V4 Deployment on Tempo
+
+DAO: aavedao.eth
+Votes cast: 20
+Total voting power: 107942
+Voting ends: 2026-10-31 12:11 UTC
+
+https://snapshot.org/#/aavedao.eth/proposal/0x9510b6815b892919bfa6a838f5b1d49b05f77fb1ee53614256c8c90b656446bc
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/31319"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31319</id>
+    <updated>2026-10-29T04:35:41.184Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+[ARFC] Aave V3.8
+
+DAO: aavedao.eth
+Votes cast: 21
+Total voting power: 107943
+Voting ends: 2026-10-31 12:34 UTC
+
+https://snapshot.org/#/aavedao.eth/proposal/0xe425ad8fc8cf631c358427d1cd37beb0de963230b547c77ac02c754e63bbebae
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3,999,999 USDT (~$4.0M) · 03:44 UTC</title>
     <link href="https://t.me/sgnl_free/31318"/>
@@ -825,40 +865,6 @@ From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public
 To: 0x2a50…90cf
 Tx: https://etherscan.io/tx/0x6d1ba238b9dfe511ee694822ca83179def1bdffe53cdfd04693a469de1301722
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55753.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2,138,467 USDT (~$2.1M) · 20:57 UTC</title>
-    <link href="https://t.me/sgnl_free/31270"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31270</id>
-    <updated>2026-10-28T21:02:45.002Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2,138,467 USDT (~$2.1M) · 20:57 UTC
-From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0xd59d…12d2
-Tx: https://etherscan.io/tx/0x74276a0e2f88647bc962e26e94ca68c5374d1e14fbeb6c34a6b9c518c7d1413b
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 27682.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,450,475 ENA (~$1.5M) · 20:47 UTC</title>
-    <link href="https://t.me/sgnl_free/31269"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31269</id>
-    <updated>2026-10-28T20:52:22.934Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,450,475 ENA (~$1.5M) · 20:47 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x6463…42f5
-Tx: https://etherscan.io/tx/0xebc93d60e05f78f75bf54275b9906526474803b53da760e338a0f7e008041727
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55802.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
