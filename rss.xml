@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T10:30:40.315Z</updated>
+  <updated>2026-10-29T10:35:40.314Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 500.00 ETH (~$1.2M) · 10:30 UTC</title>
+    <link href="https://t.me/sgnl_free/31364"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31364</id>
+    <updated>2026-10-29T10:32:25.647Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 500.00 ETH (~$1.2M) · 10:30 UTC
+From: 0xe69f…3abb
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x698b78976a4b65d7f2d9a9d8e4f4f904ab4fb0afc47fae429748b49437ba26f5
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55748.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🆕 FRESH WALLET FUNDED</title>
+    <link href="https://t.me/sgnl_free/31363"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31363</id>
+    <updated>2026-10-29T10:30:49.395Z</updated>
+    <summary type="text">🆕 FRESH WALLET FUNDED
+
+Binance 14 → fresh wallet
+Wallet: 0x9696…6976 (tx count unavailable)
+Amount: $53.05M USDT
+Tier: TIER3
+
+Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
+
+Statistical pattern. Not financial advice.
+
+Tx: https://etherscan.io/tx/0x8366ae4ca239e489513cca81422f6fd9bf9b156271e7992ac39cb207682faa62
+Wallet: https://etherscan.io/address/0x9696f59e4d72e237be84ffd425dcad154bf96976</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/31362"/>
@@ -797,39 +833,5 @@ Top observations (by size):
 Opposing flow: $21M (filtered — minority)
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 500.00 ETH (~$1.2M) · 03:30 UTC</title>
-    <link href="https://t.me/sgnl_free/31314"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31314</id>
-    <updated>2026-10-29T03:32:36.859Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 500.00 ETH (~$1.2M) · 03:30 UTC
-From: 0xe866…7e94
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x30ae8bf9dc9ff8015c894915fbb613c9ebace1ebaacdb1a64296f8bda1338290
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55675.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 457.00 ETH (~$1.1M) · 03:30 UTC</title>
-    <link href="https://t.me/sgnl_free/31313"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31313</id>
-    <updated>2026-10-29T03:32:20.873Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 457.00 ETH (~$1.1M) · 03:30 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x4bf103199924011308d5ec847257f7ce034c4dfa1c78c0f936eafa5981ddf0d3
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55669.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
