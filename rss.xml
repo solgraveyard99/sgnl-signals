@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T06:20:40.298Z</updated>
+  <updated>2026-10-29T06:25:40.295Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 933.00 ETH (~$2.2M) · 06:21 UTC</title>
+    <link href="https://t.me/sgnl_free/31327"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31327</id>
+    <updated>2026-10-29T06:22:35.889Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 933.00 ETH (~$2.2M) · 06:21 UTC
+From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x51c7…2a7f
+Tx: https://etherscan.io/tx/0xb4c48cdd86110637181280046d3855f9f0aaec89757b236e0a3983018cf0053e
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55675.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/31326"/>
@@ -845,33 +862,5 @@ BTC: $81,284 (24h: +0.4%) | SOL: $102.34 (24h: +0.9%)
 Market activity index: 50/100 (mid band)
 Next snapshot: 17:00 UTC
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-28</title>
-    <link href="https://t.me/sgnl_free/31277"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31277</id>
-    <updated>2026-10-29T00:00:18.704Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-28
-
-24h state transitions tracked: 255
-  💀 Died (gone): 150
-  😴 Went dormant: 67
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 pillheads: had $0 liquidity · died at age 40.2d
-  💀 SPEND: had $0 liquidity · died at age 30.3d
-  💀 SLICE: had $0 liquidity · died at age 30.3d
-  💀 EGGWAR: had $0 liquidity · died at age 10.2d
-  💀 Chomp: had $0 liquidity · died at age 10.2d
-  💀 MACARON: had $0 liquidity · died at age 10.2d
-  💀 QUID: had $0 liquidity · died at age 10.2d
-  💀 Benny: had $0 liquidity · died at age 10.2d
-  💀 Nillionaire: had $0 liquidity · died at age 10.2d
-  💀 BRICK: had $0 liquidity · died at age 87.7d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
