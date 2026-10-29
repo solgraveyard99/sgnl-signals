@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T08:15:40.314Z</updated>
+  <updated>2026-10-29T08:20:40.321Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/31340"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31340</id>
+    <updated>2026-10-29T08:16:17.203Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 9 large deposits ($134M) · 3 large withdrawals ($25M).
+
+📥 34.5M USDT ($34.5M)  →  Binance 14  0xf18d6e…
+
+7d: $2922M in · $2447M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1492.00 ETH (~$3.4M) · 08:00 UTC</title>
     <link href="https://t.me/sgnl_free/31339"/>
@@ -827,20 +842,5 @@ Top 4 by size:
 • 🔀 Cross-venue funding divergence: SOL 27% APR spread
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · SOL</title>
-    <link href="https://t.me/sgnl_free/31290"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31290</id>
-    <updated>2026-10-29T00:05:34.029Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
-Spread: 0.0031%/hr  (27.4% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0019%/hr)
-🔴 SHORT on MEXC  (funding 0.0013%/hr)
-
-Expected net: ~22% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
   </entry>
 </feed>
