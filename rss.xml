@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T18:25:40.344Z</updated>
+  <updated>2026-10-29T18:30:40.352Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/31432"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31432</id>
+    <updated>2026-10-29T18:26:17.148Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 14 large deposits ($1717M) · 12 large withdrawals ($635M).
+
+📤 2972 ETH ($6.9M)  ←  Binance 15  0x6687ac…
+
+7d: $4456M in · $2988M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3457.00 ETH (~$8.1M) · 18:17 UTC</title>
     <link href="https://t.me/sgnl_free/31431"/>
@@ -780,22 +795,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,600,000,000 USDT (~$1.60B) · 13:01 UTC</title>
-    <link href="https://t.me/sgnl_free/31382"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31382</id>
-    <updated>2026-10-29T13:02:21.946Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,600,000,000 USDT (~$1.60B) · 13:01 UTC
-From: 0x5a52…efcb · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xf2feb4d0e246571edbd08aa4b8a963f32fe0b716d941452d33f1cf63e10732be
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55825.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
