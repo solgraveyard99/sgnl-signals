@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T21:45:40.359Z</updated>
+  <updated>2026-10-29T21:50:40.360Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/31453"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31453</id>
+    <updated>2026-10-29T21:46:17.325Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 8 large deposits ($271M) · 8 large withdrawals ($2460M).
+
+📤 200.4M USDT ($200.4M)  ←  Binance 14  0x5227f6…
+📥 200.0M USDT ($200.0M)  →  Binance 14  0x221321…
+
+7d: $4429M in · $4720M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🆕 FRESH WALLET FUNDED</title>
     <link href="https://t.me/sgnl_free/31452"/>
@@ -787,22 +803,5 @@ Statistical pattern. Not financial advice.
 
 Tx: https://etherscan.io/tx/0xd66e84bd9f9dc03dd088eb3191e49d72058c459ed084b159f5fdceac5c799afe
 Wallet: https://etherscan.io/address/0x51c72848c68a965f66fa7a88855f9f7784502a7f</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 4,161,592 USDT (~$4.2M) · 15:01 UTC</title>
-    <link href="https://t.me/sgnl_free/31403"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31403</id>
-    <updated>2026-10-29T15:02:24.997Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 4,161,592 USDT (~$4.2M) · 15:01 UTC
-From: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x51c7…2a7f
-Tx: https://etherscan.io/tx/0xd66e84bd9f9dc03dd088eb3191e49d72058c459ed084b159f5fdceac5c799afe
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55862.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
