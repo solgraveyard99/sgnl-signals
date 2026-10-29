@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T10:45:40.318Z</updated>
+  <updated>2026-10-29T10:50:40.320Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/31365"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31365</id>
+    <updated>2026-10-29T10:46:17.087Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 11 large deposits ($119M) · 8 large withdrawals ($66M).
+
+📤 5.7M USDT ($5.7M)  ←  Binance 18  0x51c728…
+📤 5.0M USDT ($5.0M)  ←  Binance 17  0x42008c…
+
+7d: $2921M in · $2459M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 500.00 ETH (~$1.2M) · 10:30 UTC</title>
     <link href="https://t.me/sgnl_free/31364"/>
@@ -815,23 +831,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 7d: $3008M in · $2642M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 3 inflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/31315"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31315</id>
-    <updated>2026-10-29T03:35:46.285Z</updated>
-    <summary type="text">📊 3 inflow-heavy observations detected
-Sample: 3 concurrent observations · $168M total flow.
-
-Top observations (by size):
-• 🐋 Whale deposit cluster: 6 moves, $111M to exchanges
-• 🐋 Large deposit: $40M USDT → Binance 14
-• 🐋 Large deposit: $17M ETH → Binance 14
-
-Opposing flow: $21M (filtered — minority)
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
