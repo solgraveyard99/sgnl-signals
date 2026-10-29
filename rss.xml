@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T13:10:40.327Z</updated>
+  <updated>2026-10-29T13:15:40.322Z</updated>
+  <entry>
+    <title>📊 3 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/31384"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31384</id>
+    <updated>2026-10-29T13:10:47.671Z</updated>
+    <summary type="text">📊 3 inflow-heavy observations detected
+Sample: 3 concurrent observations · $3.34B total flow.
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 13 moves, $1732M to exchanges
+• 🐋 Large deposit: $1600M USDT → Binance 14
+• 🐋 Large deposit: $10M USDT → Binance 14
+
+Opposing flow: $107M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/31383"/>
@@ -823,22 +840,5 @@ Fast: 0.045551486 gwei  ·  Safe: 0.041410442 gwei
 A cheaper time for routine transactions you already planned, for example revoking old token approvals.
 Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 3 inflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/31334"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31334</id>
-    <updated>2026-10-29T07:35:46.248Z</updated>
-    <summary type="text">📊 3 inflow-heavy observations detected
-Sample: 3 concurrent observations · $140M total flow.
-
-Top observations (by size):
-• 🐋 Whale deposit cluster: 9 moves, $118M to exchanges
-• 🐋 Large deposit: $12M USDT → Binance 14
-• 🐋 Large deposit: $10M USDT → Binance 14
-
-Opposing flow: $21M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
