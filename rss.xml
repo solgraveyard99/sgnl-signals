@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T08:00:40.314Z</updated>
+  <updated>2026-10-29T08:05:40.314Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1492.00 ETH (~$3.4M) · 08:00 UTC</title>
+    <link href="https://t.me/sgnl_free/31339"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31339</id>
+    <updated>2026-10-29T08:02:20.511Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1492.00 ETH (~$3.4M) · 08:00 UTC
+From: 0xeae7…a4f4
+To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x6fe59a4c8a70e83559409b8a41e2b21f4f41732820e923e6f93599ed347f58b3
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55714.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>📡 SGNL Daily Digest · 2026-10-28</title>
     <link href="https://t.me/sgnl_free/31338"/>
@@ -825,24 +842,5 @@ Spread: 0.0031%/hr  (27.4% APR gross)
 Expected net: ~22% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
 monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31289"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31289</id>
-    <updated>2026-10-29T00:03:41.548Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0022 SOL
-• 99th: 0.5117 SOL (~$51)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
