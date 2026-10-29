@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-29T13:55:40.335Z</updated>
+  <updated>2026-10-29T14:00:40.338Z</updated>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-10-29</title>
+    <link href="https://t.me/sgnl_free/31394"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31394</id>
+    <updated>2026-10-29T14:00:03.785Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-10-29
+Composite score: 50/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📊 Exchange reserve change · monitored wallets +7.78% in 24h</title>
     <link href="https://t.me/sgnl_free/31393"/>
@@ -814,30 +825,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-10-28</title>
-    <link href="https://t.me/sgnl_free/31344"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31344</id>
-    <updated>2026-10-29T09:00:02.662Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-10-28
-
-Top 5 whale-cluster events:
-• $302M ← CEX | 35 wallets | 19:20Z
-• $299M ← CEX | 35 wallets | 18:56Z
-• $297M ← CEX | 35 wallets | 20:26Z
-• $297M ← CEX | 35 wallets | 20:11Z
-• $297M ← CEX | 35 wallets | 20:32Z
-
-Alerts fired (24h):
-• Whale-cluster→CEX: 76
-• Whale-cluster←CEX: 61
-• Whale-large→CEX: 28
-• Whale-large←CEX: 5
-• Funding divergence: 1
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
