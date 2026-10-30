@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T15:15:40.409Z</updated>
+  <updated>2026-10-30T15:20:40.413Z</updated>
+  <entry>
+    <title>🟠 ETH STAKING DROUGHT</title>
+    <link href="https://t.me/sgnl_free/31524"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31524</id>
+    <updated>2026-10-30T15:20:32.291Z</updated>
+    <summary type="text">🟠 ETH STAKING DROUGHT
+
+24h inflow collapsed to 12.3K ETH (~383 validators)
+Rate: 28% of 30-day baseline
+ETH price: $2251
+
+Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
+  </entry>
   <entry>
     <title>⚠ Solana Liquidity-Drop Digest — 2026-10-29</title>
     <link href="https://t.me/sgnl_free/31523"/>
@@ -859,24 +872,6 @@ Direction: SELL
 Notional: ~$1125K
 Contracts: 500
 Implied vol: 60.5%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/31474"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31474</id>
-    <updated>2026-10-30T00:00:58.085Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Call — strike $4400 — expiry 29JAN27
-Direction: SELL
-Notional: ~$1124K
-Contracts: 500
-Implied vol: 61.9%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
