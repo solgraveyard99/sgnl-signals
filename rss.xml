@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T07:55:40.380Z</updated>
+  <updated>2026-10-30T08:00:40.387Z</updated>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-10-29</title>
+    <link href="https://t.me/sgnl_free/31500"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31500</id>
+    <updated>2026-10-30T08:00:27.956Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-10-29
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 21 total)
+USDT 13805.22 → 6.3454 WETH
+USDT 12882.08 → 1297.0550 LINK
+USDC 5892.15 → 50.0688 0x7fc665…
+
+🌉 Cross-chain (Wormhole, 24h)
+$45.4M across 13133 txs · top route Solana → Ethereum
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/31499"/>
@@ -850,20 +869,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔴 DEPEG · DAI (DAI)</title>
-    <link href="https://t.me/sgnl_free/31450"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31450</id>
-    <updated>2026-10-29T21:00:45.259Z</updated>
-    <summary type="text">🔴 DEPEG · DAI (DAI)
-Price: $1.0110  (↑ 1.100% above peg)
-24h change: +1.127%
-Duration: 15 min off-peg
-
-Large deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
