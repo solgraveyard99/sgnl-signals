@@ -5,7 +5,59 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T08:55:40.389Z</updated>
+  <updated>2026-10-30T09:00:40.393Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-10-29</title>
+    <link href="https://t.me/sgnl_free/31505"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31505</id>
+    <updated>2026-10-30T09:00:12.467Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-29
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 24
+Median peak spike (top 50): 8.3x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump AgenC: 24.0x  vol1h=$1.73M  price1h +1791.0%
+  🟢 pump HYPERCAT: 24.0x  vol1h=$889.1K  price1h +961.0%
+  🟢 pump FLOATER: 24.0x  vol1h=$557.0K  price1h +469.0%
+  🟢 pump JET: 24.0x  vol1h=$71.4K  price1h +115.0%
+  🟢 pump WTAIL: 24.0x  vol1h=$12.0K  price1h +110.0%
+  🟢 pump STANK: 24.0x  vol1h=$214.9K  price1h +96.9%
+  🟢 pump Pedos: 24.0x  vol1h=$216.3K  price1h +70.2%
+  🔴 dump HYPEFAUCET: 24.0x  vol1h=$57.9K  price1h -67.2%
+  🟢 pump Pumpkinu: 24.0x  vol1h=$265.5K  price1h +48.1%
+  🔴 dump INTERN: 24.0x  vol1h=$66.9K  price1h -38.8%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-29</title>
+    <link href="https://t.me/sgnl_free/31504"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31504</id>
+    <updated>2026-10-30T09:00:12.035Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-29
+
+Top 5 whale-cluster events:
+• $2460M ← CEX | 8 wallets | 21:50Z
+• $2284M ← CEX | 11 wallets | 20:50Z
+• $1950M ← CEX | 6 wallets | 01:20Z
+• $1732M → CEX | 13 wallets | 13:20Z
+• $1727M → CEX | 12 wallets | 13:21Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 38
+• Whale-cluster←CEX: 36
+• Whale-large←CEX: 10
+• Whale-large→CEX: 10
+• Funding divergence: 2
+• Rug wallet: 1
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 21.7% APY</title>
     <link href="https://t.me/sgnl_free/31503"/>
@@ -834,32 +886,5 @@ Base: 20.5%  ·  Rewards: n/a  ·  TVL: $18.2M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/058afa77-d1cc-537c-9c28-1da002b45631</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low Gas</title>
-    <link href="https://t.me/sgnl_free/31455"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31455</id>
-    <updated>2026-10-29T22:35:47.636Z</updated>
-    <summary type="text">⛽🟢 Low Gas
-Fast: 9.161132204 gwei  ·  Safe: 9.111132204 gwei
-
-Good window for routine ETH transactions.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,132,846 USDT (~$1.1M) · 22:22 UTC</title>
-    <link href="https://t.me/sgnl_free/31454"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31454</id>
-    <updated>2026-10-29T22:32:50.890Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,132,846 USDT (~$1.1M) · 22:22 UTC
-From: 0xed9a…8771
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xfed0d8cded47a3faf6751be1a1e38483b48f812af2c9d90b1c9c8bd26a513db8
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2314.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
