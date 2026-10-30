@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T08:00:40.387Z</updated>
+  <updated>2026-10-30T08:05:40.382Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · SOL</title>
+    <link href="https://t.me/sgnl_free/31501"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31501</id>
+    <updated>2026-10-30T08:05:34.231Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
+Spread: 0.0034%/hr  (29.3% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0028%/hr)
+🔴 SHORT on BingX  (funding 0.0005%/hr)
+
+Expected net: ~24% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>📡 SGNL Daily Digest · 2026-10-29</title>
     <link href="https://t.me/sgnl_free/31500"/>
@@ -852,22 +867,5 @@ Statistical pattern. Not financial advice.
 
 Tx: https://etherscan.io/tx/0x31c4c9fe287d54fb9d3b79980477a8c793a11f774b98d0a9a92de1dad888a91d
 Wallet: https://etherscan.io/address/0x5227f603c1ee34ce3c06efe6477003bdfccb2f8c</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 899.99 ETH (~$2.0M) · 21:00 UTC</title>
-    <link href="https://t.me/sgnl_free/31451"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31451</id>
-    <updated>2026-10-29T21:02:21.502Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 899.99 ETH (~$2.0M) · 21:00 UTC
-From: 0x112c…e333
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xe00067e6dc25db3b16a93899c38d6f89936428316258e16da771792794333f1f
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55935.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
