@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T02:50:40.371Z</updated>
+  <updated>2026-10-30T02:55:40.373Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/31492"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31492</id>
+    <updated>2026-10-30T02:54:49.134Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0150 SOL
+• 99th: 0.0150 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/31491"/>
@@ -812,23 +831,6 @@ From: 0xeae7…a4f4
 To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
 Tx: https://etherscan.io/tx/0x13d6a9bbf04dc48ac5362dcceb659da8907edcb982c21320f68837719197880e
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55972.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 7067.70 ETH (~$16.4M) · 20:19 UTC</title>
-    <link href="https://t.me/sgnl_free/31442"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31442</id>
-    <updated>2026-10-29T20:22:20.814Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 7067.70 ETH (~$16.4M) · 20:19 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x06d614a6b95fa0c3e0608f9704fe5ec2113eae819d61a26ded6fc797453c6430
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55967.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
