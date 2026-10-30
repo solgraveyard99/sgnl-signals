@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T01:10:40.370Z</updated>
+  <updated>2026-10-30T01:15:40.368Z</updated>
+  <entry>
+    <title>🕵️ Repeat-rug wallet fingerprint matched</title>
+    <link href="https://t.me/sgnl_free/31487"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31487</id>
+    <updated>2026-10-30T01:12:58.217Z</updated>
+    <summary type="text">🕵️ Repeat-rug wallet fingerprint matched
+
+Wallet 8bMY..CfFw now tied to 2 prior rug events
+Cumulative peak liquidity: $6K
+
+Historical observation. Public on-chain data.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/31486"/>
@@ -818,22 +832,5 @@ Statistical pattern. Not financial advice.
 
 Tx: https://etherscan.io/tx/0xe455af49da76d870cc0561f0a2bcb9ebdbe66c3cc90860a19a77c77a55f95772
 Wallet: https://etherscan.io/address/0xdfd5293d8e347dfe59e90efd55b2956a1343963d</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1488.00 ETH (~$3.5M) · 19:00 UTC</title>
-    <link href="https://t.me/sgnl_free/31437"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31437</id>
-    <updated>2026-10-29T19:02:24.949Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1488.00 ETH (~$3.5M) · 19:00 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x0354664e357b1380ec8a06b0a6461722aa4f5a53bd76b0f103c38aca1929b8d4
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55961.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
