@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T22:45:40.444Z</updated>
+  <updated>2026-10-30T22:50:40.441Z</updated>
+  <entry>
+    <title>💰 ETH/LST YIELD · 51.5% APY</title>
+    <link href="https://t.me/sgnl_free/31532"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31532</id>
+    <updated>2026-10-30T22:50:32.187Z</updated>
+    <summary type="text">💰 ETH/LST YIELD · 51.5% APY
+ipor-fusion / CBETH on Base
+Base: 51.5%  ·  Rewards: 0.0%  ·  TVL: $5.4M
+
+💡 +47.5% vs typical lending (4%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/8d8b3ef8-1fee-4314-8cae-cdde303e4947</summary>
+  </entry>
   <entry>
     <title>🔴 STABLECOIN BURN · USDT</title>
     <link href="https://t.me/sgnl_free/31531"/>
@@ -843,22 +861,5 @@ Top 3 by size:
 • 🚨 Depeg watch: FDUSD at $0.9958
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2961.99 ETH (~$6.7M) · 23:55 UTC</title>
-    <link href="https://t.me/sgnl_free/31482"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31482</id>
-    <updated>2026-10-30T00:02:20.748Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2961.99 ETH (~$6.7M) · 23:55 UTC
-From: 0xeae7…a4f4
-To: 0x28c6…1d60 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xc1f0fdb94fb909e3f12aa345e81c05d4adb0ea2d3243e844920d62a2936f4ae0
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 55250.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
