@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T00:15:40.360Z</updated>
+  <updated>2026-10-30T00:20:40.360Z</updated>
+  <entry>
+    <title>📊 Activity summary · 3 active observations</title>
+    <link href="https://t.me/sgnl_free/31483"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31483</id>
+    <updated>2026-10-30T00:15:46.285Z</updated>
+    <summary type="text">📊 Activity summary · 3 active observations
+
+Top 3 by size:
+• 🐋 Whale withdrawal cluster: 6 moves, $1950M off exchanges
+• 🐋 Whale deposit cluster: 7 moves, $262M to exchanges
+• 🚨 Depeg watch: FDUSD at $0.9958
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2961.99 ETH (~$6.7M) · 23:55 UTC</title>
     <link href="https://t.me/sgnl_free/31482"/>
@@ -821,24 +835,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🆕 FRESH WALLET FUNDED</title>
-    <link href="https://t.me/sgnl_free/31433"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31433</id>
-    <updated>2026-10-29T18:30:49.451Z</updated>
-    <summary type="text">🆕 FRESH WALLET FUNDED
-
-Binance 15 → fresh wallet
-Wallet: 0x6687…5a4c (tx count unavailable)
-Amount: $6.95M ETH
-Tier: TIER2
-
-Fresh wallets receiving CEX hot-wallet funding frequently precede on-chain activity. Descriptive observation of the funding event only.
-
-Statistical pattern. Not financial advice.
-
-Tx: https://etherscan.io/tx/0x943745f9f410f7b66b3a8ff682c5e233637d8082c5294b0af4226b9c8ab2780e
-Wallet: https://etherscan.io/address/0x6687ace34a4d3ef7ee73b06b7b3678187fc25a4c</summary>
   </entry>
 </feed>
