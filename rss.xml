@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T12:15:40.410Z</updated>
+  <updated>2026-10-30T12:20:40.396Z</updated>
+  <entry>
+    <title>📊 Activity summary · 1 active observation</title>
+    <link href="https://t.me/sgnl_free/31514"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31514</id>
+    <updated>2026-10-30T12:15:46.816Z</updated>
+    <summary type="text">📊 Activity summary · 1 active observation
+
+Top 1 by size:
+• 🐋 Whale withdrawal cluster: undefined moves, $0M off exchanges
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>💵 Stablecoin Supply Check</title>
     <link href="https://t.me/sgnl_free/31513"/>
@@ -869,23 +881,6 @@ From: 0x9696…6976 · wallet labelled &quot;Market maker&quot; [label: public a
 To: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
 Tx: https://etherscan.io/tx/0xa80ec2ce3d1d703b4887f604175fc19ce54204458b2458f4a4e469246b2728fe
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 25027.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 53,521,636 USDT (~$53.5M) · 23:01 UTC</title>
-    <link href="https://t.me/sgnl_free/31464"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31464</id>
-    <updated>2026-10-29T23:02:44.690Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 53,521,636 USDT (~$53.5M) · 23:01 UTC
-From: 0x21a3…5549 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xc02d2491bed184c68097e27ba78f380c1015968ae81e1a5395a5ead9c8a7f221
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 175.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
