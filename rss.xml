@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T04:40:40.369Z</updated>
+  <updated>2026-10-30T04:45:40.392Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 102.93 WBTC (~$8.0M) · 04:35 UTC</title>
+    <link href="https://t.me/sgnl_free/31495"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31495</id>
+    <updated>2026-10-30T04:42:54.387Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 102.93 WBTC (~$8.0M) · 04:35 UTC
+From: 0x21a3…5549 · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x400dbe793dbd2e0295ed5b6f7332459417f75a35fdd8b0bde1a398664a086d22
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 490.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🗳️ Governance proposal active</title>
     <link href="https://t.me/sgnl_free/31494"/>
@@ -826,23 +843,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>📊 4 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/31445"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31445</id>
-    <updated>2026-10-29T20:30:46.448Z</updated>
-    <summary type="text">📊 4 outflow-heavy observations detected
-Sample: 4 concurrent observations · $4.02B total flow.
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 11 moves, $2284M off exchanges
-• 🐋 Large withdrawal: $1615M USDT ← Binance 14
-• 🐋 Large withdrawal: $65M ETH ← Binance 16
-• 🐋 Large withdrawal: $56M USDT ← Binance 16
-
-Opposing flow: $132M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
