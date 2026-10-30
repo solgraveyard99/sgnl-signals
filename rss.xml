@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T09:20:40.392Z</updated>
+  <updated>2026-10-30T09:25:40.389Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,546,843 USDT (~$1.5M) · 09:21 UTC</title>
+    <link href="https://t.me/sgnl_free/31506"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31506</id>
+    <updated>2026-10-30T09:22:41.834Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,546,843 USDT (~$1.5M) · 09:21 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xc7d3…e668
+Tx: https://etherscan.io/tx/0xa864f72e9814f864083c4d98e1f6432bd43f55145d30be8f1f34f3bac95f1b48
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2171.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🌋 Solana Volume Spike Digest — 2026-10-29</title>
     <link href="https://t.me/sgnl_free/31505"/>
@@ -869,22 +886,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 20.5% APY</title>
-    <link href="https://t.me/sgnl_free/31456"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31456</id>
-    <updated>2026-10-29T22:50:32.275Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 20.5% APY
-kamino-lend / USDC on Solana
-Base: 20.5%  ·  Rewards: n/a  ·  TVL: $18.2M
-
-💡 +13.5% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/058afa77-d1cc-537c-9c28-1da002b45631</summary>
   </entry>
 </feed>
