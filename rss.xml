@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T05:30:40.390Z</updated>
+  <updated>2026-10-30T05:35:40.384Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/31497"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31497</id>
+    <updated>2026-10-30T05:32:41.885Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0100 SOL
+• 95th: 0.0180 SOL
+• 99th: 0.0196 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 17,528,477 ENA (~$17.5M) · 04:46 UTC</title>
     <link href="https://t.me/sgnl_free/31496"/>
@@ -830,18 +849,5 @@ Fast: 153.505795042 gwei  ·  Safe: 139.550722766 gwei
 
 Network congested — likely NFT mint, major liquidation, or protocol launch.
 Delay non-critical tx. Simple transfer costs ~$8.059+ right now.</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDT</title>
-    <link href="https://t.me/sgnl_free/31447"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31447</id>
-    <updated>2026-10-29T20:50:46.168Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDT
-Supply change 24h: -$1901M
-New supply: $179.92B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
