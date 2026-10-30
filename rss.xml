@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T06:40:40.386Z</updated>
+  <updated>2026-10-30T06:45:40.379Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/31499"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31499</id>
+    <updated>2026-10-30T06:41:42.034Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0058 SOL
+• 99th: 0.0186 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/31498"/>
@@ -846,16 +865,5 @@ Large deviation from peg.
 Deviations can come from thin liquidity, redemptions or venue pricing.
 
 Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>📊 Exchange reserve change · monitored wallets −5.69% in 24h</title>
-    <link href="https://t.me/sgnl_free/31449"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31449</id>
-    <updated>2026-10-29T20:52:13.908Z</updated>
-    <summary type="text">📊 Exchange reserve change · monitored wallets −5.69% in 24h
-Δ −$1043M · total $17.30B
-
-Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
