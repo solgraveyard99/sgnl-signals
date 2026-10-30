@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T13:55:40.412Z</updated>
+  <updated>2026-10-30T14:00:40.406Z</updated>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-10-30</title>
+    <link href="https://t.me/sgnl_free/31520"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31520</id>
+    <updated>2026-10-30T14:00:04.766Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-10-30
+Composite score: 10/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/31519"/>
@@ -861,33 +872,5 @@ BTC: $78,186 (24h: −3.8%) | SOL: $96.00 (24h: −6.2%)
 Market activity index: 20/100 (low band)
 Next snapshot: 17:00 UTC
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-29</title>
-    <link href="https://t.me/sgnl_free/31470"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31470</id>
-    <updated>2026-10-30T00:00:05.049Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-29
-
-24h state transitions tracked: 239
-  💀 Died (gone): 104
-  😴 Went dormant: 87
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 POC: had $0 liquidity · died at age 10.0d
-  💀 safufun: had $0 liquidity · died at age 10.0d
-  💀 PIERRE: had $0 liquidity · died at age 10.0d
-  💀 MILLY: had $0 liquidity · died at age 10.0d
-  💀 HASSAN: had $0 liquidity · died at age 10.0d
-  💀 TEDDY: had $0 liquidity · died at age 10.0d
-  💀 TNUT: had $0 liquidity · died at age 10.0d
-  💀 Pokeballs: had $0 liquidity · died at age 40.0d
-  💀 bullworld: had $0 liquidity · died at age 40.0d
-  💀 HOODCAT: had $0 liquidity · died at age 39.7d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
