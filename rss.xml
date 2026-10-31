@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-30T23:55:40.447Z</updated>
+  <updated>2026-10-31T00:00:40.468Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/31534"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31534</id>
+    <updated>2026-10-31T00:00:19.803Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $77,336 (24h: −1.1%) | SOL: $96.36 (24h: +0.4%)
+Market activity index: 30/100 (low band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-30</title>
+    <link href="https://t.me/sgnl_free/31533"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31533</id>
+    <updated>2026-10-31T00:00:04.084Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-30
+
+24h state transitions tracked: 210
+  💀 Died (gone): 68
+  😴 Went dormant: 103
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 APACK: had $0 liquidity · died at age 9.7d
+  💀 degeneracy: had $0 liquidity · died at age 9.7d
+  💀 LYBER: had $0 liquidity · died at age 9.7d
+  💀 PokeWorld: had $0 liquidity · died at age 9.7d
+  💀 Packs: had $0 liquidity · died at age 9.7d
+  💀 INTERN: had $0 liquidity · died at age 51.0d
+  💀 STONKS: had $0 liquidity · died at age 39.7d
+  💀 SEED: had $0 liquidity · died at age 39.7d
+  💀 BELIEVE: had $0 liquidity · died at age 30.0d
+  💀 LEECH: had $0 liquidity · died at age 30.0d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>💰 ETH/LST YIELD · 51.5% APY</title>
     <link href="https://t.me/sgnl_free/31532"/>
@@ -832,34 +871,5 @@ Spread: 0.0031%/hr  (27.5% APR gross)
 Expected net: ~22% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
 monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · ETH</title>
-    <link href="https://t.me/sgnl_free/31484"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31484</id>
-    <updated>2026-10-30T00:25:34.079Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · ETH
-Spread: 0.0036%/hr  (31.8% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0033%/hr)
-🔴 SHORT on BingX  (funding 0.0003%/hr)
-
-Expected net: ~27% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 3 active observations</title>
-    <link href="https://t.me/sgnl_free/31483"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31483</id>
-    <updated>2026-10-30T00:15:46.285Z</updated>
-    <summary type="text">📊 Activity summary · 3 active observations
-
-Top 3 by size:
-• 🐋 Whale withdrawal cluster: 6 moves, $1950M off exchanges
-• 🐋 Whale deposit cluster: 7 moves, $262M to exchanges
-• 🚨 Depeg watch: FDUSD at $0.9958
-
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
