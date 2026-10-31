@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T01:05:40.451Z</updated>
+  <updated>2026-10-31T01:10:40.457Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/31542"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31542</id>
+    <updated>2026-10-31T01:05:41.465Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $93000 — expiry 27NOV26
+Direction: BUY
+Notional: ~$1549K
+Contracts: 20
+Implied vol: 39.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/31541"/>
@@ -860,24 +878,5 @@ How to read:
 NOT a guarantee — thin sell side can be legitimate for very fresh launches.
 Always test with small amount before sizing up. Use rugcheck.xyz to verify.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31492"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31492</id>
-    <updated>2026-10-30T02:54:49.134Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0150 SOL
-• 99th: 0.0150 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
