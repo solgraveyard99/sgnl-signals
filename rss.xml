@@ -5,7 +5,32 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T11:55:40.485Z</updated>
+  <updated>2026-10-31T12:00:40.488Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-30</title>
+    <link href="https://t.me/sgnl_free/31567"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31567</id>
+    <updated>2026-10-31T12:00:03.813Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-30
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    n/a
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 304.2K μlamp | Orca: 321.2K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🔴 STABLECOIN BURN · USDT</title>
     <link href="https://t.me/sgnl_free/31566"/>
@@ -853,22 +878,5 @@ Safe: 0.529149598  ·  Propose: 0.529149618  ·  BaseFee: 0.5291
 24h range: 0.10–236.50 gwei  (avg 9.96)
 
 Simple transfer cost now: ~$0.0313</summary>
-  </entry>
-  <entry>
-    <title>🏦 Exchange reserves · 13 monitored wallets</title>
-    <link href="https://t.me/sgnl_free/31517"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31517</id>
-    <updated>2026-10-30T13:30:32.095Z</updated>
-    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
-
-Total: $17.28B · 24h net change −$1139M (-6.18%)
-
-ETH: 498.8K  ($1112M)
-USDT: $16169M
-USDC: $0.1M
-DAI: $0.03M
-
-Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
