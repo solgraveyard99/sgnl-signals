@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T13:35:40.484Z</updated>
+  <updated>2026-10-31T13:40:40.488Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/31572"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31572</id>
+    <updated>2026-10-31T13:35:46.546Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.13133023 gwei (fast)  ·  🟢 cheap
+Safe: 0.108537381  ·  Propose: 0.119391119  ·  BaseFee: 0.1085
+
+24h range: 0.04–1.47 gwei  (avg 0.21)
+
+Simple transfer cost now: ~$0.0069</summary>
+  </entry>
   <entry>
     <title>🏦 Exchange reserves · 13 monitored wallets</title>
     <link href="https://t.me/sgnl_free/31571"/>
@@ -873,17 +887,5 @@ Top 10 biggest drops yesterday (peak → trough):
 Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
 Filter: peak liquidity ≥$20K, drop ≥50%.
 Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/31522"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31522</id>
-    <updated>2026-10-30T14:35:50.651Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.583867021 gwei  ·  Safe: 0.565464491 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
