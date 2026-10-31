@@ -5,7 +5,44 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T00:10:40.449Z</updated>
+  <updated>2026-10-31T00:15:40.464Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/31536"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31536</id>
+    <updated>2026-10-31T00:11:42.385Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0025 SOL
+• 99th: 0.0197 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/31535"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31535</id>
+    <updated>2026-10-31T00:10:41.345Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $72000 — expiry 6NOV26
+Direction: BUY
+Notional: ~$548K
+Contracts: 7.1
+Implied vol: 50.6%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>🌙 SGNL Evening Snapshot</title>
     <link href="https://t.me/sgnl_free/31534"/>
@@ -837,39 +874,5 @@ Cumulative peak liquidity: $6K
 Historical observation. Public on-chain data.
 
 #onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31486"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31486</id>
-    <updated>2026-10-30T00:45:49.549Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0011 SOL
-• 99th: 0.0110 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · SOL</title>
-    <link href="https://t.me/sgnl_free/31485"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31485</id>
-    <updated>2026-10-30T00:25:49.962Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
-Spread: 0.0031%/hr  (27.5% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0019%/hr)
-🔴 SHORT on MEXC  (funding 0.0013%/hr)
-
-Expected net: ~22% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
   </entry>
 </feed>
