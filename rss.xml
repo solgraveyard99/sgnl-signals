@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T12:00:40.488Z</updated>
+  <updated>2026-10-31T12:05:40.487Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/31568"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31568</id>
+    <updated>2026-10-31T12:00:59.768Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $267.6B  (24h: $-357M)
+
+🔴 USDT: $179.66B  ($-688M)
+🟢 USDC: $71.93B  (+$458M)
+⚪ USDS: $6.45B  ($-64M)
+⚪ DAI: $4.73B  ($-43M)
+⚪ USDe: $4.51B  ($-19M)
+⚪ FDUSD: $0.30B  ($-0M)
+
+📊 Net supply Δ24h: -$357M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-10-30</title>
     <link href="https://t.me/sgnl_free/31567"/>
@@ -864,19 +885,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/31518"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31518</id>
-    <updated>2026-10-30T13:35:46.513Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.595264557 gwei (fast)  ·  🟢 cheap
-Safe: 0.529149598  ·  Propose: 0.529149618  ·  BaseFee: 0.5291
-
-24h range: 0.10–236.50 gwei  (avg 9.96)
-
-Simple transfer cost now: ~$0.0313</summary>
   </entry>
 </feed>
