@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T00:15:40.464Z</updated>
+  <updated>2026-10-31T00:20:40.448Z</updated>
+  <entry>
+    <title>📊 Activity summary · 0 active observations</title>
+    <link href="https://t.me/sgnl_free/31537"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31537</id>
+    <updated>2026-10-31T00:15:59.699Z</updated>
+    <summary type="text">📊 Activity summary · 0 active observations
+
+No active observations in the current window.
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/31536"/>
@@ -860,19 +871,5 @@ Base: 10.4%  ·  Rewards: 4.7%  ·  TVL: $7.2M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/0ba9f678-063d-57ec-8afd-bb9a36e55657</summary>
-  </entry>
-  <entry>
-    <title>🕵️ Repeat-rug wallet fingerprint matched</title>
-    <link href="https://t.me/sgnl_free/31487"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31487</id>
-    <updated>2026-10-30T01:12:58.217Z</updated>
-    <summary type="text">🕵️ Repeat-rug wallet fingerprint matched
-
-Wallet 8bMY..CfFw now tied to 2 prior rug events
-Cumulative peak liquidity: $6K
-
-Historical observation. Public on-chain data.
-
-#onchain #Solana</summary>
   </entry>
 </feed>
