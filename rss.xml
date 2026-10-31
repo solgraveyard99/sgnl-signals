@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T01:15:40.454Z</updated>
+  <updated>2026-10-31T01:20:40.452Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/31544"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31544</id>
+    <updated>2026-10-31T01:17:43.987Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0010 SOL
+• 99th: 0.0155 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/31543"/>
@@ -856,25 +875,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/31494"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31494</id>
-    <updated>2026-10-30T04:35:40.953Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-[Constitutional] AIP: Stylus Activation Contract
-
-DAO: arbitrumfoundation.eth
-Votes cast: 21
-Total voting power: 3297
-Voting ends: 2026-11-05 20:45 UTC
-
-https://snapshot.org/#/arbitrumfoundation.eth/proposal/0xbb3a36f5149d731c9fd11c150634b9bf90f95e73b8ec85e88cd5541149c6a8b6
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
   </entry>
 </feed>
