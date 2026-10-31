@@ -5,7 +5,29 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T14:55:40.500Z</updated>
+  <updated>2026-10-31T15:00:40.506Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-30</title>
+    <link href="https://t.me/sgnl_free/31575"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31575</id>
+    <updated>2026-10-31T15:00:12.554Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-30
+
+Tokens with liquidity drop ≥50%: 5
+Tokens with liquidity drop ≥90%: 2
+Tokens with liquidity drop ≥75%: 3
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL Foxii: -97.6%  $114.6K → $2.8K  in 8.8h
+  🚨 CRITICAL BITCAT: -95.6%  $45.9K → $2.0K  in 10.1h
+  ⛔ SEVERE HYPE: -87.8%  $20.2K → $2.5K  in 3.8h
+  ⚠ HIGH HEXN: -57.8%  $78.5K → $33.1K  in 6.9h
+  ⚠ HIGH DEADGUY: -50.3%  $20.5K → $10.2K  in 8.9h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/31574"/>
@@ -853,23 +875,5 @@ Pool details: https://defillama.com/yields/pool/747c1d2a-c668-4682-b9f9-296708a3
 BTC: $77,246 | SOL: $94.78
 Market activity index: 10/100 (low band)
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 16.4% APY</title>
-    <link href="https://t.me/sgnl_free/31525"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31525</id>
-    <updated>2026-10-30T15:50:32.562Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 16.4% APY
-kamino-lend / USDC on Solana
-Base: 15.9%  ·  Rewards: 0.5%  ·  TVL: $9.8M
-
-💡 +9.4% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/89df1643-892a-5b7d-88fd-5a86a38c49f3</summary>
   </entry>
 </feed>
