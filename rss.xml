@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T20:55:40.505Z</updated>
+  <updated>2026-10-31T21:00:40.509Z</updated>
+  <entry>
+    <title>📈 Solana Buy Momentum Digest — 2026-10-30</title>
+    <link href="https://t.me/sgnl_free/31579"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31579</id>
+    <updated>2026-10-31T21:00:11.446Z</updated>
+    <summary type="text">📈 Solana Buy Momentum Digest — 2026-10-30
+
+Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 18
+Strong-bias tokens (buy/sell ≥3x): 3
+
+Top 10 by buy momentum (buys × buy/sell ratio):
+  📈 HEXN: 7512 buys / 1402 sells (5.4x)  vol1h=$266.6K  price1h -10%
+  📈 HYPERCHAN: 12484 buys / 4513 sells (2.8x)  vol1h=$179.4K  price1h +14%
+  📈 HOUSEWORM: 9048 buys / 3296 sells (2.7x)  vol1h=$159.9K  price1h +11%
+  📈 calm: 3006 buys / 774 sells (3.9x)  vol1h=$39.0K  price1h +63%
+  📈 BITCAT: 4788 buys / 2631 sells (1.8x)  vol1h=$370.6K  price1h +156%
+  📈 BNB: 3634 buys / 2011 sells (1.8x)  vol1h=$271.8K  price1h +68%
+  📈 three: 1347 buys / 511 sells (2.6x)  vol1h=$13.6K  price1h +1%
+  📈 bul: 855 buys / 353 sells (2.4x)  vol1h=$2.0K  price1h -17%
+  📈 PEPEween: 841 buys / 369 sells (2.3x)  vol1h=$1.9K  price1h +11%
+  📈 ███: 407 buys / 182 sells (2.2x)  vol1h=$41.9K  price1h -7%
+
+Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
+Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/31578"/>
@@ -863,17 +889,5 @@ Top 10 by buy momentum (buys × buy/sell ratio):
 Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
 Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/31529"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31529</id>
-    <updated>2026-10-30T20:35:51.180Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.132609281 gwei  ·  Safe: 0.12827348 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
