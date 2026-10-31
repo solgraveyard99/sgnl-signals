@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T02:25:40.453Z</updated>
+  <updated>2026-10-31T02:30:40.459Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/31550"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31550</id>
+    <updated>2026-10-31T02:25:54.796Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $70000 — expiry 25DEC26
+Direction: SELL
+Notional: ~$1036K
+Contracts: 13.4
+Implied vol: 42.4%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/31549"/>
@@ -856,24 +874,5 @@ Spread: 0.0034%/hr  (29.3% APR gross)
 Expected net: ~24% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
 monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>📡 SGNL Daily Digest · 2026-10-29</title>
-    <link href="https://t.me/sgnl_free/31500"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31500</id>
-    <updated>2026-10-30T08:00:27.956Z</updated>
-    <summary type="text">📡 SGNL Daily Digest · 2026-10-29
-What 30+ SGNL observers caught in the last 24h
-
-⚡ Aave V3 liquidations (24h, 21 total)
-USDT 13805.22 → 6.3454 WETH
-USDT 12882.08 → 1297.0550 LINK
-USDC 5892.15 → 50.0688 0x7fc665…
-
-🌉 Cross-chain (Wormhole, 24h)
-$45.4M across 13133 txs · top route Solana → Ethereum
-
-
-Free signals · No advice · t.me/sgnl_free</summary>
   </entry>
 </feed>
