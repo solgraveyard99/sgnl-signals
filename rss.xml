@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T07:50:40.475Z</updated>
+  <updated>2026-10-31T07:55:40.477Z</updated>
+  <entry>
+    <title>🟢 STABLECOIN MINT · USDC</title>
+    <link href="https://t.me/sgnl_free/31559"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31559</id>
+    <updated>2026-10-31T07:50:45.937Z</updated>
+    <summary type="text">🟢 STABLECOIN MINT · USDC
+Supply change 24h: +$512M
+New supply: $71.98B
+
+Net supply expansion event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🗳️ Governance proposal active</title>
     <link href="https://t.me/sgnl_free/31558"/>
@@ -866,16 +879,5 @@ Base: 13.2%  ·  Rewards: 3.1%  ·  TVL: $13.4M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/b01b6734-1ceb-4427-8a03-36fe9bd726b1</summary>
-  </entry>
-  <entry>
-    <title>📊 Exchange reserve change · monitored wallets −6.34% in 24h</title>
-    <link href="https://t.me/sgnl_free/31509"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31509</id>
-    <updated>2026-10-30T09:52:24.048Z</updated>
-    <summary type="text">📊 Exchange reserve change · monitored wallets −6.34% in 24h
-Δ −$1169M · total $17.28B
-
-Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
