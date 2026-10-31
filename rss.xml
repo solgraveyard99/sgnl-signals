@@ -5,7 +5,49 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T08:55:40.485Z</updated>
+  <updated>2026-10-31T09:00:40.479Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-10-30</title>
+    <link href="https://t.me/sgnl_free/31563"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31563</id>
+    <updated>2026-10-31T09:00:12.333Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-30
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 17
+Median peak spike (top 50): 4.8x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump BITCAT: 24.0x  vol1h=$388.1K  price1h +679.0%
+  🟢 pump CATPAD: 24.0x  vol1h=$347.6K  price1h +186.0%
+  🟢 pump Jason: 24.0x  vol1h=$71.1K  price1h +89.8%
+  🟢 pump calm: 24.0x  vol1h=$39.0K  price1h +83.8%
+  🟢 pump BEAR: 24.0x  vol1h=$137.5K  price1h +73.7%
+  🟢 pump DEADGUY: 24.0x  vol1h=$25.7K  price1h +63.9%
+  🟢 pump Bear: 24.0x  vol1h=$230.3K  price1h +57.0%
+  🔴 dump HYPE: 24.0x  vol1h=$310.0K  price1h -52.7%
+  🔴 dump Catori: 24.0x  vol1h=$11.9K  price1h -46.2%
+  🟢 pump HACKINU: 24.0x  vol1h=$249.4K  price1h +31.7%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-30</title>
+    <link href="https://t.me/sgnl_free/31562"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31562</id>
+    <updated>2026-10-31T09:00:11.892Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-30
+
+Alerts fired (24h):
+• Funding divergence: 1
+• Whale-cluster←CEX: 1
+• Rug wallet: 1
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/31561"/>
@@ -827,52 +869,5 @@ Top 1 by size:
 • 🐋 Whale withdrawal cluster: undefined moves, $0M off exchanges
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/31513"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31513</id>
-    <updated>2026-10-30T12:01:00.008Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $268.1B  (24h: $-274M)
-
-🔴 USDT: $180.34B  ($-517M)
-🟢 USDC: $71.73B  (+$361M)
-🔴 USDS: $6.51B  ($-106M)
-⚪ DAI: $4.74B  ($-8M)
-⚪ USDe: $4.53B  ($-2M)
-⚪ FDUSD: $0.30B  ($-2M)
-
-📊 Net supply Δ24h: -$274M (contraction band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-10-29</title>
-    <link href="https://t.me/sgnl_free/31512"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31512</id>
-    <updated>2026-10-30T12:00:03.587Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-29
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    98.0K μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: → 0% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 319.3K μlamp | Orca: 310.8K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
