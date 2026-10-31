@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T09:50:40.496Z</updated>
+  <updated>2026-10-31T09:55:40.475Z</updated>
+  <entry>
+    <title>🔴 STABLECOIN BURN · USDT</title>
+    <link href="https://t.me/sgnl_free/31566"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31566</id>
+    <updated>2026-10-31T09:50:47.868Z</updated>
+    <summary type="text">🔴 STABLECOIN BURN · USDT
+Supply change 24h: -$688M
+New supply: $179.65B
+
+Net supply contraction event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 26.6% APY</title>
     <link href="https://t.me/sgnl_free/31565"/>
@@ -857,19 +870,5 @@ DAI: $0.03M
 
 Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🕵️ Repeat-rug wallet fingerprint matched</title>
-    <link href="https://t.me/sgnl_free/31516"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31516</id>
-    <updated>2026-10-30T13:14:25.945Z</updated>
-    <summary type="text">🕵️ Repeat-rug wallet fingerprint matched
-
-Wallet DeFG..fe2S now tied to 2 prior rug events
-Cumulative peak liquidity: $8K
-
-Historical observation. Public on-chain data.
-
-#onchain #Solana</summary>
   </entry>
 </feed>
