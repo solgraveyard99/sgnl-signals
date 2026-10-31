@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T04:10:40.474Z</updated>
+  <updated>2026-10-31T04:15:40.460Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/31557"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31557</id>
+    <updated>2026-10-31T04:13:42.831Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0001 SOL
+• 75th: 0.0008 SOL
+• 95th: 0.0049 SOL
+• 99th: 0.0112 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/31556"/>
@@ -851,23 +870,5 @@ New supply: $180.29B
 Net supply contraction event. Descriptive observation only.
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 27.0% APY</title>
-    <link href="https://t.me/sgnl_free/31507"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31507</id>
-    <updated>2026-10-30T09:50:32.194Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 27.0% APY
-veranta / USDC on Base
-Base: 27.0%  ·  Rewards: n/a  ·  TVL: $9.8M
-
-💡 +20.0% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
   </entry>
 </feed>
