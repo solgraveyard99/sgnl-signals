@@ -5,7 +5,17 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T16:55:40.501Z</updated>
+  <updated>2026-10-31T17:00:40.522Z</updated>
+  <entry>
+    <title>☀️ SGNL Midday Snapshot</title>
+    <link href="https://t.me/sgnl_free/31577"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31577</id>
+    <updated>2026-10-31T17:00:20.268Z</updated>
+    <summary type="text">☀️ SGNL Midday Snapshot
+BTC: $77,614 | SOL: $96.04
+Market activity index: 40/100 (low band)
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 19.0% APY</title>
     <link href="https://t.me/sgnl_free/31576"/>
@@ -866,22 +876,5 @@ New supply: $71.90B
 Net supply expansion event. Descriptive observation only.
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 ETH/LST YIELD · 15.1% APY</title>
-    <link href="https://t.me/sgnl_free/31527"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31527</id>
-    <updated>2026-10-30T18:50:38.657Z</updated>
-    <summary type="text">💰 ETH/LST YIELD · 15.1% APY
-lido / STETH on Ethereum
-Base: 15.1%  ·  Rewards: n/a  ·  TVL: $21711.7M
-
-💡 +11.1% vs typical lending (4%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-✅ TVL ≥ $100M (lindy)
-✅ established protocol
-
-Pool details: https://defillama.com/yields/pool/747c1d2a-c668-4682-b9f9-296708a3dd90</summary>
   </entry>
 </feed>
