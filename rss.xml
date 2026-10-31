@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T07:55:40.477Z</updated>
+  <updated>2026-10-31T08:00:40.482Z</updated>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-10-30</title>
+    <link href="https://t.me/sgnl_free/31560"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31560</id>
+    <updated>2026-10-31T08:00:31.618Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-10-30
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 38 total)
+USDT 570351.81 → 267.3021 WETH
+USDT 176260.07 → 83.8577 WETH
+USDC 92475.75 → 43.3785 WETH
+
+🌉 Cross-chain (Wormhole, 24h)
+$22.9M across 14616 txs · top route Solana → Solana
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🟢 STABLECOIN MINT · USDC</title>
     <link href="https://t.me/sgnl_free/31559"/>
@@ -862,22 +881,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>💰 ETH/LST YIELD · 16.3% APY</title>
-    <link href="https://t.me/sgnl_free/31510"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31510</id>
-    <updated>2026-10-30T10:50:32.182Z</updated>
-    <summary type="text">💰 ETH/LST YIELD · 16.3% APY
-ipor-fusion / WETH on Ethereum
-Base: 13.2%  ·  Rewards: 3.1%  ·  TVL: $13.4M
-
-💡 +12.3% vs typical lending (4%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/b01b6734-1ceb-4427-8a03-36fe9bd726b1</summary>
   </entry>
 </feed>
