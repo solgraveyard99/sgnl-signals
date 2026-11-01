@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T10:20:40.543Z</updated>
+  <updated>2026-11-01T10:25:40.535Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,000,000,000 USDT (~$1.00B) · 10:20 UTC</title>
+    <link href="https://t.me/sgnl_free/31626"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31626</id>
+    <updated>2026-11-01T10:22:25.465Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,000,000,000 USDT (~$1.00B) · 10:20 UTC
+From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x5a52…efcb · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x784ae98ca438deac2820ffca3e1b95cb396e702ebb6bfeec0c075cd820380200
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 528.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/31625"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31625</id>
+    <updated>2026-11-01T10:21:18.336Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Withdrawal cluster: 4 large withdrawals ($1227M) in 6h.
+
+📤 1000.0M USDT ($1000.0M)  ←  Binance Cold 8  0x5a52e9…
+
+7d: $4292M in · $4726M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🟠 ETH STAKING DROUGHT</title>
     <link href="https://t.me/sgnl_free/31624"/>
@@ -826,45 +858,5 @@ Not financial advice.</summary>
 BTC: $77,614 | SOL: $96.04
 Market activity index: 40/100 (low band)
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 19.0% APY</title>
-    <link href="https://t.me/sgnl_free/31576"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31576</id>
-    <updated>2026-10-31T15:50:32.247Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 19.0% APY
-ember / USDC on Ethereum
-Base: 19.0%  ·  Rewards: n/a  ·  TVL: $5.8M
-
-💡 +12.0% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/99989c4e-cf3b-5936-89fa-769f7e56cd34</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-30</title>
-    <link href="https://t.me/sgnl_free/31575"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31575</id>
-    <updated>2026-10-31T15:00:12.554Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-30
-
-Tokens with liquidity drop ≥50%: 5
-Tokens with liquidity drop ≥90%: 2
-Tokens with liquidity drop ≥75%: 3
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL Foxii: -97.6%  $114.6K → $2.8K  in 8.8h
-  🚨 CRITICAL BITCAT: -95.6%  $45.9K → $2.0K  in 10.1h
-  ⛔ SEVERE HYPE: -87.8%  $20.2K → $2.5K  in 3.8h
-  ⚠ HIGH HEXN: -57.8%  $78.5K → $33.1K  in 6.9h
-  ⚠ HIGH DEADGUY: -50.3%  $20.5K → $10.2K  in 8.9h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
   </entry>
 </feed>
