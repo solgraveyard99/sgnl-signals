@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T07:30:40.531Z</updated>
+  <updated>2026-11-01T07:35:40.532Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,421,073 USDC (~$1.4M) · 07:24 UTC</title>
+    <link href="https://t.me/sgnl_free/31614"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31614</id>
+    <updated>2026-11-01T07:32:42.008Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,421,073 USDC (~$1.4M) · 07:24 UTC
+From: 0xa9d1…3e43
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xc180a6467aba4eac65177410021a7db50b01c30d9979066756979a4f3a7a0661
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1779.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 50000.00 ETH (~$113.6M) · 06:08 UTC</title>
     <link href="https://t.me/sgnl_free/31613"/>
@@ -852,22 +869,5 @@ Base: 26.6%  ·  Rewards: n/a  ·  TVL: $9.8M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
-  </entry>
-  <entry>
-    <title>⏰ DAO VOTE ENDING SOON · Aave</title>
-    <link href="https://t.me/sgnl_free/31564"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31564</id>
-    <updated>2026-10-31T09:20:36.185Z</updated>
-    <summary type="text">⏰ DAO VOTE ENDING SOON · Aave
-
-[ARFC] Aave V4 Deployment on Tempo
-
-Ends in: ~3h
-Token: $AAVE  ·  Votes: 0.38M tokens
-Status: High-impact keyword match
-
-If the outcome lands on a protocol-critical parameter, expect price reaction on token within 24h of close.
-
-https://snapshot.org/#/aavedao.eth/proposal/0x9510b6815b892919bfa6a838f5b1d49b05f77fb1ee53614256c8c90b656446bc</summary>
   </entry>
 </feed>
