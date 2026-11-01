@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T12:00:40.538Z</updated>
+  <updated>2026-11-01T12:05:40.543Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/31630"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31630</id>
+    <updated>2026-11-01T12:01:00.517Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $267.4B  (24h: $-504M)
+
+🔴 USDT: $179.70B  ($-301M)
+🔴 USDC: $71.78B  ($-125M)
+⚪ USDS: $6.37B  ($-83M)
+⚪ DAI: $4.74B  (+$23M)
+⚪ USDe: $4.50B  ($-19M)
+⚪ FDUSD: $0.30B  ($-0M)
+
+📊 Net supply Δ24h: -$504M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-10-31</title>
     <link href="https://t.me/sgnl_free/31629"/>
@@ -851,18 +872,5 @@ New supply: $179.72B
 Net supply contraction event. Descriptive observation only.
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 ETH STAKING DROUGHT</title>
-    <link href="https://t.me/sgnl_free/31580"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31580</id>
-    <updated>2026-10-31T21:20:34.777Z</updated>
-    <summary type="text">🟠 ETH STAKING DROUGHT
-
-24h inflow collapsed to 11.5K ETH (~360 validators)
-Rate: 27% of 30-day baseline
-ETH price: $2251
-
-Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
   </entry>
 </feed>
