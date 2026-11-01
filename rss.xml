@@ -5,7 +5,30 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T00:05:40.514Z</updated>
+  <updated>2026-11-01T00:10:40.512Z</updated>
+  <entry>
+    <title>📊 Week in Review · ending 2026-11-01</title>
+    <link href="https://t.me/sgnl_free/31594"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31594</id>
+    <updated>2026-11-01T00:05:58.860Z</updated>
+    <summary type="text">📊 Week in Review · ending 2026-11-01
+
+🐋 Whale Flows (7d)
+334 large moves
+Net CEX flow (7d): +$206M (positive = withdrawn from CEXs)
+Biggest withdrawal: $1615M USDT from Binance 14 label: public address list, unverified
+
+⚡ Perp Funding Regime
+BTC avg: 0.0011%/hr (~10% APR)
+ETH avg: 0.0005%/hr (~4% APR)
+SOL avg: 0.0010%/hr (~9% APR)
+
+💰 Best Yields Right Now
+Stables: 26.5% — veranta/USDC @ Base
+ETH/LST: 14.8% — cian-yield-layer/WSTETH @ Arbitrum
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/31593"/>
@@ -860,24 +883,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31544"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31544</id>
-    <updated>2026-10-31T01:17:43.987Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0010 SOL
-• 99th: 0.0155 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
