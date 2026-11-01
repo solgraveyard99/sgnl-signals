@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-10-31T23:55:40.511Z</updated>
+  <updated>2026-11-01T00:00:40.517Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/31583"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31583</id>
+    <updated>2026-11-01T00:00:24.135Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $77,533 (24h: +0.3%) | SOL: $95.51 (24h: −0.9%)
+Market activity index: 40/100 (low band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-31</title>
+    <link href="https://t.me/sgnl_free/31582"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31582</id>
+    <updated>2026-11-01T00:00:08.436Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-31
+
+24h state transitions tracked: 234
+  💀 Died (gone): 100
+  😴 Went dormant: 99
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 up: had $0 liquidity · died at age 20.2d
+  💀 CASHFISH: had $0 liquidity · died at age 9.5d
+  💀 SOLMATE: had $0 liquidity · died at age 9.5d
+  💀 LARRY: had $0 liquidity · died at age 9.5d
+  💀 BABYKIMCHI: had $0 liquidity · died at age 9.5d
+  💀 MOONERO: had $0 liquidity · died at age 39.2d
+  💀 HIKU: had $0 liquidity · died at age 29.8d
+  💀 GND: had $0 liquidity · died at age 29.8d
+  💀 PWERPS: had $0 liquidity · died at age 29.8d
+  💀 WHEEL: had $0 liquidity · died at age 20.0d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>🔴 STABLECOIN BURN · USDT</title>
     <link href="https://t.me/sgnl_free/31581"/>
@@ -830,51 +869,5 @@ BTC: $77,336 (24h: −1.1%) | SOL: $96.36 (24h: +0.4%)
 Market activity index: 30/100 (low band)
 Next snapshot: 17:00 UTC
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-10-30</title>
-    <link href="https://t.me/sgnl_free/31533"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31533</id>
-    <updated>2026-10-31T00:00:04.084Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-10-30
-
-24h state transitions tracked: 210
-  💀 Died (gone): 68
-  😴 Went dormant: 103
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 APACK: had $0 liquidity · died at age 9.7d
-  💀 degeneracy: had $0 liquidity · died at age 9.7d
-  💀 LYBER: had $0 liquidity · died at age 9.7d
-  💀 PokeWorld: had $0 liquidity · died at age 9.7d
-  💀 Packs: had $0 liquidity · died at age 9.7d
-  💀 INTERN: had $0 liquidity · died at age 51.0d
-  💀 STONKS: had $0 liquidity · died at age 39.7d
-  💀 SEED: had $0 liquidity · died at age 39.7d
-  💀 BELIEVE: had $0 liquidity · died at age 30.0d
-  💀 LEECH: had $0 liquidity · died at age 30.0d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
-  </entry>
-  <entry>
-    <title>💰 ETH/LST YIELD · 51.5% APY</title>
-    <link href="https://t.me/sgnl_free/31532"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31532</id>
-    <updated>2026-10-30T22:50:32.187Z</updated>
-    <summary type="text">💰 ETH/LST YIELD · 51.5% APY
-ipor-fusion / CBETH on Base
-Base: 51.5%  ·  Rewards: 0.0%  ·  TVL: $5.4M
-
-💡 +47.5% vs typical lending (4%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/8d8b3ef8-1fee-4314-8cae-cdde303e4947</summary>
   </entry>
 </feed>
