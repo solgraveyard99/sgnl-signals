@@ -5,7 +5,29 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T14:55:40.543Z</updated>
+  <updated>2026-11-01T15:00:40.548Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-10-31</title>
+    <link href="https://t.me/sgnl_free/31647"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31647</id>
+    <updated>2026-11-01T15:00:12.035Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-10-31
+
+Tokens with liquidity drop ≥50%: 5
+Tokens with liquidity drop ≥90%: 2
+Tokens with liquidity drop ≥75%: 2
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL AXIO: -99.7%  $780.1K → $2.2K  in 8.5h
+  🚨 CRITICAL AgenC: -97.4%  $131.7K → $3.4K  in 13.2h
+  ⚠ HIGH iApe: -71.9%  $24.0K → $6.7K  in 9.6h
+  ⚠ HIGH BNB: -60.7%  $120.1K → $47.2K  in 10.5h
+  ⚠ HIGH LUMI: -56.6%  $54.5K → $23.6K  in 5.4h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/31646"/>
@@ -817,25 +839,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0001 SOL
 • 95th: 0.0010 SOL
 • 99th: 0.0126 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31597"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31597</id>
-    <updated>2026-11-01T01:26:42.864Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0009 SOL
-• 99th: 0.0168 SOL (~$2)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
