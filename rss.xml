@@ -5,7 +5,51 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T08:55:40.530Z</updated>
+  <updated>2026-11-01T09:00:40.539Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-10-31</title>
+    <link href="https://t.me/sgnl_free/31623"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31623</id>
+    <updated>2026-11-01T09:00:08.043Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-31
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 18
+Median peak spike (top 50): 5.3x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump AXIO: 24.0x  vol1h=$52.9K  price1h +2468.0%
+  🟢 pump PAWCAT: 24.0x  vol1h=$1.04M  price1h +2016.0%
+  🟢 pump SIS: 24.0x  vol1h=$761.1K  price1h +795.0%
+  🟢 pump iApe: 24.0x  vol1h=$113.2K  price1h +274.0%
+  🟢 pump LUMI: 24.0x  vol1h=$37.7K  price1h +48.6%
+  🟢 pump Ape: 24.0x  vol1h=$270.0K  price1h +35.1%
+  🟢 pump ChillGivin: 24.0x  vol1h=$42.1K  price1h +31.5%
+  🟢 pump BOAR: 24.0x  vol1h=$32.7K  price1h +46.7%
+  🟢 pump ANSEM: 11.0x  vol1h=$475.0K  price1h +653.0%
+  🔴 dump WTAIL: 10.1x  vol1h=$6.1K  price1h -12.7%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-10-31</title>
+    <link href="https://t.me/sgnl_free/31622"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31622</id>
+    <updated>2026-11-01T09:00:07.565Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-10-31
+
+Top 5 whale-cluster events:
+• $227M ← CEX | 3 wallets | 08:42Z
+
+Alerts fired (24h):
+• Whale-large←CEX: 3
+• Whale-cluster←CEX: 1
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 30000.00 ETH (~$68.1M) · 08:34 UTC</title>
     <link href="https://t.me/sgnl_free/31621"/>
@@ -821,30 +865,5 @@ Fast: 0.16877398 gwei  ·  Safe: 0.141098613 gwei
 A cheaper time for routine transactions you already planned, for example revoking old token approvals.
 Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily Market Composite — 2026-10-31</title>
-    <link href="https://t.me/sgnl_free/31573"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31573</id>
-    <updated>2026-10-31T14:00:12.395Z</updated>
-    <summary type="text">📊 Daily Market Composite — 2026-10-31
-Composite score: 40/100
-
-Raw composite reading. No directional interpretation.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/31572"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31572</id>
-    <updated>2026-10-31T13:35:46.546Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.13133023 gwei (fast)  ·  🟢 cheap
-Safe: 0.108537381  ·  Propose: 0.119391119  ·  BaseFee: 0.1085
-
-24h range: 0.04–1.47 gwei  (avg 0.21)
-
-Simple transfer cost now: ~$0.0069</summary>
   </entry>
 </feed>
