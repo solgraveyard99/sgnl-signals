@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T15:35:40.551Z</updated>
+  <updated>2026-11-01T15:40:40.555Z</updated>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/31651"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31651</id>
+    <updated>2026-11-01T15:36:01.126Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $1.90B total flow.
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 5 moves, $1636M off exchanges
+• 🐋 Large withdrawal: $200M USDT ← Binance Cold 8
+• 🐋 Large withdrawal: $68M ETH ← Binance Cold 8
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 200,000,000 USDT (~$200.0M) · 15:02 UTC</title>
     <link href="https://t.me/sgnl_free/31650"/>
@@ -820,25 +835,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0000 SOL
 • 95th: 0.0002 SOL
 • 99th: 0.0150 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31601"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31601</id>
-    <updated>2026-11-01T02:40:43.950Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0011 SOL
-• 99th: 0.0846 SOL (~$8)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
