@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T05:20:40.519Z</updated>
+  <updated>2026-11-01T05:25:40.520Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1997.15 ETH (~$4.5M) · 05:15 UTC</title>
+    <link href="https://t.me/sgnl_free/31610"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31610</id>
+    <updated>2026-11-01T05:22:25.539Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1997.15 ETH (~$4.5M) · 05:15 UTC
+From: 0x690c…91cc
+To: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x49ab11a5b565101a62ede93520c19b4436934646b0dff7556614f511de2771a3
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 521.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2000.00 ETH (~$4.5M) · 05:11 UTC</title>
     <link href="https://t.me/sgnl_free/31609"/>
@@ -859,24 +876,5 @@ Fast: 0.102416413 gwei  ·  Safe: 0.101416413 gwei
 A cheaper time for routine transactions you already planned, for example revoking old token approvals.
 Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📡 SGNL Daily Digest · 2026-10-30</title>
-    <link href="https://t.me/sgnl_free/31560"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31560</id>
-    <updated>2026-10-31T08:00:31.618Z</updated>
-    <summary type="text">📡 SGNL Daily Digest · 2026-10-30
-What 30+ SGNL observers caught in the last 24h
-
-⚡ Aave V3 liquidations (24h, 38 total)
-USDT 570351.81 → 267.3021 WETH
-USDT 176260.07 → 83.8577 WETH
-USDC 92475.75 → 43.3785 WETH
-
-🌉 Cross-chain (Wormhole, 24h)
-$22.9M across 14616 txs · top route Solana → Solana
-
-
-Free signals · No advice · t.me/sgnl_free</summary>
   </entry>
 </feed>
