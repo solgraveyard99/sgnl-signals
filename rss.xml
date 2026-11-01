@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T06:10:40.541Z</updated>
+  <updated>2026-11-01T06:15:40.532Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 50000.00 ETH (~$113.6M) · 06:08 UTC</title>
+    <link href="https://t.me/sgnl_free/31613"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31613</id>
+    <updated>2026-11-01T06:12:25.535Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 50000.00 ETH (~$113.6M) · 06:08 UTC
+From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x5a52…efcb · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x8d18549ef2ad8aa3b6378639e4ff34502aeccd4967edbc9ad553b5e585804d76
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 525.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>📤 WITHDRAWAL · Binance Cold 8</title>
+    <link href="https://t.me/sgnl_free/31612"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31612</id>
+    <updated>2026-11-01T06:11:17.439Z</updated>
+    <summary type="text">📤 WITHDRAWAL · Binance Cold 8
+50000 ETH  ($113.4M)  ←  0x5a52e9…
+⚪ Routine-size withdrawal (0.2× the 7-day daily average)
+Tx: https://etherscan.io/tx/0x8d18549ef2ad8aa3b6378639e4ff34502aeccd4967edbc9ad553b5e585804d76
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2000.00 ETH (~$4.5M) · 05:27 UTC</title>
     <link href="https://t.me/sgnl_free/31611"/>
@@ -839,47 +869,5 @@ Status: High-impact keyword match
 If the outcome lands on a protocol-critical parameter, expect price reaction on token within 24h of close.
 
 https://snapshot.org/#/aavedao.eth/proposal/0x9510b6815b892919bfa6a838f5b1d49b05f77fb1ee53614256c8c90b656446bc</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-10-30</title>
-    <link href="https://t.me/sgnl_free/31563"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31563</id>
-    <updated>2026-10-31T09:00:12.333Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-10-30
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 17
-Median peak spike (top 50): 4.8x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump BITCAT: 24.0x  vol1h=$388.1K  price1h +679.0%
-  🟢 pump CATPAD: 24.0x  vol1h=$347.6K  price1h +186.0%
-  🟢 pump Jason: 24.0x  vol1h=$71.1K  price1h +89.8%
-  🟢 pump calm: 24.0x  vol1h=$39.0K  price1h +83.8%
-  🟢 pump BEAR: 24.0x  vol1h=$137.5K  price1h +73.7%
-  🟢 pump DEADGUY: 24.0x  vol1h=$25.7K  price1h +63.9%
-  🟢 pump Bear: 24.0x  vol1h=$230.3K  price1h +57.0%
-  🔴 dump HYPE: 24.0x  vol1h=$310.0K  price1h -52.7%
-  🔴 dump Catori: 24.0x  vol1h=$11.9K  price1h -46.2%
-  🟢 pump HACKINU: 24.0x  vol1h=$249.4K  price1h +31.7%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-10-30</title>
-    <link href="https://t.me/sgnl_free/31562"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31562</id>
-    <updated>2026-10-31T09:00:11.892Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-10-30
-
-Alerts fired (24h):
-• Funding divergence: 1
-• Whale-cluster←CEX: 1
-• Rug wallet: 1
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
