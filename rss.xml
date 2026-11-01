@@ -5,7 +5,36 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T13:35:40.539Z</updated>
+  <updated>2026-11-01T13:40:40.544Z</updated>
+  <entry>
+    <title>📊 3 outflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/31644"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31644</id>
+    <updated>2026-11-01T13:35:54.757Z</updated>
+    <summary type="text">📊 3 outflow-heavy observations detected
+Sample: 3 concurrent observations · $1.85B total flow.
+
+Top observations (by size):
+• 🐋 Whale withdrawal cluster: 5 moves, $1481M off exchanges
+• 🐋 Large withdrawal: $300M USDT ← Binance Cold 8
+• 🐋 Large withdrawal: $68M ETH ← Binance Cold 8
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/31643"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31643</id>
+    <updated>2026-11-01T13:35:54.348Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.052631218 gwei (fast)  ·  🟢 cheap
+Safe: 0.042631219  ·  Propose: 0.042731218  ·  BaseFee: 0.0426
+
+24h range: 0.03–0.28 gwei  (avg 0.07)
+
+Simple transfer cost now: ~$0.0028</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,046,311 USDT (~$1.0M) · 13:24 UTC</title>
     <link href="https://t.me/sgnl_free/31642"/>
@@ -820,46 +849,5 @@ Statistical pattern. Not financial advice.
 No active observations in the current window.
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Week in Review · ending 2026-11-01</title>
-    <link href="https://t.me/sgnl_free/31594"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31594</id>
-    <updated>2026-11-01T00:05:58.860Z</updated>
-    <summary type="text">📊 Week in Review · ending 2026-11-01
-
-🐋 Whale Flows (7d)
-334 large moves
-Net CEX flow (7d): +$206M (positive = withdrawn from CEXs)
-Biggest withdrawal: $1615M USDT from Binance 14 label: public address list, unverified
-
-⚡ Perp Funding Regime
-BTC avg: 0.0011%/hr (~10% APR)
-ETH avg: 0.0005%/hr (~4% APR)
-SOL avg: 0.0010%/hr (~9% APR)
-
-💰 Best Yields Right Now
-Stables: 26.5% — veranta/USDC @ Base
-ETH/LST: 14.8% — cian-yield-layer/WSTETH @ Arbitrum
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/31593"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31593</id>
-    <updated>2026-11-01T00:01:01.386Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Call — strike $2320 — expiry 2NOV26
-Direction: SELL
-Notional: ~$948K
-Contracts: 419
-Implied vol: 28.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
