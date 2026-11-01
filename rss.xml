@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T05:30:40.518Z</updated>
+  <updated>2026-11-01T05:35:40.522Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2000.00 ETH (~$4.5M) · 05:27 UTC</title>
+    <link href="https://t.me/sgnl_free/31611"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31611</id>
+    <updated>2026-11-01T05:32:25.461Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2000.00 ETH (~$4.5M) · 05:27 UTC
+From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x690c…91cc
+Tx: https://etherscan.io/tx/0xfb85bd31a5bfee313f0b7b8fb5174479770507f24d6bf1bf1e011ac45c857a2f
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 522.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1997.15 ETH (~$4.5M) · 05:15 UTC</title>
     <link href="https://t.me/sgnl_free/31610"/>
@@ -864,17 +881,5 @@ Alerts fired (24h):
 All observations timestamped. Methodology public.
 
 #onchain #dailydigest</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/31561"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31561</id>
-    <updated>2026-10-31T08:35:46.632Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.102416413 gwei  ·  Safe: 0.101416413 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
