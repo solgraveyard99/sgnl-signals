@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T18:50:40.554Z</updated>
+  <updated>2026-11-01T18:55:40.566Z</updated>
+  <entry>
+    <title>💰 ETH/LST YIELD · 15.1% APY</title>
+    <link href="https://t.me/sgnl_free/31656"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31656</id>
+    <updated>2026-11-01T18:50:44.266Z</updated>
+    <summary type="text">💰 ETH/LST YIELD · 15.1% APY
+cian-yield-layer / WSTETH on Arbitrum
+Base: n/a  ·  Rewards: n/a  ·  TVL: $5.9M
+
+💡 +11.1% vs typical lending (4%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/93979396-e1b4-4119-b99b-433970d0983a</summary>
+  </entry>
   <entry>
     <title>☀️ SGNL Midday Snapshot</title>
     <link href="https://t.me/sgnl_free/31655"/>
@@ -798,25 +816,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0000 SOL
 • 95th: 0.0385 SOL
 • 99th: 0.0488 SOL (~$5)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31606"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31606</id>
-    <updated>2026-11-01T04:17:43.644Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.1010 SOL
-• 99th: 0.4234 SOL (~$42)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
