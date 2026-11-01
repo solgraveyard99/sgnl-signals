@@ -5,7 +5,32 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T11:55:40.542Z</updated>
+  <updated>2026-11-01T12:00:40.538Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-10-31</title>
+    <link href="https://t.me/sgnl_free/31629"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31629</id>
+    <updated>2026-11-01T12:00:04.579Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-10-31
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    n/a
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 309.2K μlamp | Orca: 344.8K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>📊 Exchange reserve change · monitored wallets −7.05% in 24h</title>
     <link href="https://t.me/sgnl_free/31628"/>
@@ -839,31 +864,5 @@ Rate: 27% of 30-day baseline
 ETH price: $2251
 
 Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-10-30</title>
-    <link href="https://t.me/sgnl_free/31579"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31579</id>
-    <updated>2026-10-31T21:00:11.446Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-10-30
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 18
-Strong-bias tokens (buy/sell ≥3x): 3
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 HEXN: 7512 buys / 1402 sells (5.4x)  vol1h=$266.6K  price1h -10%
-  📈 HYPERCHAN: 12484 buys / 4513 sells (2.8x)  vol1h=$179.4K  price1h +14%
-  📈 HOUSEWORM: 9048 buys / 3296 sells (2.7x)  vol1h=$159.9K  price1h +11%
-  📈 calm: 3006 buys / 774 sells (3.9x)  vol1h=$39.0K  price1h +63%
-  📈 BITCAT: 4788 buys / 2631 sells (1.8x)  vol1h=$370.6K  price1h +156%
-  📈 BNB: 3634 buys / 2011 sells (1.8x)  vol1h=$271.8K  price1h +68%
-  📈 three: 1347 buys / 511 sells (2.6x)  vol1h=$13.6K  price1h +1%
-  📈 bul: 855 buys / 353 sells (2.4x)  vol1h=$2.0K  price1h -17%
-  📈 PEPEween: 841 buys / 369 sells (2.3x)  vol1h=$1.9K  price1h +11%
-  📈 ███: 407 buys / 182 sells (2.2x)  vol1h=$41.9K  price1h -7%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
