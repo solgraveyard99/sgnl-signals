@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T13:25:40.546Z</updated>
+  <updated>2026-11-01T13:30:40.542Z</updated>
+  <entry>
+    <title>🏦 Exchange reserves · 13 monitored wallets</title>
+    <link href="https://t.me/sgnl_free/31637"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31637</id>
+    <updated>2026-11-01T13:30:33.046Z</updated>
+    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
+
+Total: $16.07B · 24h net change −$1225M (-7.08%)
+
+ETH: 396.8K  ($897M)
+USDT: $15169M
+USDC: $0.1M
+DAI: $0.03M
+
+Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 803.00 ETH (~$1.8M) · 13:06 UTC</title>
     <link href="https://t.me/sgnl_free/31636"/>
@@ -845,24 +862,6 @@ Direction: BUY
 Notional: ~$1548K
 Contracts: 20
 Implied vol: 39.8%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/31587"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31587</id>
-    <updated>2026-11-01T00:00:58.426Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $71000 — expiry 27NOV26
-Direction: SELL
-Notional: ~$1548K
-Contracts: 20
-Implied vol: 42.6%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
