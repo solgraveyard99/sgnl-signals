@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T18:30:40.654Z</updated>
+  <updated>2026-11-02T18:35:40.656Z</updated>
+  <entry>
+    <title>🔴 Tether BURN · USDT</title>
+    <link href="https://t.me/sgnl_free/31726"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31726</id>
+    <updated>2026-11-02T18:35:37.135Z</updated>
+    <summary type="text">🔴 Tether BURN · USDT
+
+-$4.00B in last 24h
+Tier: TIER3
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
   <entry>
     <title>📊 3 outflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/31725"/>
@@ -804,22 +816,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,399,596 USDT (~$1.4M) · 00:51 UTC</title>
-    <link href="https://t.me/sgnl_free/31676"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31676</id>
-    <updated>2026-11-02T00:52:56.351Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,399,596 USDT (~$1.4M) · 00:51 UTC
-From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0xed89…60e7
-Tx: https://etherscan.io/tx/0x0a278f9078d22ad71f27a10bf32c42b3d10e4fcace06452a37f60d274fef844a
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1702.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
