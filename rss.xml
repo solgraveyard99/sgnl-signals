@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T10:45:40.625Z</updated>
+  <updated>2026-11-02T10:50:40.615Z</updated>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 25.7% APY</title>
+    <link href="https://t.me/sgnl_free/31700"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31700</id>
+    <updated>2026-11-02T10:50:32.284Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 25.7% APY
+veranta / USDC on Base
+Base: 25.7%  ·  Rewards: n/a  ·  TVL: $9.8M
+
+💡 +18.7% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
+  </entry>
   <entry>
     <title>🟠 ETH STAKING DROUGHT</title>
     <link href="https://t.me/sgnl_free/31699"/>
@@ -843,22 +861,5 @@ Top observations (by size):
 • 🐋 Large withdrawal: $68M ETH ← Binance Cold 8
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 200,000,000 USDT (~$200.0M) · 15:02 UTC</title>
-    <link href="https://t.me/sgnl_free/31650"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31650</id>
-    <updated>2026-11-01T15:12:41.240Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 200,000,000 USDT (~$200.0M) · 15:02 UTC
-From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x690c…91cc
-Tx: https://etherscan.io/tx/0x3df3209eef9ec67e598253ba328e7453db63a8b4a4a464c17ad751b279d107ee
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 523.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
