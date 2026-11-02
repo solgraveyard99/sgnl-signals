@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T11:10:40.635Z</updated>
+  <updated>2026-11-02T11:15:40.618Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,660,942 USDT (~$1.7M) · 11:09 UTC</title>
+    <link href="https://t.me/sgnl_free/31701"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31701</id>
+    <updated>2026-11-02T11:12:42.325Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,660,942 USDT (~$1.7M) · 11:09 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xed89…60e7
+Tx: https://etherscan.io/tx/0x815ef481c19c981edaafe463fb6b58c7aac69445f4eb1ae04ff30565f7f158bf
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1656.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 25.7% APY</title>
     <link href="https://t.me/sgnl_free/31700"/>
@@ -846,20 +863,5 @@ Rate: 20% of 30-day baseline
 ETH price: $2268
 
 Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
-  </entry>
-  <entry>
-    <title>📊 3 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/31651"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31651</id>
-    <updated>2026-11-01T15:36:01.126Z</updated>
-    <summary type="text">📊 3 outflow-heavy observations detected
-Sample: 3 concurrent observations · $1.90B total flow.
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 5 moves, $1636M off exchanges
-• 🐋 Large withdrawal: $200M USDT ← Binance Cold 8
-• 🐋 Large withdrawal: $68M ETH ← Binance Cold 8
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
