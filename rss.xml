@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T14:50:40.635Z</updated>
+  <updated>2026-11-02T14:55:40.635Z</updated>
+  <entry>
+    <title>🟢 STABLECOIN MINT · USDT</title>
+    <link href="https://t.me/sgnl_free/31711"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31711</id>
+    <updated>2026-11-02T14:50:46.008Z</updated>
+    <summary type="text">🟢 STABLECOIN MINT · USDT
+Supply change 24h: +$1618M
+New supply: $181.24B
+
+Net supply expansion event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/31710"/>
@@ -857,16 +870,5 @@ How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume
 Companion to morning survival report (06:00 UTC).
 Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
 DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📊 Exchange reserve change · monitored wallets −10.75% in 24h</title>
-    <link href="https://t.me/sgnl_free/31661"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31661</id>
-    <updated>2026-11-01T23:52:21.826Z</updated>
-    <summary type="text">📊 Exchange reserve change · monitored wallets −10.75% in 24h
-Δ −$1859M · total $15.43B
-
-Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
