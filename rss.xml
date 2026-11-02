@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T12:50:40.629Z</updated>
+  <updated>2026-11-02T12:55:40.629Z</updated>
+  <entry>
+    <title>📊 Exchange reserve change · monitored wallets −5.33% in 24h</title>
+    <link href="https://t.me/sgnl_free/31705"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31705</id>
+    <updated>2026-11-02T12:52:16.531Z</updated>
+    <summary type="text">📊 Exchange reserve change · monitored wallets −5.33% in 24h
+Δ −$856M · total $15.21B
+
+Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>📊 Activity summary · 1 active observation</title>
     <link href="https://t.me/sgnl_free/31704"/>
@@ -868,15 +879,5 @@ Base: n/a  ·  Rewards: n/a  ·  TVL: $5.9M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/93979396-e1b4-4119-b99b-433970d0983a</summary>
-  </entry>
-  <entry>
-    <title>☀️ SGNL Midday Snapshot</title>
-    <link href="https://t.me/sgnl_free/31655"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31655</id>
-    <updated>2026-11-01T17:00:25.461Z</updated>
-    <summary type="text">☀️ SGNL Midday Snapshot
-BTC: $78,101 | SOL: $94.69
-Market activity index: 40/100 (low band)
-On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
   </entry>
 </feed>
