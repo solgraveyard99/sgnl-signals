@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T11:55:40.624Z</updated>
+  <updated>2026-11-02T12:00:40.638Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-11-01</title>
+    <link href="https://t.me/sgnl_free/31702"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31702</id>
+    <updated>2026-11-02T12:00:04.006Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-01
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    1.0K μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 263.8K μlamp | Orca: 272.9K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,660,942 USDT (~$1.7M) · 11:09 UTC</title>
     <link href="https://t.me/sgnl_free/31701"/>
@@ -850,18 +876,5 @@ Base: 15.2%  ·  Rewards: n/a  ·  TVL: $5.8M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/99989c4e-cf3b-5936-89fa-769f7e56cd34</summary>
-  </entry>
-  <entry>
-    <title>🟠 ETH STAKING DROUGHT</title>
-    <link href="https://t.me/sgnl_free/31652"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31652</id>
-    <updated>2026-11-01T15:50:32.187Z</updated>
-    <summary type="text">🟠 ETH STAKING DROUGHT
-
-24h inflow collapsed to 8.2K ETH (~256 validators)
-Rate: 20% of 30-day baseline
-ETH price: $2268
-
-Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
   </entry>
 </feed>
