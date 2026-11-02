@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T22:35:40.648Z</updated>
+  <updated>2026-11-02T22:40:40.650Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/31734"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31734</id>
+    <updated>2026-11-02T22:36:17.790Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Withdrawal cluster: 3 large withdrawals ($581M) in 6h.
+
+📤 30000 ETH ($67.5M)  ←  Binance Cold 8  0x690c3e…
+
+7d: $3209M in · $5918M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔴 Tether BURN · USDT</title>
     <link href="https://t.me/sgnl_free/31733"/>
@@ -784,18 +799,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 ETH STAKING DROUGHT</title>
-    <link href="https://t.me/sgnl_free/31684"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31684</id>
-    <updated>2026-11-02T03:50:32.700Z</updated>
-    <summary type="text">🟠 ETH STAKING DROUGHT
-
-24h inflow collapsed to 6.1K ETH (~189 validators)
-Rate: 15% of 30-day baseline
-ETH price: $2310
-
-Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
   </entry>
 </feed>
