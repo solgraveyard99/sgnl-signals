@@ -5,7 +5,27 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T14:55:40.635Z</updated>
+  <updated>2026-11-02T15:00:40.652Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-11-01</title>
+    <link href="https://t.me/sgnl_free/31712"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31712</id>
+    <updated>2026-11-02T15:00:03.891Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-11-01
+
+Tokens with liquidity drop ≥50%: 3
+Tokens with liquidity drop ≥90%: 2
+Tokens with liquidity drop ≥75%: 2
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL tipr: -98.6%  $510.6K → $7.2K  in 20m
+  🚨 CRITICAL NNN: -91.3%  $34.5K → $3.0K  in 6.7h
+  ⚠ HIGH SCARECROW: -55.9%  $21.0K → $9.3K  in 45m
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🟢 STABLECOIN MINT · USDT</title>
     <link href="https://t.me/sgnl_free/31711"/>
@@ -842,33 +862,5 @@ BTC: $78,305 (24h: +1.0%) | SOL: $94.49 (24h: −1.0%)
 Market activity index: 40/100 (low band)
 Next snapshot: 17:00 UTC
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-11-01</title>
-    <link href="https://t.me/sgnl_free/31662"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31662</id>
-    <updated>2026-11-02T00:00:04.032Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-11-01
-
-24h state transitions tracked: 188
-  💀 Died (gone): 72
-  😴 Went dormant: 78
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 STONKY: had $0 liquidity · died at age 39.5d
-  💀 牛梦: had $0 liquidity · died at age 51.0d
-  💀 DIRA: had $0 liquidity · died at age 30.0d
-  💀 SACC: had $0 liquidity · died at age 30.0d
-  💀 Pabu: had $0 liquidity · died at age 30.0d
-  💀 cabypara: had $0 liquidity · died at age 30.0d
-  💀 pad: had $0 liquidity · died at age 30.0d
-  💀 FIX6900: had $0 liquidity · died at age 30.0d
-  💀 SAFE: had $0 liquidity · died at age 30.0d
-  💀 shoggoth: had $0 liquidity · died at age 30.0d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
