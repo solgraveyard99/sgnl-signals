@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T00:15:40.566Z</updated>
+  <updated>2026-11-02T00:20:40.567Z</updated>
+  <entry>
+    <title>📊 Activity summary · 2 active observations</title>
+    <link href="https://t.me/sgnl_free/31675"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31675</id>
+    <updated>2026-11-02T00:15:46.529Z</updated>
+    <summary type="text">📊 Activity summary · 2 active observations
+
+Top 2 by size:
+• 🐋 Whale withdrawal cluster: undefined moves, $0M off exchanges
+• 🚨 Depeg watch: FDUSD at $0.9968
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/31674"/>
@@ -828,20 +841,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/31625"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31625</id>
-    <updated>2026-11-01T10:21:18.336Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Withdrawal cluster: 4 large withdrawals ($1227M) in 6h.
-
-📤 1000.0M USDT ($1000.0M)  ←  Binance Cold 8  0x5a52e9…
-
-7d: $4292M in · $4726M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
