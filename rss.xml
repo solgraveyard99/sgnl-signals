@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T18:10:40.645Z</updated>
+  <updated>2026-11-02T18:15:40.643Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 20000.00 ETH (~$45.3M) · 18:08 UTC</title>
+    <link href="https://t.me/sgnl_free/31724"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31724</id>
+    <updated>2026-11-02T18:12:25.643Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 20000.00 ETH (~$45.3M) · 18:08 UTC
+From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x690c…91cc
+Tx: https://etherscan.io/tx/0x0330b590d3f3793607534e5e54d6c1d97088e2a3f4c8b71d24ef8cc4aa8d71a0
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 544.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>📤 WITHDRAWAL · Binance Cold 8</title>
+    <link href="https://t.me/sgnl_free/31723"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31723</id>
+    <updated>2026-11-02T18:11:19.018Z</updated>
+    <summary type="text">📤 WITHDRAWAL · Binance Cold 8
+20000 ETH  ($45.1M)  ←  0x690c3e…
+⚪ Routine-size withdrawal (0.1× the 7-day daily average)
+Tx: https://etherscan.io/tx/0x0330b590d3f3793607534e5e54d6c1d97088e2a3f4c8b71d24ef8cc4aa8d71a0
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📤 WITHDRAWAL · Binance Cold 8</title>
     <link href="https://t.me/sgnl_free/31722"/>
@@ -789,42 +819,5 @@ Top 2 by size:
 • 🚨 Depeg watch: FDUSD at $0.9968
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31674"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31674</id>
-    <updated>2026-11-02T00:04:43.317Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0003 SOL
-• 99th: 0.0169 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/31673"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31673</id>
-    <updated>2026-11-02T00:01:01.291Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $45000 — expiry 25DEC26
-Direction: SELL
-Notional: ~$593K
-Contracts: 7.6
-Implied vol: 68.0%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
