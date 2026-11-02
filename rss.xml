@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T12:00:40.638Z</updated>
+  <updated>2026-11-02T12:05:40.622Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/31703"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31703</id>
+    <updated>2026-11-02T12:00:59.902Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $266.6B  (24h: $-760M)
+
+🔴 USDT: $179.23B  ($-382M)
+🔴 USDC: $71.41B  ($-430M)
+⚪ USDS: $6.40B  (+$1M)
+⚪ DAI: $4.72B  ($-6M)
+⚪ USDe: $4.55B  (+$57M)
+⚪ FDUSD: $0.30B  (+$0M)
+
+📊 Net supply Δ24h: -$760M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-11-01</title>
     <link href="https://t.me/sgnl_free/31702"/>
@@ -858,23 +879,5 @@ New supply: $179.35B
 Net supply contraction event. Descriptive observation only.
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 15.2% APY</title>
-    <link href="https://t.me/sgnl_free/31653"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31653</id>
-    <updated>2026-11-01T15:50:48.015Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 15.2% APY
-ember / USDC on Ethereum
-Base: 15.2%  ·  Rewards: n/a  ·  TVL: $5.8M
-
-💡 +8.2% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/99989c4e-cf3b-5936-89fa-769f7e56cd34</summary>
   </entry>
 </feed>
