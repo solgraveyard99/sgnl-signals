@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T13:55:40.645Z</updated>
+  <updated>2026-11-02T14:00:40.627Z</updated>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-11-02</title>
+    <link href="https://t.me/sgnl_free/31709"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31709</id>
+    <updated>2026-11-02T14:00:11.938Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-11-02
+Composite score: 40/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Gas Check · 24h</title>
     <link href="https://t.me/sgnl_free/31708"/>
@@ -862,18 +873,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🟠 ETH STAKING DROUGHT</title>
-    <link href="https://t.me/sgnl_free/31659"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31659</id>
-    <updated>2026-11-01T21:50:47.152Z</updated>
-    <summary type="text">🟠 ETH STAKING DROUGHT
-
-24h inflow collapsed to 6.9K ETH (~216 validators)
-Rate: 17% of 30-day baseline
-ETH price: $2264
-
-Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
   </entry>
 </feed>
