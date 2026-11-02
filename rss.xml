@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-01T23:55:40.569Z</updated>
+  <updated>2026-11-02T00:00:40.567Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/31663"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31663</id>
+    <updated>2026-11-02T00:00:21.653Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $78,305 (24h: +1.0%) | SOL: $94.49 (24h: −1.0%)
+Market activity index: 40/100 (low band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-11-01</title>
+    <link href="https://t.me/sgnl_free/31662"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31662</id>
+    <updated>2026-11-02T00:00:04.032Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-11-01
+
+24h state transitions tracked: 188
+  💀 Died (gone): 72
+  😴 Went dormant: 78
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 STONKY: had $0 liquidity · died at age 39.5d
+  💀 牛梦: had $0 liquidity · died at age 51.0d
+  💀 DIRA: had $0 liquidity · died at age 30.0d
+  💀 SACC: had $0 liquidity · died at age 30.0d
+  💀 Pabu: had $0 liquidity · died at age 30.0d
+  💀 cabypara: had $0 liquidity · died at age 30.0d
+  💀 pad: had $0 liquidity · died at age 30.0d
+  💀 FIX6900: had $0 liquidity · died at age 30.0d
+  💀 SAFE: had $0 liquidity · died at age 30.0d
+  💀 shoggoth: had $0 liquidity · died at age 30.0d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>📊 Exchange reserve change · monitored wallets −10.75% in 24h</title>
     <link href="https://t.me/sgnl_free/31661"/>
@@ -782,35 +821,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 50000.00 ETH (~$113.6M) · 06:08 UTC</title>
-    <link href="https://t.me/sgnl_free/31613"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31613</id>
-    <updated>2026-11-01T06:12:25.535Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 50000.00 ETH (~$113.6M) · 06:08 UTC
-From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x5a52…efcb · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x8d18549ef2ad8aa3b6378639e4ff34502aeccd4967edbc9ad553b5e585804d76
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 525.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>📤 WITHDRAWAL · Binance Cold 8</title>
-    <link href="https://t.me/sgnl_free/31612"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31612</id>
-    <updated>2026-11-01T06:11:17.439Z</updated>
-    <summary type="text">📤 WITHDRAWAL · Binance Cold 8
-50000 ETH  ($113.4M)  ←  0x5a52e9…
-⚪ Routine-size withdrawal (0.2× the 7-day daily average)
-Tx: https://etherscan.io/tx/0x8d18549ef2ad8aa3b6378639e4ff34502aeccd4967edbc9ad553b5e585804d76
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
