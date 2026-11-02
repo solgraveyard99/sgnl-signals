@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T02:40:40.581Z</updated>
+  <updated>2026-11-02T02:45:40.581Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/31680"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31680</id>
+    <updated>2026-11-02T02:44:45.516Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0001 SOL
+• 75th: 0.0002 SOL
+• 95th: 0.0096 SOL
+• 99th: 0.0890 SOL (~$9)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/31679"/>
@@ -816,26 +835,5 @@ Top 2 by size:
 • 🐋 Whale withdrawal cluster: undefined moves, $0M off exchanges
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/31630"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31630</id>
-    <updated>2026-11-01T12:01:00.517Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $267.4B  (24h: $-504M)
-
-🔴 USDT: $179.70B  ($-301M)
-🔴 USDC: $71.78B  ($-125M)
-⚪ USDS: $6.37B  ($-83M)
-⚪ DAI: $4.74B  (+$23M)
-⚪ USDe: $4.50B  ($-19M)
-⚪ FDUSD: $0.30B  ($-0M)
-
-📊 Net supply Δ24h: -$504M (contraction band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
