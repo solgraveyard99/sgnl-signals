@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T22:40:40.650Z</updated>
+  <updated>2026-11-02T22:45:40.652Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 30000.00 ETH (~$67.4M) · 22:35 UTC</title>
+    <link href="https://t.me/sgnl_free/31735"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31735</id>
+    <updated>2026-11-02T22:42:35.861Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 30000.00 ETH (~$67.4M) · 22:35 UTC
+From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x690c…91cc
+Tx: https://etherscan.io/tx/0x9221591206b94ffcbe0b028723dba07072a74882b7447e4631ae20069fec05ca
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 542.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/31734"/>
@@ -782,22 +799,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 3 large moves</title>
-    <link href="https://t.me/sgnl_free/31685"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31685</id>
-    <updated>2026-11-02T03:51:28.569Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 3 large moves
-📊 Withdrawal cluster: 3 large withdrawals ($231M) in 6h.
-
-📤 50000 ETH ($115.3M)  ←  Binance Cold 8  0x5a52e9…
-📤 30000 ETH ($69.2M)  ←  Binance Cold 8  0x690c3e…
-📤 20000 ETH ($46.1M)  ←  Binance Cold 8  0x690c3e…
-
-7d: $4009M in · $5924M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
