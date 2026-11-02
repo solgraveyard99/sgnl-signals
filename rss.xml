@@ -5,7 +5,54 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T08:55:40.611Z</updated>
+  <updated>2026-11-02T09:00:40.614Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-11-01</title>
+    <link href="https://t.me/sgnl_free/31695"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31695</id>
+    <updated>2026-11-02T09:00:18.700Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-11-01
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 11
+Median peak spike (top 50): 3.2x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump ANAKIN: 24.0x  vol1h=$1.96M  price1h +3865.0%
+  🟢 pump SCARECROW: 24.0x  vol1h=$209.9K  price1h +78.7%
+  🟢 pump BABYUNI: 24.0x  vol1h=$80.9K  price1h +67.3%
+  🔴 dump NNN: 24.0x  vol1h=$30.1K  price1h -35.1%
+  🟢 pump DogBoy: 24.0x  vol1h=$5.7K  price1h +23.7%
+  🟢 pump BLUE: 20.9x  vol1h=$1.41M  price1h +1014.0%
+  🟢 pump CHOO: 17.7x  vol1h=$779.3K  price1h +209.0%
+  🟢 pump CBUCKS: 9.5x  vol1h=$67.7K  price1h +25.2%
+  🟢 pump PAWCAT: 5.6x  vol1h=$603.2K  price1h +39.9%
+  🟢 pump AAPLCAT: 5.4x  vol1h=$459.7K  price1h +179.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-11-01</title>
+    <link href="https://t.me/sgnl_free/31694"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31694</id>
+    <updated>2026-11-02T09:00:02.830Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-11-01
+
+Top 5 whale-cluster events:
+• $1636M ← CEX | 5 wallets | 15:12Z
+• $1481M ← CEX | 5 wallets | 13:51Z
+• $1227M ← CEX | 4 wallets | 11:20Z
+• $231M ← CEX | 3 wallets | 03:52Z
+
+Alerts fired (24h):
+• Whale-large←CEX: 8
+• Whale-cluster←CEX: 6
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/31693"/>
@@ -812,31 +859,5 @@ Fast: 0.046615166 gwei  ·  Safe: 0.042277424 gwei
 A cheaper time for routine transactions you already planned, for example revoking old token approvals.
 Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily Market Composite — 2026-11-01</title>
-    <link href="https://t.me/sgnl_free/31645"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31645</id>
-    <updated>2026-11-01T14:00:19.882Z</updated>
-    <summary type="text">📊 Daily Market Composite — 2026-11-01
-Composite score: 40/100
-
-Raw composite reading. No directional interpretation.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 3 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/31644"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31644</id>
-    <updated>2026-11-01T13:35:54.757Z</updated>
-    <summary type="text">📊 3 outflow-heavy observations detected
-Sample: 3 concurrent observations · $1.85B total flow.
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 5 moves, $1481M off exchanges
-• 🐋 Large withdrawal: $300M USDT ← Binance Cold 8
-• 🐋 Large withdrawal: $68M ETH ← Binance Cold 8
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
