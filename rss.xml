@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T17:55:40.654Z</updated>
+  <updated>2026-11-02T18:00:40.650Z</updated>
+  <entry>
+    <title>📤 WITHDRAWAL · Binance Cold 8</title>
+    <link href="https://t.me/sgnl_free/31722"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31722</id>
+    <updated>2026-11-02T17:56:17.619Z</updated>
+    <summary type="text">📤 WITHDRAWAL · Binance Cold 8
+468.1M USDT  ($468.1M)  ←  0x690c3e…
+⚪ Routine-size withdrawal (0.6× the 7-day daily average)
+Tx: https://etherscan.io/tx/0x3b2491a51b0f553ab803e6b6a4f08a2627224407aa24a4500f3ccbd6e5f12c8b
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 468,058,036 USDT (~$468.1M) · 17:51 UTC</title>
     <link href="https://t.me/sgnl_free/31721"/>
@@ -808,24 +821,6 @@ Direction: SELL
 Notional: ~$593K
 Contracts: 7.6
 Implied vol: 68.0%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/31672"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31672</id>
-    <updated>2026-11-02T00:01:00.806Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $78000 — expiry 4NOV26
-Direction: BUY
-Notional: ~$547K
-Contracts: 7
-Implied vol: 48.6%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
