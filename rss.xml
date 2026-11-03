@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-03T13:00:40.714Z</updated>
+  <updated>2026-11-03T13:05:40.723Z</updated>
+  <entry>
+    <title>🌅 Morning Brief · 2026-11-03</title>
+    <link href="https://t.me/sgnl_free/31784"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31784</id>
+    <updated>2026-11-03T13:01:03.539Z</updated>
+    <summary type="text">🌅 Morning Brief · 2026-11-03
+
+🐋 Whale flow (24h)
+3 large moves · net -$581M 📤 out of exchanges
+
+⚡ Perp funding snapshot
+BTC ⚪ neutral funding (HL)
+ETH ⚪ neutral funding (HL)
+SOL ⚪ neutral funding (HL)
+
+💰 Top yields right now
+Stables: 25.7% · veranta/USDC @ Base
+ETH/LST: 15.2% · cian-yield-layer/WSTETH @ Arbitrum
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📊 Activity summary · 1 active observation</title>
     <link href="https://t.me/sgnl_free/31783"/>
@@ -810,20 +831,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/31734"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31734</id>
-    <updated>2026-11-02T22:36:17.790Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Withdrawal cluster: 3 large withdrawals ($581M) in 6h.
-
-📤 30000 ETH ($67.5M)  ←  Binance Cold 8  0x690c3e…
-
-7d: $3209M in · $5918M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
