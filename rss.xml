@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-03T11:55:40.704Z</updated>
+  <updated>2026-11-03T12:00:40.708Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-11-02</title>
+    <link href="https://t.me/sgnl_free/31780"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31780</id>
+    <updated>2026-11-03T12:00:11.694Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-02
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    50.5K μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 214.3K μlamp | Orca: 252.3K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 25.7% APY</title>
     <link href="https://t.me/sgnl_free/31779"/>
@@ -804,17 +830,5 @@ Top 10 by buy momentum (buys × buy/sell ratio):
 Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
 Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/31730"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31730</id>
-    <updated>2026-11-02T20:35:50.294Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.135687979 gwei  ·  Safe: 0.123349468 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
