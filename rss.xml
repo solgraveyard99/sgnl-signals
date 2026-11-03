@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-03T20:55:40.739Z</updated>
+  <updated>2026-11-03T21:00:40.746Z</updated>
+  <entry>
+    <title>📈 Solana Buy Momentum Digest — 2026-11-02</title>
+    <link href="https://t.me/sgnl_free/31801"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31801</id>
+    <updated>2026-11-03T21:00:12.267Z</updated>
+    <summary type="text">📈 Solana Buy Momentum Digest — 2026-11-02
+
+Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 19
+Strong-bias tokens (buy/sell ≥3x): 5
+
+Top 10 by buy momentum (buys × buy/sell ratio):
+  📈 豆助: 19693 buys / 4520 sells (4.4x)  vol1h=$823.2K  price1h -72%
+  📈 KOROSUKE: 18069 buys / 5158 sells (3.5x)  vol1h=$497.8K  price1h +88%
+  📈 ANAKIN: 13238 buys / 4136 sells (3.2x)  vol1h=$1.78M  price1h +36%
+  📈 TrumpWars: 4288 buys / 2807 sells (1.5x)  vol1h=$287.8K  price1h +9%
+  📈 three: 1309 buys / 507 sells (2.6x)  vol1h=$10.5K  price1h +1%
+  📈 FEAR: 1186 buys / 491 sells (2.4x)  vol1h=$50.0K  price1h -33%
+  📈 RICO: 1725 buys / 1104 sells (1.6x)  vol1h=$183.7K  price1h +15%
+  📈 jeff: 1002 buys / 413 sells (2.4x)  vol1h=$14.5K  price1h +6%
+  📈 Slingoor: 1123 buys / 699 sells (1.6x)  vol1h=$104.3K  price1h +27%
+  📈 DogBoy: 120 buys / 2 sells (20x+)  vol1h=$135  price1h +4%
+
+Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
+Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/31800"/>
@@ -758,24 +784,6 @@ Direction: SELL
 Notional: ~$616K
 Contracts: 8
 Implied vol: 38.8%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/31751"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31751</id>
-    <updated>2026-11-03T00:35:41.665Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $75000 — expiry 29JAN27
-Direction: SELL
-Notional: ~$1924K
-Contracts: 25
-Implied vol: 38.5%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
