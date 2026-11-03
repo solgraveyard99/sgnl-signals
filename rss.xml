@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-03T10:50:40.703Z</updated>
+  <updated>2026-11-03T10:55:40.711Z</updated>
+  <entry>
+    <title>🔴 STABLECOIN BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/31777"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31777</id>
+    <updated>2026-11-03T10:50:53.092Z</updated>
+    <summary type="text">🔴 STABLECOIN BURN · USDC
+Supply change 24h: -$529M
+New supply: $71.09B
+
+Net supply contraction event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔴 Tether BURN · USDT</title>
     <link href="https://t.me/sgnl_free/31776"/>
@@ -802,23 +815,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>💰 ETH/LST YIELD · 15.2% APY</title>
-    <link href="https://t.me/sgnl_free/31727"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31727</id>
-    <updated>2026-11-02T18:50:38.689Z</updated>
-    <summary type="text">💰 ETH/LST YIELD · 15.2% APY
-cian-yield-layer / WSTETH on Arbitrum
-Base: n/a  ·  Rewards: n/a  ·  TVL: $5.9M
-
-💡 +11.2% vs typical lending (4%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/93979396-e1b4-4119-b99b-433970d0983a</summary>
   </entry>
 </feed>
