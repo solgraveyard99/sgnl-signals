@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-03T12:00:40.708Z</updated>
+  <updated>2026-11-03T12:05:40.711Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/31781"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31781</id>
+    <updated>2026-11-03T12:00:48.953Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $266.0B  (24h: $-677M)
+
+🔴 USDT: $178.80B  ($-375M)
+🔴 USDC: $71.14B  ($-480M)
+🟢 USDS: $6.50B  (+$112M)
+⚪ DAI: $4.71B  (+$11M)
+⚪ USDe: $4.58B  (+$53M)
+⚪ FDUSD: $0.30B  (+$1M)
+
+📊 Net supply Δ24h: -$677M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-11-02</title>
     <link href="https://t.me/sgnl_free/31780"/>
@@ -804,31 +825,5 @@ Net burns suggest capital exit / redemption demand — can precede drawdowns.</s
 Tier: TIER3
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-11-01</title>
-    <link href="https://t.me/sgnl_free/31731"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31731</id>
-    <updated>2026-11-02T21:00:16.107Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-11-01
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 21
-Strong-bias tokens (buy/sell ≥3x): 6
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 AAPLCAT: 17716 buys / 5385 sells (3.3x)  vol1h=$124.4K  price1h -14%
-  📈 PAWCAT: 14924 buys / 5067 sells (2.9x)  vol1h=$597.8K  price1h +12%
-  📈 ANAKIN: 15088 buys / 5883 sells (2.6x)  vol1h=$1.96M  price1h +2671%
-  📈 SIS: 8894 buys / 4539 sells (2.0x)  vol1h=$162.9K  price1h +0%
-  📈 CHOO: 4154 buys / 2114 sells (2.0x)  vol1h=$779.3K  price1h +154%
-  📈 SI276: 1601 buys / 747 sells (2.1x)  vol1h=$8.6K  price1h -3%
-  📈 Dacity: 144 buys / 13 sells (11.1x)  vol1h=$27.3K  price1h +2%
-  📈 ANSEM: 874 buys / 564 sells (1.5x)  vol1h=$69.8K  price1h -33%
-  📈 HYPEFAUCET: 434 buys / 243 sells (1.8x)  vol1h=$27.0K  price1h -5%
-  📈 Bitcoin: 454 buys / 273 sells (1.7x)  vol1h=$53.3K  price1h +9%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
