@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-02T23:55:40.659Z</updated>
+  <updated>2026-11-03T00:00:40.659Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/31738"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31738</id>
+    <updated>2026-11-03T00:00:32.460Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $76,839 (24h: −1.9%) | SOL: $91.96 (24h: −2.7%)
+Market activity index: 30/100 (low band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-11-02</title>
+    <link href="https://t.me/sgnl_free/31737"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31737</id>
+    <updated>2026-11-03T00:00:16.785Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-11-02
+
+24h state transitions tracked: 207
+  💀 Died (gone): 99
+  😴 Went dormant: 77
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 ACTIV: had $0 liquidity · died at age 9.3d
+  💀 Trace: had $0 liquidity · died at age 9.3d
+  💀 Bunnett: had $0 liquidity · died at age 9.3d
+  💀 PIZZA: had $0 liquidity · died at age 9.3d
+  💀 Bunnett: had $0 liquidity · died at age 9.3d
+  💀 Galt: had $0 liquidity · died at age 9.3d
+  💀 Daybreak: had $0 liquidity · died at age 9.3d
+  💀 TRENCHERS: had $0 liquidity · died at age 9.3d
+  💀 VANCE: had $0 liquidity · died at age 9.3d
+  💀 AI: had $0 liquidity · died at age 9.3d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>🔴 Tether BURN · USDT</title>
     <link href="https://t.me/sgnl_free/31736"/>
@@ -760,39 +799,5 @@ Top observations (by size):
 • 🐋 Large withdrawal: $46M ETH ← Binance Cold 8
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 30000.00 ETH (~$69.2M) · 03:48 UTC</title>
-    <link href="https://t.me/sgnl_free/31688"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31688</id>
-    <updated>2026-11-02T03:52:42.295Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 30000.00 ETH (~$69.2M) · 03:48 UTC
-From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x690c…91cc
-Tx: https://etherscan.io/tx/0x29e817754fbdbd6c7e46ed4aa3f58e84bc08e9c5966326774aa0b23c1754ca08
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 519.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 20000.00 ETH (~$46.1M) · 03:49 UTC</title>
-    <link href="https://t.me/sgnl_free/31687"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31687</id>
-    <updated>2026-11-02T03:52:41.770Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 20000.00 ETH (~$46.1M) · 03:49 UTC
-From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x690c…91cc
-Tx: https://etherscan.io/tx/0x51f2e7b2e9e26e48fa026bb2c358dba9e0b24bad176436bed03a5935da52bda3
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 518.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
