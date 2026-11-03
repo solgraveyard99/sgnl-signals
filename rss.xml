@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-03T02:55:40.677Z</updated>
+  <updated>2026-11-03T03:00:40.676Z</updated>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-11-02</title>
+    <link href="https://t.me/sgnl_free/31765"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31765</id>
+    <updated>2026-11-03T03:00:03.353Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-11-02
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 1
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 1 suspicious patterns yesterday:
+  ⚠ HONEYPOT? DogBoy: 120:2 buys:sells  vol1h=$135  liq=$16.5K  price1h +4%
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/31764"/>
@@ -797,17 +818,5 @@ Base: 21.8%  ·  Rewards: n/a  ·  TVL: $5.8M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/99989c4e-cf3b-5936-89fa-769f7e56cd34</summary>
-  </entry>
-  <entry>
-    <title>🔴 Tether BURN · USDT</title>
-    <link href="https://t.me/sgnl_free/31715"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31715</id>
-    <updated>2026-11-02T16:05:36.263Z</updated>
-    <summary type="text">🔴 Tether BURN · USDT
-
--$2.00B in last 24h
-Tier: TIER3
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
   </entry>
 </feed>
