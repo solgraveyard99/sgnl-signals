@@ -5,7 +5,51 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-03T00:15:40.679Z</updated>
+  <updated>2026-11-03T00:20:40.666Z</updated>
+  <entry>
+    <title>🔴 Tether BURN · USDT</title>
+    <link href="https://t.me/sgnl_free/31748"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31748</id>
+    <updated>2026-11-03T00:20:36.338Z</updated>
+    <summary type="text">🔴 Tether BURN · USDT
+
+-$4.00B in last 24h
+Tier: TIER3
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
+  <entry>
+    <title>📊 Activity summary · 3 active observations</title>
+    <link href="https://t.me/sgnl_free/31747"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31747</id>
+    <updated>2026-11-03T00:15:57.401Z</updated>
+    <summary type="text">📊 Activity summary · 3 active observations
+
+Top 3 by size:
+• 🐋 Whale withdrawal cluster: 3 moves, $581M off exchanges
+• 🐋 Large withdrawal: $68M ETH ← Binance Cold 8
+• 🚨 Depeg watch: FDUSD at $0.9959
+
+On-chain observation, not advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/31746"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31746</id>
+    <updated>2026-11-03T00:15:41.717Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $70000 — expiry 6NOV26
+Direction: BUY
+Notional: ~$11507K
+Contracts: 150
+Implied vol: 61.4%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/31745"/>
@@ -744,60 +788,5 @@ Rate: 19% of 30-day baseline
 ETH price: $2285
 
 Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 961.79 ETH (~$2.2M) · 09:51 UTC</title>
-    <link href="https://t.me/sgnl_free/31698"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31698</id>
-    <updated>2026-11-02T09:52:42.121Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 961.79 ETH (~$2.2M) · 09:51 UTC
-From: 0x0377…dc72
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x522698e9afe57fcba4a9473c3a120a00821e1e8e14a95f747a3d433372247277
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1646.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31697"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31697</id>
-    <updated>2026-11-02T09:36:44.545Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0003 SOL
-• 99th: 0.0127 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31696"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31696</id>
-    <updated>2026-11-02T09:23:43.409Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0004 SOL
-• 99th: 0.0237 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
