@@ -5,7 +5,31 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-03T02:35:40.686Z</updated>
+  <updated>2026-11-03T02:40:40.689Z</updated>
+  <entry>
+    <title>⛽🟢 Low gas right now</title>
+    <link href="https://t.me/sgnl_free/31762"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31762</id>
+    <updated>2026-11-03T02:36:03.145Z</updated>
+    <summary type="text">⛽🟢 Low gas right now
+Fast: 0.041972173 gwei  ·  Safe: 0.040484323 gwei
+
+A cheaper time for routine transactions you already planned, for example revoking old token approvals.
+Never claim an &quot;airdrop&quot; from a link someone sends you.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🔴 Tether BURN · USDT</title>
+    <link href="https://t.me/sgnl_free/31761"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31761</id>
+    <updated>2026-11-03T02:35:46.781Z</updated>
+    <summary type="text">🔴 Tether BURN · USDT
+
+-$4.00B in last 24h
+Tier: TIER3
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/31760"/>
@@ -772,38 +796,5 @@ Statistical pattern. Not financial advice.</summary>
 Tier: TIER3
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-11-01</title>
-    <link href="https://t.me/sgnl_free/31712"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31712</id>
-    <updated>2026-11-02T15:00:03.891Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-11-01
-
-Tokens with liquidity drop ≥50%: 3
-Tokens with liquidity drop ≥90%: 2
-Tokens with liquidity drop ≥75%: 2
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL tipr: -98.6%  $510.6K → $7.2K  in 20m
-  🚨 CRITICAL NNN: -91.3%  $34.5K → $3.0K  in 6.7h
-  ⚠ HIGH SCARECROW: -55.9%  $21.0K → $9.3K  in 45m
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>🟢 STABLECOIN MINT · USDT</title>
-    <link href="https://t.me/sgnl_free/31711"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31711</id>
-    <updated>2026-11-02T14:50:46.008Z</updated>
-    <summary type="text">🟢 STABLECOIN MINT · USDT
-Supply change 24h: +$1618M
-New supply: $181.24B
-
-Net supply expansion event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
