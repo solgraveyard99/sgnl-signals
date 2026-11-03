@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-03T15:50:40.731Z</updated>
+  <updated>2026-11-03T15:55:40.718Z</updated>
+  <entry>
+    <title>🔴 STABLECOIN BURN · USDT</title>
+    <link href="https://t.me/sgnl_free/31793"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31793</id>
+    <updated>2026-11-03T15:50:51.985Z</updated>
+    <summary type="text">🔴 STABLECOIN BURN · USDT
+Supply change 24h: -$736M
+New supply: $178.43B
+
+Net supply contraction event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔴 Tether BURN · USDT</title>
     <link href="https://t.me/sgnl_free/31792"/>
@@ -783,23 +796,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/31743"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31743</id>
-    <updated>2026-11-03T00:00:50.203Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Call — strike $2450 — expiry 20NOV26
-Direction: SELL
-Notional: ~$556K
-Contracts: 247
-Implied vol: 49.7%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
