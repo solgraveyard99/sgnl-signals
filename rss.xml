@@ -5,7 +5,27 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-03T14:55:40.738Z</updated>
+  <updated>2026-11-03T15:00:40.726Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-11-02</title>
+    <link href="https://t.me/sgnl_free/31791"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31791</id>
+    <updated>2026-11-03T15:00:17.088Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-11-02
+
+Tokens with liquidity drop ≥50%: 3
+Tokens with liquidity drop ≥90%: 2
+Tokens with liquidity drop ≥75%: 3
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL KOROSUKE: -99.8%  $998.6K → $1.9K  in 2.0h
+  🚨 CRITICAL 豆助: -97.6%  $88.5K → $2.2K  in 1.2h
+  ⛔ SEVERE faucet: -81.3%  $21.2K → $4.0K  in 10.2h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/31790"/>
@@ -787,23 +807,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/31741"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31741</id>
-    <updated>2026-11-03T00:00:49.055Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $58000 — expiry 27NOV26
-Direction: BUY
-Notional: ~$2869K
-Contracts: 37.4
-Implied vol: 56.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
