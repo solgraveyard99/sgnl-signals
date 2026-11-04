@@ -5,7 +5,17 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-04T15:20:40.804Z</updated>
+  <updated>2026-11-04T15:25:40.802Z</updated>
+  <entry>
+    <title>⛽🟢 Low Gas</title>
+    <link href="https://t.me/sgnl_free/31843"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31843</id>
+    <updated>2026-11-04T15:20:46.590Z</updated>
+    <summary type="text">⛽🟢 Low Gas
+Fast: 5.206807535 gwei  ·  Safe: 4.733438647 gwei
+
+Good window for routine ETH transactions.</summary>
+  </entry>
   <entry>
     <title>⚠ Solana Liquidity-Drop Digest — 2026-11-03</title>
     <link href="https://t.me/sgnl_free/31842"/>
@@ -852,18 +862,5 @@ Spread: 0.0033%/hr  (29.2% APR gross)
 Expected net: ~24% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
 monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDT</title>
-    <link href="https://t.me/sgnl_free/31793"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31793</id>
-    <updated>2026-11-03T15:50:51.985Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDT
-Supply change 24h: -$736M
-New supply: $178.43B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
