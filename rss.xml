@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-04T18:45:40.821Z</updated>
+  <updated>2026-11-04T18:50:40.825Z</updated>
+  <entry>
+    <title>💰 ETH/LST YIELD · 15.2% APY</title>
+    <link href="https://t.me/sgnl_free/31847"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31847</id>
+    <updated>2026-11-04T18:50:38.667Z</updated>
+    <summary type="text">💰 ETH/LST YIELD · 15.2% APY
+cian-yield-layer / WSTETH on Arbitrum
+Base: n/a  ·  Rewards: n/a  ·  TVL: $5.9M
+
+💡 +11.2% vs typical lending (4%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/93979396-e1b4-4119-b99b-433970d0983a</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 24.2% APY</title>
     <link href="https://t.me/sgnl_free/31846"/>
@@ -846,23 +864,5 @@ Tx: https://etherscan.io/tx/0x8abee94580cba714f77eb4b9d03dfbced2a0e95aea1a56b1f9
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 ETH/LST YIELD · 15.2% APY</title>
-    <link href="https://t.me/sgnl_free/31797"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31797</id>
-    <updated>2026-11-03T18:50:32.349Z</updated>
-    <summary type="text">💰 ETH/LST YIELD · 15.2% APY
-cian-yield-layer / WSTETH on Arbitrum
-Base: n/a  ·  Rewards: n/a  ·  TVL: $5.9M
-
-💡 +11.2% vs typical lending (4%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/93979396-e1b4-4119-b99b-433970d0983a</summary>
   </entry>
 </feed>
