@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-04T07:55:40.790Z</updated>
+  <updated>2026-11-04T08:00:40.806Z</updated>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-11-03</title>
+    <link href="https://t.me/sgnl_free/31829"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31829</id>
+    <updated>2026-11-04T08:00:20.517Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-11-03
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 1 total)
+0x40d16f… 0.21 → 0.2146 USDC
+
+🌉 Cross-chain (Wormhole, 24h)
+$17.7M across 14325 txs · top route Solana → Solana
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 50,000,000 USDe (~$50.0M) · 06:10 UTC</title>
     <link href="https://t.me/sgnl_free/31828"/>
@@ -833,23 +850,5 @@ Cross-DEX yesterday medians:
 
 Source: live Solana RPC + Jupiter/Raydium/Orca quotes
 Fees change in seconds. DYOR before tx.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 25.7% APY</title>
-    <link href="https://t.me/sgnl_free/31779"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31779</id>
-    <updated>2026-11-03T11:50:32.269Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 25.7% APY
-veranta / USDC on Base
-Base: 25.7%  ·  Rewards: n/a  ·  TVL: $9.7M
-
-💡 +18.7% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
   </entry>
 </feed>
