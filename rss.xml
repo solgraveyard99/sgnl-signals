@@ -5,7 +5,48 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-04T08:55:40.793Z</updated>
+  <updated>2026-11-04T09:00:40.787Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-11-03</title>
+    <link href="https://t.me/sgnl_free/31832"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31832</id>
+    <updated>2026-11-04T09:00:12.860Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-11-03
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 23
+Median peak spike (top 50): 6.1x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump SPHERE: 24.0x  vol1h=$1.38M  price1h +2905.0%
+  🟢 pump PerpScape: 24.0x  vol1h=$173.4K  price1h +112.0%
+  🟢 pump MEMECOIN: 24.0x  vol1h=$319.9K  price1h +109.0%
+  🟢 pump Pog: 24.0x  vol1h=$463.5K  price1h +100.0%
+  🟢 pump GTAFY: 24.0x  vol1h=$20.6K  price1h +75.2%
+  🟢 pump HUND : 24.0x  vol1h=$22.5K  price1h +55.1%
+  🟢 pump 5STAR: 24.0x  vol1h=$48.7K  price1h +45.8%
+  🔴 dump XingXing: 24.0x  vol1h=$30.5K  price1h -44.0%
+  🔴 dump TRENCHER: 24.0x  vol1h=$13.4K  price1h -43.7%
+  🔴 dump GTA: 21.0x  vol1h=$26.9K  price1h -46.4%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-11-03</title>
+    <link href="https://t.me/sgnl_free/31831"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31831</id>
+    <updated>2026-11-04T09:00:12.375Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-11-03
+
+Alerts fired (24h):
+• Funding divergence: 1
+• Whale-large←CEX: 1
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/31830"/>
@@ -803,38 +844,5 @@ Top 1 by size:
 • 🚨 Depeg watch: FDUSD at $0.9959
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Tether BURN · USDT</title>
-    <link href="https://t.me/sgnl_free/31782"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31782</id>
-    <updated>2026-11-03T12:05:46.551Z</updated>
-    <summary type="text">🔴 Tether BURN · USDT
-
--$4.00B in last 24h
-Tier: TIER3
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/31781"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31781</id>
-    <updated>2026-11-03T12:00:48.953Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $266.0B  (24h: $-677M)
-
-🔴 USDT: $178.80B  ($-375M)
-🔴 USDC: $71.14B  ($-480M)
-🟢 USDS: $6.50B  (+$112M)
-⚪ DAI: $4.71B  (+$11M)
-⚪ USDe: $4.58B  (+$53M)
-⚪ FDUSD: $0.30B  (+$1M)
-
-📊 Net supply Δ24h: -$677M (contraction band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
