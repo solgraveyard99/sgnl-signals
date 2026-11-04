@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-04T14:50:40.809Z</updated>
+  <updated>2026-11-04T14:55:40.823Z</updated>
+  <entry>
+    <title>🔴 STABLECOIN BURN · USDT</title>
+    <link href="https://t.me/sgnl_free/31841"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31841</id>
+    <updated>2026-11-04T14:50:45.972Z</updated>
+    <summary type="text">🔴 STABLECOIN BURN · USDT
+Supply change 24h: -$588M
+New supply: $177.97B
+
+Net supply contraction event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/31840"/>
@@ -842,25 +855,5 @@ Statistical pattern. Not financial advice.</summary>
 Tier: TIER3
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-11-02</title>
-    <link href="https://t.me/sgnl_free/31791"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31791</id>
-    <updated>2026-11-03T15:00:17.088Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-11-02
-
-Tokens with liquidity drop ≥50%: 3
-Tokens with liquidity drop ≥90%: 2
-Tokens with liquidity drop ≥75%: 3
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL KOROSUKE: -99.8%  $998.6K → $1.9K  in 2.0h
-  🚨 CRITICAL 豆助: -97.6%  $88.5K → $2.2K  in 1.2h
-  ⛔ SEVERE faucet: -81.3%  $21.2K → $4.0K  in 10.2h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
   </entry>
 </feed>
