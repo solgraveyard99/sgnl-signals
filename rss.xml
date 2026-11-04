@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-04T12:00:40.812Z</updated>
+  <updated>2026-11-04T12:05:40.809Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/31835"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31835</id>
+    <updated>2026-11-04T12:00:49.364Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $265.0B  (24h: $-911M)
+
+🔴 USDT: $178.09B  ($-437M)
+🔴 USDC: $70.79B  ($-485M)
+⚪ USDS: $6.49B  (+$5M)
+⚪ DAI: $4.70B  ($-7M)
+⚪ USDe: $4.59B  (+$13M)
+⚪ FDUSD: $0.30B  (+$1M)
+
+📊 Net supply Δ24h: -$911M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-11-03</title>
     <link href="https://t.me/sgnl_free/31834"/>
@@ -842,17 +863,5 @@ DAI: $0.03M
 
 Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Tether BURN · USDT</title>
-    <link href="https://t.me/sgnl_free/31785"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31785</id>
-    <updated>2026-11-03T13:20:48.745Z</updated>
-    <summary type="text">🔴 Tether BURN · USDT
-
--$4.00B in last 24h
-Tier: TIER3
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
   </entry>
 </feed>
