@@ -5,7 +5,29 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-04T14:55:40.823Z</updated>
+  <updated>2026-11-04T15:00:40.835Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-11-03</title>
+    <link href="https://t.me/sgnl_free/31842"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31842</id>
+    <updated>2026-11-04T15:00:04.146Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-11-03
+
+Tokens with liquidity drop ≥50%: 5
+Tokens with liquidity drop ≥90%: 1
+Tokens with liquidity drop ≥75%: 4
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL FEAR: -99.9%  $6.39M → $5.9K  in 5.3h
+  ⛔ SEVERE Slingoor: -88.3%  $78.9K → $9.2K  in 2.0h
+  ⛔ SEVERE PerpScape: -80.2%  $37.3K → $7.4K  in 2.6h
+  ⛔ SEVERE Pog: -78.6%  $21.5K → $4.6K  in 3.6h
+  ⚠ HIGH SPHERE: -66.8%  $101.4K → $33.7K  in 13.4h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🔴 STABLECOIN BURN · USDT</title>
     <link href="https://t.me/sgnl_free/31841"/>
@@ -843,17 +865,5 @@ New supply: $178.43B
 Net supply contraction event. Descriptive observation only.
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Tether BURN · USDT</title>
-    <link href="https://t.me/sgnl_free/31792"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31792</id>
-    <updated>2026-11-03T15:50:36.312Z</updated>
-    <summary type="text">🔴 Tether BURN · USDT
-
--$2.00B in last 24h
-Tier: TIER3
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
   </entry>
 </feed>
