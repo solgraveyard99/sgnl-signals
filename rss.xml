@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-04T13:35:40.805Z</updated>
+  <updated>2026-11-04T13:40:40.809Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/31838"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31838</id>
+    <updated>2026-11-04T13:35:46.599Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.064680039 gwei (fast)  ·  🟢 cheap
+Safe: 0.058800012  ·  Propose: 0.058800036  ·  BaseFee: 0.0588
+
+24h range: 0.03–0.52 gwei  (avg 0.12)
+
+Simple transfer cost now: ~$0.0034</summary>
+  </entry>
   <entry>
     <title>🏦 Exchange reserves · 13 monitored wallets</title>
     <link href="https://t.me/sgnl_free/31837"/>
@@ -849,16 +863,5 @@ Not financial advice.</summary>
 Tier: TIER3
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily Market Composite — 2026-11-03</title>
-    <link href="https://t.me/sgnl_free/31788"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31788</id>
-    <updated>2026-11-03T14:00:12.783Z</updated>
-    <summary type="text">📊 Daily Market Composite — 2026-11-03
-Composite score: 40/100
-
-Raw composite reading. No directional interpretation.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
