@@ -5,7 +5,47 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T08:55:40.891Z</updated>
+  <updated>2026-11-05T09:00:40.881Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-11-04</title>
+    <link href="https://t.me/sgnl_free/31886"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31886</id>
+    <updated>2026-11-05T09:00:18.906Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-11-04
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 23
+Median peak spike (top 50): 5.0x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump GTA: 24.0x  vol1h=$1.05M  price1h +4864.0%
+  🟢 pump GAVELDROP: 24.0x  vol1h=$1.14M  price1h +1155.0%
+  🟢 pump RAM: 24.0x  vol1h=$116.6K  price1h +324.0%
+  🟢 pump NEMO: 24.0x  vol1h=$80.9K  price1h +133.0%
+  🟢 pump PREFIRE: 24.0x  vol1h=$77.6K  price1h +111.0%
+  🔴 dump STARMIND: 24.0x  vol1h=$39.7K  price1h -44.3%
+  🔴 dump jackass: 24.0x  vol1h=$51.0K  price1h -41.4%
+  🔴 dump tism: 24.0x  vol1h=$51.1K  price1h -37.5%
+  🟢 pump GHOST: 21.8x  vol1h=$58.4K  price1h +293.0%
+  🟢 pump LILY: 17.1x  vol1h=$31.7K  price1h +56.6%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-11-04</title>
+    <link href="https://t.me/sgnl_free/31885"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31885</id>
+    <updated>2026-11-05T09:00:03.062Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-11-04
+
+Alerts fired (24h):
+• Funding divergence: 1
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/31884"/>
@@ -794,37 +834,5 @@ DAI: $0.03M
 
 Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 0 active observations</title>
-    <link href="https://t.me/sgnl_free/31836"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31836</id>
-    <updated>2026-11-04T12:15:46.961Z</updated>
-    <summary type="text">📊 Activity summary · 0 active observations
-
-No active observations in the current window.
-
-On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/31835"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31835</id>
-    <updated>2026-11-04T12:00:49.364Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $265.0B  (24h: $-911M)
-
-🔴 USDT: $178.09B  ($-437M)
-🔴 USDC: $70.79B  ($-485M)
-⚪ USDS: $6.49B  (+$5M)
-⚪ DAI: $4.70B  ($-7M)
-⚪ USDe: $4.59B  (+$13M)
-⚪ FDUSD: $0.30B  (+$1M)
-
-📊 Net supply Δ24h: -$911M (contraction band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
