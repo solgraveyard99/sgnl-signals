@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T23:45:40.932Z</updated>
+  <updated>2026-11-05T23:50:40.928Z</updated>
+  <entry>
+    <title>🔴 Circle BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/31935"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31935</id>
+    <updated>2026-11-05T23:50:37.888Z</updated>
+    <summary type="text">🔴 Circle BURN · USDC
+
+-$1.09B in last 24h
+Tier: TIER3
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 4,909,547 USDT (~$4.9M) · 23:22 UTC</title>
     <link href="https://t.me/sgnl_free/31934"/>
@@ -766,19 +778,5 @@ Top 10 by peak spike ratio (volume1h / avg-hourly):
 Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
 Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-11-04</title>
-    <link href="https://t.me/sgnl_free/31885"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31885</id>
-    <updated>2026-11-05T09:00:03.062Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-11-04
-
-Alerts fired (24h):
-• Funding divergence: 1
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
