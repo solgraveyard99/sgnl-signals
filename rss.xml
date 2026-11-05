@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T16:30:40.897Z</updated>
+  <updated>2026-11-05T16:35:40.911Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2,149,550 USDC (~$2.1M) · 16:30 UTC</title>
+    <link href="https://t.me/sgnl_free/31912"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31912</id>
+    <updated>2026-11-05T16:32:42.404Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2,149,550 USDC (~$2.1M) · 16:30 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xed89…60e7
+Tx: https://etherscan.io/tx/0x3f59c9d9f61578aae88efa692fc5479ac6d8d753ecba3c797a823a9829137245
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1610.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔀 CROSS-VENUE CARRY · SOL</title>
     <link href="https://t.me/sgnl_free/31911"/>
@@ -781,20 +798,5 @@ Top 1 by size:
 • 🔀 Cross-venue funding divergence: ETH 29% APR spread
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · ETH</title>
-    <link href="https://t.me/sgnl_free/31862"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31862</id>
-    <updated>2026-11-05T00:05:34.718Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · ETH
-Spread: 0.0033%/hr  (28.9% APR gross)
-
-🟢 LONG  on BingX  (funding -0.0021%/hr)
-🔴 SHORT on Gate  (funding 0.0013%/hr)
-
-Expected net: ~24% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
   </entry>
 </feed>
