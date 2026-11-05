@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T12:00:40.893Z</updated>
+  <updated>2026-11-05T12:05:40.897Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/31892"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31892</id>
+    <updated>2026-11-05T12:00:50.231Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $265.0B  (24h: $-297M)
+
+🔴 USDT: $177.75B  ($-426M)
+🟢 USDC: $71.11B  (+$170M)
+⚪ USDS: $6.51B  ($-25M)
+⚪ DAI: $4.74B  (+$23M)
+⚪ USDe: $4.56B  ($-27M)
+⚪ FDUSD: $0.29B  ($-12M)
+
+📊 Net supply Δ24h: -$297M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-11-04</title>
     <link href="https://t.me/sgnl_free/31891"/>
@@ -830,27 +851,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 Fast: 5.206807535 gwei  ·  Safe: 4.733438647 gwei
 
 Good window for routine ETH transactions.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-11-03</title>
-    <link href="https://t.me/sgnl_free/31842"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31842</id>
-    <updated>2026-11-04T15:00:04.146Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-11-03
-
-Tokens with liquidity drop ≥50%: 5
-Tokens with liquidity drop ≥90%: 1
-Tokens with liquidity drop ≥75%: 4
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL FEAR: -99.9%  $6.39M → $5.9K  in 5.3h
-  ⛔ SEVERE Slingoor: -88.3%  $78.9K → $9.2K  in 2.0h
-  ⛔ SEVERE PerpScape: -80.2%  $37.3K → $7.4K  in 2.6h
-  ⛔ SEVERE Pog: -78.6%  $21.5K → $4.6K  in 3.6h
-  ⚠ HIGH SPHERE: -66.8%  $101.4K → $33.7K  in 13.4h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
   </entry>
 </feed>
