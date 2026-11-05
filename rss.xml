@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T18:45:40.913Z</updated>
+  <updated>2026-11-05T18:50:40.924Z</updated>
+  <entry>
+    <title>💰 ETH/LST YIELD · 15.2% APY</title>
+    <link href="https://t.me/sgnl_free/31923"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31923</id>
+    <updated>2026-11-05T18:50:32.595Z</updated>
+    <summary type="text">💰 ETH/LST YIELD · 15.2% APY
+cian-yield-layer / WSTETH on Arbitrum
+Base: n/a  ·  Rewards: n/a  ·  TVL: $5.9M
+
+💡 +11.2% vs typical lending (4%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/93979396-e1b4-4119-b99b-433970d0983a</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,323,553 USDT (~$1.3M) · 18:20 UTC</title>
     <link href="https://t.me/sgnl_free/31922"/>
@@ -758,24 +776,5 @@ Statistical pattern. Not financial advice.
 Tier: TIER3
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31873"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31873</id>
-    <updated>2026-11-05T03:11:44.961Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0120 SOL
-• 99th: 0.0130 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
