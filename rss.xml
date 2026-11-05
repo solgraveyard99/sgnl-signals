@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T13:35:40.905Z</updated>
+  <updated>2026-11-05T13:40:40.900Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/31899"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31899</id>
+    <updated>2026-11-05T13:35:46.778Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.114573335 gwei (fast)  ·  🟢 cheap
+Safe: 0.110573335  ·  Propose: 0.110573353  ·  BaseFee: 0.1106
+
+24h range: 0.04–5.21 gwei  (avg 0.29)
+
+Simple transfer cost now: ~$0.0060</summary>
+  </entry>
   <entry>
     <title>🏦 Exchange reserves · 13 monitored wallets</title>
     <link href="https://t.me/sgnl_free/31898"/>
@@ -826,31 +840,5 @@ How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume
 Companion to morning survival report (06:00 UTC).
 Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
 DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-11-03</title>
-    <link href="https://t.me/sgnl_free/31849"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31849</id>
-    <updated>2026-11-04T21:00:11.678Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-11-03
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 23
-Strong-bias tokens (buy/sell ≥3x): 7
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 ANONVOYAGE: 15806 buys / 5744 sells (2.8x)  vol1h=$867.1K  price1h +110%
-  📈 5STAR: 4599 buys / 686 sells (6.7x)  vol1h=$48.7K  price1h +23%
-  📈 SPHERE: 13021 buys / 6224 sells (2.1x)  vol1h=$1.32M  price1h +248%
-  📈 WTAIL: 3799 buys / 1970 sells (1.9x)  vol1h=$1.7K  price1h -6%
-  📈 Slingoor: 2657 buys / 1249 sells (2.1x)  vol1h=$123.2K  price1h -96%
-  📈 Wanted: 1970 buys / 766 sells (2.6x)  vol1h=$75.5K  price1h -14%
-  📈 FEAR: 740 buys / 109 sells (6.8x)  vol1h=$7.9K  price1h +32%
-  📈 Ahsoka: 2479 buys / 1633 sells (1.5x)  vol1h=$451.0K  price1h +9%
-  📈 NETWORK: 1325 buys / 693 sells (1.9x)  vol1h=$22.1K  price1h -14%
-  📈 LTC: 273 buys / 43 sells (6.3x)  vol1h=$21.0K  price1h +28%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
