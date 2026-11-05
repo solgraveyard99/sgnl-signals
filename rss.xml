@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T16:05:40.902Z</updated>
+  <updated>2026-11-05T16:15:40.907Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · SOL</title>
+    <link href="https://t.me/sgnl_free/31911"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31911</id>
+    <updated>2026-11-05T16:05:47.396Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
+Spread: 0.0035%/hr  (30.7% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0024%/hr)
+🔴 SHORT on BingX  (funding 0.0011%/hr)
+
+Expected net: ~26% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2,603,720 USDT (~$2.6M) · 15:41 UTC</title>
     <link href="https://t.me/sgnl_free/31910"/>
@@ -781,23 +796,5 @@ Spread: 0.0033%/hr  (28.9% APR gross)
 Expected net: ~24% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
 monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/31861"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31861</id>
-    <updated>2026-11-05T00:00:54.862Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Call — strike $3400 — expiry 27NOV26
-Direction: SELL
-Notional: ~$708K
-Contracts: 292
-Implied vol: 62.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
