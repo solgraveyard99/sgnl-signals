@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T13:25:40.898Z</updated>
+  <updated>2026-11-05T13:30:40.911Z</updated>
+  <entry>
+    <title>🏦 Exchange reserves · 13 monitored wallets</title>
+    <link href="https://t.me/sgnl_free/31898"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31898</id>
+    <updated>2026-11-05T13:30:34.966Z</updated>
+    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
+
+Total: $14.60B · 24h net change +$14M (+0.10%)
+
+ETH: 166.8K  ($403M)
+USDT: $14201M
+USDC: $0.1M
+DAI: $0.03M
+
+Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/31897"/>
@@ -835,17 +852,5 @@ Top 10 by buy momentum (buys × buy/sell ratio):
 Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
 Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/31848"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31848</id>
-    <updated>2026-11-04T20:35:46.668Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.105204829 gwei  ·  Safe: 0.095204829 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
