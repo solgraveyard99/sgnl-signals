@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-04T23:55:40.845Z</updated>
+  <updated>2026-11-05T00:00:40.849Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/31851"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31851</id>
+    <updated>2026-11-05T00:00:34.215Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $80,675 (24h: +3.8%) | SOL: $95.73 (24h: +2.7%)
+Market activity index: 60/100 (high band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-11-04</title>
+    <link href="https://t.me/sgnl_free/31850"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31850</id>
+    <updated>2026-11-05T00:00:18.514Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-11-04
+
+24h state transitions tracked: 214
+  💀 Died (gone): 83
+  😴 Went dormant: 89
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 CROSSPLAY: had $0 liquidity · died at age 19.7d
+  💀 RAP: had $0 liquidity · died at age 19.7d
+  💀 SOC: had $0 liquidity · died at age 19.7d
+  💀 SOL: had $0 liquidity · died at age 9.3d
+  💀 SPCX: had $0 liquidity · died at age 9.3d
+  💀 UNFOLD: had $0 liquidity · died at age 9.3d
+  💀 PumpkinBot: had $0 liquidity · died at age 9.3d
+  💀 sling: had $0 liquidity · died at age 9.3d
+  💀 GOONIFY: had $0 liquidity · died at age 9.3d
+  💀 HOODLESS: had $0 liquidity · died at age 61.8d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>📈 Solana Buy Momentum Digest — 2026-11-03</title>
     <link href="https://t.me/sgnl_free/31849"/>
@@ -834,43 +873,5 @@ New supply: $70.91B
 Net supply contraction event. Descriptive observation only.
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-11-02</title>
-    <link href="https://t.me/sgnl_free/31801"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31801</id>
-    <updated>2026-11-03T21:00:12.267Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-11-02
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 19
-Strong-bias tokens (buy/sell ≥3x): 5
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 豆助: 19693 buys / 4520 sells (4.4x)  vol1h=$823.2K  price1h -72%
-  📈 KOROSUKE: 18069 buys / 5158 sells (3.5x)  vol1h=$497.8K  price1h +88%
-  📈 ANAKIN: 13238 buys / 4136 sells (3.2x)  vol1h=$1.78M  price1h +36%
-  📈 TrumpWars: 4288 buys / 2807 sells (1.5x)  vol1h=$287.8K  price1h +9%
-  📈 three: 1309 buys / 507 sells (2.6x)  vol1h=$10.5K  price1h +1%
-  📈 FEAR: 1186 buys / 491 sells (2.4x)  vol1h=$50.0K  price1h -33%
-  📈 RICO: 1725 buys / 1104 sells (1.6x)  vol1h=$183.7K  price1h +15%
-  📈 jeff: 1002 buys / 413 sells (2.4x)  vol1h=$14.5K  price1h +6%
-  📈 Slingoor: 1123 buys / 699 sells (1.6x)  vol1h=$104.3K  price1h +27%
-  📈 DogBoy: 120 buys / 2 sells (20x+)  vol1h=$135  price1h +4%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/31800"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31800</id>
-    <updated>2026-11-03T20:35:46.599Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.048046865 gwei  ·  Safe: 0.043374914 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
