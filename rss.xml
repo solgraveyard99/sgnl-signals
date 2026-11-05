@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T13:00:40.898Z</updated>
+  <updated>2026-11-05T13:05:40.894Z</updated>
+  <entry>
+    <title>🌅 Morning Brief · 2026-11-05</title>
+    <link href="https://t.me/sgnl_free/31896"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31896</id>
+    <updated>2026-11-05T13:01:00.551Z</updated>
+    <summary type="text">🌅 Morning Brief · 2026-11-05
+
+🐋 Whale flow (24h)
+No $5M+ transfers recorded at monitored exchange wallets
+
+⚡ Perp funding snapshot
+BTC ⚪ neutral funding (HL)
+ETH ⚪ neutral funding (HL)
+SOL ⚪ neutral funding (HL)
+
+💰 Top yields right now
+Stables: 26.6% · veranta/USDC @ Base
+ETH/LST: 15.2% · cian-yield-layer/WSTETH @ Arbitrum
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>📅 Day-ahead · 🔴 HIGH IMPACT</title>
+    <link href="https://t.me/sgnl_free/31895"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31895</id>
+    <updated>2026-11-05T13:00:44.878Z</updated>
+    <summary type="text">📅 Day-ahead · 🔴 HIGH IMPACT
+US Employment Situation (October 2026) macro
+When: Fri, 06 Nov 2026 13:30:00 UTC
+
+Jobs report (payrolls and unemployment) from the U.S. Bureau of Labor Statistics, 8:30 a.m. ET. Schedule reminder only, not advice.
+
+details ↗</summary>
+  </entry>
   <entry>
     <title>📊 Activity summary · 0 active observations</title>
     <link href="https://t.me/sgnl_free/31894"/>
@@ -819,33 +853,5 @@ Base: n/a  ·  Rewards: n/a  ·  TVL: $5.9M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/93979396-e1b4-4119-b99b-433970d0983a</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 24.2% APY</title>
-    <link href="https://t.me/sgnl_free/31846"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31846</id>
-    <updated>2026-11-04T17:50:38.841Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 24.2% APY
-ember / USDC on Ethereum
-Base: 24.2%  ·  Rewards: n/a  ·  TVL: $5.8M
-
-💡 +17.2% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/99989c4e-cf3b-5936-89fa-769f7e56cd34</summary>
-  </entry>
-  <entry>
-    <title>☀️ SGNL Midday Snapshot</title>
-    <link href="https://t.me/sgnl_free/31845"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31845</id>
-    <updated>2026-11-04T17:00:24.291Z</updated>
-    <summary type="text">☀️ SGNL Midday Snapshot
-BTC: $80,662 | SOL: $96.84
-Market activity index: 70/100 (high band)
-On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
   </entry>
 </feed>
