@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T09:00:40.881Z</updated>
+  <updated>2026-11-05T09:05:40.878Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2,718,543 USDC (~$2.7M) · 08:56 UTC</title>
+    <link href="https://t.me/sgnl_free/31887"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31887</id>
+    <updated>2026-11-05T09:02:42.249Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2,718,543 USDC (~$2.7M) · 08:56 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x30f2…8940
+Tx: https://etherscan.io/tx/0xdcf50e417dc0abbf48da7d292ac4e8e582549df04d836392627914a93f7fbbb4
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1543.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🌋 Solana Volume Spike Digest — 2026-11-04</title>
     <link href="https://t.me/sgnl_free/31886"/>
@@ -817,22 +834,5 @@ Safe: 0.058800012  ·  Propose: 0.058800036  ·  BaseFee: 0.0588
 24h range: 0.03–0.52 gwei  (avg 0.12)
 
 Simple transfer cost now: ~$0.0034</summary>
-  </entry>
-  <entry>
-    <title>🏦 Exchange reserves · 13 monitored wallets</title>
-    <link href="https://t.me/sgnl_free/31837"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31837</id>
-    <updated>2026-11-04T13:30:34.559Z</updated>
-    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
-
-Total: $14.59B · 24h net change −$40M (-0.27%)
-
-ETH: 166.8K  ($386M)
-USDT: $14201M
-USDC: $0.1M
-DAI: $0.03M
-
-Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
