@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T18:10:40.931Z</updated>
+  <updated>2026-11-05T18:15:40.931Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 3,268,021 USDT (~$3.3M) · 18:09 UTC</title>
+    <link href="https://t.me/sgnl_free/31921"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31921</id>
+    <updated>2026-11-05T18:12:49.241Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 3,268,021 USDT (~$3.3M) · 18:09 UTC
+From: 0xde1c…fe78
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x627d609843ef46554785a36c007b1a73141cce6a997e34bb94eddf2430f09ee8
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1649.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/31920"/>
@@ -764,17 +781,5 @@ How to read:
 NOT a guarantee — thin sell side can be legitimate for very fresh launches.
 Always test with small amount before sizing up. Use rugcheck.xyz to verify.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/31871"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31871</id>
-    <updated>2026-11-05T02:50:40.838Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$1.09B in last 24h
-Tier: TIER3
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
   </entry>
 </feed>
