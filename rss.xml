@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T17:10:40.904Z</updated>
+  <updated>2026-11-05T17:15:40.906Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,293,507 USDC (~$1.3M) · 17:05 UTC</title>
+    <link href="https://t.me/sgnl_free/31917"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31917</id>
+    <updated>2026-11-05T17:12:42.433Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,293,507 USDC (~$1.3M) · 17:05 UTC
+From: 0x4634…9758
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x7cd6c48fe69bebced5a5a925dc4811d70e100f694bc03e2b53f40d53c09a0059
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1625.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔀 CROSS-VENUE CARRY · SOL</title>
     <link href="https://t.me/sgnl_free/31916"/>
@@ -756,25 +773,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0000 SOL
 • 95th: 0.0019 SOL
 • 99th: 0.0115 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31867"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31867</id>
-    <updated>2026-11-05T01:11:44.961Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0097 SOL
-• 99th: 0.0192 SOL (~$2)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
