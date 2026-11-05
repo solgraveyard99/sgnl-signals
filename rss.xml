@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T02:45:40.856Z</updated>
+  <updated>2026-11-05T02:50:40.868Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/31870"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31870</id>
+    <updated>2026-11-05T02:49:44.899Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0041 SOL
+• 99th: 0.1727 SOL (~$17)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/31869"/>
@@ -840,25 +859,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0000 SOL
 • 95th: 0.0050 SOL
 • 99th: 0.0337 SOL (~$3)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31820"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31820</id>
-    <updated>2026-11-04T02:09:52.454Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0160 SOL
-• 99th: 0.0212 SOL (~$2)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
