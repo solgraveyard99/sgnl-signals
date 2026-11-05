@@ -5,7 +5,17 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T15:05:40.908Z</updated>
+  <updated>2026-11-05T15:10:40.903Z</updated>
+  <entry>
+    <title>⛽🟢 Low Gas</title>
+    <link href="https://t.me/sgnl_free/31907"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31907</id>
+    <updated>2026-11-05T15:05:46.775Z</updated>
+    <summary type="text">⛽🟢 Low Gas
+Fast: 6.117959618 gwei  ·  Safe: 5.019711062 gwei
+
+Good window for routine ETH transactions.</summary>
+  </entry>
   <entry>
     <title>⚠ Solana Liquidity-Drop Digest — 2026-11-04</title>
     <link href="https://t.me/sgnl_free/31906"/>
@@ -792,24 +802,6 @@ Direction: BUY
 Notional: ~$1007K
 Contracts: 12.5
 Implied vol: 35.6%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/31857"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31857</id>
-    <updated>2026-11-05T00:00:52.697Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $88000 — expiry 13NOV26
-Direction: SELL
-Notional: ~$6042K
-Contracts: 75
-Implied vol: 40.0%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
