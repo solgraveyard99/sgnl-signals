@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T02:55:40.861Z</updated>
+  <updated>2026-11-05T03:00:40.860Z</updated>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-11-04</title>
+    <link href="https://t.me/sgnl_free/31872"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31872</id>
+    <updated>2026-11-05T03:00:03.553Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-11-04
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/31871"/>
@@ -846,17 +867,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/31822"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31822</id>
-    <updated>2026-11-04T02:35:53.559Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.046319797 gwei  ·  Safe: 0.042108631 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
