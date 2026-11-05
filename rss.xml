@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T21:10:40.922Z</updated>
+  <updated>2026-11-05T21:15:40.923Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 5,000,002 USDT (~$5.0M) · 21:02 UTC</title>
+    <link href="https://t.me/sgnl_free/31931"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31931</id>
+    <updated>2026-11-05T21:12:42.383Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 5,000,002 USDT (~$5.0M) · 21:02 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xed89…60e7
+Tx: https://etherscan.io/tx/0x0ca9d45daf1441bd301bfcffc02da90f8187a77851a79cac72768005da3a9ee1
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1710.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>📈 Solana Buy Momentum Digest — 2026-11-04</title>
     <link href="https://t.me/sgnl_free/31930"/>
@@ -765,24 +782,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>📡 SGNL Daily Digest · 2026-11-04</title>
-    <link href="https://t.me/sgnl_free/31881"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31881</id>
-    <updated>2026-11-05T08:00:19.739Z</updated>
-    <summary type="text">📡 SGNL Daily Digest · 2026-11-04
-What 30+ SGNL observers caught in the last 24h
-
-⚡ Aave V3 liquidations (24h, 6 total)
-WETH 9884.42 → 24378310.5556 USDT
-USDC 5898.29 → 0.0810 WBTC
-USDT 2.97 → 0.0000 0xcbb7c0…
-
-🌉 Cross-chain (Wormhole, 24h)
-$25.4M across 15559 txs · top route Solana → Solana
-
-
-Free signals · No advice · t.me/sgnl_free</summary>
   </entry>
 </feed>
