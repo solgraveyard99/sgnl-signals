@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T17:50:40.918Z</updated>
+  <updated>2026-11-05T17:55:40.907Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 9,762,968 USDT (~$9.8M) · 17:48 UTC</title>
+    <link href="https://t.me/sgnl_free/31919"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31919</id>
+    <updated>2026-11-05T17:52:50.120Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 9,762,968 USDT (~$9.8M) · 17:48 UTC
+From: 0x690c…91cc
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xf40a24f90574bfa3034f4cc7573722e3b1495dd9c7654485ab6a252f67d1bf8e
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1649.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 22.6% APY</title>
     <link href="https://t.me/sgnl_free/31918"/>
@@ -766,17 +783,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/31869"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31869</id>
-    <updated>2026-11-05T02:35:53.272Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.04136573 gwei  ·  Safe: 0.034318248 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
