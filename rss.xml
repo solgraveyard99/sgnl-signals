@@ -5,7 +5,38 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-05T08:30:40.879Z</updated>
+  <updated>2026-11-05T08:35:40.876Z</updated>
+  <entry>
+    <title>🔴 Circle BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/31883"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31883</id>
+    <updated>2026-11-05T08:35:37.798Z</updated>
+    <summary type="text">🔴 Circle BURN · USDC
+
+-$1.09B in last 24h
+Tier: TIER3
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/31882"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31882</id>
+    <updated>2026-11-05T08:33:44.991Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0004 SOL
+• 99th: 0.0203 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>📡 SGNL Daily Digest · 2026-11-04</title>
     <link href="https://t.me/sgnl_free/31881"/>
@@ -808,49 +839,5 @@ Cross-DEX yesterday medians:
 
 Source: live Solana RPC + Jupiter/Raydium/Orca quotes
 Fees change in seconds. DYOR before tx.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 26.0% APY</title>
-    <link href="https://t.me/sgnl_free/31833"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31833</id>
-    <updated>2026-11-04T11:50:32.295Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 26.0% APY
-veranta / USDC on Base
-Base: 26.0%  ·  Rewards: n/a  ·  TVL: $9.7M
-
-💡 +19.0% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-11-03</title>
-    <link href="https://t.me/sgnl_free/31832"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31832</id>
-    <updated>2026-11-04T09:00:12.860Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-11-03
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 23
-Median peak spike (top 50): 6.1x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump SPHERE: 24.0x  vol1h=$1.38M  price1h +2905.0%
-  🟢 pump PerpScape: 24.0x  vol1h=$173.4K  price1h +112.0%
-  🟢 pump MEMECOIN: 24.0x  vol1h=$319.9K  price1h +109.0%
-  🟢 pump Pog: 24.0x  vol1h=$463.5K  price1h +100.0%
-  🟢 pump GTAFY: 24.0x  vol1h=$20.6K  price1h +75.2%
-  🟢 pump HUND : 24.0x  vol1h=$22.5K  price1h +55.1%
-  🟢 pump 5STAR: 24.0x  vol1h=$48.7K  price1h +45.8%
-  🔴 dump XingXing: 24.0x  vol1h=$30.5K  price1h -44.0%
-  🔴 dump TRENCHER: 24.0x  vol1h=$13.4K  price1h -43.7%
-  🔴 dump GTA: 21.0x  vol1h=$26.9K  price1h -46.4%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
