@@ -5,7 +5,29 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-06T14:55:40.986Z</updated>
+  <updated>2026-11-06T15:00:40.990Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-11-05</title>
+    <link href="https://t.me/sgnl_free/31994"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31994</id>
+    <updated>2026-11-06T15:00:04.066Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-11-05
+
+Tokens with liquidity drop ≥50%: 5
+Tokens with liquidity drop ≥90%: 1
+Tokens with liquidity drop ≥75%: 2
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL AMD: -97.5%  $80.5K → $2.0K  in 1.2h
+  ⛔ SEVERE CALLINU: -89.3%  $21.0K → $2.2K  in 10.7h
+  ⚠ HIGH Democat: -57.2%  $90.2K → $38.7K  in 15.5h
+  ⚠ HIGH $Gatto: -54.5%  $44.4K → $20.2K  in 4.6h
+  ⚠ HIGH GAVELDROP: -54.4%  $107.0K → $48.8K  in 4.4h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2,498,750 USDC (~$2.5M) · 14:39 UTC</title>
     <link href="https://t.me/sgnl_free/31993"/>
@@ -830,24 +852,6 @@ Direction: SELL
 Notional: ~$640K
 Contracts: 8.4
 Implied vol: 44.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/31944"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31944</id>
-    <updated>2026-11-06T00:05:48.806Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $88000 — expiry 25DEC26
-Direction: SELL
-Notional: ~$526K
-Contracts: 6.9
-Implied vol: 38.0%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
