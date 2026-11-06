@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-06T00:20:40.929Z</updated>
+  <updated>2026-11-06T00:25:40.929Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,369,329 USDT (~$1.4M) · 00:12 UTC</title>
+    <link href="https://t.me/sgnl_free/31951"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31951</id>
+    <updated>2026-11-06T00:22:45.157Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,369,329 USDT (~$1.4M) · 00:12 UTC
+From: 0xed9a…8771
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x087cf372d0ff5997c633f3e13ac572f2f9ce83c4ad0e56e03edde04de42f7333
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1721.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>📊 Activity summary · 0 active observations</title>
     <link href="https://t.me/sgnl_free/31950"/>
@@ -788,18 +805,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>📤 WITHDRAWAL · Binance Cold 8</title>
-    <link href="https://t.me/sgnl_free/31901"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31901</id>
-    <updated>2026-11-05T14:06:29.711Z</updated>
-    <summary type="text">📤 WITHDRAWAL · Binance Cold 8
-200M USDT  ($200.0M)  ←  0x690c3e…
-⚪ Routine-size withdrawal (0.3× the 7-day daily average)
-Tx: https://etherscan.io/tx/0x5f23d53919ca9cc0eba7e661d7d0b288567bdf7c36143954cdb87d9641b953cf
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
