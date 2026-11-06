@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-06T03:40:40.950Z</updated>
+  <updated>2026-11-06T03:45:40.947Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/31968"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31968</id>
+    <updated>2026-11-06T03:41:56.132Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0007 SOL
+• 99th: 0.0161 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🍯 Solana Honeypot / Trap Watch — 2026-11-05</title>
     <link href="https://t.me/sgnl_free/31967"/>
@@ -823,23 +842,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 22.6% APY</title>
-    <link href="https://t.me/sgnl_free/31918"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31918</id>
-    <updated>2026-11-05T17:50:32.333Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 22.6% APY
-ember / USDC on Ethereum
-Base: 22.6%  ·  Rewards: n/a  ·  TVL: $5.8M
-
-💡 +15.6% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/99989c4e-cf3b-5936-89fa-769f7e56cd34</summary>
   </entry>
 </feed>
