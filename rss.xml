@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-06T01:20:40.938Z</updated>
+  <updated>2026-11-06T01:25:40.942Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 5,000,000 USDT (~$5.0M) · 01:16 UTC</title>
+    <link href="https://t.me/sgnl_free/31956"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31956</id>
+    <updated>2026-11-06T01:22:42.963Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 5,000,000 USDT (~$5.0M) · 01:16 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xed89…60e7
+Tx: https://etherscan.io/tx/0x5156d06f32fac39f15959e095f456104f7189ebed3ca8ff567973d4bff49393d
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1731.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/31955"/>
@@ -790,27 +807,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 Fast: 6.117959618 gwei  ·  Safe: 5.019711062 gwei
 
 Good window for routine ETH transactions.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-11-04</title>
-    <link href="https://t.me/sgnl_free/31906"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31906</id>
-    <updated>2026-11-05T15:00:04.549Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-11-04
-
-Tokens with liquidity drop ≥50%: 5
-Tokens with liquidity drop ≥90%: 1
-Tokens with liquidity drop ≥75%: 3
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL RAM: -93.5%  $31.4K → $2.0K  in 5.5h
-  ⛔ SEVERE PREFIRE: -84.3%  $23.5K → $3.7K  in 30m
-  ⛔ SEVERE MIDTURDS: -83.4%  $29.2K → $4.9K  in 11.1h
-  ⚠ HIGH ANONVOYAGE: -69.6%  $123.0K → $37.4K  in 10.8h
-  ⚠ HIGH CHILLCATS: -68.9%  $49.0K → $15.2K  in 7.2h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
   </entry>
 </feed>
