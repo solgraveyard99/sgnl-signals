@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-06T20:55:41.022Z</updated>
+  <updated>2026-11-06T21:00:41.016Z</updated>
+  <entry>
+    <title>📈 Solana Buy Momentum Digest — 2026-11-05</title>
+    <link href="https://t.me/sgnl_free/32004"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32004</id>
+    <updated>2026-11-06T21:00:04.293Z</updated>
+    <summary type="text">📈 Solana Buy Momentum Digest — 2026-11-05
+
+Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 26
+Strong-bias tokens (buy/sell ≥3x): 9
+
+Top 10 by buy momentum (buys × buy/sell ratio):
+  📈 AMD: 19181 buys / 1357 sells (14.1x)  vol1h=$48.6K  price1h +17%
+  📈 GTA: 14948 buys / 3704 sells (4.0x)  vol1h=$291.1K  price1h +10%
+  📈 GAVELDROP: 19502 buys / 6966 sells (2.8x)  vol1h=$918.1K  price1h +21%
+  📈 Democat: 9963 buys / 3898 sells (2.6x)  vol1h=$91.4K  price1h -13%
+  📈 COGE: 5870 buys / 3379 sells (1.7x)  vol1h=$130.0K  price1h +40%
+  📈 jeff: 3171 buys / 1102 sells (2.9x)  vol1h=$28.0K  price1h +11%
+  📈 SI276: 3401 buys / 1743 sells (2.0x)  vol1h=$13.0K  price1h -0%
+  📈 $Gatto: 393 buys / 9 sells (20x+)  vol1h=$1.1K  price1h +9%
+  📈 three: 737 buys / 285 sells (2.6x)  vol1h=$5.5K  price1h +2%
+  📈 GOODTIME: 670 buys / 388 sells (1.7x)  vol1h=$14.8K  price1h +33%
+
+Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
+Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 18.9% APY</title>
     <link href="https://t.me/sgnl_free/32003"/>
@@ -827,22 +853,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,387,031 USDC (~$1.4M) · 01:10 UTC</title>
-    <link href="https://t.me/sgnl_free/31954"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31954</id>
-    <updated>2026-11-06T01:12:42.324Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,387,031 USDC (~$1.4M) · 01:10 UTC
-From: 0x4f1a…d17e
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x2db764c705de24d8648e6e35cb7657002cc4abee7daecadc67e394b2f06cad02
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1728.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
