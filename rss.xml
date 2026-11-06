@@ -5,7 +5,79 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-06T00:05:40.933Z</updated>
+  <updated>2026-11-06T00:10:40.935Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/31947"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31947</id>
+    <updated>2026-11-06T00:05:49.984Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $72000 — expiry 13NOV26
+Direction: SELL
+Notional: ~$1523K
+Contracts: 20
+Implied vol: 49.6%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/31946"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31946</id>
+    <updated>2026-11-06T00:05:49.573Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $73000 — expiry 20NOV26
+Direction: SELL
+Notional: ~$625K
+Contracts: 8.2
+Implied vol: 44.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/31945"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31945</id>
+    <updated>2026-11-06T00:05:49.189Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $73000 — expiry 20NOV26
+Direction: SELL
+Notional: ~$640K
+Contracts: 8.4
+Implied vol: 44.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/31944"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31944</id>
+    <updated>2026-11-06T00:05:48.806Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $88000 — expiry 25DEC26
+Direction: SELL
+Notional: ~$526K
+Contracts: 6.9
+Implied vol: 38.0%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/31943"/>
@@ -723,63 +795,6 @@ USDC: $0.1M
 DAI: $0.03M
 
 Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/31897"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31897</id>
-    <updated>2026-11-05T13:20:37.960Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$1.09B in last 24h
-Tier: TIER3
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>🌅 Morning Brief · 2026-11-05</title>
-    <link href="https://t.me/sgnl_free/31896"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31896</id>
-    <updated>2026-11-05T13:01:00.551Z</updated>
-    <summary type="text">🌅 Morning Brief · 2026-11-05
-
-🐋 Whale flow (24h)
-No $5M+ transfers recorded at monitored exchange wallets
-
-⚡ Perp funding snapshot
-BTC ⚪ neutral funding (HL)
-ETH ⚪ neutral funding (HL)
-SOL ⚪ neutral funding (HL)
-
-💰 Top yields right now
-Stables: 26.6% · veranta/USDC @ Base
-ETH/LST: 15.2% · cian-yield-layer/WSTETH @ Arbitrum
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📅 Day-ahead · 🔴 HIGH IMPACT</title>
-    <link href="https://t.me/sgnl_free/31895"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31895</id>
-    <updated>2026-11-05T13:00:44.878Z</updated>
-    <summary type="text">📅 Day-ahead · 🔴 HIGH IMPACT
-US Employment Situation (October 2026) macro
-When: Fri, 06 Nov 2026 13:30:00 UTC
-
-Jobs report (payrolls and unemployment) from the U.S. Bureau of Labor Statistics, 8:30 a.m. ET. Schedule reminder only, not advice.
-
-details ↗</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 0 active observations</title>
-    <link href="https://t.me/sgnl_free/31894"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31894</id>
-    <updated>2026-11-05T12:15:46.935Z</updated>
-    <summary type="text">📊 Activity summary · 0 active observations
-
-No active observations in the current window.
-
 On-chain observation, not advice.</summary>
   </entry>
 </feed>
