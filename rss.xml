@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-06T12:00:40.985Z</updated>
+  <updated>2026-11-06T12:05:40.982Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/31984"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31984</id>
+    <updated>2026-11-06T12:01:00.083Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $263.8B  (24h: $-1043M)
+
+🔴 USDT: $177.27B  ($-406M)
+🔴 USDC: $70.57B  ($-555M)
+⚪ USDS: $6.47B  ($-33M)
+⚪ DAI: $4.69B  ($-34M)
+⚪ USDe: $4.56B  ($-5M)
+⚪ FDUSD: $0.28B  ($-10M)
+
+📊 Net supply Δ24h: -$1043M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-11-05</title>
     <link href="https://t.me/sgnl_free/31983"/>
@@ -857,22 +878,5 @@ DYOR.</summary>
 Tier: TIER3
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 4,909,547 USDT (~$4.9M) · 23:22 UTC</title>
-    <link href="https://t.me/sgnl_free/31934"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31934</id>
-    <updated>2026-11-05T23:32:42.192Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 4,909,547 USDT (~$4.9M) · 23:22 UTC
-From: 0xde1c…fe78
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xc36d7ddb971db3386fece31b34a74e04c8564735a5cb02ff83cdd2a84e1d0307
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1709.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
