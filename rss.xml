@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-06T01:10:40.941Z</updated>
+  <updated>2026-11-06T01:15:40.931Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,387,031 USDC (~$1.4M) · 01:10 UTC</title>
+    <link href="https://t.me/sgnl_free/31954"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31954</id>
+    <updated>2026-11-06T01:12:42.324Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,387,031 USDC (~$1.4M) · 01:10 UTC
+From: 0x4f1a…d17e
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x2db764c705de24d8648e6e35cb7657002cc4abee7daecadc67e394b2f06cad02
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1728.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 6,500,000 USDC (~$6.5M) · 00:57 UTC</title>
     <link href="https://t.me/sgnl_free/31953"/>
@@ -793,17 +810,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/31904"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31904</id>
-    <updated>2026-11-05T14:35:46.679Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.252454056 gwei  ·  Safe: 0.226403937 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
