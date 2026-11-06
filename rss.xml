@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-06T00:10:40.935Z</updated>
+  <updated>2026-11-06T00:15:40.941Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/31949"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31949</id>
+    <updated>2026-11-06T00:14:45.328Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0002 SOL
+• 95th: 0.0010 SOL
+• 99th: 0.0324 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,360,628 USDT (~$1.4M) · 00:10 UTC</title>
+    <link href="https://t.me/sgnl_free/31948"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31948</id>
+    <updated>2026-11-06T00:12:48.266Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,360,628 USDT (~$1.4M) · 00:10 UTC
+From: 0xc6fe…c304
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xb6fe34ba6dfa8235c6439989b0b7fe3659262597e8a2cf858eeafc425d9e8023
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1707.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/31947"/>
@@ -765,36 +801,5 @@ Composite score: 60/100
 
 Raw composite reading. No directional interpretation.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/31899"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31899</id>
-    <updated>2026-11-05T13:35:46.778Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.114573335 gwei (fast)  ·  🟢 cheap
-Safe: 0.110573335  ·  Propose: 0.110573353  ·  BaseFee: 0.1106
-
-24h range: 0.04–5.21 gwei  (avg 0.29)
-
-Simple transfer cost now: ~$0.0060</summary>
-  </entry>
-  <entry>
-    <title>🏦 Exchange reserves · 13 monitored wallets</title>
-    <link href="https://t.me/sgnl_free/31898"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31898</id>
-    <updated>2026-11-05T13:30:34.966Z</updated>
-    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
-
-Total: $14.60B · 24h net change +$14M (+0.10%)
-
-ETH: 166.8K  ($403M)
-USDT: $14201M
-USDC: $0.1M
-DAI: $0.03M
-
-Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
