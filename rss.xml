@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-06T12:15:40.975Z</updated>
+  <updated>2026-11-06T12:20:40.982Z</updated>
+  <entry>
+    <title>📊 Activity summary · 0 active observations</title>
+    <link href="https://t.me/sgnl_free/31985"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-31985</id>
+    <updated>2026-11-06T12:15:49.255Z</updated>
+    <summary type="text">📊 Activity summary · 0 active observations
+
+No active observations in the current window.
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>💵 Stablecoin Supply Check</title>
     <link href="https://t.me/sgnl_free/31984"/>
@@ -866,17 +877,5 @@ How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume
 Companion to morning survival report (06:00 UTC).
 Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
 DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/31935"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31935</id>
-    <updated>2026-11-05T23:50:37.888Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$1.09B in last 24h
-Tier: TIER3
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
   </entry>
 </feed>
