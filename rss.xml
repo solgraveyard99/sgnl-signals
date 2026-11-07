@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-07T04:05:41.038Z</updated>
+  <updated>2026-11-07T04:10:41.045Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32031"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32031</id>
+    <updated>2026-11-07T04:08:53.661Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0014 SOL
+• 99th: 0.2195 SOL (~$22)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🍯 Solana Honeypot / Trap Watch — 2026-11-06</title>
     <link href="https://t.me/sgnl_free/32030"/>
@@ -837,31 +856,5 @@ New supply: $70.62B
 Net supply contraction event. Descriptive observation only.
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-11-05</title>
-    <link href="https://t.me/sgnl_free/31981"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31981</id>
-    <updated>2026-11-06T09:00:18.700Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-11-05
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 8
-Median peak spike (top 50): 3.8x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump SCRYPT: 24.0x  vol1h=$11.5K  price1h +1017.0%
-  🟢 pump Bubbles: 24.0x  vol1h=$84.1K  price1h +310.0%
-  🔴 dump CALLINU: 24.0x  vol1h=$73.8K  price1h -49.2%
-  🟢 pump GOODTIME: 18.7x  vol1h=$14.8K  price1h +42.6%
-  🟢 pump GAVELDROP: 15.5x  vol1h=$918.1K  price1h +105.0%
-  🔴 dump $Gatto: 13.6x  vol1h=$14.9K  price1h -76.7%
-  🟢 pump DESSA: 13.3x  vol1h=$2.24M  price1h +49.0%
-  🟢 pump bul: 9.4x  vol1h=$11.2K  price1h +70.7%
-  🟢 pump RICO: 4.8x  vol1h=$126.2K  price1h +85.3%
-  🟢 pump GLITCH: 4.8x  vol1h=$103.9K  price1h +28.5%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
