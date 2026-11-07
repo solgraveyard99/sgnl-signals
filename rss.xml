@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-07T12:00:41.068Z</updated>
+  <updated>2026-11-07T12:05:41.073Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/32044"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32044</id>
+    <updated>2026-11-07T12:01:00.175Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $262.9B  (24h: $-1309M)
+
+🔴 USDT: $176.78B  ($-718M)
+⚪ USDC: $70.67B  ($-46M)
+🔴 USDS: $5.59B  ($-888M)
+🟢 USDe: $4.92B  (+$360M)
+⚪ DAI: $4.67B  ($-11M)
+⚪ FDUSD: $0.28B  ($-6M)
+
+📊 Net supply Δ24h: -$1309M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-11-06</title>
     <link href="https://t.me/sgnl_free/32043"/>
@@ -855,27 +876,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-11-05</title>
-    <link href="https://t.me/sgnl_free/31994"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31994</id>
-    <updated>2026-11-06T15:00:04.066Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-11-05
-
-Tokens with liquidity drop ≥50%: 5
-Tokens with liquidity drop ≥90%: 1
-Tokens with liquidity drop ≥75%: 2
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL AMD: -97.5%  $80.5K → $2.0K  in 1.2h
-  ⛔ SEVERE CALLINU: -89.3%  $21.0K → $2.2K  in 10.7h
-  ⚠ HIGH Democat: -57.2%  $90.2K → $38.7K  in 15.5h
-  ⚠ HIGH $Gatto: -54.5%  $44.4K → $20.2K  in 4.6h
-  ⚠ HIGH GAVELDROP: -54.4%  $107.0K → $48.8K  in 4.4h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
   </entry>
 </feed>
