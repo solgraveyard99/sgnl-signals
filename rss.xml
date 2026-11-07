@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-07T01:40:41.029Z</updated>
+  <updated>2026-11-07T01:45:41.030Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32025"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32025</id>
+    <updated>2026-11-07T01:45:00.401Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0013 SOL
+• 99th: 0.0145 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 5,597,749 USDT (~$5.6M) · 01:39 UTC</title>
+    <link href="https://t.me/sgnl_free/32024"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32024</id>
+    <updated>2026-11-07T01:42:42.735Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 5,597,749 USDT (~$5.6M) · 01:39 UTC
+From: 0x3b98…5e4f
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x101513f6c20b8ccbd0d8d1733ca583505e054065a75180f9a1926627a0a5ecd1
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2014.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🗳️ Governance proposal active</title>
     <link href="https://t.me/sgnl_free/32023"/>
@@ -819,43 +855,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>📡 SGNL Daily Digest · 2026-11-05</title>
-    <link href="https://t.me/sgnl_free/31975"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31975</id>
-    <updated>2026-11-06T08:00:34.900Z</updated>
-    <summary type="text">📡 SGNL Daily Digest · 2026-11-05
-What 30+ SGNL observers caught in the last 24h
-
-⚡ Aave V3 liquidations (24h, 11 total)
-USDC 40004.70 → 337.9886 0x7fc665…
-USDT 28180.42 → 0.3883 WBTC
-USDT 25155.68 → 0.3438 WBTC
-
-🌉 Cross-chain (Wormhole, 24h)
-$21.3M across 16683 txs · top route Solana → Solana
-
-
-Free signals · No advice · t.me/sgnl_free</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/31974"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31974</id>
-    <updated>2026-11-06T07:24:45.412Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0003 SOL
-• 99th: 0.0161 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
