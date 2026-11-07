@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-07T19:45:41.098Z</updated>
+  <updated>2026-11-07T19:50:41.089Z</updated>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 19.2% APY</title>
+    <link href="https://t.me/sgnl_free/32056"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32056</id>
+    <updated>2026-11-07T19:50:32.363Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 19.2% APY
+ember / USDC on Ethereum
+Base: 19.2%  ·  Rewards: n/a  ·  TVL: $5.8M
+
+💡 +12.2% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/99989c4e-cf3b-5936-89fa-769f7e56cd34</summary>
+  </entry>
   <entry>
     <title>🔴 STABLECOIN BURN · USDS</title>
     <link href="https://t.me/sgnl_free/32055"/>
@@ -840,33 +858,5 @@ BTC: $75,989 (24h: −0.0%) | SOL: $90.30 (24h: +1.2%)
 Market activity index: 40/100 (low band)
 Next snapshot: 17:00 UTC
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-11-06</title>
-    <link href="https://t.me/sgnl_free/32006"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32006</id>
-    <updated>2026-11-07T00:00:03.993Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-11-06
-
-24h state transitions tracked: 195
-  💀 Died (gone): 70
-  😴 Went dormant: 79
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 Windle: had $0 liquidity · died at age 9.3d
-  💀 熊: had $0 liquidity · died at age 9.3d
-  💀 CUFFEM: had $0 liquidity · died at age 9.3d
-  💀 BEZOGE: had $0 liquidity · died at age 9.3d
-  💀 SI: had $0 liquidity · died at age 9.3d
-  💀 JQQQ: had $0 liquidity · died at age 9.3d
-  💀 TOLY: had $0 liquidity · died at age 9.3d
-  💀 FOMO: had $0 liquidity · died at age 106.2d
-  💀 BABYZCAT: had $0 liquidity · died at age 60.8d
-  💀 ORCASM: had $0 liquidity · died at age 29.8d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
