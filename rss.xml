@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-07T06:50:41.047Z</updated>
+  <updated>2026-11-07T06:55:41.061Z</updated>
+  <entry>
+    <title>🔴 STABLECOIN BURN · USDS</title>
+    <link href="https://t.me/sgnl_free/32034"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32034</id>
+    <updated>2026-11-07T06:50:46.001Z</updated>
+    <summary type="text">🔴 STABLECOIN BURN · USDS
+Supply change 24h: -$890M
+New supply: $5.59B
+
+Net supply contraction event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32033"/>
@@ -835,26 +848,5 @@ details ↗</summary>
 No active observations in the current window.
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/31984"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31984</id>
-    <updated>2026-11-06T12:01:00.083Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $263.8B  (24h: $-1043M)
-
-🔴 USDT: $177.27B  ($-406M)
-🔴 USDC: $70.57B  ($-555M)
-⚪ USDS: $6.47B  ($-33M)
-⚪ DAI: $4.69B  ($-34M)
-⚪ USDe: $4.56B  ($-5M)
-⚪ FDUSD: $0.28B  ($-10M)
-
-📊 Net supply Δ24h: -$1043M (contraction band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
