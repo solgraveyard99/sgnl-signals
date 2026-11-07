@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-07T13:35:41.070Z</updated>
+  <updated>2026-11-07T13:40:41.083Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/32048"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32048</id>
+    <updated>2026-11-07T13:35:46.761Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.078952817 gwei (fast)  ·  🟢 cheap
+Safe: 0.071425643  ·  Propose: 0.071654483  ·  BaseFee: 0.0714
+
+24h range: 0.04–2.42 gwei  (avg 0.17)
+
+Simple transfer cost now: ~$0.0041</summary>
+  </entry>
   <entry>
     <title>🏦 Exchange reserves · 13 monitored wallets</title>
     <link href="https://t.me/sgnl_free/32047"/>
@@ -869,18 +883,5 @@ Base: 28.2%  ·  Rewards: n/a  ·  TVL: $5.8M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/99989c4e-cf3b-5936-89fa-769f7e56cd34</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDS</title>
-    <link href="https://t.me/sgnl_free/31998"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31998</id>
-    <updated>2026-11-06T17:50:46.048Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDS
-Supply change 24h: -$763M
-New supply: $5.74B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
