@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-07T11:55:41.073Z</updated>
+  <updated>2026-11-07T12:00:41.068Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-11-06</title>
+    <link href="https://t.me/sgnl_free/32043"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32043</id>
+    <updated>2026-11-07T12:00:04.137Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-06
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    158.3K μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 200.0K μlamp | Orca: 261.1K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32042"/>
@@ -851,22 +877,5 @@ Top 10 biggest drops yesterday (peak → trough):
 Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
 Filter: peak liquidity ≥$20K, drop ≥50%.
 Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2,498,750 USDC (~$2.5M) · 14:39 UTC</title>
-    <link href="https://t.me/sgnl_free/31993"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-31993</id>
-    <updated>2026-11-06T14:42:45.408Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2,498,750 USDC (~$2.5M) · 14:39 UTC
-From: 0xa9d1…3e43
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xcc4749ee5ff9c9b4a4e548234d06e278c9249eab00d875e7c9db5db80241d74a
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1921.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
