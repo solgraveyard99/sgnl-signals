@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-08T12:00:41.127Z</updated>
+  <updated>2026-11-08T12:05:41.134Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/32094"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32094</id>
+    <updated>2026-11-08T12:00:51.398Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $262.9B  (24h: +$102M)
+
+⚪ USDT: $176.76B  ($-5M)
+⚪ USDC: $70.63B  (+$46M)
+⚪ USDS: $5.64B  (+$48M)
+⚪ USDe: $4.93B  (+$9M)
+⚪ DAI: $4.68B  (+$5M)
+⚪ FDUSD: $0.28B  ($-0M)
+
+📊 Net supply Δ24h: +$102M (near-flat band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-11-07</title>
     <link href="https://t.me/sgnl_free/32093"/>
@@ -855,26 +876,5 @@ Top 1 by size:
 • 🚨 Depeg watch: FDUSD at $0.9968
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/32044"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32044</id>
-    <updated>2026-11-07T12:01:00.175Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $262.9B  (24h: $-1309M)
-
-🔴 USDT: $176.78B  ($-718M)
-⚪ USDC: $70.67B  ($-46M)
-🔴 USDS: $5.59B  ($-888M)
-🟢 USDe: $4.92B  (+$360M)
-⚪ DAI: $4.67B  ($-11M)
-⚪ FDUSD: $0.28B  ($-6M)
-
-📊 Net supply Δ24h: -$1309M (contraction band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
