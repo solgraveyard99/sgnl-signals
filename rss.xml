@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-08T14:45:41.131Z</updated>
+  <updated>2026-11-08T14:50:41.132Z</updated>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 27.9% APY</title>
+    <link href="https://t.me/sgnl_free/32101"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32101</id>
+    <updated>2026-11-08T14:50:32.421Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 27.9% APY
+veranta / USDC on Base
+Base: 27.9%  ·  Rewards: n/a  ·  TVL: $9.7M
+
+💡 +20.9% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol freshness unknown — verify audits
+
+Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/32100"/>
@@ -858,17 +876,5 @@ Base: 19.5%  ·  Rewards: n/a  ·  TVL: $15.7M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/a2fbc7ec-22c2-43fe-aa42-49f854aa940d</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/32051"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32051</id>
-    <updated>2026-11-07T14:35:46.726Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.057301921 gwei  ·  Safe: 0.051726921 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
