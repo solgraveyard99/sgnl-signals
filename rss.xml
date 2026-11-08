@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-08T14:55:41.151Z</updated>
+  <updated>2026-11-08T15:00:41.136Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-11-07</title>
+    <link href="https://t.me/sgnl_free/32102"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32102</id>
+    <updated>2026-11-08T15:00:11.727Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-11-07
+
+Tokens with liquidity drop ≥50%: 4
+Tokens with liquidity drop ≥90%: 0
+Tokens with liquidity drop ≥75%: 0
+
+Top 10 biggest drops yesterday (peak → trough):
+  ⚠ HIGH LUCIA: -75.0%  $38.3K → $9.6K  in 1.5h
+  ⚠ HIGH DACITY: -71.3%  $39.9K → $11.4K  in 3.1h
+  ⚠ HIGH MEME: -59.1%  $24.1K → $9.9K  in 11.8h
+  ⚠ HIGH MAMESUKE: -50.5%  $116.5K → $57.7K  in 7.9h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 27.9% APY</title>
     <link href="https://t.me/sgnl_free/32101"/>
@@ -859,22 +880,5 @@ Top 10 biggest drops yesterday (peak → trough):
 Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
 Filter: peak liquidity ≥$20K, drop ≥50%.
 Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 19.5% APY</title>
-    <link href="https://t.me/sgnl_free/32052"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32052</id>
-    <updated>2026-11-07T14:50:32.427Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 19.5% APY
-jupiter-lend / USDT on Solana
-Base: 19.5%  ·  Rewards: n/a  ·  TVL: $15.7M
-
-💡 +12.5% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/a2fbc7ec-22c2-43fe-aa42-49f854aa940d</summary>
   </entry>
 </feed>
