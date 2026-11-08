@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-08T01:50:41.102Z</updated>
+  <updated>2026-11-08T01:55:41.104Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32072"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32072</id>
+    <updated>2026-11-08T01:53:48.521Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0010 SOL
+• 99th: 0.0266 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32071"/>
@@ -852,22 +871,5 @@ https://snapshot.org/#/aavedao.eth/proposal/0x83f578d707966014cd4ef7c7972f4af89c
 Statistical pattern. Not financial advice.
 
 #DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 6,829,610 USDT (~$6.8M) · 01:18 UTC</title>
-    <link href="https://t.me/sgnl_free/32022"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32022</id>
-    <updated>2026-11-07T01:22:42.981Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 6,829,610 USDT (~$6.8M) · 01:18 UTC
-From: 0x690c…91cc
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x699202cd391b79ad2108477a19312901fa7419af419afb1aeaba8584e725b357
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2003.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
