@@ -5,7 +5,30 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-08T00:05:41.102Z</updated>
+  <updated>2026-11-08T00:10:41.104Z</updated>
+  <entry>
+    <title>📊 Week in Review · ending 2026-11-08</title>
+    <link href="https://t.me/sgnl_free/32065"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32065</id>
+    <updated>2026-11-08T00:05:45.529Z</updated>
+    <summary type="text">📊 Week in Review · ending 2026-11-08
+
+🐋 Whale Flows (7d)
+16 large moves
+Net CEX flow (7d): +$2920M (positive = withdrawn from CEXs)
+Biggest withdrawal: $1000M USDT from Binance Cold 8 label: public address list, unverified
+
+⚡ Perp Funding Regime
+BTC avg: 0.0012%/hr (~10% APR)
+ETH avg: 0.0012%/hr (~10% APR)
+SOL avg: 0.0008%/hr (~7% APR)
+
+💰 Best Yields Right Now
+Stables: 27.9% — veranta/USDC @ Base
+ETH/LST: 6.5% — fluid-lite/ETH @ Ethereum
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/32064"/>
@@ -841,24 +864,6 @@ BTC Call — strike $95000 — expiry 27NOV26
 Direction: BUY
 Notional: ~$2138K
 Contracts: 28.2
-Implied vol: 43.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32015"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32015</id>
-    <updated>2026-11-07T00:01:10.223Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $95000 — expiry 27NOV26
-Direction: BUY
-Notional: ~$5519K
-Contracts: 72.8
 Implied vol: 43.3%
 Venue: Deribit
 
