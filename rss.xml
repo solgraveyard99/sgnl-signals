@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-08T13:35:41.127Z</updated>
+  <updated>2026-11-08T13:40:41.132Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/32098"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32098</id>
+    <updated>2026-11-08T13:35:46.729Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.047243126 gwei (fast)  ·  🟢 cheap
+Safe: 0.037243126  ·  Propose: 0.037943126  ·  BaseFee: 0.0372
+
+24h range: 0.03–0.09 gwei  (avg 0.05)
+
+Simple transfer cost now: ~$0.0025</summary>
+  </entry>
   <entry>
     <title>🏦 Exchange reserves · 13 monitored wallets</title>
     <link href="https://t.me/sgnl_free/32097"/>
@@ -862,19 +876,5 @@ Base: 27.9%  ·  Rewards: n/a  ·  TVL: $9.7M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/32048"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32048</id>
-    <updated>2026-11-07T13:35:46.761Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.078952817 gwei (fast)  ·  🟢 cheap
-Safe: 0.071425643  ·  Propose: 0.071654483  ·  BaseFee: 0.0714
-
-24h range: 0.04–2.42 gwei  (avg 0.17)
-
-Simple transfer cost now: ~$0.0041</summary>
   </entry>
 </feed>
