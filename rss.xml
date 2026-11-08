@@ -5,7 +5,44 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-08T08:55:41.122Z</updated>
+  <updated>2026-11-08T09:00:41.123Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-11-07</title>
+    <link href="https://t.me/sgnl_free/32089"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32089</id>
+    <updated>2026-11-08T09:00:12.276Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-11-07
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 20
+Median peak spike (top 50): 7.4x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump HODL: 24.0x  vol1h=$967.2K  price1h +3354.0%
+  🟢 pump GIGAHUG: 24.0x  vol1h=$943.8K  price1h +1891.0%
+  🟢 pump MEME: 24.0x  vol1h=$13.4K  price1h +214.0%
+  🟢 pump LUCIA: 24.0x  vol1h=$32.4K  price1h +149.0%
+  🟢 pump HOPE: 24.0x  vol1h=$52.3K  price1h +91.0%
+  🟢 pump GTA6COP: 24.0x  vol1h=$25.3K  price1h +64.4%
+  🔴 dump DIC: 24.0x  vol1h=$6.6K  price1h -40.8%
+  🔴 dump MACCA: 24.0x  vol1h=$225.2K  price1h -25.6%
+  🟢 pump Together: 17.4x  vol1h=$23.5K  price1h +177.0%
+  🟢 pump MIR: 13.1x  vol1h=$7.3K  price1h +149.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-11-07</title>
+    <link href="https://t.me/sgnl_free/32088"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32088</id>
+    <updated>2026-11-08T09:00:11.864Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-11-07
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🟠 ETH STAKING DROUGHT</title>
     <link href="https://t.me/sgnl_free/32087"/>
@@ -842,42 +879,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-11-06</title>
-    <link href="https://t.me/sgnl_free/32039"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32039</id>
-    <updated>2026-11-07T09:00:12.293Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-11-06
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 20
-Median peak spike (top 50): 8.6x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump HODL: 24.0x  vol1h=$840.2K  price1h +2672.0%
-  🟢 pump GM: 24.0x  vol1h=$1.94M  price1h +933.0%
-  🟢 pump BTC: 24.0x  vol1h=$137.6K  price1h +241.0%
-  🟢 pump RAM: 24.0x  vol1h=$1.36M  price1h +240.0%
-  🟢 pump RETIRE: 24.0x  vol1h=$157.7K  price1h +194.0%
-  🟢 pump GTA6K9: 24.0x  vol1h=$8.0K  price1h +75.2%
-  🔴 dump burncoin: 24.0x  vol1h=$27.4K  price1h -59.5%
-  🟢 pump POMBERT: 24.0x  vol1h=$20.2K  price1h +37.9%
-  🟢 pump TLM: 19.4x  vol1h=$65.7K  price1h +158.0%
-  🟢 pump IFHC: 17.4x  vol1h=$17.5K  price1h +81.3%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-11-06</title>
-    <link href="https://t.me/sgnl_free/32038"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32038</id>
-    <updated>2026-11-07T09:00:11.820Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-11-06
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
