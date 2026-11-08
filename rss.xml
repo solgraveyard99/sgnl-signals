@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-08T02:55:41.117Z</updated>
+  <updated>2026-11-08T03:00:41.114Z</updated>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-11-07</title>
+    <link href="https://t.me/sgnl_free/32074"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32074</id>
+    <updated>2026-11-08T03:00:14.418Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-11-07
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 0 suspicious patterns yesterday:
+  (none flagged — quiet honeypot day)
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/32073"/>
@@ -846,22 +867,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 5,597,749 USDT (~$5.6M) · 01:39 UTC</title>
-    <link href="https://t.me/sgnl_free/32024"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32024</id>
-    <updated>2026-11-07T01:42:42.735Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 5,597,749 USDT (~$5.6M) · 01:39 UTC
-From: 0x3b98…5e4f
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x101513f6c20b8ccbd0d8d1733ca583505e054065a75180f9a1926627a0a5ecd1
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2014.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
