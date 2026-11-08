@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-08T08:45:41.138Z</updated>
+  <updated>2026-11-08T08:50:41.116Z</updated>
+  <entry>
+    <title>🟠 ETH STAKING DROUGHT</title>
+    <link href="https://t.me/sgnl_free/32087"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32087</id>
+    <updated>2026-11-08T08:50:32.456Z</updated>
+    <summary type="text">🟠 ETH STAKING DROUGHT
+
+24h inflow collapsed to 10.0K ETH (~312 validators)
+Rate: 25% of 30-day baseline
+ETH price: $2236
+
+Stake inflows have collapsed — could indicate rotation out of ETH, liquidity constraints, or impending regime change. Watch ETH price reaction over next 48h.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/32086"/>
@@ -866,17 +879,5 @@ Source: DexScreener Solana scanner. DYOR.</summary>
 All observations timestamped. Methodology public.
 
 #onchain #dailydigest</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/32037"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32037</id>
-    <updated>2026-11-07T08:35:46.739Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.053011424 gwei  ·  Safe: 0.047639064 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
