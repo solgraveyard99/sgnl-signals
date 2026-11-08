@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-08T00:40:41.099Z</updated>
+  <updated>2026-11-08T00:45:41.103Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32068"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32068</id>
+    <updated>2026-11-08T00:40:42.791Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $88000 — expiry 13NOV26
+Direction: SELL
+Notional: ~$2269K
+Contracts: 30
+Implied vol: 55.4%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,272,807 USDT (~$1.3M) · 00:26 UTC</title>
     <link href="https://t.me/sgnl_free/32067"/>
@@ -852,16 +870,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 0 active observations</title>
-    <link href="https://t.me/sgnl_free/32018"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32018</id>
-    <updated>2026-11-07T00:15:47.049Z</updated>
-    <summary type="text">📊 Activity summary · 0 active observations
-
-No active observations in the current window.
-
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
