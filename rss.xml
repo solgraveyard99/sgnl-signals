@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-08T11:55:41.125Z</updated>
+  <updated>2026-11-08T12:00:41.127Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-11-07</title>
+    <link href="https://t.me/sgnl_free/32093"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32093</id>
+    <updated>2026-11-08T12:00:11.708Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-07
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    39.2K μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 200.0K μlamp | Orca: 217.4K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 15.3% APY</title>
     <link href="https://t.me/sgnl_free/32092"/>
@@ -850,31 +876,5 @@ Total tracked: $262.9B  (24h: $-1309M)
 
 Source: DeFiLlama stablecoin supply data.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-11-06</title>
-    <link href="https://t.me/sgnl_free/32043"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32043</id>
-    <updated>2026-11-07T12:00:04.137Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-06
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    158.3K μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: → 0% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 200.0K μlamp | Orca: 261.1K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
