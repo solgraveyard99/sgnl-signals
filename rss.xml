@@ -5,7 +5,61 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-08T00:00:41.103Z</updated>
+  <updated>2026-11-08T00:05:41.102Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32064"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32064</id>
+    <updated>2026-11-08T00:00:46.531Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Put — strike $2180 — expiry 8NOV26
+Direction: BUY
+Notional: ~$1117K
+Contracts: 500
+Implied vol: 51.6%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32063"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32063</id>
+    <updated>2026-11-08T00:00:46.166Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Put — strike $2050 — expiry 9NOV26
+Direction: SELL
+Notional: ~$1176K
+Contracts: 526
+Implied vol: 84.6%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32062"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32062</id>
+    <updated>2026-11-08T00:00:45.786Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Put — strike $2050 — expiry 9NOV26
+Direction: BUY
+Notional: ~$662K
+Contracts: 296
+Implied vol: 84.6%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
   <entry>
     <title>🌙 SGNL Evening Snapshot</title>
     <link href="https://t.me/sgnl_free/32061"/>
@@ -805,60 +859,6 @@ BTC Call — strike $95000 — expiry 27NOV26
 Direction: BUY
 Notional: ~$5519K
 Contracts: 72.8
-Implied vol: 43.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32014"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32014</id>
-    <updated>2026-11-07T00:01:09.630Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $95000 — expiry 27NOV26
-Direction: BUY
-Notional: ~$5519K
-Contracts: 72.8
-Implied vol: 43.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32013"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32013</id>
-    <updated>2026-11-07T00:01:09.167Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $95000 — expiry 27NOV26
-Direction: BUY
-Notional: ~$2972K
-Contracts: 39.2
-Implied vol: 43.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32012"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32012</id>
-    <updated>2026-11-07T00:01:08.721Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $95000 — expiry 27NOV26
-Direction: BUY
-Notional: ~$1236K
-Contracts: 16.3
 Implied vol: 43.3%
 Venue: Deribit
 
