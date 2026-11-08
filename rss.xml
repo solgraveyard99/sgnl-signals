@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-08T03:00:41.114Z</updated>
+  <updated>2026-11-08T03:05:41.109Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32075"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32075</id>
+    <updated>2026-11-08T03:00:42.219Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $75500 — expiry 8NOV26
+Direction: SELL
+Notional: ~$1127K
+Contracts: 14.9
+Implied vol: 16.3%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>🍯 Solana Honeypot / Trap Watch — 2026-11-07</title>
     <link href="https://t.me/sgnl_free/32074"/>
@@ -848,24 +866,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/32025"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32025</id>
-    <updated>2026-11-07T01:45:00.401Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0013 SOL
-• 99th: 0.0145 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
