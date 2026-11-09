@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T08:00:41.204Z</updated>
+  <updated>2026-11-09T08:05:41.193Z</updated>
+  <entry>
+    <title>🔴 Circle BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/32144"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32144</id>
+    <updated>2026-11-09T08:05:38.098Z</updated>
+    <summary type="text">🔴 Circle BURN · USDC
+
+-$679.2M in last 24h
+Tier: TIER2
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
   <entry>
     <title>📡 SGNL Daily Digest · 2026-11-08</title>
     <link href="https://t.me/sgnl_free/32143"/>
@@ -822,26 +834,5 @@ Top 1 by size:
 • 🚨 Depeg watch: FDUSD at $0.9968
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/32094"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32094</id>
-    <updated>2026-11-08T12:00:51.398Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $262.9B  (24h: +$102M)
-
-⚪ USDT: $176.76B  ($-5M)
-⚪ USDC: $70.63B  (+$46M)
-⚪ USDS: $5.64B  (+$48M)
-⚪ USDe: $4.93B  (+$9M)
-⚪ DAI: $4.68B  (+$5M)
-⚪ FDUSD: $0.28B  ($-0M)
-
-📊 Net supply Δ24h: +$102M (near-flat band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
