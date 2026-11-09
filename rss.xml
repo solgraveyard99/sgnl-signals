@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T20:20:41.226Z</updated>
+  <updated>2026-11-09T20:25:41.222Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 5,000,000 USDT (~$5.0M) · 20:14 UTC</title>
+    <link href="https://t.me/sgnl_free/32184"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32184</id>
+    <updated>2026-11-09T20:22:55.831Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 5,000,000 USDT (~$5.0M) · 20:14 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xf0bd…29a0
+Tx: https://etherscan.io/tx/0x4a78b6b8987b6afb7ab881dba6fadbc2ab3f8c839b9ad0f638dfa0b7392bf2ea
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2366.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32183"/>
@@ -762,17 +779,5 @@ How to read:
 NOT a guarantee — thin sell side can be legitimate for very fresh launches.
 Always test with small amount before sizing up. Use rugcheck.xyz to verify.
 Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/32134"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32134</id>
-    <updated>2026-11-09T02:35:57.220Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.049677861 gwei  ·  Safe: 0.045151692 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
