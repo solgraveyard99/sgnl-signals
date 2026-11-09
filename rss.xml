@@ -5,7 +5,61 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T01:20:41.167Z</updated>
+  <updated>2026-11-09T01:25:41.173Z</updated>
+  <entry>
+    <title>📊 BTC ONCHAIN REGIME SHIFT</title>
+    <link href="https://t.me/sgnl_free/32131"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32131</id>
+    <updated>2026-11-09T01:21:17.498Z</updated>
+    <summary type="text">📊 BTC ONCHAIN REGIME SHIFT
+
+⚪ balanced on-chain flows (50) → 📊 exchange-inflow-heavy (30)
+
+Drivers:
+• hash capitulation (-20)
+
+Price: $75747  ·  Hash: 0.0 EH/s  ·  Addrs24h: 459,716</summary>
+  </entry>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32130"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32130</id>
+    <updated>2026-11-09T01:21:14.908Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 5.9% below 30d average
+Ratio: 0.941 (threshold 0.95)
+Current price: $75747
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
+  <entry>
+    <title>📊 BTC ONCHAIN REGIME SHIFT</title>
+    <link href="https://t.me/sgnl_free/32129"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32129</id>
+    <updated>2026-11-09T01:20:59.233Z</updated>
+    <summary type="text">📊 BTC ONCHAIN REGIME SHIFT
+
+⚪ balanced on-chain flows (50) → 📊 exchange-inflow-heavy (30)
+
+Drivers:
+• hash capitulation (-20)
+
+Price: $75747  ·  Hash: 0.0 EH/s  ·  Addrs24h: 459,716</summary>
+  </entry>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32128"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32128</id>
+    <updated>2026-11-09T01:20:58.843Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 5.9% below 30d average
+Ratio: 0.941 (threshold 0.95)
+Current price: $75747
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/32127"/>
@@ -795,79 +849,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/32081"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32081</id>
-    <updated>2026-11-08T03:30:46.287Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0002 SOL
-• 99th: 0.0220 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/32080"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32080</id>
-    <updated>2026-11-08T03:26:46.348Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0000 SOL
-• 99th: 0.0152 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32079"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32079</id>
-    <updated>2026-11-08T03:05:58.305Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $140000 — expiry 24SEP27
-Direction: SELL
-Notional: ~$757K
-Contracts: 10
-Implied vol: 41.6%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32078"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32078</id>
-    <updated>2026-11-08T03:05:57.881Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $150000 — expiry 24SEP27
-Direction: BUY
-Notional: ~$757K
-Contracts: 10
-Implied vol: 41.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
