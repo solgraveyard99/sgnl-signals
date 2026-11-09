@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T14:20:41.215Z</updated>
+  <updated>2026-11-09T14:25:41.210Z</updated>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32169"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32169</id>
+    <updated>2026-11-09T14:21:00.505Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 5.9% below 30d average
+Ratio: 0.941 (threshold 0.95)
+Current price: $74707
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
   <entry>
     <title>📊 Daily Market Composite — 2026-11-09</title>
     <link href="https://t.me/sgnl_free/32168"/>
@@ -794,21 +807,6 @@ Spread: 0.0037%/hr  (32.0% APR gross)
 🔴 SHORT on BingX  (funding -0.0003%/hr)
 
 Expected net: ~27% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · ETH</title>
-    <link href="https://t.me/sgnl_free/32119"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32119</id>
-    <updated>2026-11-09T00:05:43.591Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · ETH
-Spread: 0.0053%/hr  (46.5% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0041%/hr)
-🔴 SHORT on BingX  (funding 0.0013%/hr)
-
-Expected net: ~42% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
 monitor mode · no orders placed</summary>
   </entry>
