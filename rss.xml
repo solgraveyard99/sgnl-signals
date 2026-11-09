@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T02:55:41.181Z</updated>
+  <updated>2026-11-09T03:00:41.176Z</updated>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-11-08</title>
+    <link href="https://t.me/sgnl_free/32135"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32135</id>
+    <updated>2026-11-09T03:00:04.715Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-11-08
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 1
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 1 suspicious patterns yesterday:
+  ⚠ HONEYPOT? HOPE: 1141:14 buys:sells  vol1h=$230  liq=$142.8K  price1h -0%
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/32134"/>
@@ -824,23 +845,5 @@ Fast: 0.045232601 gwei  ·  Safe: 0.039091626 gwei
 A cheaper time for routine transactions you already planned, for example revoking old token approvals.
 Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📡 SGNL Daily Digest · 2026-11-07</title>
-    <link href="https://t.me/sgnl_free/32085"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32085</id>
-    <updated>2026-11-08T08:00:17.798Z</updated>
-    <summary type="text">📡 SGNL Daily Digest · 2026-11-07
-What 30+ SGNL observers caught in the last 24h
-
-⚡ Aave V3 liquidations (24h, 2 total)
-USDC 3920.40 → 4061.5299 USDC
-USDC 0.04 → 0.0000 WETH
-
-🌉 Cross-chain (Wormhole, 24h)
-$13.1M across 15695 txs · top route Solana → Solana
-
-
-Free signals · No advice · t.me/sgnl_free</summary>
   </entry>
 </feed>
