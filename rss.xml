@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T05:50:41.183Z</updated>
+  <updated>2026-11-09T05:55:41.180Z</updated>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32140"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32140</id>
+    <updated>2026-11-09T05:51:05.782Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 5.9% below 30d average
+Ratio: 0.941 (threshold 0.95)
+Current price: $74707
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32139"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32139</id>
+    <updated>2026-11-09T05:50:50.133Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 5.9% below 30d average
+Ratio: 0.941 (threshold 0.95)
+Current price: $74707
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32138"/>
@@ -821,50 +847,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/32090"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32090</id>
-    <updated>2026-11-08T09:59:46.471Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0001 SOL
-• 75th: 0.0002 SOL
-• 95th: 0.0024 SOL
-• 99th: 0.0120 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-11-07</title>
-    <link href="https://t.me/sgnl_free/32089"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32089</id>
-    <updated>2026-11-08T09:00:12.276Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-11-07
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 20
-Median peak spike (top 50): 7.4x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump HODL: 24.0x  vol1h=$967.2K  price1h +3354.0%
-  🟢 pump GIGAHUG: 24.0x  vol1h=$943.8K  price1h +1891.0%
-  🟢 pump MEME: 24.0x  vol1h=$13.4K  price1h +214.0%
-  🟢 pump LUCIA: 24.0x  vol1h=$32.4K  price1h +149.0%
-  🟢 pump HOPE: 24.0x  vol1h=$52.3K  price1h +91.0%
-  🟢 pump GTA6COP: 24.0x  vol1h=$25.3K  price1h +64.4%
-  🔴 dump DIC: 24.0x  vol1h=$6.6K  price1h -40.8%
-  🔴 dump MACCA: 24.0x  vol1h=$225.2K  price1h -25.6%
-  🟢 pump Together: 17.4x  vol1h=$23.5K  price1h +177.0%
-  🟢 pump MIR: 13.1x  vol1h=$7.3K  price1h +149.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
