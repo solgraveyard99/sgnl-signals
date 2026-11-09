@@ -5,7 +5,47 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T08:55:41.193Z</updated>
+  <updated>2026-11-09T09:00:41.197Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-11-08</title>
+    <link href="https://t.me/sgnl_free/32147"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32147</id>
+    <updated>2026-11-09T09:00:13.047Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-11-08
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 13
+Median peak spike (top 50): 3.5x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump PMUSI: 24.0x  vol1h=$1.40M  price1h +496.0%
+  🟢 pump JASON: 24.0x  vol1h=$167.7K  price1h +379.0%
+  🟢 pump Puddgy: 24.0x  vol1h=$1.09M  price1h +251.0%
+  🟢 pump Job: 24.0x  vol1h=$162.3K  price1h +133.0%
+  🟢 pump Tungmas: 24.0x  vol1h=$55.6K  price1h +101.0%
+  🟢 pump forg: 24.0x  vol1h=$115.4K  price1h +91.0%
+  🔴 dump UPPIN: 24.0x  vol1h=$30.3K  price1h -44.0%
+  🔴 dump FOMOGIVING: 24.0x  vol1h=$16.3K  price1h -41.8%
+  🟢 pump DESSA: 17.4x  vol1h=$1.28M  price1h +79.2%
+  🟢 pump timmy: 12.4x  vol1h=$84.3K  price1h +156.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-11-08</title>
+    <link href="https://t.me/sgnl_free/32146"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32146</id>
+    <updated>2026-11-09T09:00:12.205Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-11-08
+
+Alerts fired (24h):
+• Funding divergence: 2
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/32145"/>
@@ -796,43 +836,5 @@ Safe: 0.037243126  ·  Propose: 0.037943126  ·  BaseFee: 0.0372
 24h range: 0.03–0.09 gwei  (avg 0.05)
 
 Simple transfer cost now: ~$0.0025</summary>
-  </entry>
-  <entry>
-    <title>🏦 Exchange reserves · 13 monitored wallets</title>
-    <link href="https://t.me/sgnl_free/32097"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32097</id>
-    <updated>2026-11-08T13:30:36.332Z</updated>
-    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
-
-Total: $14.37B · 24h net change −$0M (-0.00%)
-
-ETH: 166.8K  ($373M)
-USDT: $14001M
-USDC: $0.1M
-DAI: $0.00M
-
-Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🌅 Morning Brief · 2026-11-08</title>
-    <link href="https://t.me/sgnl_free/32096"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32096</id>
-    <updated>2026-11-08T13:00:46.214Z</updated>
-    <summary type="text">🌅 Morning Brief · 2026-11-08
-
-🐋 Whale flow (24h)
-No $5M+ transfers recorded at monitored exchange wallets
-
-⚡ Perp funding snapshot
-BTC ⚪ neutral funding (HL)
-ETH ⚪ neutral funding (HL)
-SOL ⚪ neutral funding (HL)
-
-💰 Top yields right now
-Stables: 27.9% · veranta/USDC @ Base
-ETH/LST: 6.3% · ipor-fusion/WETH @ Ethereum
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
