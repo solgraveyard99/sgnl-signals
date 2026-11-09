@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T14:30:41.208Z</updated>
+  <updated>2026-11-09T14:35:41.208Z</updated>
+  <entry>
+    <title>🔴 Circle BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/32170"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32170</id>
+    <updated>2026-11-09T14:35:38.359Z</updated>
+    <summary type="text">🔴 Circle BURN · USDC
+
+-$702.4M in last 24h
+Tier: TIER2
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
   <entry>
     <title>⛏️ BTC HASH RATE CAPITULATION</title>
     <link href="https://t.me/sgnl_free/32169"/>
@@ -794,20 +806,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · SOL</title>
-    <link href="https://t.me/sgnl_free/32120"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32120</id>
-    <updated>2026-11-09T00:05:43.967Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
-Spread: 0.0037%/hr  (32.0% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0039%/hr)
-🔴 SHORT on BingX  (funding -0.0003%/hr)
-
-Expected net: ~27% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
   </entry>
 </feed>
