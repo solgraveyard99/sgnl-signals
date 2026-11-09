@@ -5,7 +5,32 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T10:20:41.197Z</updated>
+  <updated>2026-11-09T10:25:41.199Z</updated>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32152"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32152</id>
+    <updated>2026-11-09T10:20:59.923Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 5.9% below 30d average
+Ratio: 0.941 (threshold 0.95)
+Current price: $74707
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
+  <entry>
+    <title>🔴 Circle BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/32151"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32151</id>
+    <updated>2026-11-09T10:20:41.705Z</updated>
+    <summary type="text">🔴 Circle BURN · USDC
+
+-$679.2M in last 24h
+Tier: TIER2
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32150"/>
@@ -804,44 +829,5 @@ Stake inflows have collapsed — could indicate rotation out of ETH, liquidity c
 BTC: $75,903 | SOL: $89.21
 Market activity index: 40/100 (low band)
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-11-07</title>
-    <link href="https://t.me/sgnl_free/32102"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32102</id>
-    <updated>2026-11-08T15:00:11.727Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-11-07
-
-Tokens with liquidity drop ≥50%: 4
-Tokens with liquidity drop ≥90%: 0
-Tokens with liquidity drop ≥75%: 0
-
-Top 10 biggest drops yesterday (peak → trough):
-  ⚠ HIGH LUCIA: -75.0%  $38.3K → $9.6K  in 1.5h
-  ⚠ HIGH DACITY: -71.3%  $39.9K → $11.4K  in 3.1h
-  ⚠ HIGH MEME: -59.1%  $24.1K → $9.9K  in 11.8h
-  ⚠ HIGH MAMESUKE: -50.5%  $116.5K → $57.7K  in 7.9h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 27.9% APY</title>
-    <link href="https://t.me/sgnl_free/32101"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32101</id>
-    <updated>2026-11-08T14:50:32.421Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 27.9% APY
-veranta / USDC on Base
-Base: 27.9%  ·  Rewards: n/a  ·  TVL: $9.7M
-
-💡 +20.9% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
   </entry>
 </feed>
