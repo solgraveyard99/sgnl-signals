@@ -5,7 +5,36 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T19:00:41.229Z</updated>
+  <updated>2026-11-09T19:05:41.225Z</updated>
+  <entry>
+    <title>🔴 Circle BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/32182"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32182</id>
+    <updated>2026-11-09T19:05:39.247Z</updated>
+    <summary type="text">🔴 Circle BURN · USDC
+
+-$686.5M in last 24h
+Tier: TIER2
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 9,998,541 USDT (~$10.0M) · 18:56 UTC</title>
+    <link href="https://t.me/sgnl_free/32181"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32181</id>
+    <updated>2026-11-09T19:02:42.599Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 9,998,541 USDT (~$10.0M) · 18:56 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xed89…60e7
+Tx: https://etherscan.io/tx/0x2e5e074c00478b9db4698a62f0f51c19f0a0225c00b5571b1befa1d15a43b42a
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2353.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>⛏️ BTC HASH RATE CAPITULATION</title>
     <link href="https://t.me/sgnl_free/32180"/>
@@ -752,38 +781,5 @@ Drivers:
   • liquidations: 50  — balanced
 
 Regime derived from 7 weighted signal categories across 7 subsystems. Historically, band crossings precede 3-10 day directional moves.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/32132"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32132</id>
-    <updated>2026-11-09T01:47:46.850Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0002 SOL
-• 99th: 0.0202 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>📊 BTC ONCHAIN REGIME SHIFT</title>
-    <link href="https://t.me/sgnl_free/32131"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32131</id>
-    <updated>2026-11-09T01:21:17.498Z</updated>
-    <summary type="text">📊 BTC ONCHAIN REGIME SHIFT
-
-⚪ balanced on-chain flows (50) → 📊 exchange-inflow-heavy (30)
-
-Drivers:
-• hash capitulation (-20)
-
-Price: $75747  ·  Hash: 0.0 EH/s  ·  Addrs24h: 459,716</summary>
   </entry>
 </feed>
