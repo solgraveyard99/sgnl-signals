@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T20:50:41.228Z</updated>
+  <updated>2026-11-09T20:55:41.228Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 6,000,000 USDT (~$6.0M) · 20:44 UTC</title>
+    <link href="https://t.me/sgnl_free/32187"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32187</id>
+    <updated>2026-11-09T20:52:44.777Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 6,000,000 USDT (~$6.0M) · 20:44 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xf0bd…29a0
+Tx: https://etherscan.io/tx/0x6aa018b67a66f309632657529706ffea497cea03a8c406949ca289e37b3582b6
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2368.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 5,000,001 USDT (~$5.0M) · 20:34 UTC</title>
     <link href="https://t.me/sgnl_free/32186"/>
@@ -743,25 +760,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0000 SOL
 • 95th: 0.0038 SOL
 • 99th: 0.0762 SOL (~$8)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/32137"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32137</id>
-    <updated>2026-11-09T04:42:46.793Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0252 SOL
-• 99th: 0.0303 SOL (~$3)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
