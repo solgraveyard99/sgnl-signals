@@ -5,7 +5,60 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T13:00:41.212Z</updated>
+  <updated>2026-11-09T13:05:41.217Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32163"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32163</id>
+    <updated>2026-11-09T13:01:01.384Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0109 SOL
+• 99th: 0.0215 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🌅 Morning Brief · 2026-11-09</title>
+    <link href="https://t.me/sgnl_free/32162"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32162</id>
+    <updated>2026-11-09T13:01:01.009Z</updated>
+    <summary type="text">🌅 Morning Brief · 2026-11-09
+
+🐋 Whale flow (24h)
+No $5M+ transfers recorded at monitored exchange wallets
+
+⚡ Perp funding snapshot
+BTC ⚪ neutral funding (HL)
+ETH ⚪ neutral funding (HL)
+SOL ⚪ neutral funding (HL)
+
+💰 Top yields right now
+Stables: 28.1% · veranta/USDC @ Base
+ETH/LST: 6.5% · ipor-fusion/WETH @ Ethereum
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>📅 Day-ahead · 🔴 HIGH IMPACT</title>
+    <link href="https://t.me/sgnl_free/32161"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32161</id>
+    <updated>2026-11-09T13:00:45.376Z</updated>
+    <summary type="text">📅 Day-ahead · 🔴 HIGH IMPACT
+US CPI (October 2026) macro
+When: Tue, 10 Nov 2026 13:30:00 UTC
+
+Consumer Price Index release by the U.S. Bureau of Labor Statistics, 8:30 a.m. ET. Schedule reminder only, not advice.
+
+details ↗</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32160"/>
@@ -774,67 +827,5 @@ BTC: $74,902 (24h: −1.3%) | SOL: $86.68 (24h: −3.5%)
 Market activity index: 20/100 (low band)
 Next snapshot: 17:00 UTC
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-11-08</title>
-    <link href="https://t.me/sgnl_free/32113"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32113</id>
-    <updated>2026-11-09T00:00:04.689Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-11-08
-
-24h state transitions tracked: 212
-  💀 Died (gone): 84
-  😴 Went dormant: 85
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 heist: had $0 liquidity · died at age 19.0d
-  💀 nOrigami: had $0 liquidity · died at age 19.0d
-  💀 Potions: had $0 liquidity · died at age 19.0d
-  💀 Quinelings: had $0 liquidity · died at age 19.0d
-  💀 goat: had $0 liquidity · died at age 19.0d
-  💀 BARN: had $0 liquidity · died at age 19.0d
-  💀 KIBSHI: had $0 liquidity · died at age 19.0d
-  💀 PP: had $0 liquidity · died at age 19.0d
-  💀 PikaJew: had $0 liquidity · died at age 19.0d
-  💀 ANAKIN: had $0 liquidity · died at age 19.0d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,686,783 USDT (~$1.7M) · 23:38 UTC</title>
-    <link href="https://t.me/sgnl_free/32112"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32112</id>
-    <updated>2026-11-08T23:42:42.449Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,686,783 USDT (~$1.7M) · 23:38 UTC
-From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0xc7d3…e668
-Tx: https://etherscan.io/tx/0x923d8e9ff23f7345d19e315a0d0c796396fa8c40596df41ac2793fa19712eb11
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2263.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,187,548 USDC (~$1.2M) · 23:15 UTC</title>
-    <link href="https://t.me/sgnl_free/32111"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32111</id>
-    <updated>2026-11-08T23:22:58.851Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,187,548 USDC (~$1.2M) · 23:15 UTC
-From: 0xa9d1…3e43
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x42b5f7708499a56f2960e052e6cc135bc13ed142a414dafed76a5e8235716d7c
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2251.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
