@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T13:55:41.224Z</updated>
+  <updated>2026-11-09T14:00:41.212Z</updated>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-11-09</title>
+    <link href="https://t.me/sgnl_free/32168"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32168</id>
+    <updated>2026-11-09T14:00:14.364Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-11-09
+Composite score: 30/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛏️ BTC HASH RATE CAPITULATION</title>
     <link href="https://t.me/sgnl_free/32167"/>
@@ -800,23 +811,5 @@ Spread: 0.0053%/hr  (46.5% APR gross)
 Expected net: ~42% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
 monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32118"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32118</id>
-    <updated>2026-11-09T00:00:46.142Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $70000 — expiry 25DEC26
-Direction: SELL
-Notional: ~$600K
-Contracts: 8
-Implied vol: 41.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
