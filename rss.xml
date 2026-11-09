@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T00:05:41.156Z</updated>
+  <updated>2026-11-09T00:10:41.177Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · SOL</title>
+    <link href="https://t.me/sgnl_free/32120"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32120</id>
+    <updated>2026-11-09T00:05:43.967Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
+Spread: 0.0037%/hr  (32.0% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0039%/hr)
+🔴 SHORT on BingX  (funding -0.0003%/hr)
+
+Expected net: ~27% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · ETH</title>
+    <link href="https://t.me/sgnl_free/32119"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32119</id>
+    <updated>2026-11-09T00:05:43.591Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · ETH
+Spread: 0.0053%/hr  (46.5% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0041%/hr)
+🔴 SHORT on BingX  (funding 0.0013%/hr)
+
+Expected net: ~42% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/32118"/>
@@ -843,42 +873,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/32070"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32070</id>
-    <updated>2026-11-08T01:32:55.543Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0004 SOL
-• 99th: 0.0164 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32069"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32069</id>
-    <updated>2026-11-08T00:55:44.140Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $95000 — expiry 27NOV26
-Direction: BUY
-Notional: ~$1831K
-Contracts: 24.2
-Implied vol: 43.7%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
