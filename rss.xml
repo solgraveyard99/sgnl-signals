@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T09:05:41.196Z</updated>
+  <updated>2026-11-09T09:10:41.198Z</updated>
+  <entry>
+    <title>🔴 Circle BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/32148"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32148</id>
+    <updated>2026-11-09T09:05:51.008Z</updated>
+    <summary type="text">🔴 Circle BURN · USDC
+
+-$679.2M in last 24h
+Tier: TIER2
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
   <entry>
     <title>🌋 Solana Volume Spike Digest — 2026-11-08</title>
     <link href="https://t.me/sgnl_free/32147"/>
@@ -822,19 +834,5 @@ Composite score: 40/100
 
 Raw composite reading. No directional interpretation.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/32098"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32098</id>
-    <updated>2026-11-08T13:35:46.729Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.047243126 gwei (fast)  ·  🟢 cheap
-Safe: 0.037243126  ·  Propose: 0.037943126  ·  BaseFee: 0.0372
-
-24h range: 0.03–0.09 gwei  (avg 0.05)
-
-Simple transfer cost now: ~$0.0025</summary>
   </entry>
 </feed>
