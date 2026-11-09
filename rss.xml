@@ -5,7 +5,17 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T16:55:41.220Z</updated>
+  <updated>2026-11-09T17:00:41.217Z</updated>
+  <entry>
+    <title>☀️ SGNL Midday Snapshot</title>
+    <link href="https://t.me/sgnl_free/32177"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32177</id>
+    <updated>2026-11-09T17:00:29.500Z</updated>
+    <summary type="text">☀️ SGNL Midday Snapshot
+BTC: $74,935 | SOL: $86.91
+Market activity index: 30/100 (low band)
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32176"/>
@@ -777,23 +787,5 @@ Ratio: 0.941 (threshold 0.95)
 Current price: $75747
 
 Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32127"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32127</id>
-    <updated>2026-11-09T00:20:56.444Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $85000 — expiry 13NOV26
-Direction: SELL
-Notional: ~$1801K
-Contracts: 24
-Implied vol: 54.2%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
