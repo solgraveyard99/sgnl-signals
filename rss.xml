@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T12:15:41.207Z</updated>
+  <updated>2026-11-09T12:20:41.204Z</updated>
+  <entry>
+    <title>📊 Activity summary · 1 active observation</title>
+    <link href="https://t.me/sgnl_free/32159"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32159</id>
+    <updated>2026-11-09T12:15:53.411Z</updated>
+    <summary type="text">📊 Activity summary · 1 active observation
+
+Top 1 by size:
+• 🚨 Depeg watch: FDUSD at $0.9966
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>💵 Stablecoin Supply Check</title>
     <link href="https://t.me/sgnl_free/32158"/>
@@ -823,23 +835,6 @@ From: 0x0d07…92fe
 To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
 Tx: https://etherscan.io/tx/0x9127c47ff81df5d4ff2d4fbdcd97ae25e5c86c00f91af5226e4d61c1a1a9a89d
 Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2243.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 703.71 ETH (~$1.5M) · 23:17 UTC</title>
-    <link href="https://t.me/sgnl_free/32109"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32109</id>
-    <updated>2026-11-08T23:22:58.052Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 703.71 ETH (~$1.5M) · 23:17 UTC
-From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0xed89…60e7
-Tx: https://etherscan.io/tx/0x4921351cacd8f7ef2afa582d733cef9dc0804ac6b305c7004f10f195db6790f8
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2241.
 Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
 
 📲 t.me/sgnl_free
