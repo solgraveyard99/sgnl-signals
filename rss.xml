@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T13:35:41.302Z</updated>
+  <updated>2026-11-10T13:40:41.303Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/32246"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32246</id>
+    <updated>2026-11-10T13:35:46.876Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.397553772 gwei (fast)  ·  🟢 cheap
+Safe: 0.361412518  ·  Propose: 0.397553769  ·  BaseFee: 0.3614
+
+24h range: 0.04–2.04 gwei  (avg 0.18)
+
+Simple transfer cost now: ~$0.0209</summary>
+  </entry>
   <entry>
     <title>🏦 Exchange reserves · 13 monitored wallets</title>
     <link href="https://t.me/sgnl_free/32245"/>
@@ -809,33 +823,5 @@ BTC: $75,235 (24h: +0.4%) | SOL: $86.56 (24h: −0.2%)
 Market activity index: 40/100 (low band)
 Next snapshot: 17:00 UTC
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🪦 Solana Token Graveyard Daily Report — 2026-11-09</title>
-    <link href="https://t.me/sgnl_free/32196"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32196</id>
-    <updated>2026-11-10T00:00:04.883Z</updated>
-    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-11-09
-
-24h state transitions tracked: 201
-  💀 Died (gone): 96
-  😴 Went dormant: 64
-
-Top 10 biggest deaths (by liquidity at time of death):
-  💀 zilli: had $0 liquidity · died at age 39.3d
-  💀 ZYROX: had $0 liquidity · died at age 39.3d
-  💀 ZI: had $0 liquidity · died at age 39.3d
-  💀 SQI: had $0 liquidity · died at age 29.5d
-  💀 PEPPER: had $0 liquidity · died at age 29.3d
-  💀 HALWN: had $0 liquidity · died at age 29.3d
-  💀 paper: had $0 liquidity · died at age 29.3d
-  💀 based: had $0 liquidity · died at age 29.3d
-  💀 PlayPad: had $0 liquidity · died at age 29.3d
-  💀 ONBOARD: had $0 liquidity · died at age 18.8d
-
-How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
-Companion to morning survival report (06:00 UTC).
-Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
-DYOR.</summary>
   </entry>
 </feed>
