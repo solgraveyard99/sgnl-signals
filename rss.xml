@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T11:55:41.279Z</updated>
+  <updated>2026-11-10T12:00:41.304Z</updated>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-11-09</title>
+    <link href="https://t.me/sgnl_free/32238"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32238</id>
+    <updated>2026-11-10T12:00:05.092Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-09
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    574.18M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 200.0K μlamp | Orca: 219.9K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32237"/>
@@ -792,31 +818,5 @@ Miners are dropping off — usually coincides with or precedes local bottom with
 Tier: TIER2
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>📈 Solana Buy Momentum Digest — 2026-11-08</title>
-    <link href="https://t.me/sgnl_free/32188"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32188</id>
-    <updated>2026-11-09T21:00:07.097Z</updated>
-    <summary type="text">📈 Solana Buy Momentum Digest — 2026-11-08
-
-Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 20
-Strong-bias tokens (buy/sell ≥3x): 9
-
-Top 10 by buy momentum (buys × buy/sell ratio):
-  📈 GIGAHUG: 11598 buys / 2428 sells (4.8x)  vol1h=$79.5K  price1h -34%
-  📈 HEREWEGO: 6287 buys / 1228 sells (5.1x)  vol1h=$184.9K  price1h -15%
-  📈 COGE: 9873 buys / 3658 sells (2.7x)  vol1h=$36.6K  price1h -6%
-  📈 ELYSION: 10205 buys / 4103 sells (2.5x)  vol1h=$90.8K  price1h -18%
-  📈 HOPE: 1141 buys / 14 sells (20x+)  vol1h=$230  price1h -0%
-  📈 Respect: 2568 buys / 638 sells (4.0x)  vol1h=$66.6K  price1h -24%
-  📈 forg: 2501 buys / 718 sells (3.5x)  vol1h=$115.4K  price1h +74%
-  📈 NETWORK: 1569 buys / 617 sells (2.5x)  vol1h=$9.5K  price1h -4%
-  📈 STM: 769 buys / 490 sells (1.6x)  vol1h=$496  price1h -1%
-  📈 UPPIN: 541 buys / 286 sells (1.9x)  vol1h=$30.3K  price1h +11%
-
-Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
-Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
