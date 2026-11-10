@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T16:40:41.308Z</updated>
+  <updated>2026-11-10T16:45:41.314Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 3,998,000 USDC (~$4.0M) · 16:35 UTC</title>
+    <link href="https://t.me/sgnl_free/32257"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32257</id>
+    <updated>2026-11-10T16:42:42.571Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 3,998,000 USDC (~$4.0M) · 16:35 UTC
+From: 0xa9d1…3e43
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x94950683aeb33e1ffc3ff5abd9fa48a7b027cd3c36d288777dbe4816b13ac344
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2592.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔀 CROSS-VENUE CARRY · SOL</title>
     <link href="https://t.me/sgnl_free/32256"/>
@@ -783,23 +800,5 @@ Top 1 by size:
 • 🚨 Depeg watch: FDUSD at $0.9965
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32207"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32207</id>
-    <updated>2026-11-10T00:01:07.061Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Call — strike $2700 — expiry 27NOV26
-Direction: SELL
-Notional: ~$1044K
-Contracts: 490
-Implied vol: 61.7%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
