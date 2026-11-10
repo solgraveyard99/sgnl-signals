@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T14:55:41.309Z</updated>
+  <updated>2026-11-10T15:00:41.303Z</updated>
+  <entry>
+    <title>⚠ Solana Liquidity-Drop Digest — 2026-11-09</title>
+    <link href="https://t.me/sgnl_free/32252"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32252</id>
+    <updated>2026-11-10T15:00:04.647Z</updated>
+    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-11-09
+
+Tokens with liquidity drop ≥50%: 4
+Tokens with liquidity drop ≥90%: 1
+Tokens with liquidity drop ≥75%: 2
+
+Top 10 biggest drops yesterday (peak → trough):
+  🚨 CRITICAL GINGATO: -96.0%  $82.2K → $3.2K  in 4.0h
+  ⛔ SEVERE HEREWEGO: -83.2%  $156.7K → $26.4K  in 1.6h
+  ⚠ HIGH HWAN: -68.3%  $53.6K → $17.0K  in 1.1h
+  ⚠ HIGH JENSEN: -67.6%  $27.2K → $8.8K  in 7.9h
+
+Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
+Filter: peak liquidity ≥$20K, drop ≥50%.
+Source: DexScreener Solana scanner. Always check current state before trading.</summary>
+  </entry>
   <entry>
     <title>⛏️ BTC HASH RATE CAPITULATION</title>
     <link href="https://t.me/sgnl_free/32251"/>
@@ -787,24 +808,6 @@ BTC Call — strike $76500 — expiry 10NOV26
 Direction: SELL
 Notional: ~$729K
 Contracts: 9.7
-Implied vol: 34.6%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32202"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32202</id>
-    <updated>2026-11-10T00:00:47.817Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $76500 — expiry 10NOV26
-Direction: SELL
-Notional: ~$504K
-Contracts: 6.7
 Implied vol: 34.6%
 Venue: Deribit
 
