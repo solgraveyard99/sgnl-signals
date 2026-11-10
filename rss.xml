@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T20:55:41.339Z</updated>
+  <updated>2026-11-10T21:00:41.335Z</updated>
+  <entry>
+    <title>📈 Solana Buy Momentum Digest — 2026-11-09</title>
+    <link href="https://t.me/sgnl_free/32269"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32269</id>
+    <updated>2026-11-10T21:00:03.771Z</updated>
+    <summary type="text">📈 Solana Buy Momentum Digest — 2026-11-09
+
+Tokens with buyCount1h ≥20 AND buy/sell ≥1.5x: 16
+Strong-bias tokens (buy/sell ≥3x): 9
+
+Top 10 by buy momentum (buys × buy/sell ratio):
+  📈 MAYA: 16023 buys / 4938 sells (3.2x)  vol1h=$437.6K  price1h +153%
+  📈 jeff: 7631 buys / 1693 sells (4.5x)  vol1h=$25.7K  price1h +6%
+  📈 HEREWEGO: 7785 buys / 2316 sells (3.4x)  vol1h=$194.4K  price1h -60%
+  📈 forg: 2275 buys / 286 sells (8.0x)  vol1h=$12.4K  price1h +14%
+  📈 ELYSION: 9310 buys / 4915 sells (1.9x)  vol1h=$79.2K  price1h -21%
+  📈 BAWSAQ: 2483 buys / 711 sells (3.5x)  vol1h=$91.9K  price1h +74%
+  📈 THUG: 1573 buys / 324 sells (4.9x)  vol1h=$16.0K  price1h -10%
+  📈 GATO: 1786 buys / 1012 sells (1.8x)  vol1h=$91.2K  price1h -4%
+  📈 CHRLE: 93 buys / 5 sells (18.6x)  vol1h=$1.6K  price1h +8%
+  📈 AgenC: 75 buys / 7 sells (10.7x)  vol1h=$4.5K  price1h -3%
+
+Note: DexScreener doesn&apos;t expose holder count. Buy/sell ratio + count is the closest proxy for new-wallet entry interest.
+Filter: pair age &gt;6h, liquidity &gt;$10K, buyCount1h ≥20, buy/sell ≥1.5x.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>⛏️ BTC HASH RATE CAPITULATION</title>
     <link href="https://t.me/sgnl_free/32268"/>
@@ -760,25 +786,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0001 SOL
 • 95th: 0.0017 SOL
 • 99th: 0.0353 SOL (~$4)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/32219"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32219</id>
-    <updated>2026-11-10T04:36:47.430Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0001 SOL
-• 99th: 0.0433 SOL (~$4)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
