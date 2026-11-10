@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T10:20:41.281Z</updated>
+  <updated>2026-11-10T10:25:41.275Z</updated>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32235"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32235</id>
+    <updated>2026-11-10T10:20:50.321Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 7.0% below 30d average
+Ratio: 0.930 (threshold 0.95)
+Current price: $75215
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 947.99 ETH (~$2.0M) · 09:34 UTC</title>
     <link href="https://t.me/sgnl_free/32234"/>
@@ -807,17 +820,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/32185"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32185</id>
-    <updated>2026-11-09T20:35:56.659Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.146787432 gwei  ·  Safe: 0.141912021 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
