@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T12:00:41.304Z</updated>
+  <updated>2026-11-10T12:05:41.288Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/32239"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32239</id>
+    <updated>2026-11-10T12:01:01.038Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $261.8B  (24h: $-900M)
+
+🔴 USDT: $176.23B  ($-570M)
+🔴 USDC: $70.27B  ($-263M)
+⚪ USDS: $5.39B  ($-47M)
+⚪ USDe: $4.96B  ($-12M)
+⚪ DAI: $4.66B  ($-8M)
+⚪ FDUSD: $0.28B  ($-0M)
+
+📊 Net supply Δ24h: -$900M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-11-09</title>
     <link href="https://t.me/sgnl_free/32238"/>
@@ -806,17 +827,5 @@ Ratio: 0.941 (threshold 0.95)
 Current price: $74707
 
 Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32189"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32189</id>
-    <updated>2026-11-09T21:20:38.107Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$686.5M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
   </entry>
 </feed>
