@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T06:55:41.266Z</updated>
+  <updated>2026-11-10T07:00:41.271Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32226"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32226</id>
+    <updated>2026-11-10T06:56:47.346Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0030 SOL
+• 95th: 0.0030 SOL
+• 99th: 0.0145 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32225"/>
@@ -774,17 +793,5 @@ Net burns suggest capital exit / redemption demand — can precede drawdowns.</s
 BTC: $74,935 | SOL: $86.91
 Market activity index: 30/100 (low band)
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32176"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32176</id>
-    <updated>2026-11-09T16:50:38.013Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$713.8M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
   </entry>
 </feed>
