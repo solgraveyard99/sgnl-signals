@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T08:20:41.268Z</updated>
+  <updated>2026-11-10T08:25:41.270Z</updated>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32230"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32230</id>
+    <updated>2026-11-10T08:20:59.992Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 7.0% below 30d average
+Ratio: 0.930 (threshold 0.95)
+Current price: $75215
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32229"/>
@@ -795,18 +808,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⛏️ BTC HASH RATE CAPITULATION</title>
-    <link href="https://t.me/sgnl_free/32180"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32180</id>
-    <updated>2026-11-09T18:50:59.998Z</updated>
-    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
-
-7d hash rate is 5.9% below 30d average
-Ratio: 0.941 (threshold 0.95)
-Current price: $74707
-
-Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
   </entry>
 </feed>
