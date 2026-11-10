@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T12:40:41.299Z</updated>
+  <updated>2026-11-10T12:45:41.301Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,396,138 USDT (~$1.4M) · 12:38 UTC</title>
+    <link href="https://t.me/sgnl_free/32242"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32242</id>
+    <updated>2026-11-10T12:42:42.531Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,396,138 USDT (~$1.4M) · 12:38 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x76ec…66ed
+Tx: https://etherscan.io/tx/0xbfd791fc2526570f99c5924c86fb9025f29bbb8bb0c83fac11db4e13e11e36bf
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2530.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>⏰ 1-hour warning · 🔴 HIGH IMPACT</title>
     <link href="https://t.me/sgnl_free/32241"/>
@@ -814,18 +831,5 @@ https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x83774601c51c3d35a5247d1
 Statistical pattern. Not financial advice.
 
 #DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDT</title>
-    <link href="https://t.me/sgnl_free/32192"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32192</id>
-    <updated>2026-11-09T22:50:46.028Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDT
-Supply change 24h: -$511M
-New supply: $176.29B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
