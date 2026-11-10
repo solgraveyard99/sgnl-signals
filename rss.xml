@@ -5,7 +5,49 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T16:05:41.309Z</updated>
+  <updated>2026-11-10T16:10:41.317Z</updated>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · SOL</title>
+    <link href="https://t.me/sgnl_free/32256"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32256</id>
+    <updated>2026-11-10T16:05:48.907Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
+Spread: 0.0067%/hr  (58.6% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0066%/hr)
+🔴 SHORT on BingX  (funding 0.0001%/hr)
+
+Expected net: ~54% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
+  <entry>
+    <title>🔀 CROSS-VENUE CARRY · ETH</title>
+    <link href="https://t.me/sgnl_free/32255"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32255</id>
+    <updated>2026-11-10T16:05:48.523Z</updated>
+    <summary type="text">🔀 CROSS-VENUE CARRY · ETH
+Spread: 0.0040%/hr  (34.8% APR gross)
+
+🟢 LONG  on Gate  (funding -0.0041%/hr)
+🔴 SHORT on BingX  (funding -0.0001%/hr)
+
+Expected net: ~30% APR after ~16bps round-trip fees.
+Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
+monitor mode · no orders placed</summary>
+  </entry>
+  <entry>
+    <title>⚡ EXTREME FUNDING · SOL on Gate</title>
+    <link href="https://t.me/sgnl_free/32254"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32254</id>
+    <updated>2026-11-10T16:05:47.768Z</updated>
+    <summary type="text">⚡ EXTREME FUNDING · SOL on Gate
+Price: $82.06  ·  Funding: -0.0066%/hr (-58.0% APR)
+Prior 7d: this funding reading is in the 0th percentile for SOL on Gate. Descriptive only.
+
+🟢 Shorts paying longs on Gate. Statistical pattern only. Not investment advice.
+monitor mode · no orders placed</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 9,998,411 USDT (~$10.0M) · 15:33 UTC</title>
     <link href="https://t.me/sgnl_free/32253"/>
@@ -759,59 +801,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32206"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32206</id>
-    <updated>2026-11-10T00:01:06.424Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Call — strike $2750 — expiry 29JAN27
-Direction: BUY
-Notional: ~$1023K
-Contracts: 480
-Implied vol: 54.2%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32205"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32205</id>
-    <updated>2026-11-10T00:01:06.024Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $1900 — expiry 11NOV26
-Direction: BUY
-Notional: ~$749K
-Contracts: 351
-Implied vol: 92.7%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32204"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32204</id>
-    <updated>2026-11-10T00:01:05.397Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $76000 — expiry 10NOV26
-Direction: BUY
-Notional: ~$1241K
-Contracts: 16.5
-Implied vol: 34.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
