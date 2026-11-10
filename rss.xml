@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T01:50:41.240Z</updated>
+  <updated>2026-11-10T01:55:41.247Z</updated>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32212"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32212</id>
+    <updated>2026-11-10T01:50:50.520Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 7.0% below 30d average
+Ratio: 0.930 (threshold 0.95)
+Current price: $74707
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32211"/>
@@ -762,26 +775,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🌅 Morning Brief · 2026-11-09</title>
-    <link href="https://t.me/sgnl_free/32162"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32162</id>
-    <updated>2026-11-09T13:01:01.009Z</updated>
-    <summary type="text">🌅 Morning Brief · 2026-11-09
-
-🐋 Whale flow (24h)
-No $5M+ transfers recorded at monitored exchange wallets
-
-⚡ Perp funding snapshot
-BTC ⚪ neutral funding (HL)
-ETH ⚪ neutral funding (HL)
-SOL ⚪ neutral funding (HL)
-
-💰 Top yields right now
-Stables: 28.1% · veranta/USDC @ Base
-ETH/LST: 6.5% · ipor-fusion/WETH @ Ethereum
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
