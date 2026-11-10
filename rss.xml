@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T14:50:41.318Z</updated>
+  <updated>2026-11-10T14:55:41.309Z</updated>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32251"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32251</id>
+    <updated>2026-11-10T14:50:50.427Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 7.0% below 30d average
+Ratio: 0.930 (threshold 0.95)
+Current price: $75215
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 27.9% APY</title>
     <link href="https://t.me/sgnl_free/32250"/>
@@ -793,24 +806,6 @@ Direction: SELL
 Notional: ~$504K
 Contracts: 6.7
 Implied vol: 34.6%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32201"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32201</id>
-    <updated>2026-11-10T00:00:47.186Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $60000 — expiry 20NOV26
-Direction: BUY
-Notional: ~$1600K
-Contracts: 21.3
-Implied vol: 57.9%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
