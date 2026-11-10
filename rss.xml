@@ -5,7 +5,32 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T20:50:41.338Z</updated>
+  <updated>2026-11-10T20:55:41.339Z</updated>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32268"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32268</id>
+    <updated>2026-11-10T20:51:04.016Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 7.0% below 30d average
+Ratio: 0.930 (threshold 0.95)
+Current price: $75215
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
+  <entry>
+    <title>🔴 Circle BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/32267"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32267</id>
+    <updated>2026-11-10T20:50:48.238Z</updated>
+    <summary type="text">🔴 Circle BURN · USDC
+
+-$525.9M in last 24h
+Tier: TIER2
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 15.6% APY</title>
     <link href="https://t.me/sgnl_free/32266"/>
@@ -760,30 +785,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32218"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32218</id>
-    <updated>2026-11-10T04:20:47.849Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$682.8M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>⛏️ BTC HASH RATE CAPITULATION</title>
-    <link href="https://t.me/sgnl_free/32217"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32217</id>
-    <updated>2026-11-10T03:51:00.114Z</updated>
-    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
-
-7d hash rate is 7.0% below 30d average
-Ratio: 0.930 (threshold 0.95)
-Current price: $75215
-
-Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
   </entry>
 </feed>
