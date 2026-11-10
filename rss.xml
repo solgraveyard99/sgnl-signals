@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T05:50:41.257Z</updated>
+  <updated>2026-11-10T05:55:41.253Z</updated>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32223"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32223</id>
+    <updated>2026-11-10T05:50:50.582Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 7.0% below 30d average
+Ratio: 0.930 (threshold 0.95)
+Current price: $75215
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32222"/>
@@ -769,28 +782,5 @@ monitor mode · no orders placed</summary>
 Tier: TIER2
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>⚠ Solana Liquidity-Drop Digest — 2026-11-08</title>
-    <link href="https://t.me/sgnl_free/32173"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32173</id>
-    <updated>2026-11-09T15:00:11.762Z</updated>
-    <summary type="text">⚠ Solana Liquidity-Drop Digest — 2026-11-08
-
-Tokens with liquidity drop ≥50%: 6
-Tokens with liquidity drop ≥90%: 4
-Tokens with liquidity drop ≥75%: 4
-
-Top 10 biggest drops yesterday (peak → trough):
-  🚨 CRITICAL Respect: -96.4%  $60.1K → $2.2K  in 8.1h
-  🚨 CRITICAL PMUSI: -95.9%  $56.5K → $2.3K  in 5.8h
-  🚨 CRITICAL Puddgy: -94.5%  $44.7K → $2.4K  in 2.9h
-  🚨 CRITICAL Job: -90.1%  $21.9K → $2.2K  in 16.4h
-  ⚠ HIGH COGE: -63.8%  $185.4K → $67.1K  in 13.8h
-  ⚠ HIGH JASON: -50.1%  $37.6K → $18.7K  in 5.9h
-
-Liquidity drop = peak → trough decline observed in 24h scanner snapshots.
-Filter: peak liquidity ≥$20K, drop ≥50%.
-Source: DexScreener Solana scanner. Always check current state before trading.</summary>
   </entry>
 </feed>
