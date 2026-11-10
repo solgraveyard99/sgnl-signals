@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T20:35:41.333Z</updated>
+  <updated>2026-11-10T20:40:41.333Z</updated>
+  <entry>
+    <title>⛽🟢 Low gas right now</title>
+    <link href="https://t.me/sgnl_free/32265"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32265</id>
+    <updated>2026-11-10T20:35:46.856Z</updated>
+    <summary type="text">⛽🟢 Low gas right now
+Fast: 0.168958667 gwei  ·  Safe: 0.148958667 gwei
+
+A cheaper time for routine transactions you already planned, for example revoking old token approvals.
+Never claim an &quot;airdrop&quot; from a link someone sends you.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32264"/>
@@ -775,26 +787,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🍯 Solana Honeypot / Trap Watch — 2026-11-09</title>
-    <link href="https://t.me/sgnl_free/32215"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32215</id>
-    <updated>2026-11-10T03:00:15.139Z</updated>
-    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-11-09
-
-Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 0
-Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
-
-Top 0 suspicious patterns yesterday:
-  (none flagged — quiet honeypot day)
-
-How to read:
-  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
-  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
-
-NOT a guarantee — thin sell side can be legitimate for very fresh launches.
-Always test with small amount before sizing up. Use rugcheck.xyz to verify.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
