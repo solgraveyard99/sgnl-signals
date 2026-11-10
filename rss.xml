@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-09T23:55:41.245Z</updated>
+  <updated>2026-11-10T00:00:41.241Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/32197"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32197</id>
+    <updated>2026-11-10T00:00:29.905Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $75,235 (24h: +0.4%) | SOL: $86.56 (24h: −0.2%)
+Market activity index: 40/100 (low band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-11-09</title>
+    <link href="https://t.me/sgnl_free/32196"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32196</id>
+    <updated>2026-11-10T00:00:04.883Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-11-09
+
+24h state transitions tracked: 201
+  💀 Died (gone): 96
+  😴 Went dormant: 64
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 zilli: had $0 liquidity · died at age 39.3d
+  💀 ZYROX: had $0 liquidity · died at age 39.3d
+  💀 ZI: had $0 liquidity · died at age 39.3d
+  💀 SQI: had $0 liquidity · died at age 29.5d
+  💀 PEPPER: had $0 liquidity · died at age 29.3d
+  💀 HALWN: had $0 liquidity · died at age 29.3d
+  💀 paper: had $0 liquidity · died at age 29.3d
+  💀 based: had $0 liquidity · died at age 29.3d
+  💀 PlayPad: had $0 liquidity · died at age 29.3d
+  💀 ONBOARD: had $0 liquidity · died at age 18.8d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32195"/>
@@ -721,45 +760,5 @@ Miners are dropping off — usually coincides with or precedes local bottom with
 Tier: TIER2
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-11-08</title>
-    <link href="https://t.me/sgnl_free/32147"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32147</id>
-    <updated>2026-11-09T09:00:13.047Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-11-08
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 13
-Median peak spike (top 50): 3.5x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump PMUSI: 24.0x  vol1h=$1.40M  price1h +496.0%
-  🟢 pump JASON: 24.0x  vol1h=$167.7K  price1h +379.0%
-  🟢 pump Puddgy: 24.0x  vol1h=$1.09M  price1h +251.0%
-  🟢 pump Job: 24.0x  vol1h=$162.3K  price1h +133.0%
-  🟢 pump Tungmas: 24.0x  vol1h=$55.6K  price1h +101.0%
-  🟢 pump forg: 24.0x  vol1h=$115.4K  price1h +91.0%
-  🔴 dump UPPIN: 24.0x  vol1h=$30.3K  price1h -44.0%
-  🔴 dump FOMOGIVING: 24.0x  vol1h=$16.3K  price1h -41.8%
-  🟢 pump DESSA: 17.4x  vol1h=$1.28M  price1h +79.2%
-  🟢 pump timmy: 12.4x  vol1h=$84.3K  price1h +156.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-11-08</title>
-    <link href="https://t.me/sgnl_free/32146"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32146</id>
-    <updated>2026-11-09T09:00:12.205Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-11-08
-
-Alerts fired (24h):
-• Funding divergence: 2
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
