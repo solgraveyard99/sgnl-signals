@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T07:55:41.269Z</updated>
+  <updated>2026-11-10T08:00:41.274Z</updated>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-11-09</title>
+    <link href="https://t.me/sgnl_free/32228"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32228</id>
+    <updated>2026-11-10T08:00:24.087Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-11-09
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 35 total)
+0x40d16f… 2304.21 → 1.0014 rETH
+USDC 582.89 → 0.2900 WETH
+USDT 2.54 → 0.0013 WETH
+
+🌉 Cross-chain (Wormhole, 24h)
+$15.7M across 14943 txs · top route Solana → Solana
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32227"/>
@@ -783,17 +802,5 @@ Ratio: 0.941 (threshold 0.95)
 Current price: $74707
 
 Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32178"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32178</id>
-    <updated>2026-11-09T17:50:38.058Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$713.8M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
   </entry>
 </feed>
