@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T23:20:41.346Z</updated>
+  <updated>2026-11-10T23:25:41.346Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 3,300,001 USDT (~$3.3M) · 23:21 UTC</title>
+    <link href="https://t.me/sgnl_free/32275"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32275</id>
+    <updated>2026-11-10T23:22:42.621Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 3,300,001 USDT (~$3.3M) · 23:21 UTC
+From: 0xa9d1…3e43
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x24d321d69b9d3c50f22197c89fc82833a6a43d213e26be780b4e1f5f1cd1283b
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2628.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32274"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32274</id>
+    <updated>2026-11-10T23:21:01.240Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 7.0% below 30d average
+Ratio: 0.930 (threshold 0.95)
+Current price: $75215
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,504,339 USDT (~$1.5M) · 23:10 UTC</title>
     <link href="https://t.me/sgnl_free/32273"/>
@@ -751,37 +781,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0030 SOL
 • 95th: 0.0030 SOL
 • 99th: 0.0145 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32225"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32225</id>
-    <updated>2026-11-10T06:35:39.126Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$682.8M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/32224"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32224</id>
-    <updated>2026-11-10T06:17:56.763Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0075 SOL
-• 99th: 0.0197 SOL (~$2)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
