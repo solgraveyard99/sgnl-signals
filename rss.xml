@@ -5,7 +5,47 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T08:55:41.270Z</updated>
+  <updated>2026-11-10T09:00:41.267Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-11-09</title>
+    <link href="https://t.me/sgnl_free/32233"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32233</id>
+    <updated>2026-11-10T09:00:19.481Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-11-09
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 16
+Median peak spike (top 50): 6.4x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump MAYA: 24.0x  vol1h=$552.9K  price1h +1584.0%
+  🟢 pump GINGATO: 24.0x  vol1h=$2.64M  price1h +959.0%
+  🟢 pump HWAN: 24.0x  vol1h=$524.9K  price1h +680.0%
+  🟢 pump MILES: 24.0x  vol1h=$14.3K  price1h +197.0%
+  🟢 pump Steve: 24.0x  vol1h=$124.7K  price1h +123.0%
+  🟢 pump GTA: 24.0x  vol1h=$52.0K  price1h +81.4%
+  🔴 dump WAITING: 24.0x  vol1h=$5.9K  price1h -23.9%
+  🟢 pump HODLER: 18.8x  vol1h=$22.0K  price1h +682.0%
+  🟢 pump GTA6KODAK: 14.0x  vol1h=$23.1K  price1h +84.9%
+  🟢 pump timmy: 12.1x  vol1h=$185.0K  price1h +93.3%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-11-09</title>
+    <link href="https://t.me/sgnl_free/32232"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32232</id>
+    <updated>2026-11-10T09:00:03.601Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-11-09
+
+Alerts fired (24h):
+• Funding divergence: 1
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/32231"/>
@@ -779,29 +819,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32183"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32183</id>
-    <updated>2026-11-09T20:05:38.412Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$686.5M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32182"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32182</id>
-    <updated>2026-11-09T19:05:39.247Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$686.5M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
   </entry>
 </feed>
