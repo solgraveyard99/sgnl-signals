@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T12:50:41.298Z</updated>
+  <updated>2026-11-10T12:55:41.298Z</updated>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32243"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32243</id>
+    <updated>2026-11-10T12:51:02.345Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 7.0% below 30d average
+Ratio: 0.930 (threshold 0.95)
+Current price: $75215
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,396,138 USDT (~$1.4M) · 12:38 UTC</title>
     <link href="https://t.me/sgnl_free/32242"/>
@@ -811,25 +824,5 @@ Ratio: 0.941 (threshold 0.95)
 Current price: $74707
 
 Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/32193"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32193</id>
-    <updated>2026-11-09T23:05:41.264Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-[Constitutional] AIP: Approve Release of Frozen ETH and ARB
-
-DAO: arbitrumfoundation.eth
-Votes cast: 20
-Total voting power: 58245032
-Voting ends: 2026-11-16 14:30 UTC
-
-https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x83774601c51c3d35a5247d19dcef0651cde49aafa72e5eaf6f3f263411441e17
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
   </entry>
 </feed>
