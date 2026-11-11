@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T03:20:41.363Z</updated>
+  <updated>2026-11-11T03:25:41.354Z</updated>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32299"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32299</id>
+    <updated>2026-11-11T03:20:50.581Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 7.4% below 30d average
+Ratio: 0.926 (threshold 0.95)
+Current price: $73722
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32298"/>
@@ -801,17 +814,5 @@ Base: 27.9%  ·  Rewards: n/a  ·  TVL: $9.7M
 ⚠️ protocol freshness unknown — verify audits
 
 Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/32249"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32249</id>
-    <updated>2026-11-10T14:35:46.835Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.520909381 gwei  ·  Safe: 0.413626488 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
