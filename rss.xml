@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T07:55:41.385Z</updated>
+  <updated>2026-11-11T08:00:41.379Z</updated>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-11-10</title>
+    <link href="https://t.me/sgnl_free/32305"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32305</id>
+    <updated>2026-11-11T08:00:05.794Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-11-10
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 46 total)
+USDT 796534.54 → 331.6260 wstETH
+USDT 403820.98 → 168.1252 wstETH
+USDT 189376.46 → 95.8894 WETH
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32304"/>
@@ -799,21 +815,6 @@ Spread: 0.0067%/hr  (58.6% APR gross)
 🔴 SHORT on BingX  (funding 0.0001%/hr)
 
 Expected net: ~54% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · ETH</title>
-    <link href="https://t.me/sgnl_free/32255"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32255</id>
-    <updated>2026-11-10T16:05:48.523Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · ETH
-Spread: 0.0040%/hr  (34.8% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0041%/hr)
-🔴 SHORT on BingX  (funding -0.0001%/hr)
-
-Expected net: ~30% APR after ~16bps round-trip fees.
 Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
 monitor mode · no orders placed</summary>
   </entry>
