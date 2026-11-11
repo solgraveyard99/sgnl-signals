@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T03:10:41.364Z</updated>
+  <updated>2026-11-11T03:15:41.352Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32298"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32298</id>
+    <updated>2026-11-11T03:14:47.833Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0000 SOL
+• 99th: 0.0116 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32297"/>
@@ -794,22 +813,5 @@ Fast: 0.520909381 gwei  ·  Safe: 0.413626488 gwei
 A cheaper time for routine transactions you already planned, for example revoking old token approvals.
 Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,016,362 USDT (~$1.0M) · 13:55 UTC</title>
-    <link href="https://t.me/sgnl_free/32248"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32248</id>
-    <updated>2026-11-10T14:02:44.783Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,016,362 USDT (~$1.0M) · 13:55 UTC
-From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x76ec…66ed
-Tx: https://etherscan.io/tx/0x44ac310e1e3acf0950f2553f67f77f98b4b03ea10d5dc47a83ea52239fe40d9a
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2543.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
