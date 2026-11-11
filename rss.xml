@@ -5,7 +5,61 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T00:00:41.359Z</updated>
+  <updated>2026-11-11T00:05:41.345Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32280"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32280</id>
+    <updated>2026-11-11T00:00:47.379Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $108000 — expiry 27NOV26
+Direction: BUY
+Notional: ~$1619K
+Contracts: 22
+Implied vol: 62.8%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32279"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32279</id>
+    <updated>2026-11-11T00:00:46.859Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $78000 — expiry 25DEC26
+Direction: BUY
+Notional: ~$1216K
+Contracts: 16.5
+Implied vol: 37.2%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32278"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32278</id>
+    <updated>2026-11-11T00:00:46.381Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $78000 — expiry 25DEC26
+Direction: BUY
+Notional: ~$1843K
+Contracts: 25
+Implied vol: 37.2%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>🌙 SGNL Evening Snapshot</title>
     <link href="https://t.me/sgnl_free/32277"/>
@@ -744,56 +798,5 @@ Fast: 0.053030323 gwei  ·  Safe: 0.052030323 gwei
 A cheaper time for routine transactions you already planned, for example revoking old token approvals.
 Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛏️ BTC HASH RATE CAPITULATION</title>
-    <link href="https://t.me/sgnl_free/32230"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32230</id>
-    <updated>2026-11-10T08:20:59.992Z</updated>
-    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
-
-7d hash rate is 7.0% below 30d average
-Ratio: 0.930 (threshold 0.95)
-Current price: $75215
-
-Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/32229"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32229</id>
-    <updated>2026-11-10T08:15:47.385Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0030 SOL
-• 95th: 0.0100 SOL
-• 99th: 0.0115 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>📡 SGNL Daily Digest · 2026-11-09</title>
-    <link href="https://t.me/sgnl_free/32228"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32228</id>
-    <updated>2026-11-10T08:00:24.087Z</updated>
-    <summary type="text">📡 SGNL Daily Digest · 2026-11-09
-What 30+ SGNL observers caught in the last 24h
-
-⚡ Aave V3 liquidations (24h, 35 total)
-0x40d16f… 2304.21 → 1.0014 rETH
-USDC 582.89 → 0.2900 WETH
-USDT 2.54 → 0.0013 WETH
-
-🌉 Cross-chain (Wormhole, 24h)
-$15.7M across 14943 txs · top route Solana → Solana
-
-
-Free signals · No advice · t.me/sgnl_free</summary>
   </entry>
 </feed>
