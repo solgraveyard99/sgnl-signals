@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T00:10:41.346Z</updated>
+  <updated>2026-11-11T00:15:41.358Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32281"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32281</id>
+    <updated>2026-11-11T00:10:42.300Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $68000 — expiry 12NOV26
+Direction: SELL
+Notional: ~$2210K
+Contracts: 30
+Implied vol: 65.5%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/32280"/>
@@ -786,17 +804,5 @@ Alerts fired (24h):
 All observations timestamped. Methodology public.
 
 #onchain #dailydigest</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/32231"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32231</id>
-    <updated>2026-11-10T08:36:01.451Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.053030323 gwei  ·  Safe: 0.052030323 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
