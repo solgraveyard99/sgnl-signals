@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T12:20:41.412Z</updated>
+  <updated>2026-11-11T12:25:41.394Z</updated>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32316"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32316</id>
+    <updated>2026-11-11T12:20:50.851Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 7.4% below 30d average
+Ratio: 0.926 (threshold 0.95)
+Current price: $73722
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
   <entry>
     <title>📊 Activity summary · 1 active observation</title>
     <link href="https://t.me/sgnl_free/32315"/>
@@ -834,22 +847,5 @@ Miners are dropping off — usually coincides with or precedes local bottom with
 Tier: TIER2
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 15.6% APY</title>
-    <link href="https://t.me/sgnl_free/32266"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32266</id>
-    <updated>2026-11-10T20:50:32.587Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 15.6% APY
-ember / USDC on Ethereum
-Base: 15.6%  ·  Rewards: n/a  ·  TVL: $18.0M
-
-💡 +8.6% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/4ae1f481-ae46-5a2c-82a2-13e192180594</summary>
   </entry>
 </feed>
