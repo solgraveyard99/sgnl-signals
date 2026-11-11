@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T13:55:41.404Z</updated>
+  <updated>2026-11-11T14:00:41.407Z</updated>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-11-11</title>
+    <link href="https://t.me/sgnl_free/32320"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32320</id>
+    <updated>2026-11-11T14:00:17.471Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-11-11
+Composite score: 40/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Gas Check · 24h</title>
     <link href="https://t.me/sgnl_free/32319"/>
@@ -831,22 +842,5 @@ Statistical pattern. Not financial advice.</summary>
 Tier: TIER2
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 15.2% APY</title>
-    <link href="https://t.me/sgnl_free/32270"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32270</id>
-    <updated>2026-11-10T21:50:40.561Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 15.2% APY
-kamino-lend / USDC on Solana
-Base: 15.2%  ·  Rewards: n/a  ·  TVL: $15.7M
-
-💡 +8.2% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/058afa77-d1cc-537c-9c28-1da002b45631</summary>
   </entry>
 </feed>
