@@ -5,7 +5,56 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T00:50:41.347Z</updated>
+  <updated>2026-11-11T00:55:41.356Z</updated>
+  <entry>
+    <title>🔴 STABLECOIN BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/32291"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32291</id>
+    <updated>2026-11-11T00:51:00.872Z</updated>
+    <summary type="text">🔴 STABLECOIN BURN · USDC
+Supply change 24h: -$507M
+New supply: $70.03B
+
+Net supply contraction event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32290"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32290</id>
+    <updated>2026-11-11T00:50:45.159Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $75000 — expiry 13NOV26
+Direction: SELL
+Notional: ~$705K
+Contracts: 9.6
+Implied vol: 38.0%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32289"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32289</id>
+    <updated>2026-11-11T00:50:44.736Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $73000 — expiry 14NOV26
+Direction: BUY
+Notional: ~$1227K
+Contracts: 16.7
+Implied vol: 38.6%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32288"/>
@@ -752,51 +801,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⏰ 1-hour warning · 🔴 HIGH IMPACT</title>
-    <link href="https://t.me/sgnl_free/32241"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32241</id>
-    <updated>2026-11-10T12:20:45.699Z</updated>
-    <summary type="text">⏰ 1-hour warning · 🔴 HIGH IMPACT
-US CPI (October 2026) macro
-When: Tue, 10 Nov 2026 13:30:00 UTC
-
-Consumer Price Index release by the U.S. Bureau of Labor Statistics, 8:30 a.m. ET. Schedule reminder only, not advice.
-
-details ↗</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 1 active observation</title>
-    <link href="https://t.me/sgnl_free/32240"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32240</id>
-    <updated>2026-11-10T12:15:47.471Z</updated>
-    <summary type="text">📊 Activity summary · 1 active observation
-
-Top 1 by size:
-• 🚨 Depeg watch: FDUSD at $0.9965
-
-On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/32239"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32239</id>
-    <updated>2026-11-10T12:01:01.038Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $261.8B  (24h: $-900M)
-
-🔴 USDT: $176.23B  ($-570M)
-🔴 USDC: $70.27B  ($-263M)
-⚪ USDS: $5.39B  ($-47M)
-⚪ USDe: $4.96B  ($-12M)
-⚪ DAI: $4.66B  ($-8M)
-⚪ FDUSD: $0.28B  ($-0M)
-
-📊 Net supply Δ24h: -$900M (contraction band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
