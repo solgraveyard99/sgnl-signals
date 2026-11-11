@@ -5,7 +5,80 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T00:30:41.340Z</updated>
+  <updated>2026-11-11T00:35:41.346Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32286"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32286</id>
+    <updated>2026-11-11T00:30:50.384Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0001 SOL
+• 99th: 0.0137 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32285"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32285</id>
+    <updated>2026-11-11T00:30:49.973Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $80000 — expiry 27NOV26
+Direction: SELL
+Notional: ~$1014K
+Contracts: 13.8
+Implied vol: 36.8%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32284"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32284</id>
+    <updated>2026-11-11T00:30:49.601Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $60000 — expiry 24SEP27
+Direction: BUY
+Notional: ~$734K
+Contracts: 10
+Implied vol: 43.0%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32283"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32283</id>
+    <updated>2026-11-11T00:30:48.999Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $68000 — expiry 12NOV26
+Direction: SELL
+Notional: ~$2075K
+Contracts: 28.2
+Implied vol: 65.0%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>📊 Activity summary · 1 active observation</title>
     <link href="https://t.me/sgnl_free/32282"/>
@@ -733,74 +806,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDT</title>
-    <link href="https://t.me/sgnl_free/32236"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32236</id>
-    <updated>2026-11-10T10:50:46.029Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDT
-Supply change 24h: -$570M
-New supply: $176.23B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛏️ BTC HASH RATE CAPITULATION</title>
-    <link href="https://t.me/sgnl_free/32235"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32235</id>
-    <updated>2026-11-10T10:20:50.321Z</updated>
-    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
-
-7d hash rate is 7.0% below 30d average
-Ratio: 0.930 (threshold 0.95)
-Current price: $75215
-
-Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 947.99 ETH (~$2.0M) · 09:34 UTC</title>
-    <link href="https://t.me/sgnl_free/32234"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32234</id>
-    <updated>2026-11-10T09:42:51.719Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 947.99 ETH (~$2.0M) · 09:34 UTC
-From: 0x3d5d…f232
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xff54bed24de6d6a9a81a6e1aaa0eb56a9736412209527722566a2f58657a237e
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2483.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-11-09</title>
-    <link href="https://t.me/sgnl_free/32233"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32233</id>
-    <updated>2026-11-10T09:00:19.481Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-11-09
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 16
-Median peak spike (top 50): 6.4x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump MAYA: 24.0x  vol1h=$552.9K  price1h +1584.0%
-  🟢 pump GINGATO: 24.0x  vol1h=$2.64M  price1h +959.0%
-  🟢 pump HWAN: 24.0x  vol1h=$524.9K  price1h +680.0%
-  🟢 pump MILES: 24.0x  vol1h=$14.3K  price1h +197.0%
-  🟢 pump Steve: 24.0x  vol1h=$124.7K  price1h +123.0%
-  🟢 pump GTA: 24.0x  vol1h=$52.0K  price1h +81.4%
-  🔴 dump WAITING: 24.0x  vol1h=$5.9K  price1h -23.9%
-  🟢 pump HODLER: 18.8x  vol1h=$22.0K  price1h +682.0%
-  🟢 pump GTA6KODAK: 14.0x  vol1h=$23.1K  price1h +84.9%
-  🟢 pump timmy: 12.1x  vol1h=$185.0K  price1h +93.3%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
