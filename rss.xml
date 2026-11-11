@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T02:55:41.354Z</updated>
+  <updated>2026-11-11T03:00:41.356Z</updated>
+  <entry>
+    <title>🍯 Solana Honeypot / Trap Watch — 2026-11-10</title>
+    <link href="https://t.me/sgnl_free/32296"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32296</id>
+    <updated>2026-11-11T03:00:06.846Z</updated>
+    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-11-10
+
+Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 1
+Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
+
+Top 1 suspicious patterns yesterday:
+  ⚠ HONEYPOT? MAYA: 1027:11 buys:sells  vol1h=$39  liq=$1.48M  price1h -0%
+
+How to read:
+  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
+  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
+
+NOT a guarantee — thin sell side can be legitimate for very fresh launches.
+Always test with small amount before sizing up. Use rugcheck.xyz to verify.
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32295"/>
@@ -782,19 +803,5 @@ Composite score: 20/100
 
 Raw composite reading. No directional interpretation.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/32246"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32246</id>
-    <updated>2026-11-10T13:35:46.876Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.397553772 gwei (fast)  ·  🟢 cheap
-Safe: 0.361412518  ·  Propose: 0.397553769  ·  BaseFee: 0.3614
-
-24h range: 0.04–2.04 gwei  (avg 0.18)
-
-Simple transfer cost now: ~$0.0209</summary>
   </entry>
 </feed>
