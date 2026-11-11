@@ -5,7 +5,47 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T08:55:41.381Z</updated>
+  <updated>2026-11-11T09:00:41.384Z</updated>
+  <entry>
+    <title>🌋 Solana Volume Spike Digest — 2026-11-10</title>
+    <link href="https://t.me/sgnl_free/32309"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32309</id>
+    <updated>2026-11-11T09:00:12.416Z</updated>
+    <summary type="text">🌋 Solana Volume Spike Digest — 2026-11-10
+
+Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 12
+Median peak spike (top 50): 4.7x
+
+Top 10 by peak spike ratio (volume1h / avg-hourly):
+  🟢 pump OnlyCats: 24.0x  vol1h=$671.9K  price1h +2309.0%
+  🟢 pump DACITY: 24.0x  vol1h=$577.4K  price1h +1804.0%
+  🟢 pump MUBBO: 24.0x  vol1h=$314.3K  price1h +192.0%
+  🟢 pump CASINO: 24.0x  vol1h=$5.3K  price1h +42.3%
+  🟢 pump Looby: 15.0x  vol1h=$70.3K  price1h +70.5%
+  🔴 dump HELL: 12.9x  vol1h=$113.8K  price1h -83.1%
+  🔴 dump TURKEY: 8.2x  vol1h=$5.8K  price1h -6.1%
+  🟢 pump CLMFND: 8.0x  vol1h=$128.5K  price1h +436.0%
+  🟢 pump CBUCKS: 7.9x  vol1h=$191.8K  price1h +26.1%
+  🟢 pump BIG: 6.8x  vol1h=$69.5K  price1h +77.0%
+
+Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
+Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
+Source: DexScreener Solana scanner. DYOR.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-11-10</title>
+    <link href="https://t.me/sgnl_free/32308"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32308</id>
+    <updated>2026-11-11T09:00:12.000Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-11-10
+
+Alerts fired (24h):
+• Funding divergence: 2
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/32307"/>
@@ -785,36 +825,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 BTC: $72,959 | SOL: $81.96
 Market activity index: 20/100 (low band)
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>⛏️ BTC HASH RATE CAPITULATION</title>
-    <link href="https://t.me/sgnl_free/32259"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32259</id>
-    <updated>2026-11-10T16:50:59.964Z</updated>
-    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
-
-7d hash rate is 7.0% below 30d average
-Ratio: 0.930 (threshold 0.95)
-Current price: $75215
-
-Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 16.6% APY</title>
-    <link href="https://t.me/sgnl_free/32258"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32258</id>
-    <updated>2026-11-10T16:50:32.375Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 16.6% APY
-ember / USDC on Ethereum
-Base: 16.6%  ·  Rewards: n/a  ·  TVL: $5.8M
-
-💡 +9.6% vs typical lending (7%). Worth switching if you&apos;re in a lower-yield pool.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol freshness unknown — verify audits
-
-Pool details: https://defillama.com/yields/pool/99989c4e-cf3b-5936-89fa-769f7e56cd34</summary>
   </entry>
 </feed>
