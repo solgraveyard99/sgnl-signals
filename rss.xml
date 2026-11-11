@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T12:00:41.398Z</updated>
+  <updated>2026-11-11T12:05:41.408Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/32314"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32314</id>
+    <updated>2026-11-11T12:01:00.550Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $261.1B  (24h: $-878M)
+
+🔴 USDT: $175.73B  ($-516M)
+🔴 USDC: $70.10B  ($-272M)
+⚪ USDS: $5.36B  ($-41M)
+⚪ USDe: $4.93B  ($-47M)
+⚪ DAI: $4.66B  ($-1M)
+⚪ FDUSD: $0.28B  (+$0M)
+
+📊 Net supply Δ24h: -$878M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽ Solana Priority Fee Report — 2026-11-10</title>
     <link href="https://t.me/sgnl_free/32313"/>
@@ -830,17 +851,5 @@ Fast: 0.168958667 gwei  ·  Safe: 0.148958667 gwei
 A cheaper time for routine transactions you already planned, for example revoking old token approvals.
 Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32264"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32264</id>
-    <updated>2026-11-10T19:50:53.082Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$538.7M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
   </entry>
 </feed>
