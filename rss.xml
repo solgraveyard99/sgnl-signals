@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T10:20:41.401Z</updated>
+  <updated>2026-11-11T10:25:41.384Z</updated>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32311"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32311</id>
+    <updated>2026-11-11T10:21:01.831Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 7.4% below 30d average
+Ratio: 0.926 (threshold 0.95)
+Current price: $73722
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 996.45 ETH (~$2.0M) · 09:51 UTC</title>
     <link href="https://t.me/sgnl_free/32310"/>
@@ -815,22 +828,5 @@ Miners are dropping off — usually coincides with or precedes local bottom with
 Tier: TIER2
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2,539,116 USDC (~$2.5M) · 17:07 UTC</title>
-    <link href="https://t.me/sgnl_free/32261"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32261</id>
-    <updated>2026-11-10T17:12:42.715Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2,539,116 USDC (~$2.5M) · 17:07 UTC
-From: 0xa9d1…3e43
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xeeba7af570f188ccac6fb1915f9571b61dd9b0e6150ced8dbaf91dc070376506
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2600.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
