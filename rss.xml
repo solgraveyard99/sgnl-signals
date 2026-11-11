@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T01:20:41.354Z</updated>
+  <updated>2026-11-11T01:25:41.341Z</updated>
+  <entry>
+    <title>⛏️ BTC HASH RATE CAPITULATION</title>
+    <link href="https://t.me/sgnl_free/32292"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32292</id>
+    <updated>2026-11-11T01:20:59.976Z</updated>
+    <summary type="text">⛏️ BTC HASH RATE CAPITULATION
+
+7d hash rate is 7.4% below 30d average
+Ratio: 0.926 (threshold 0.95)
+Current price: $75215
+
+Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
+  </entry>
   <entry>
     <title>🔴 STABLECOIN BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32291"/>
@@ -784,22 +797,5 @@ Ratio: 0.930 (threshold 0.95)
 Current price: $75215
 
 Miners are dropping off — usually coincides with or precedes local bottom within 30 days. Historical precedents: 2018-12 ($3.2K bottom), 2021-06 ($28K bottom), 2022-11 ($15K bottom).</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,396,138 USDT (~$1.4M) · 12:38 UTC</title>
-    <link href="https://t.me/sgnl_free/32242"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32242</id>
-    <updated>2026-11-10T12:42:42.531Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,396,138 USDT (~$1.4M) · 12:38 UTC
-From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x76ec…66ed
-Tx: https://etherscan.io/tx/0xbfd791fc2526570f99c5924c86fb9025f29bbb8bb0c83fac11db4e13e11e36bf
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2530.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
