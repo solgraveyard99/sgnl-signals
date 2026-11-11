@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-10T23:55:41.344Z</updated>
+  <updated>2026-11-11T00:00:41.359Z</updated>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/32277"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32277</id>
+    <updated>2026-11-11T00:00:30.663Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $73,768 (24h: −2.1%) | SOL: $83.39 (24h: −3.8%)
+Market activity index: 20/100 (low band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
+  <entry>
+    <title>🪦 Solana Token Graveyard Daily Report — 2026-11-10</title>
+    <link href="https://t.me/sgnl_free/32276"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32276</id>
+    <updated>2026-11-11T00:00:04.499Z</updated>
+    <summary type="text">🪦 Solana Token Graveyard Daily Report — 2026-11-10
+
+24h state transitions tracked: 188
+  💀 Died (gone): 96
+  😴 Went dormant: 65
+
+Top 10 biggest deaths (by liquidity at time of death):
+  💀 SWARM: had $0 liquidity · died at age 29.3d
+  💀 RSI: had $0 liquidity · died at age 29.3d
+  💀 SAPIJIJU: had $0 liquidity · died at age 29.3d
+  💀 duge: had $0 liquidity · died at age 29.3d
+  💀 AUCTION: had $0 liquidity · died at age 29.3d
+  💀 WEDNESDAY: had $0 liquidity · died at age 29.3d
+  💀 BUTTHOLE: had $0 liquidity · died at age 18.6d
+  💀 ARTEX: had $0 liquidity · died at age 18.6d
+  💀 UberChad: had $0 liquidity · died at age 18.6d
+  💀 Private: had $0 liquidity · died at age 18.6d
+
+How tokens die: bonding curve drains, liquidity removed, dev abandons, or volume drops to zero.
+Companion to morning survival report (06:00 UTC).
+Source: SGNL graveyard tracker — observes state transitions on Solana DEX universe.
+DYOR.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3,300,001 USDT (~$3.3M) · 23:21 UTC</title>
     <link href="https://t.me/sgnl_free/32275"/>
@@ -756,36 +795,5 @@ $15.7M across 14943 txs · top route Solana → Solana
 
 
 Free signals · No advice · t.me/sgnl_free</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32227"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32227</id>
-    <updated>2026-11-10T07:50:44.849Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$779.6M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/32226"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32226</id>
-    <updated>2026-11-10T06:56:47.346Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0030 SOL
-• 95th: 0.0030 SOL
-• 99th: 0.0145 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
