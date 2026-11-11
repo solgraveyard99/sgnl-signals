@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-11T08:15:41.378Z</updated>
+  <updated>2026-11-11T08:20:41.383Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32306"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32306</id>
+    <updated>2026-11-11T08:19:49.173Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0014 SOL
+• 99th: 0.0415 SOL (~$4)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>📡 SGNL Daily Digest · 2026-11-10</title>
     <link href="https://t.me/sgnl_free/32305"/>
@@ -802,20 +821,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE CARRY · SOL</title>
-    <link href="https://t.me/sgnl_free/32256"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32256</id>
-    <updated>2026-11-10T16:05:48.907Z</updated>
-    <summary type="text">🔀 CROSS-VENUE CARRY · SOL
-Spread: 0.0067%/hr  (58.6% APR gross)
-
-🟢 LONG  on Gate  (funding -0.0066%/hr)
-🔴 SHORT on BingX  (funding 0.0001%/hr)
-
-Expected net: ~54% APR after ~16bps round-trip fees.
-Market-neutral if sized equally. Minimum 1 funding cycle (8h) to realize.
-monitor mode · no orders placed</summary>
   </entry>
 </feed>
