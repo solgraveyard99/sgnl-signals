@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-12T21:42:04.892Z</updated>
+  <updated>2026-11-12T21:47:04.880Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 4,993,500 USDC (~$5.0M) · 21:36 UTC</title>
+    <link href="https://t.me/sgnl_free/32394"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32394</id>
+    <updated>2026-11-12T21:42:42.587Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 4,993,500 USDC (~$5.0M) · 21:36 UTC
+From: 0xa9d1…3e43
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xcd4e7673b1ce16801e47e39878fc53dacfa97bd7a00233a6c44cb2a9eaa504be
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2714.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32393"/>
@@ -824,18 +841,5 @@ BTC: $73,929 (24h: +0.2%) | SOL: $83.00 (24h: −0.4%)
 Market activity index: 40/100 (low band)
 Next snapshot: 17:00 UTC
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDT</title>
-    <link href="https://t.me/sgnl_free/32333"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32333</id>
-    <updated>2026-11-11T22:50:46.063Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDT
-Supply change 24h: -$596M
-New supply: $175.67B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
