@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-12T19:22:04.874Z</updated>
+  <updated>2026-11-12T19:27:04.867Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 5,000,000 USDT (~$5.0M) · 19:21 UTC</title>
+    <link href="https://t.me/sgnl_free/32388"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32388</id>
+    <updated>2026-11-12T19:22:52.115Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 5,000,000 USDT (~$5.0M) · 19:21 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xed89…60e7
+Tx: https://etherscan.io/tx/0xea45ead4b6cf4094a47e75aed3b857a710d30c259f324c66ab092e9a374010ee
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2740.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>💰 STABLECOIN YIELD · 16.1% APY</title>
     <link href="https://t.me/sgnl_free/32387"/>
@@ -818,18 +835,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 BTC: $74,298 | SOL: $84.78
 Market activity index: 60/100 (high band)
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE FUNDING GAP · SOL</title>
-    <link href="https://t.me/sgnl_free/32325"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32325</id>
-    <updated>2026-11-11T16:03:43.466Z</updated>
-    <summary type="text">🔀 CROSS-VENUE FUNDING GAP · SOL
-Funding gap: 0.0033%/hr (28.9% APR, before fees)
-
-Lowest: Gate -0.0022%/hr vs highest: MEXC 0.0011%/hr
-
-monitor mode · no orders placed
-Not financial advice.</summary>
   </entry>
 </feed>
