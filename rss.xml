@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-12T13:27:04.837Z</updated>
+  <updated>2026-11-12T13:32:04.834Z</updated>
+  <entry>
+    <title>🏦 Exchange reserves · 13 monitored wallets</title>
+    <link href="https://t.me/sgnl_free/32378"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32378</id>
+    <updated>2026-11-12T13:30:38.446Z</updated>
+    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
+
+Total: $14.34B · 24h net change −$6M (-0.04%)
+
+ETH: 166.8K  ($337M)
+USDT: $14001M
+USDC: $0.1M
+DAI: $0.00M
+
+Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,498,015 USDT (~$1.5M) · 13:17 UTC</title>
     <link href="https://t.me/sgnl_free/32377"/>
@@ -808,22 +825,5 @@ Safe: 0.094757066  ·  Propose: 0.094757077  ·  BaseFee: 0.0948
 24h range: 0.04–3.96 gwei  (avg 0.24)
 
 Simple transfer cost now: ~$0.0051</summary>
-  </entry>
-  <entry>
-    <title>🏦 Exchange reserves · 13 monitored wallets</title>
-    <link href="https://t.me/sgnl_free/32318"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32318</id>
-    <updated>2026-11-11T13:30:37.946Z</updated>
-    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
-
-Total: $14.34B · 24h net change −$6M (-0.04%)
-
-ETH: 166.8K  ($343M)
-USDT: $14001M
-USDC: $0.1M
-DAI: $0.00M
-
-Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
