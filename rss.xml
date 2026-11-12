@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-12T12:57:04.833Z</updated>
+  <updated>2026-11-12T13:02:04.851Z</updated>
+  <entry>
+    <title>🌅 Morning Brief · 2026-11-12</title>
+    <link href="https://t.me/sgnl_free/32375"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32375</id>
+    <updated>2026-11-12T13:01:00.973Z</updated>
+    <summary type="text">🌅 Morning Brief · 2026-11-12
+
+🐋 Whale flow (24h)
+No $5M+ transfers recorded at monitored exchange wallets
+
+⚡ Perp funding snapshot
+BTC ⚪ neutral funding (HL)
+ETH ⚪ neutral funding (HL)
+SOL ⚪ neutral funding (HL)
+
+💰 Top yields right now
+Stables: 32.0% · midas-rwa/USDC @ Ethereum
+ETH/LST: 6.6% · ipor-fusion/WETH @ Ethereum
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>📅 Day-ahead · 🟡 Medium impact</title>
+    <link href="https://t.me/sgnl_free/32374"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32374</id>
+    <updated>2026-11-12T13:00:45.093Z</updated>
+    <summary type="text">📅 Day-ahead · 🟡 Medium impact
+US PPI (October 2026) macro
+When: Fri, 13 Nov 2026 13:30:00 UTC
+
+Producer Price Index release by the U.S. Bureau of Labor Statistics, 8:30 a.m. ET. Schedule reminder only, not advice.
+
+details ↗</summary>
+  </entry>
   <entry>
     <title>📊 Activity summary · 1 active observation</title>
     <link href="https://t.me/sgnl_free/32373"/>
@@ -790,52 +824,5 @@ Top 1 by size:
 • 🚨 Depeg watch: FDUSD at $0.9964
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/32314"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32314</id>
-    <updated>2026-11-11T12:01:00.550Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $261.1B  (24h: $-878M)
-
-🔴 USDT: $175.73B  ($-516M)
-🔴 USDC: $70.10B  ($-272M)
-⚪ USDS: $5.36B  ($-41M)
-⚪ USDe: $4.93B  ($-47M)
-⚪ DAI: $4.66B  ($-1M)
-⚪ FDUSD: $0.28B  (+$0M)
-
-📊 Net supply Δ24h: -$878M (contraction band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-11-10</title>
-    <link href="https://t.me/sgnl_free/32313"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32313</id>
-    <updated>2026-11-11T12:00:04.553Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-10
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    5.9K μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: → 0% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 214.3K μlamp | Orca: 200.0K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
