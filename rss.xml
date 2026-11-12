@@ -5,7 +5,54 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-12T11:57:04.849Z</updated>
+  <updated>2026-11-12T12:02:04.841Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/32372"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32372</id>
+    <updated>2026-11-12T12:00:53.208Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $260.5B  (24h: $-517M)
+
+⚪ USDT: $175.64B  ($-78M)
+🔴 USDC: $69.72B  ($-415M)
+⚪ USDS: $5.37B  (+$59M)
+⚪ USDe: $4.89B  ($-49M)
+⚪ DAI: $4.64B  ($-34M)
+⚪ FDUSD: $0.28B  ($-0M)
+
+📊 Net supply Δ24h: -$517M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-11-11</title>
+    <link href="https://t.me/sgnl_free/32371"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32371</id>
+    <updated>2026-11-12T12:00:13.316Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-11
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    46.17M μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 263.8K μlamp | Orca: 200.4K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>📊 Daily on-chain digest — 2026-11-11</title>
     <link href="https://t.me/sgnl_free/32368"/>
@@ -791,48 +838,5 @@ New supply: $175.72B
 Net supply contraction event. Descriptive observation only.
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 996.45 ETH (~$2.0M) · 09:51 UTC</title>
-    <link href="https://t.me/sgnl_free/32310"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32310</id>
-    <updated>2026-11-11T09:52:49.526Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 996.45 ETH (~$2.0M) · 09:51 UTC
-From: 0x6781…6a83
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x9c6a999fec7f12ab2b7b5d38936495dbbe2e8fc1cc4099f1eeb67dac373dff6f
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2715.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🌋 Solana Volume Spike Digest — 2026-11-10</title>
-    <link href="https://t.me/sgnl_free/32309"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32309</id>
-    <updated>2026-11-11T09:00:12.416Z</updated>
-    <summary type="text">🌋 Solana Volume Spike Digest — 2026-11-10
-
-Yesterday&apos;s tokens with &gt;5x hourly volume vs daily baseline: 12
-Median peak spike (top 50): 4.7x
-
-Top 10 by peak spike ratio (volume1h / avg-hourly):
-  🟢 pump OnlyCats: 24.0x  vol1h=$671.9K  price1h +2309.0%
-  🟢 pump DACITY: 24.0x  vol1h=$577.4K  price1h +1804.0%
-  🟢 pump MUBBO: 24.0x  vol1h=$314.3K  price1h +192.0%
-  🟢 pump CASINO: 24.0x  vol1h=$5.3K  price1h +42.3%
-  🟢 pump Looby: 15.0x  vol1h=$70.3K  price1h +70.5%
-  🔴 dump HELL: 12.9x  vol1h=$113.8K  price1h -83.1%
-  🔴 dump TURKEY: 8.2x  vol1h=$5.8K  price1h -6.1%
-  🟢 pump CLMFND: 8.0x  vol1h=$128.5K  price1h +436.0%
-  🟢 pump CBUCKS: 7.9x  vol1h=$191.8K  price1h +26.1%
-  🟢 pump BIG: 6.8x  vol1h=$69.5K  price1h +77.0%
-
-Spike ratio = peak hourly volume / 24h-average hourly volume (caps at 24).
-Filter: pair age &gt;6h, liquidity &gt;$10K, peak vol1h &gt;$5K, abs(price1h)&lt;10000% (drops genesis-data artifacts).
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
