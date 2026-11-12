@@ -5,7 +5,46 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-12T00:02:04.769Z</updated>
+  <updated>2026-11-12T00:07:04.784Z</updated>
+  <entry>
+    <title>💰 ETH/LST YIELD · 21.3% APY</title>
+    <link href="https://t.me/sgnl_free/32347"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32347</id>
+    <updated>2026-11-12T00:03:16.731Z</updated>
+    <summary type="text">💰 ETH/LST YIELD · 21.3% APY
+ipor-fusion / CBETH on Base
+Base: 21.3%  ·  Rewards: 0.0%  ·  TVL: $5.0M
+
+Quoted APY is 17.3 points above a 4% lending benchmark.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol not on the established list; audit status not checked here
+
+Pool details: https://defillama.com/yields/pool/8d8b3ef8-1fee-4314-8cae-cdde303e4947
+
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 32.0% APY</title>
+    <link href="https://t.me/sgnl_free/32346"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32346</id>
+    <updated>2026-11-12T00:03:01.070Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 32.0% APY
+midas-rwa / USDC on Ethereum
+Base: 32.0%  ·  Rewards: n/a  ·  TVL: $19.8M
+
+Quoted APY is 25.0 points above a 7% lending benchmark.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ protocol not on the established list; audit status not checked here
+
+Pool details: https://defillama.com/yields/pool/15cc07d7-3ffc-49e6-8500-deaeb414e32d
+
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/32345"/>
@@ -797,43 +836,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0000 SOL
 • 95th: 0.0001 SOL
 • 99th: 0.0509 SOL (~$5)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32287"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32287</id>
-    <updated>2026-11-11T00:40:42.257Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $72500 — expiry 14NOV26
-Direction: BUY
-Notional: ~$641K
-Contracts: 8.7
-Implied vol: 40.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/32286"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32286</id>
-    <updated>2026-11-11T00:30:50.384Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0001 SOL
-• 99th: 0.0137 SOL (~$1)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
