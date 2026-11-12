@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-12T12:12:04.834Z</updated>
+  <updated>2026-11-12T12:17:04.839Z</updated>
+  <entry>
+    <title>📊 Activity summary · 1 active observation</title>
+    <link href="https://t.me/sgnl_free/32373"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32373</id>
+    <updated>2026-11-12T12:15:55.437Z</updated>
+    <summary type="text">📊 Activity summary · 1 active observation
+
+Top 1 by size:
+• 🚨 Depeg watch: FDUSD at $0.9961
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>💵 Stablecoin Supply Check</title>
     <link href="https://t.me/sgnl_free/32372"/>
@@ -825,18 +837,5 @@ Cross-DEX yesterday medians:
 
 Source: live Solana RPC + Jupiter/Raydium/Orca quotes
 Fees change in seconds. DYOR before tx.</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDT</title>
-    <link href="https://t.me/sgnl_free/32312"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32312</id>
-    <updated>2026-11-11T10:50:49.245Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDT
-Supply change 24h: -$516M
-New supply: $175.72B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
