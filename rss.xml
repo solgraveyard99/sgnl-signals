@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-12T00:12:04.773Z</updated>
+  <updated>2026-11-12T00:17:04.779Z</updated>
+  <entry>
+    <title>📊 Activity summary · 2 active observations</title>
+    <link href="https://t.me/sgnl_free/32349"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32349</id>
+    <updated>2026-11-12T00:15:52.865Z</updated>
+    <summary type="text">📊 Activity summary · 2 active observations
+
+Top 2 by size:
+• 🔀 Cross-venue funding divergence: SOL 26% APR spread
+• 🚨 Depeg watch: FDUSD at $0.9965
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>🔀 CROSS-VENUE FUNDING GAP · SOL</title>
     <link href="https://t.me/sgnl_free/32348"/>
@@ -813,24 +826,6 @@ Direction: SELL
 Notional: ~$705K
 Contracts: 9.6
 Implied vol: 38.0%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32289"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32289</id>
-    <updated>2026-11-11T00:50:44.736Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $73000 — expiry 14NOV26
-Direction: BUY
-Notional: ~$1227K
-Contracts: 16.7
-Implied vol: 38.6%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
