@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-12T13:32:04.834Z</updated>
+  <updated>2026-11-12T13:37:04.825Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/32379"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32379</id>
+    <updated>2026-11-12T13:35:46.870Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.526001847 gwei (fast)  ·  🟢 cheap
+Safe: 0.430363517  ·  Propose: 0.431395138  ·  BaseFee: 0.4304
+
+24h range: 0.04–0.62 gwei  (avg 0.15)
+
+Simple transfer cost now: ~$0.0276</summary>
+  </entry>
   <entry>
     <title>🏦 Exchange reserves · 13 monitored wallets</title>
     <link href="https://t.me/sgnl_free/32378"/>
@@ -811,19 +825,5 @@ Composite score: 40/100
 
 Raw composite reading. No directional interpretation.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/32319"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32319</id>
-    <updated>2026-11-11T13:35:46.988Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.097757097 gwei (fast)  ·  🟢 cheap
-Safe: 0.094757066  ·  Propose: 0.094757077  ·  BaseFee: 0.0948
-
-24h range: 0.04–3.96 gwei  (avg 0.24)
-
-Simple transfer cost now: ~$0.0051</summary>
   </entry>
 </feed>
