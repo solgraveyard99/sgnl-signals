@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-12T01:32:04.773Z</updated>
+  <updated>2026-11-12T01:37:04.768Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32356"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32356</id>
+    <updated>2026-11-12T01:36:48.285Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0008 SOL
+• 99th: 0.7393 SOL (~$74)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32354"/>
@@ -822,26 +841,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🍯 Solana Honeypot / Trap Watch — 2026-11-10</title>
-    <link href="https://t.me/sgnl_free/32296"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32296</id>
-    <updated>2026-11-11T03:00:06.846Z</updated>
-    <summary type="text">🍯 Solana Honeypot / Trap Watch — 2026-11-10
-
-Tokens flagged with buy/sell asymmetry suggesting honeypot risk: 1
-Tokens flagged with extreme buy bias + price still pumping (trap setup): 0
-
-Top 1 suspicious patterns yesterday:
-  ⚠ HONEYPOT? MAYA: 1027:11 buys:sells  vol1h=$39  liq=$1.48M  price1h -0%
-
-How to read:
-  HONEYPOT? = sells ≤2 (suspected unable-to-sell) OR ≥50:1 buy:sell ratio at scale
-  TRAP?     = &gt;500 buys, &gt;30:1 ratio, price still pumping → classic pump-then-trap setup
-
-NOT a guarantee — thin sell side can be legitimate for very fresh launches.
-Always test with small amount before sizing up. Use rugcheck.xyz to verify.
-Source: DexScreener Solana scanner. DYOR.</summary>
   </entry>
 </feed>
