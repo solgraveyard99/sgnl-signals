@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-13T07:59:39.801Z</updated>
+  <updated>2026-11-13T08:04:39.811Z</updated>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-11-12</title>
+    <link href="https://t.me/sgnl_free/32439"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32439</id>
+    <updated>2026-11-13T08:00:03.188Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-11-12
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 51 total)
+USDC 566066.24 → 5282.9591 0x7fc665…
+USDT 224457.95 → 94.5226 wstETH
+USDT 77788.80 → 1.1203 WBTC
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>⏳ Token Unlock · advance notice (on or about)</title>
     <link href="https://t.me/sgnl_free/32438"/>
@@ -789,19 +805,5 @@ Composite score: 20/100
 
 Raw composite reading. No directional interpretation.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/32379"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32379</id>
-    <updated>2026-11-12T13:35:46.870Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.526001847 gwei (fast)  ·  🟢 cheap
-Safe: 0.430363517  ·  Propose: 0.431395138  ·  BaseFee: 0.4304
-
-24h range: 0.04–0.62 gwei  (avg 0.15)
-
-Simple transfer cost now: ~$0.0276</summary>
   </entry>
 </feed>
