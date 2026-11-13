@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-13T08:59:39.823Z</updated>
+  <updated>2026-11-13T09:04:39.813Z</updated>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-11-12</title>
+    <link href="https://t.me/sgnl_free/32442"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32442</id>
+    <updated>2026-11-13T09:00:02.998Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-11-12
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/32441"/>
@@ -786,25 +797,5 @@ Not financial advice.</summary>
 BTC: $71,688 | SOL: $81.45
 Market activity index: 10/100 (low band)
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 27.7% APY</title>
-    <link href="https://t.me/sgnl_free/32384"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32384</id>
-    <updated>2026-11-12T16:03:01.162Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 27.7% APY
-veranta / USDC on Base
-Base: 27.7%  ·  Rewards: n/a  ·  TVL: $9.6M
-
-Quoted APY is 20.7 points above a 7% lending benchmark.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol not on the established list; audit status not checked here
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e
-
-Not financial advice.</summary>
   </entry>
 </feed>
