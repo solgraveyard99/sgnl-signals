@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-13T07:09:39.790Z</updated>
+  <updated>2026-11-13T07:14:39.810Z</updated>
+  <entry>
+    <title>🔴 Circle BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/32437"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32437</id>
+    <updated>2026-11-13T07:14:31.371Z</updated>
+    <summary type="text">🔴 Circle BURN · USDC
+
+-$597.0M in last 24h
+Tier: TIER2
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 1,023,686 USDC (~$1.0M) · 06:30 UTC</title>
     <link href="https://t.me/sgnl_free/32436"/>
@@ -791,22 +803,5 @@ DAI: $0.00M
 
 Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,498,015 USDT (~$1.5M) · 13:17 UTC</title>
-    <link href="https://t.me/sgnl_free/32377"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32377</id>
-    <updated>2026-11-12T13:22:46.756Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,498,015 USDT (~$1.5M) · 13:17 UTC
-From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0x76ec…66ed
-Tx: https://etherscan.io/tx/0x0bdf59c38a52c9f2ea33cb67c863db4a1599abbe8d596118b67df47ce46f3fa8
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2765.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
