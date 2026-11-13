@@ -5,7 +5,116 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-13T00:02:04.882Z</updated>
+  <updated>2026-11-13T00:07:04.889Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32410"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32410</id>
+    <updated>2026-11-13T00:05:59.761Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $70000 — expiry 20NOV26
+Direction: BUY
+Notional: ~$892K
+Contracts: 12.5
+Implied vol: 40.5%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32409"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32409</id>
+    <updated>2026-11-13T00:05:59.191Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $75000 — expiry 27NOV26
+Direction: BUY
+Notional: ~$714K
+Contracts: 10
+Implied vol: 34.8%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32408"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32408</id>
+    <updated>2026-11-13T00:05:58.766Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $67000 — expiry 15NOV26
+Direction: SELL
+Notional: ~$1785K
+Contracts: 25
+Implied vol: 52.3%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32407"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32407</id>
+    <updated>2026-11-13T00:05:58.314Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $68000 — expiry 14NOV26
+Direction: SELL
+Notional: ~$1785K
+Contracts: 25
+Implied vol: 59.7%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32406"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32406</id>
+    <updated>2026-11-13T00:05:42.680Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $70000 — expiry 20NOV26
+Direction: BUY
+Notional: ~$893K
+Contracts: 12.5
+Implied vol: 40.6%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 32.0% APY</title>
+    <link href="https://t.me/sgnl_free/32405"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32405</id>
+    <updated>2026-11-13T00:03:01.065Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 32.0% APY
+midas-rwa / USDC on Ethereum
+Base: 32.0%  ·  Rewards: n/a  ·  TVL: $19.8M
+
+Quoted APY is 25.0 points above a 7% lending benchmark.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ protocol not on the established list; audit status not checked here
+
+Pool details: https://defillama.com/yields/pool/15cc07d7-3ffc-49e6-8500-deaeb414e32d
+
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/32404"/>
@@ -723,111 +832,5 @@ Top 2 by size:
 • 🚨 Depeg watch: FDUSD at $0.9965
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🔀 CROSS-VENUE FUNDING GAP · SOL</title>
-    <link href="https://t.me/sgnl_free/32348"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32348</id>
-    <updated>2026-11-12T00:08:54.665Z</updated>
-    <summary type="text">🔀 CROSS-VENUE FUNDING GAP · SOL
-Funding gap: 0.0030%/hr (26.5% APR, before fees)
-
-Lowest: Gate -0.0025%/hr vs highest: BingX 0.0006%/hr
-
-monitor mode · no orders placed
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 ETH/LST YIELD · 21.3% APY</title>
-    <link href="https://t.me/sgnl_free/32347"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32347</id>
-    <updated>2026-11-12T00:03:16.731Z</updated>
-    <summary type="text">💰 ETH/LST YIELD · 21.3% APY
-ipor-fusion / CBETH on Base
-Base: 21.3%  ·  Rewards: 0.0%  ·  TVL: $5.0M
-
-Quoted APY is 17.3 points above a 4% lending benchmark.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol not on the established list; audit status not checked here
-
-Pool details: https://defillama.com/yields/pool/8d8b3ef8-1fee-4314-8cae-cdde303e4947
-
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 32.0% APY</title>
-    <link href="https://t.me/sgnl_free/32346"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32346</id>
-    <updated>2026-11-12T00:03:01.070Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 32.0% APY
-midas-rwa / USDC on Ethereum
-Base: 32.0%  ·  Rewards: n/a  ·  TVL: $19.8M
-
-Quoted APY is 25.0 points above a 7% lending benchmark.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ protocol not on the established list; audit status not checked here
-
-Pool details: https://defillama.com/yields/pool/15cc07d7-3ffc-49e6-8500-deaeb414e32d
-
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32345"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32345</id>
-    <updated>2026-11-12T00:01:01.906Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $80000 — expiry 20NOV26
-Direction: SELL
-Notional: ~$738K
-Contracts: 10
-Implied vol: 38.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32344"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32344</id>
-    <updated>2026-11-12T00:01:01.476Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $74500 — expiry 13NOV26
-Direction: BUY
-Notional: ~$517K
-Contracts: 7
-Implied vol: 36.2%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32343"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32343</id>
-    <updated>2026-11-12T00:01:00.968Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $68000 — expiry 20NOV26
-Direction: SELL
-Notional: ~$1475K
-Contracts: 20
-Implied vol: 43.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
