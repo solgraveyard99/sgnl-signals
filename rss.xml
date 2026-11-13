@@ -5,7 +5,32 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-13T12:19:39.818Z</updated>
+  <updated>2026-11-13T12:24:39.843Z</updated>
+  <entry>
+    <title>⏰ 1-hour warning · 🟡 Medium impact</title>
+    <link href="https://t.me/sgnl_free/32453"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32453</id>
+    <updated>2026-11-13T12:24:37.723Z</updated>
+    <summary type="text">⏰ 1-hour warning · 🟡 Medium impact
+US PPI (October 2026) macro
+When: Fri, 13 Nov 2026 13:30:00 UTC
+
+Producer Price Index release by the U.S. Bureau of Labor Statistics, 8:30 a.m. ET. Schedule reminder only, not advice.
+
+details ↗</summary>
+  </entry>
+  <entry>
+    <title>📊 Activity summary · 1 active observation</title>
+    <link href="https://t.me/sgnl_free/32452"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32452</id>
+    <updated>2026-11-13T12:19:52.471Z</updated>
+    <summary type="text">📊 Activity summary · 1 active observation
+
+Top 1 by size:
+• 🚨 Depeg watch: FDUSD at $0.9959
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>💵 Stablecoin Supply Check</title>
     <link href="https://t.me/sgnl_free/32451"/>
@@ -779,34 +804,5 @@ On-chain observation, not advice. No real-money trading. No paid mentions.</summ
 Tier: TIER2
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32396"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32396</id>
-    <updated>2026-11-12T22:35:51.374Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$581.5M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 4,993,500 USDC (~$5.0M) · 21:36 UTC</title>
-    <link href="https://t.me/sgnl_free/32394"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32394</id>
-    <updated>2026-11-12T21:42:42.587Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 4,993,500 USDC (~$5.0M) · 21:36 UTC
-From: 0xa9d1…3e43
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xcd4e7673b1ce16801e47e39878fc53dacfa97bd7a00233a6c44cb2a9eaa504be
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2714.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
