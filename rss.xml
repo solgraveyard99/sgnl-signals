@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-13T23:29:39.869Z</updated>
+  <updated>2026-11-13T23:34:39.871Z</updated>
+  <entry>
+    <title>⏳ Token Unlock · advance notice (on or about)</title>
+    <link href="https://t.me/sgnl_free/32479"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32479</id>
+    <updated>2026-11-13T23:34:39.442Z</updated>
+    <summary type="text">⏳ Token Unlock · advance notice (on or about)
+STRK (Starknet)
+Unlocking: up to 127.0M STRK (as stated by the project)
+When: on or about 15 Nov 2026 (UTC). Time of day not stated by the project.
+Share of circulating supply: not stated
+
+Monthly early-contributor and investor release, up to 127M STRK (1.27% of total supply). Time of day not stated by Starknet.
+
+Source: project documentation ↗
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔴 STABLECOIN BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32476"/>
@@ -745,17 +762,5 @@ Statistical pattern. Not financial advice.
 Tier: TIER2
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/32418"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32418</id>
-    <updated>2026-11-13T02:35:51.399Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.069235135 gwei  ·  Safe: 0.061941032 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
