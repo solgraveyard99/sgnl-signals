@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-13T12:44:39.827Z</updated>
+  <updated>2026-11-13T12:49:39.826Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 10000.00 ETH (~$19.6M) · 12:44 UTC</title>
+    <link href="https://t.me/sgnl_free/32455"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32455</id>
+    <updated>2026-11-13T12:46:17.238Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 10000.00 ETH (~$19.6M) · 12:44 UTC
+From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x690c…91cc
+Tx: https://etherscan.io/tx/0xe15fb80f651757f0dcd9399da4d6aabe9ca30730206231a3b529930be2d15fac
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 41.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>📤 WITHDRAWAL · Binance Cold 8</title>
+    <link href="https://t.me/sgnl_free/32454"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32454</id>
+    <updated>2026-11-13T12:45:08.685Z</updated>
+    <summary type="text">📤 WITHDRAWAL · Binance Cold 8
+10000 ETH  ($19.6M)  ←  0x690c3e…
+📊 Withdrawal · no 7-day baseline yet
+Tx: https://etherscan.io/tx/0xe15fb80f651757f0dcd9399da4d6aabe9ca30730206231a3b529930be2d15fac
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⏰ 1-hour warning · 🟡 Medium impact</title>
     <link href="https://t.me/sgnl_free/32453"/>
@@ -781,28 +811,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🌙 SGNL Evening Snapshot</title>
-    <link href="https://t.me/sgnl_free/32399"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32399</id>
-    <updated>2026-11-13T00:00:02.798Z</updated>
-    <summary type="text">🌙 SGNL Evening Snapshot
-BTC: $71,344 (24h: −3.6%) | SOL: $81.67 (24h: −1.7%)
-Market activity index: 20/100 (low band)
-Next snapshot: 17:00 UTC
-On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32397"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32397</id>
-    <updated>2026-11-12T23:50:39.513Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$688.1M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
   </entry>
 </feed>
