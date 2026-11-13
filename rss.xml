@@ -5,7 +5,19 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-13T12:54:39.824Z</updated>
+  <updated>2026-11-13T12:59:39.824Z</updated>
+  <entry>
+    <title>🔴 Circle BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/32456"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32456</id>
+    <updated>2026-11-13T12:59:31.546Z</updated>
+    <summary type="text">🔴 Circle BURN · USDC
+
+-$603.2M in last 24h
+Tier: TIER2
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 10000.00 ETH (~$19.6M) · 12:44 UTC</title>
     <link href="https://t.me/sgnl_free/32455"/>
@@ -788,24 +800,6 @@ Direction: SELL
 Notional: ~$548K
 Contracts: 7.7
 Implied vol: 35.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32400"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32400</id>
-    <updated>2026-11-13T00:00:42.682Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $71000 — expiry 14NOV26
-Direction: SELL
-Notional: ~$549K
-Contracts: 7.7
-Implied vol: 43.4%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
