@@ -5,7 +5,47 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-13T05:32:04.910Z</updated>
+  <updated>2026-11-13T05:37:04.907Z</updated>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/32428"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32428</id>
+    <updated>2026-11-13T05:35:49.564Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+[Constitutional] AIP: Approve Release of Frozen ETH and ARB
+
+DAO: arbitrumfoundation.eth
+Votes cast: 692
+Total voting power: 107353748
+Voting ends: 2026-11-16 14:30 UTC
+
+https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x83774601c51c3d35a5247d19dcef0651cde49aafa72e5eaf6f3f263411441e17
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/32427"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32427</id>
+    <updated>2026-11-13T05:35:49.195Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+[ARFC] Extend HyperLend&apos;s Friendly Fork Recognition to Elysium (Aave v3.7)
+
+DAO: aavedao.eth
+Votes cast: 20
+Total voting power: 558
+Voting ends: 2026-11-15 18:20 UTC
+
+https://snapshot.org/#/aavedao.eth/proposal/0xefca6aa727e1bef4183c0427510a8091c522aec1eaf4b98d911aed577d9595ef
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32426"/>
@@ -775,31 +815,5 @@ Cross-DEX yesterday medians:
 
 Source: live Solana RPC + Jupiter/Raydium/Orca quotes
 Fees change in seconds. DYOR before tx.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-11-11</title>
-    <link href="https://t.me/sgnl_free/32368"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32368</id>
-    <updated>2026-11-12T09:00:03.420Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-11-11
-
-Alerts fired (24h):
-• Funding divergence: 4
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/32367"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32367</id>
-    <updated>2026-11-12T08:35:53.584Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.048166432 gwei  ·  Safe: 0.043889165 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
