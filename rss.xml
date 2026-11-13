@@ -5,7 +5,44 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-13T16:14:39.853Z</updated>
+  <updated>2026-11-13T16:19:39.836Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,141,103 USDC (~$1.1M) · 16:13 UTC</title>
+    <link href="https://t.me/sgnl_free/32469"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32469</id>
+    <updated>2026-11-13T16:16:33.826Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,141,103 USDC (~$1.1M) · 16:13 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x76ec…66ed
+Tx: https://etherscan.io/tx/0x6dbc3e4a42e993a01eacd35a6912b4517435b1472d5946773b6660cb6b8b799f
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2625.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 27.9% APY</title>
+    <link href="https://t.me/sgnl_free/32468"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32468</id>
+    <updated>2026-11-13T16:14:48.734Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 27.9% APY
+veranta / USDC on Base
+Base: 27.9%  ·  Rewards: n/a  ·  TVL: $9.6M
+
+Quoted APY is 20.9 points above a 7% lending benchmark.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol not on the established list; audit status not checked here
+
+Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e
+
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32467"/>
@@ -740,35 +777,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 1 active observation</title>
-    <link href="https://t.me/sgnl_free/32411"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32411</id>
-    <updated>2026-11-13T00:15:47.609Z</updated>
-    <summary type="text">📊 Activity summary · 1 active observation
-
-Top 1 by size:
-• 🚨 Depeg watch: FDUSD at $0.9958
-
-On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32410"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32410</id>
-    <updated>2026-11-13T00:05:59.761Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $70000 — expiry 20NOV26
-Direction: BUY
-Notional: ~$892K
-Contracts: 12.5
-Implied vol: 40.5%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
