@@ -5,7 +5,30 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-13T13:59:39.840Z</updated>
+  <updated>2026-11-13T14:04:39.836Z</updated>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-11-13</title>
+    <link href="https://t.me/sgnl_free/32461"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32461</id>
+    <updated>2026-11-13T14:00:38.116Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-11-13
+Composite score: 10/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🔴 Circle BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/32460"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32460</id>
+    <updated>2026-11-13T13:59:42.149Z</updated>
+    <summary type="text">🔴 Circle BURN · USDC
+
+-$528.6M in last 24h
+Tier: TIER2
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
   <entry>
     <title>⛽ Gas Check · 24h</title>
     <link href="https://t.me/sgnl_free/32459"/>
@@ -761,43 +784,6 @@ Direction: BUY
 Notional: ~$893K
 Contracts: 12.5
 Implied vol: 40.6%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 32.0% APY</title>
-    <link href="https://t.me/sgnl_free/32405"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32405</id>
-    <updated>2026-11-13T00:03:01.065Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 32.0% APY
-midas-rwa / USDC on Ethereum
-Base: 32.0%  ·  Rewards: n/a  ·  TVL: $19.8M
-
-Quoted APY is 25.0 points above a 7% lending benchmark.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ protocol not on the established list; audit status not checked here
-
-Pool details: https://defillama.com/yields/pool/15cc07d7-3ffc-49e6-8500-deaeb414e32d
-
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32404"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32404</id>
-    <updated>2026-11-13T00:01:00.140Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $68000 — expiry 13NOV26
-Direction: SELL
-Notional: ~$727K
-Contracts: 10.2
-Implied vol: 84.3%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
