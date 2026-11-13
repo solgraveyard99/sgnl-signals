@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-13T11:59:39.824Z</updated>
+  <updated>2026-11-13T12:04:39.818Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/32451"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32451</id>
+    <updated>2026-11-13T12:00:39.365Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $259.9B  (24h: $-897M)
+
+🔴 USDT: $175.30B  ($-374M)
+🔴 USDC: $69.36B  ($-524M)
+⚪ USDS: $5.39B  (+$35M)
+⚪ USDe: $4.89B  ($-10M)
+⚪ DAI: $4.65B  ($-22M)
+⚪ FDUSD: $0.28B  ($-2M)
+
+📊 Net supply Δ24h: -$897M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-11-12</title>
+    <link href="https://t.me/sgnl_free/32450"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32450</id>
+    <updated>2026-11-13T12:00:15.068Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-12
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    n/a
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 219.1K μlamp | Orca: 233.7K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32449"/>
@@ -762,30 +808,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32393"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32393</id>
-    <updated>2026-11-12T21:35:40.034Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$564.7M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32392"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32392</id>
-    <updated>2026-11-12T20:50:51.759Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDC
-Supply change 24h: -$500M
-New supply: $69.63B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
