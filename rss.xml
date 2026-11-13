@@ -5,7 +5,38 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-13T06:14:40.098Z</updated>
+  <updated>2026-11-13T06:19:39.799Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32434"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32434</id>
+    <updated>2026-11-13T06:15:33.662Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0007 SOL
+• 99th: 0.0295 SOL (~$3)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🔴 Circle BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/32431"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32431</id>
+    <updated>2026-11-13T06:14:41.963Z</updated>
+    <summary type="text">🔴 Circle BURN · USDC
+
+-$592.7M in last 24h
+Tier: TIER2
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32430"/>
@@ -781,30 +812,5 @@ Stables: 32.0% · midas-rwa/USDC @ Ethereum
 ETH/LST: 6.6% · ipor-fusion/WETH @ Ethereum
 
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📅 Day-ahead · 🟡 Medium impact</title>
-    <link href="https://t.me/sgnl_free/32374"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32374</id>
-    <updated>2026-11-12T13:00:45.093Z</updated>
-    <summary type="text">📅 Day-ahead · 🟡 Medium impact
-US PPI (October 2026) macro
-When: Fri, 13 Nov 2026 13:30:00 UTC
-
-Producer Price Index release by the U.S. Bureau of Labor Statistics, 8:30 a.m. ET. Schedule reminder only, not advice.
-
-details ↗</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 1 active observation</title>
-    <link href="https://t.me/sgnl_free/32373"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32373</id>
-    <updated>2026-11-12T12:15:55.437Z</updated>
-    <summary type="text">📊 Activity summary · 1 active observation
-
-Top 1 by size:
-• 🚨 Depeg watch: FDUSD at $0.9961
-
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
