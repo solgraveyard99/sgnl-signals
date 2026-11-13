@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-13T12:59:39.824Z</updated>
+  <updated>2026-11-13T13:04:39.827Z</updated>
+  <entry>
+    <title>🌅 Morning Brief · 2026-11-13</title>
+    <link href="https://t.me/sgnl_free/32457"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32457</id>
+    <updated>2026-11-13T13:04:38.058Z</updated>
+    <summary type="text">🌅 Morning Brief · 2026-11-13
+
+🐋 Whale flow (24h)
+1 large moves · net -$20M 📤 out of exchanges
+
+⚡ Perp funding snapshot
+BTC ⚪ neutral funding (HL)
+ETH ⚪ neutral funding (HL)
+SOL ⚪ neutral funding (HL)
+
+💰 Top yields right now
+Stables: 32.0% · midas-rwa/USDC @ Ethereum
+ETH/LST: 7.3% · ipor-fusion/WETH @ Ethereum
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔴 Circle BURN · USDC</title>
     <link href="https://t.me/sgnl_free/32456"/>
@@ -782,24 +803,6 @@ Direction: SELL
 Notional: ~$571K
 Contracts: 8
 Implied vol: 46.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32401"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32401</id>
-    <updated>2026-11-13T00:00:58.418Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $71000 — expiry 16NOV26
-Direction: SELL
-Notional: ~$548K
-Contracts: 7.7
-Implied vol: 35.9%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
