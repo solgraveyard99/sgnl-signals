@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-14T00:24:39.880Z</updated>
+  <updated>2026-11-14T00:29:39.863Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32494"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32494</id>
+    <updated>2026-11-14T00:25:34.020Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0004 SOL
+• 95th: 0.0103 SOL
+• 99th: 0.0165 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>📊 Activity summary · 2 active observations</title>
     <link href="https://t.me/sgnl_free/32493"/>
@@ -743,22 +762,5 @@ Statistical pattern. Not financial advice.</summary>
 Tier: TIER2
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 1,023,686 USDC (~$1.0M) · 06:30 UTC</title>
-    <link href="https://t.me/sgnl_free/32436"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32436</id>
-    <updated>2026-11-13T06:36:37.736Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 1,023,686 USDC (~$1.0M) · 06:30 UTC
-From: 0xa9d1…3e43
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xf009caf84a7103b1428a4a8798e37d38fd34205644efeffeed04b4e8f9b28b52
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2642.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
