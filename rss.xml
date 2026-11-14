@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-14T04:24:39.886Z</updated>
+  <updated>2026-11-14T04:29:39.887Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/32511"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32511</id>
+    <updated>2026-11-14T04:28:47.517Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Withdrawal cluster: 4 large withdrawals ($65M) in 6h.
+
+📤 5.2M USDT ($5.2M)  ←  OKX 180  0x3b98b9…
+
+7d: $8M in · $79M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📊 3 outflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/32510"/>
@@ -768,26 +783,5 @@ Top 1 by size:
 • 🚨 Depeg watch: FDUSD at $0.9959
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/32451"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32451</id>
-    <updated>2026-11-13T12:00:39.365Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $259.9B  (24h: $-897M)
-
-🔴 USDT: $175.30B  ($-374M)
-🔴 USDC: $69.36B  ($-524M)
-⚪ USDS: $5.39B  (+$35M)
-⚪ USDe: $4.89B  ($-10M)
-⚪ DAI: $4.65B  ($-22M)
-⚪ FDUSD: $0.28B  ($-2M)
-
-📊 Net supply Δ24h: -$897M (contraction band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
