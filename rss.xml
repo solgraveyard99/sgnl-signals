@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-14T22:14:39.951Z</updated>
+  <updated>2026-11-14T22:19:39.956Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/32599"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32599</id>
+    <updated>2026-11-14T22:18:43.060Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 13 large deposits ($259M) · 17 large withdrawals ($201M).
+
+📤 5.0M USDC ($5.0M)  ←  Binance hot 0xce43  0xed0c60…
+
+7d: $649M in · $735M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 20000.00 ETH (~$35.3M) · 22:02 UTC</title>
+    <link href="https://t.me/sgnl_free/32598"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32598</id>
+    <updated>2026-11-14T22:16:59.015Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 20000.00 ETH (~$35.3M) · 22:02 UTC
+From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
+To: 0x690c…91cc
+Tx: https://etherscan.io/tx/0xeea5ec9e5ab5e0c922edcbf90cd72cbc8aa68e2eba9cfb3256e300d54ddf12bf
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 47.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/32597"/>
@@ -737,51 +769,5 @@ On-chain observation, not advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/32545"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32545</id>
-    <updated>2026-11-14T12:00:40.062Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $259.7B  (24h: $-529M)
-
-🔴 USDT: $175.21B  ($-319M)
-🔴 USDC: $69.28B  ($-177M)
-⚪ USDS: $5.35B  ($-33M)
-⚪ USDe: $4.91B  (+$10M)
-⚪ DAI: $4.65B  ($-7M)
-⚪ FDUSD: $0.28B  ($-2M)
-
-📊 Net supply Δ24h: -$529M (contraction band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-11-13</title>
-    <link href="https://t.me/sgnl_free/32544"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32544</id>
-    <updated>2026-11-14T12:00:04.175Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-13
-
-Yesterday&apos;s Jupiter route fee market (289 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    n/a
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: → 0% (Jupiter median)
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 200.0K μlamp | Orca: 200.0K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
