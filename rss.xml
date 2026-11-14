@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-14T01:54:39.871Z</updated>
+  <updated>2026-11-14T01:59:39.881Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,698,173 USDT (~$1.7M) · 01:55 UTC</title>
+    <link href="https://t.me/sgnl_free/32498"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32498</id>
+    <updated>2026-11-14T01:56:36.356Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,698,173 USDT (~$1.7M) · 01:55 UTC
+From: 0x3b98…5e4f
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x0172b8caec0f1e72861d1250420cc1ec38ea038230da975f3c0984517ab8ed7a
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2632.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32497"/>
@@ -762,17 +779,5 @@ Fast: 0.071643114 gwei  ·  Safe: 0.070643114 gwei
 A cheaper time for routine transactions you already planned, for example revoking old token approvals.
 Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32440"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32440</id>
-    <updated>2026-11-13T08:14:31.486Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$598.4M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
   </entry>
 </feed>
