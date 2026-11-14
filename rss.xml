@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-14T01:49:39.879Z</updated>
+  <updated>2026-11-14T01:54:39.871Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32497"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32497</id>
+    <updated>2026-11-14T01:52:34.065Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0120 SOL
+• 99th: 0.0120 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32496"/>
@@ -755,21 +774,5 @@ Not financial advice.</summary>
 Tier: TIER2
 
 Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>📡 SGNL Daily Digest · 2026-11-12</title>
-    <link href="https://t.me/sgnl_free/32439"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32439</id>
-    <updated>2026-11-13T08:00:03.188Z</updated>
-    <summary type="text">📡 SGNL Daily Digest · 2026-11-12
-What 30+ SGNL observers caught in the last 24h
-
-⚡ Aave V3 liquidations (24h, 51 total)
-USDC 566066.24 → 5282.9591 0x7fc665…
-USDT 224457.95 → 94.5226 wstETH
-USDT 77788.80 → 1.1203 WBTC
-
-
-Free signals · No advice · t.me/sgnl_free</summary>
   </entry>
 </feed>
