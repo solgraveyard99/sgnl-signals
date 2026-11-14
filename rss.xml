@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-14T16:24:39.934Z</updated>
+  <updated>2026-11-14T16:29:39.931Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/32573"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32573</id>
+    <updated>2026-11-14T16:28:43.089Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 15 large deposits ($223M) · 14 large withdrawals ($169M).
+
+📥 7370 ETH ($13.4M)  →  Coinbase 10  0xc2bf39…
+
+7d: $390M in · $539M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ EXTREME FUNDING · SOL on Gate</title>
     <link href="https://t.me/sgnl_free/32572"/>
@@ -778,20 +793,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>📊 3 outflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/32517"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32517</id>
-    <updated>2026-11-14T06:04:39.475Z</updated>
-    <summary type="text">📊 3 outflow-heavy observations detected
-Sample: 3 concurrent observations · $152M total flow.
-
-Top observations (by size):
-• 🐋 Whale withdrawal cluster: 7 moves, $111M off exchanges
-• 🐋 Large withdrawal: $25M USDT ← Bitget hot 0xed9a
-• 🐋 Large withdrawal: $16M USDT ← OKX 180
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
