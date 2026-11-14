@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-14T06:04:39.923Z</updated>
+  <updated>2026-11-14T06:09:39.889Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32518"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32518</id>
+    <updated>2026-11-14T06:06:34.194Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.8858 SOL
+• 99th: 1.9488 SOL (~$195)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>📊 3 outflow-heavy observations detected</title>
     <link href="https://t.me/sgnl_free/32517"/>
@@ -774,22 +793,5 @@ Safe: 0.536744498  ·  Propose: 0.536744527  ·  BaseFee: 0.5367
 24h range: 0.04–2.37 gwei  (avg 0.27)
 
 Simple transfer cost now: ~$0.0282</summary>
-  </entry>
-  <entry>
-    <title>🏦 Exchange reserves · 13 monitored wallets</title>
-    <link href="https://t.me/sgnl_free/32458"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32458</id>
-    <updated>2026-11-13T13:30:31.209Z</updated>
-    <summary type="text">🏦 Exchange reserves · 13 monitored wallets
-
-Total: $14.31B · 24h net change −$31M (-0.21%)
-
-ETH: 156.8K  ($307M)
-USDT: $14001M
-USDC: $0.1M
-DAI: $0.00M
-
-Binance + Coinbase wallets from public address lists (unverified). Balances include exchange-internal moves.
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
