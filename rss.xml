@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-14T11:59:39.913Z</updated>
+  <updated>2026-11-14T12:04:39.913Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/32545"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32545</id>
+    <updated>2026-11-14T12:00:40.062Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $259.7B  (24h: $-529M)
+
+🔴 USDT: $175.21B  ($-319M)
+🔴 USDC: $69.28B  ($-177M)
+⚪ USDS: $5.35B  ($-33M)
+⚪ USDe: $4.91B  (+$10M)
+⚪ DAI: $4.65B  ($-7M)
+⚪ FDUSD: $0.28B  ($-2M)
+
+📊 Net supply Δ24h: -$529M (contraction band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-11-13</title>
+    <link href="https://t.me/sgnl_free/32544"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32544</id>
+    <updated>2026-11-14T12:00:04.175Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-13
+
+Yesterday&apos;s Jupiter route fee market (289 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    n/a
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 200.0K μlamp | Orca: 200.0K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/32541"/>
@@ -776,42 +822,6 @@ Direction: SELL
 Notional: ~$2043K
 Contracts: 30
 Implied vol: 38.5%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32487"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32487</id>
-    <updated>2026-11-14T00:04:44.798Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $78000 — expiry 27NOV26
-Direction: BUY
-Notional: ~$1362K
-Contracts: 20
-Implied vol: 38.5%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32486"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32486</id>
-    <updated>2026-11-14T00:04:44.337Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $65000 — expiry 27NOV26
-Direction: BUY
-Notional: ~$2047K
-Contracts: 30
-Implied vol: 40.5%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
