@@ -5,7 +5,38 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-14T07:59:39.890Z</updated>
+  <updated>2026-11-14T08:04:39.904Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/32528"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32528</id>
+    <updated>2026-11-14T08:03:41.397Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 5 large deposits ($49M) · 10 large withdrawals ($138M).
+
+📤 5.4M USDC ($5.4M)  ←  Kraken: Hot Wallet 4  0x2744df…
+
+7d: $49M in · $152M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>📡 SGNL Daily Digest · 2026-11-13</title>
+    <link href="https://t.me/sgnl_free/32527"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32527</id>
+    <updated>2026-11-14T08:00:03.623Z</updated>
+    <summary type="text">📡 SGNL Daily Digest · 2026-11-13
+What 30+ SGNL observers caught in the last 24h
+
+⚡ Aave V3 liquidations (24h, 98 total)
+USDT 10677847.39 → 5741.0121 WETH
+USDT 1362848.76 → 732.7442 WETH
+USDT 1362843.83 → 732.7416 WETH
+
+
+Free signals · No advice · t.me/sgnl_free</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/32526"/>
@@ -783,37 +814,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 27.9% APY</title>
-    <link href="https://t.me/sgnl_free/32468"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32468</id>
-    <updated>2026-11-13T16:14:48.734Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 27.9% APY
-veranta / USDC on Base
-Base: 27.9%  ·  Rewards: n/a  ·  TVL: $9.6M
-
-Quoted APY is 20.9 points above a 7% lending benchmark.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol not on the established list; audit status not checked here
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e
-
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32467"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32467</id>
-    <updated>2026-11-13T15:59:31.736Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$500.6M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
   </entry>
 </feed>
