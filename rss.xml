@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-14T14:34:39.928Z</updated>
+  <updated>2026-11-14T14:39:39.932Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/32558"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32558</id>
+    <updated>2026-11-14T14:38:43.072Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 13 large deposits ($226M) · 12 large withdrawals ($198M).
+
+📥 20.0M USDT ($20.0M)  →  Binance hot 0x690c  0xc29bf2…
+📤 16.0M USDC ($16.0M)  ←  Binance hot 0xce43  0xed0c60…
+
+7d: $268M in · $392M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📊 Daily Market Composite — 2026-11-14</title>
     <link href="https://t.me/sgnl_free/32557"/>
@@ -786,17 +802,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/32502"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32502</id>
-    <updated>2026-11-14T02:44:39.947Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.249262899 gwei  ·  Safe: 0.226602612 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
