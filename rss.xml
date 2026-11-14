@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-14T05:04:39.890Z</updated>
+  <updated>2026-11-14T05:09:39.892Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,383,109 USDC (~$1.4M) · 05:05 UTC</title>
+    <link href="https://t.me/sgnl_free/32514"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32514</id>
+    <updated>2026-11-14T05:06:33.806Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,383,109 USDC (~$1.4M) · 05:05 UTC
+From: 0xa9d1…3e43
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x28b71e1ac059b00ba9ad4f82fea1cfcb0d494c749b1ec28aeab7186d9ca823e0
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2662.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/32513"/>
@@ -775,18 +792,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>📤 WITHDRAWAL · Binance Cold 8</title>
-    <link href="https://t.me/sgnl_free/32454"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32454</id>
-    <updated>2026-11-13T12:45:08.685Z</updated>
-    <summary type="text">📤 WITHDRAWAL · Binance Cold 8
-10000 ETH  ($19.6M)  ←  0x690c3e…
-📊 Withdrawal · no 7-day baseline yet
-Tx: https://etherscan.io/tx/0xe15fb80f651757f0dcd9399da4d6aabe9ca30730206231a3b529930be2d15fac
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
