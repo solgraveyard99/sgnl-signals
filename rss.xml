@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-14T03:59:39.884Z</updated>
+  <updated>2026-11-14T04:04:39.885Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/32509"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32509</id>
+    <updated>2026-11-14T04:03:50.731Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Withdrawal cluster: 3 large withdrawals ($60M) in 6h.
+
+📤 7.4M USDT ($7.4M)  ←  OKX hot 0xcf30  0xbd8904…
+
+7d: $8M in · $72M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📤 WITHDRAWAL · OKX 233</title>
     <link href="https://t.me/sgnl_free/32508"/>
@@ -784,17 +799,5 @@ Cross-DEX yesterday medians:
 
 Source: live Solana RPC + Jupiter/Raydium/Orca quotes
 Fees change in seconds. DYOR before tx.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Circle BURN · USDC</title>
-    <link href="https://t.me/sgnl_free/32449"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32449</id>
-    <updated>2026-11-13T11:44:31.491Z</updated>
-    <summary type="text">🔴 Circle BURN · USDC
-
--$583.0M in last 24h
-Tier: TIER2
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
   </entry>
 </feed>
