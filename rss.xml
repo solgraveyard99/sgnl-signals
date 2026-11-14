@@ -5,7 +5,21 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-14T13:44:39.933Z</updated>
+  <updated>2026-11-14T13:49:39.922Z</updated>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/32555"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32555</id>
+    <updated>2026-11-14T13:44:40.055Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.157913165 gwei (fast)  ·  🟢 cheap
+Safe: 0.143557423  ·  Propose: 0.144557423  ·  BaseFee: 0.1436
+
+24h range: 0.05–1.16 gwei  (avg 0.18)
+
+Simple transfer cost now: ~$0.0083</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/32554"/>
@@ -794,24 +808,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/32497"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32497</id>
-    <updated>2026-11-14T01:52:34.065Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0001 SOL
-• 95th: 0.0120 SOL
-• 99th: 0.0120 SOL (~$1)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
