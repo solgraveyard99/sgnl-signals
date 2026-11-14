@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-14T22:34:39.953Z</updated>
+  <updated>2026-11-14T22:39:39.955Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/32602"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32602</id>
+    <updated>2026-11-14T22:38:43.017Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 12 large deposits ($255M) · 17 large withdrawals ($186M).
+
+📥 28.2M USDC ($28.2M)  →  Binance hot 0xce43  0x322505…
+
+7d: $649M in · $745M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/32601"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32601</id>
+    <updated>2026-11-14T22:34:43.401Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9949  (↓ 0.505% below peg)
+24h change: -0.077%
+Duration: 927h 16min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/32600"/>
@@ -739,35 +769,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32548"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32548</id>
-    <updated>2026-11-14T12:23:41.382Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 12 large deposits ($218M) · 15 large withdrawals ($246M).
-
-📥 20.0M USDC ($20.0M)  →  Binance hot 0xce43  0x38aaef…
-
-7d: $206M in · $376M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 4 active observations</title>
-    <link href="https://t.me/sgnl_free/32547"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32547</id>
-    <updated>2026-11-14T12:19:40.722Z</updated>
-    <summary type="text">📊 Activity summary · 4 active observations
-
-Top 4 by size:
-• 🐋 Whale withdrawal cluster: 15 moves, $246M off exchanges
-• 🐋 Whale deposit cluster: 11 moves, $198M to exchanges
-• 🐋 Large deposit: $26M USDT → Binance hot 0x690c
-• 🚨 Depeg watch: FDUSD at $0.9960
-
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
