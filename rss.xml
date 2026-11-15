@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-15T00:49:39.959Z</updated>
+  <updated>2026-11-15T00:54:39.958Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/32631"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32631</id>
+    <updated>2026-11-15T00:53:44.647Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 20 large deposits ($421M) · 22 large withdrawals ($309M).
+
+📥 8.2M USDC ($8.2M)  →  Coinbase Prime 1  0x4b78eb…
+
+7d: $984M in · $990M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/32629"/>
@@ -801,25 +816,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 29.2% APY</title>
-    <link href="https://t.me/sgnl_free/32577"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32577</id>
-    <updated>2026-11-14T17:14:41.992Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 29.2% APY
-veranta / USDC on Base
-Base: 29.2%  ·  Rewards: n/a  ·  TVL: $9.6M
-
-Quoted APY is 22.2 points above a 7% lending benchmark.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol not on the established list; audit status not checked here
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e
-
-Not financial advice.</summary>
   </entry>
 </feed>
