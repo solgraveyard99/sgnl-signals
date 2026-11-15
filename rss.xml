@@ -5,7 +5,45 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-15T00:14:39.957Z</updated>
+  <updated>2026-11-15T00:19:39.960Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32624"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32624</id>
+    <updated>2026-11-15T00:15:34.505Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0037 SOL
+• 99th: 0.1690 SOL (~$17)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 32.0% APY</title>
+    <link href="https://t.me/sgnl_free/32622"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32622</id>
+    <updated>2026-11-15T00:14:41.864Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 32.0% APY
+midas-rwa / USDC on Ethereum
+Base: 32.0%  ·  Rewards: n/a  ·  TVL: $19.7M
+
+Quoted APY is 25.0 points above a 7% lending benchmark.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ protocol not on the established list; audit status not checked here
+
+Pool details: https://defillama.com/yields/pool/15cc07d7-3ffc-49e6-8500-deaeb414e32d
+
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/32621"/>
@@ -769,36 +807,5 @@ Prior 7d: this funding reading is in the 0th percentile for SOL on Gate.
 Funding is negative on Gate (shorts pay longs).
 monitor mode · no orders placed
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32569"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32569</id>
-    <updated>2026-11-14T16:13:53.617Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 14 large deposits ($210M) · 14 large withdrawals ($169M).
-
-📥 5.0M USDC ($5.0M)  →  Kraken: Hot Wallet 4  0x627d0d…
-
-7d: $385M in · $539M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/32568"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32568</id>
-    <updated>2026-11-14T16:08:55.555Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 13 large deposits ($205M) · 16 large withdrawals ($219M).
-
-📤 15.0M USDC ($15.0M)  ←  Binance hot 0xce43  0xed0c60…
-📤 7.4M USDT ($7.4M)  ←  OKX 180  0x14681e…
-
-7d: $385M in · $517M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
