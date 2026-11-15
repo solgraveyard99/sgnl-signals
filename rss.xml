@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-15T03:54:39.984Z</updated>
+  <updated>2026-11-15T03:59:39.981Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,000,000 USDT (~$1.0M) · 03:49 UTC</title>
+    <link href="https://t.me/sgnl_free/32655"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32655</id>
+    <updated>2026-11-15T03:56:33.955Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,000,000 USDT (~$1.0M) · 03:49 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xc7d3…e668
+Tx: https://etherscan.io/tx/0xcda023da8eb99ccae411858e63e118556166b03be0d0dee91c8bb571c8b9925f
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2809.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/32654"/>
@@ -814,20 +831,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/32601"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32601</id>
-    <updated>2026-11-14T22:34:43.401Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9949  (↓ 0.505% below peg)
-24h change: -0.077%
-Duration: 927h 16min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
