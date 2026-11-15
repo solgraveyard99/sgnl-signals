@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-15T23:04:40.058Z</updated>
+  <updated>2026-11-15T23:09:40.053Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/32765"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32765</id>
+    <updated>2026-11-15T23:08:45.869Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 Clusters in both directions in 6h: 6 large deposits ($99M) · 17 large withdrawals ($218M).
+
+📤 19.5M USDC ($19.5M)  ←  Binance hot 0xce43  0x4b10df…
+📤 10.7M USDC ($10.7M)  ←  Binance hot 0xce43  0x4b10df…
+📤 5.5M USDC ($5.5M)  ←  Coinbase 10  0x8df175…
+
+7d: $1975M in · $2080M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/32764"/>
@@ -768,20 +785,5 @@ Cross-DEX yesterday medians:
 
 Source: live Solana RPC + Jupiter/Raydium/Orca quotes
 Fees change in seconds. DYOR before tx.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32709"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32709</id>
-    <updated>2026-11-15T11:38:43.245Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 29 large deposits ($280M) · 17 large withdrawals ($176M).
-
-📥 6.6M USDC ($6.6M)  →  Kraken: Hot Wallet 4  0x46cb47…
-
-7d: $1562M in · $1628M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
