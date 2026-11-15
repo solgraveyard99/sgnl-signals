@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-15T00:19:39.960Z</updated>
+  <updated>2026-11-15T00:24:39.957Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/32626"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32626</id>
+    <updated>2026-11-15T00:23:43.617Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 14 large deposits ($297M) · 19 large withdrawals ($226M).
+
+📥 30.0M USDC ($30.0M)  →  Binance hot 0xce43  0x33fc4c…
+
+7d: $839M in · $900M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>📊 Activity summary · 15 active observations</title>
+    <link href="https://t.me/sgnl_free/32625"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32625</id>
+    <updated>2026-11-15T00:19:51.668Z</updated>
+    <summary type="text">📊 Activity summary · 15 active observations
+
+Top 5 by size:
+• 🐋 Whale deposit cluster: 13 moves, $267M to exchanges
+• 🐋 Whale withdrawal cluster: 19 moves, $226M off exchanges
+• 🐋 Large deposit: $60M USDC → Binance hot 0xce43
+• 🐋 Large deposit: $31M USDC → Coinbase 10
+• 🐋 Large deposit: $30M USDC → Binance hot 0xce43
+…and 10 more
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32624"/>
@@ -779,33 +811,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32573"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32573</id>
-    <updated>2026-11-14T16:28:43.089Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 15 large deposits ($223M) · 14 large withdrawals ($169M).
-
-📥 7370 ETH ($13.4M)  →  Coinbase 10  0xc2bf39…
-
-7d: $390M in · $539M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ EXTREME FUNDING · SOL on Gate</title>
-    <link href="https://t.me/sgnl_free/32572"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32572</id>
-    <updated>2026-11-14T16:15:41.940Z</updated>
-    <summary type="text">⚡ EXTREME FUNDING · SOL on Gate
-Price: $72.98  ·  Funding: -0.0057%/hr (-49.7% APR)
-Prior 7d: this funding reading is in the 0th percentile for SOL on Gate.
-
-Funding is negative on Gate (shorts pay longs).
-monitor mode · no orders placed
-Not financial advice.</summary>
   </entry>
 </feed>
