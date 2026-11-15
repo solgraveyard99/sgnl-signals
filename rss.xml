@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-15T03:44:39.984Z</updated>
+  <updated>2026-11-15T03:49:39.973Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/32654"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32654</id>
+    <updated>2026-11-15T03:48:46.422Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 31 large deposits ($546M) · 35 large withdrawals ($581M).
+
+📤 74.6M USDT ($74.6M)  ←  OKX 180  0x3b98b9…
+📤 6.6M USDC ($6.6M)  ←  OKX 233  0x1dfc6b…
+
+7d: $1185M in · $1228M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32653"/>
@@ -813,20 +829,5 @@ Larger deviation from peg.
 Deviations can come from thin liquidity, redemptions or venue pricing.
 
 Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32600"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32600</id>
-    <updated>2026-11-14T22:23:43.645Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 13 large deposits ($259M) · 18 large withdrawals ($206M).
-
-📤 5.0M USDC ($5.0M)  ←  Binance hot 0xce43  0xb99a2c…
-
-7d: $649M in · $740M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
