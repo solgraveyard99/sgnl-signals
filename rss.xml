@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-15T04:54:39.982Z</updated>
+  <updated>2026-11-15T04:59:39.995Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/32665"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32665</id>
+    <updated>2026-11-15T04:58:43.806Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 33 large deposits ($612M) · 37 large withdrawals ($666M).
+
+📤 9.3M USDC ($9.3M)  ←  OKX 233  0x1dfc6b…
+📤 5.8M USDC ($5.8M)  ←  Coinbase 10  0xfd9238…
+
+7d: $1289M in · $1432M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/32664"/>
@@ -816,24 +832,6 @@ Direction: BUY
 Notional: ~$724K
 Contracts: 11.3
 Implied vol: 92.1%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32610"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32610</id>
-    <updated>2026-11-15T00:04:45.298Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $55000 — expiry 20NOV26
-Direction: BUY
-Notional: ~$865K
-Contracts: 13.5
-Implied vol: 92.3%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
