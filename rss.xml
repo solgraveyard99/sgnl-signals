@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-15T13:59:40.028Z</updated>
+  <updated>2026-11-15T14:04:40.022Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/32725"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32725</id>
+    <updated>2026-11-15T14:03:51.694Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 17 large deposits ($236M) · 16 large withdrawals ($229M).
+
+📤 19.8M USDC ($19.8M)  ←  Kraken: Hot Wallet 4  0x2744df…
+
+7d: $1714M in · $1758M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-11-15</title>
+    <link href="https://t.me/sgnl_free/32724"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32724</id>
+    <updated>2026-11-15T14:00:39.491Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-11-15
+Composite score: 10/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 4 large moves</title>
     <link href="https://t.me/sgnl_free/32723"/>
@@ -785,39 +811,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32672"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32672</id>
-    <updated>2026-11-15T06:03:53.941Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 29 large deposits ($505M) · 32 large withdrawals ($577M).
-
-📤 6.8M USDC ($6.8M)  ←  Kraken: Hot Wallet 4  0x2744df…
-
-7d: $1289M in · $1453M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/32671"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32671</id>
-    <updated>2026-11-15T05:55:34.647Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0003 SOL
-• 99th: 0.0172 SOL (~$2)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
