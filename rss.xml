@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T22:49:40.138Z</updated>
+  <updated>2026-11-16T22:54:40.141Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/32998"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32998</id>
+    <updated>2026-11-16T22:53:41.659Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 52 large deposits ($735M) · 57 large withdrawals ($772M).
+
+📥 40.0M USDC ($40.0M)  →  Binance hot 0xce43  0x38aaef…
+📤 18.5M USDC ($18.5M)  ←  Binance hot 0xce43  0x4b10df…
+
+7d: $4286M in · $4346M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/32997"/>
@@ -790,25 +806,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 30.8% APY</title>
-    <link href="https://t.me/sgnl_free/32946"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32946</id>
-    <updated>2026-11-16T17:14:41.930Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 30.8% APY
-veranta / USDC on Base
-Base: 30.8%  ·  Rewards: n/a  ·  TVL: $9.5M
-
-Quoted APY is 23.8 points above a 7% lending benchmark.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol not on the established list; audit status not checked here
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e
-
-Not financial advice.</summary>
   </entry>
 </feed>
