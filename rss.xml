@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T16:09:40.120Z</updated>
+  <updated>2026-11-16T16:14:40.134Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 4 large moves</title>
+    <link href="https://t.me/sgnl_free/32934"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32934</id>
+    <updated>2026-11-16T16:13:41.666Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 4 large moves
+📊 Clusters in both directions in 6h: 58 large deposits ($688M) · 49 large withdrawals ($699M).
+
+📥 7744 ETH ($14.1M)  →  Coinbase Prime 1  0x2ed1c6…
+📥 4769 ETH ($8.7M)  →  Coinbase 10  0x13da4d…
+📤 8.0M USDC ($8.0M)  ←  Coinbase Prime 1  0x021bc7…
+📤 4022 ETH ($7.3M)  ←  Coinbase 10  0xc2bf39…
+
+7d: $3387M in · $3430M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/32933"/>
@@ -800,22 +818,5 @@ Fees change in seconds. DYOR before tx.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⏰ DAO VOTE ENDING SOON · Arbitrum DAO</title>
-    <link href="https://t.me/sgnl_free/32881"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32881</id>
-    <updated>2026-11-16T11:44:39.738Z</updated>
-    <summary type="text">⏰ DAO VOTE ENDING SOON · Arbitrum DAO
-
-[Constitutional] AIP: Approve Release of Frozen ETH and ARB
-
-Ends in: ~3h
-Token: $ARB  ·  Votes: 148.66M tokens
-Status: High-impact keyword match
-
-If the outcome lands on a protocol-critical parameter, expect price reaction on token within 24h of close.
-
-https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x83774601c51c3d35a5247d19dcef0651cde49aafa72e5eaf6f3f263411441e17</summary>
   </entry>
 </feed>
