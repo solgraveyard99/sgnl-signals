@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T07:19:40.084Z</updated>
+  <updated>2026-11-16T07:24:40.090Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/32841"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32841</id>
+    <updated>2026-11-16T07:23:52.666Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 14 large deposits ($143M) · 22 large withdrawals ($226M).
+
+📤 5.5M USDC ($5.5M)  ←  Binance hot 0xce43  0xa7af2a…
+📥 5.0M USDC ($5.0M)  →  Binance hot 0xce43  0xea59bb…
+
+7d: $2380M in · $2485M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🗳️ Governance proposal active</title>
     <link href="https://t.me/sgnl_free/32839"/>
@@ -808,20 +824,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32787"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32787</id>
-    <updated>2026-11-16T00:23:43.690Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 9 large deposits ($299M) · 18 large withdrawals ($220M).
-
-📥 30.0M USDC ($30.0M)  →  Binance hot 0xce43  0x33fc4c…
-
-7d: $2182M in · $2189M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
