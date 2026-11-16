@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T01:04:40.063Z</updated>
+  <updated>2026-11-16T01:09:40.061Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/32793"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32793</id>
+    <updated>2026-11-16T01:08:34.983Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0077 SOL
+• 99th: 0.1958 SOL (~$20)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 9,993,938 USDT (~$10.0M) · 00:58 UTC</title>
+    <link href="https://t.me/sgnl_free/32792"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32792</id>
+    <updated>2026-11-16T01:06:33.932Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 9,993,938 USDT (~$10.0M) · 00:58 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xbcd9…a4a9
+Tx: https://etherscan.io/tx/0xcf8d630ba74b513ed85d53d628b4c94cd913f77934f59bac35f1301a54bae2ca
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2876.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3,000,000 USDT (~$3.0M) · 00:26 UTC</title>
     <link href="https://t.me/sgnl_free/32791"/>
@@ -780,34 +816,6 @@ Statistical pattern. Not financial advice.</summary>
 7d: $1786M in · $1881M out · net flow: outflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32739"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32739</id>
-    <updated>2026-11-15T15:18:56.834Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 20 large deposits ($297M) · 23 large withdrawals ($311M).
-
-📤 20.7M USDC ($20.7M)  ←  Coinbase Prime 1  0x879d8a…
-
-7d: $1786M in · $1861M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟢 STABLECOIN MINT · USDC</title>
-    <link href="https://t.me/sgnl_free/32738"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32738</id>
-    <updated>2026-11-15T15:14:39.328Z</updated>
-    <summary type="text">🟢 STABLECOIN MINT · USDC
-Supply change 24h: +$1730M
-New supply: $70.93B
-
-Net supply expansion event. Descriptive observation only.
-
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
