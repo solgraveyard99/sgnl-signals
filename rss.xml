@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T12:19:40.100Z</updated>
+  <updated>2026-11-16T12:24:40.117Z</updated>
+  <entry>
+    <title>📊 Activity summary · 9 active observations</title>
+    <link href="https://t.me/sgnl_free/32892"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32892</id>
+    <updated>2026-11-16T12:19:51.380Z</updated>
+    <summary type="text">📊 Activity summary · 9 active observations
+
+Top 5 by size:
+• 🐋 Whale withdrawal cluster: 41 moves, $511M off exchanges
+• 🐋 Whale deposit cluster: 42 moves, $468M to exchanges
+• 🐋 Large withdrawal: $50M USDC ← Binance hot 0xce43
+• 🐋 Large withdrawal: $37M USDC ← Kraken: Hot Wallet 4
+• 🐋 Large withdrawal: $29M USDC ← Binance hot 0xce43
+…and 4 more
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/32891"/>
@@ -807,25 +824,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/32839"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32839</id>
-    <updated>2026-11-16T07:14:37.594Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-[Constitutional] AIP: Approve Release of Frozen ETH and ARB
-
-DAO: arbitrumfoundation.eth
-Votes cast: 825
-Total voting power: 148658744
-Voting ends: 2026-11-16 14:30 UTC
-
-https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x83774601c51c3d35a5247d19dcef0651cde49aafa72e5eaf6f3f263411441e17
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
   </entry>
 </feed>
