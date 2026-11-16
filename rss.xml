@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T12:14:40.103Z</updated>
+  <updated>2026-11-16T12:19:40.100Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/32891"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32891</id>
+    <updated>2026-11-16T12:18:55.454Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 42 large deposits ($468M) · 41 large withdrawals ($511M).
+
+📥 5.6M USDT ($5.6M)  →  Binance hot 0x690c  0xed89da…
+
+7d: $2808M in · $2949M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 5,625,411 USDT (~$5.6M) · 12:07 UTC</title>
+    <link href="https://t.me/sgnl_free/32890"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32890</id>
+    <updated>2026-11-16T12:16:38.327Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 5,625,411 USDT (~$5.6M) · 12:07 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xed89…60e7
+Tx: https://etherscan.io/tx/0x6d21d9cbb838a5b25aab3af19480e08e2979db3fc76015c82b6e1a8c9ad52cfb
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2827.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/32889"/>
@@ -795,40 +827,5 @@ https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x83774601c51c3d35a5247d1
 Statistical pattern. Not financial advice.
 
 #DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/32838"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32838</id>
-    <updated>2026-11-16T07:14:37.233Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-Upgrade VolatilePair hook and update X Layer Releaser
-
-DAO: uniswapgovernance.eth
-Votes cast: 21
-Total voting power: 293
-Voting ends: 2026-11-20 20:34 UTC
-
-https://snapshot.org/#/uniswapgovernance.eth/proposal/0xd010fad9c1abd897c165f2ff93cee3d321251330c977cb354bb59ddf3ae713df
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32837"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32837</id>
-    <updated>2026-11-16T07:08:43.654Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 13 large deposits ($138M) · 21 large withdrawals ($221M).
-
-📥 5.0M USDT ($5.0M)  →  Binance hot 0x690c  0xecf0e8…
-
-7d: $2375M in · $2485M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
