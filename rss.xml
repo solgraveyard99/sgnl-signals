@@ -5,7 +5,69 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T11:59:40.101Z</updated>
+  <updated>2026-11-16T12:04:40.101Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/32886"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32886</id>
+    <updated>2026-11-16T12:03:43.852Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 38 large deposits ($442M) · 41 large withdrawals ($511M).
+
+📤 37.4M USDC ($37.4M)  ←  Kraken: Hot Wallet 4  0x2744df…
+📤 3610 ETH ($6.5M)  ←  Kraken: Hot Wallet 2  0xd2dd7b…
+
+7d: $2788M in · $2898M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/32885"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32885</id>
+    <updated>2026-11-16T12:00:40.963Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $259.6B  (24h: $-115M)
+
+⚪ USDT: $175.33B  (+$16M)
+⚪ USDC: $69.30B  (+$19M)
+⚪ USDS: $5.23B  ($-95M)
+⚪ USDe: $4.85B  ($-53M)
+⚪ DAI: $4.63B  (+$0M)
+⚪ FDUSD: $0.28B  ($-3M)
+
+📊 Net supply Δ24h: $-115M (near-flat band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-11-15</title>
+    <link href="https://t.me/sgnl_free/32884"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32884</id>
+    <updated>2026-11-16T12:00:03.928Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-15
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    n/a
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 290.7K μlamp | Orca: 241.1K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/32883"/>
@@ -768,51 +830,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32833"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32833</id>
-    <updated>2026-11-16T06:53:45.143Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 12 large deposits ($133M) · 20 large withdrawals ($214M).
-
-📤 5.9M USDC ($5.9M)  ←  OKX 233  0x1dfc6b…
-
-7d: $2375M in · $2473M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32832"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32832</id>
-    <updated>2026-11-16T06:48:45.301Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 12 large deposits ($133M) · 19 large withdrawals ($209M).
-
-📥 30.0M USDC ($30.0M)  →  Binance hot 0xce43  0xc7faf7…
-
-7d: $2345M in · $2473M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/32831"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32831</id>
-    <updated>2026-11-16T06:43:44.966Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 11 large deposits ($103M) · 19 large withdrawals ($209M).
-
-📤 17.5M USDC ($17.5M)  ←  Binance hot 0xce43  0x6bed09…
-📤 10.0M USDC ($10.0M)  ←  Binance hot 0xce43  0x6bed09…
-
-7d: $2345M in · $2445M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
