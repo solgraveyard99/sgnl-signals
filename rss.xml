@@ -5,7 +5,47 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T07:09:40.082Z</updated>
+  <updated>2026-11-16T07:14:40.088Z</updated>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/32839"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32839</id>
+    <updated>2026-11-16T07:14:37.594Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+[Constitutional] AIP: Approve Release of Frozen ETH and ARB
+
+DAO: arbitrumfoundation.eth
+Votes cast: 825
+Total voting power: 148658744
+Voting ends: 2026-11-16 14:30 UTC
+
+https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x83774601c51c3d35a5247d19dcef0651cde49aafa72e5eaf6f3f263411441e17
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/32838"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32838</id>
+    <updated>2026-11-16T07:14:37.233Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+Upgrade VolatilePair hook and update X Layer Releaser
+
+DAO: uniswapgovernance.eth
+Votes cast: 21
+Total voting power: 293
+Voting ends: 2026-11-20 20:34 UTC
+
+https://snapshot.org/#/uniswapgovernance.eth/proposal/0xd010fad9c1abd897c165f2ff93cee3d321251330c977cb354bb59ddf3ae713df
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/32837"/>
@@ -783,40 +823,5 @@ Statistical pattern. Not financial advice.
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 11 active observations</title>
-    <link href="https://t.me/sgnl_free/32786"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32786</id>
-    <updated>2026-11-16T00:19:43.390Z</updated>
-    <summary type="text">📊 Activity summary · 11 active observations
-
-Top 5 by size:
-• 🐋 Whale deposit cluster: 8 moves, $269M to exchanges
-• 🐋 Whale withdrawal cluster: 18 moves, $220M off exchanges
-• 🐋 Large deposit: $100M USDC → Binance hot 0xce43
-• 🐋 Large deposit: $70M USDC → Binance hot 0xce43
-• 🐋 Large deposit: $30M USDC → Binance hot 0xce43
-…and 6 more
-
-On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/32785"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32785</id>
-    <updated>2026-11-16T00:19:42.958Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $87000 — expiry 27NOV26
-Direction: SELL
-Notional: ~$1951K
-Contracts: 30
-Implied vol: 69.0%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
