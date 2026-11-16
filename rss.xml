@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T09:04:40.089Z</updated>
+  <updated>2026-11-16T09:09:40.087Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/32858"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32858</id>
+    <updated>2026-11-16T09:08:41.696Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 Clusters in both directions in 6h: 23 large deposits ($253M) · 26 large withdrawals ($283M).
+
+📥 10.0M USDC ($10.0M)  →  Binance hot 0xce43  0xea59bb…
+📥 2926 ETH ($5.3M)  →  Coinbase 10  0xb5d85c…
+📤 2898 ETH ($5.2M)  ←  Coinbase 10  0xc31602…
+
+7d: $2555M in · $2572M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/32857"/>
@@ -793,20 +810,5 @@ Fast: 0.185475413 gwei  ·  Safe: 0.168614012 gwei
 A cheaper time for routine transactions you already planned, for example revoking old token approvals.
 Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32805"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32805</id>
-    <updated>2026-11-16T02:33:50.414Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 14 large deposits ($389M) · 21 large withdrawals ($311M).
-
-📥 9.5M USDC ($9.5M)  →  Kraken: Hot Wallet 4  0x57f9ce…
-
-7d: $2298M in · $2294M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
