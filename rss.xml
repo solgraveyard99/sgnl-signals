@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T00:34:40.055Z</updated>
+  <updated>2026-11-16T00:39:40.063Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 3,000,000 USDT (~$3.0M) · 00:26 UTC</title>
+    <link href="https://t.me/sgnl_free/32791"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32791</id>
+    <updated>2026-11-16T00:36:33.988Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 3,000,000 USDT (~$3.0M) · 00:26 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xbcd9…a4a9
+Tx: https://etherscan.io/tx/0xe381319a6f9aa6997b20791475be2482462300191bcf33da593a5fb0598183c4
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2876.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/32790"/>
@@ -791,22 +808,6 @@ New supply: $70.93B
 
 Net supply expansion event. Descriptive observation only.
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/32737"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32737</id>
-    <updated>2026-11-15T15:08:43.635Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 21 large deposits ($303M) · 23 large withdrawals ($295M).
-
-📥 20.0M USDC ($20.0M)  →  Coinbase 10  0x01702f…
-📤 11.5M USDC ($11.5M)  ←  Coinbase 10  0x5435bc…
-
-7d: $1766M in · $1849M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
