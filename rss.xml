@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T16:34:40.135Z</updated>
+  <updated>2026-11-16T16:39:40.117Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/32937"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32937</id>
+    <updated>2026-11-16T16:38:45.325Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 Clusters in both directions in 6h: 61 large deposits ($753M) · 53 large withdrawals ($726M).
+
+📥 17.0M USDC ($17.0M)  →  Kraken: Hot Wallet 4  0x7b08b0…
+📤 6.8M USDC ($6.8M)  ←  Coinbase 10  0x040d6d…
+📤 6.0M USDT ($6.0M)  ←  Bybit 25  0x091d1c…
+
+7d: $3483M in · $3515M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 4 large moves</title>
     <link href="https://t.me/sgnl_free/32936"/>
@@ -792,27 +809,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 7d: $2788M in · $2898M out · net flow: outflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/32885"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32885</id>
-    <updated>2026-11-16T12:00:40.963Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $259.6B  (24h: $-115M)
-
-⚪ USDT: $175.33B  (+$16M)
-⚪ USDC: $69.30B  (+$19M)
-⚪ USDS: $5.23B  ($-95M)
-⚪ USDe: $4.85B  ($-53M)
-⚪ DAI: $4.63B  (+$0M)
-⚪ FDUSD: $0.28B  ($-3M)
-
-📊 Net supply Δ24h: $-115M (near-flat band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
