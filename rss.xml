@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T22:29:40.137Z</updated>
+  <updated>2026-11-16T22:34:40.139Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/32997"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32997</id>
+    <updated>2026-11-16T22:33:53.038Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 57 large deposits ($803M) · 60 large withdrawals ($832M).
+
+📤 13.9M USDC ($13.9M)  ←  Coinbase Prime 1  0x116f4b…
+📥 6.0M USDT ($6.0M)  →  Coinbase Prime 1  0x3bb03f…
+
+7d: $4280M in · $4332M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 6 large moves</title>
     <link href="https://t.me/sgnl_free/32996"/>
@@ -794,20 +810,5 @@ Quoted APY is 23.8 points above a 7% lending benchmark.
 Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e
 
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32945"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32945</id>
-    <updated>2026-11-16T17:13:43.739Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 65 large deposits ($898M) · 56 large withdrawals ($830M).
-
-📥 14.0M USDC ($14.0M)  →  Binance hot 0xce43  0x3bde17…
-
-7d: $3659M in · $3658M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
