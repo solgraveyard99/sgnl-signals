@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T12:04:40.101Z</updated>
+  <updated>2026-11-16T12:09:40.103Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/32888"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32888</id>
+    <updated>2026-11-16T12:08:41.626Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 Clusters in both directions in 6h: 40 large deposits ($455M) · 41 large withdrawals ($511M).
+
+📥 8.0M USDT ($8.0M)  →  Binance hot 0x690c  0xecf0e8…
+📤 6.8M USDT ($6.8M)  ←  OKX 180  0xd77743…
+📥 5.0M USDT ($5.0M)  →  Binance hot 0x690c  0xed89da…
+
+7d: $2788M in · $2942M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 5,000,001 USDT (~$5.0M) · 12:00 UTC</title>
+    <link href="https://t.me/sgnl_free/32887"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32887</id>
+    <updated>2026-11-16T12:06:40.859Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 5,000,001 USDT (~$5.0M) · 12:00 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xed89…60e7
+Tx: https://etherscan.io/tx/0xf3ed54e839bdcc07ee632e12e7071df880bef1a97c6cb24dc31913ae02c50a5b
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2820.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/32886"/>
@@ -796,39 +830,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 30000.00 ETH (~$54.4M) · 06:50 UTC</title>
-    <link href="https://t.me/sgnl_free/32835"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32835</id>
-    <updated>2026-11-16T06:56:32.965Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 30000.00 ETH (~$54.4M) · 06:50 UTC
-From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x5a52…efcb · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x493d09d67874aaa33a450c30809697b57e7e250e48c75e6b1876d1dc9053049e
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 50.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 10000.00 ETH (~$18.1M) · 06:51 UTC</title>
-    <link href="https://t.me/sgnl_free/32834"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32834</id>
-    <updated>2026-11-16T06:56:17.301Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 10000.00 ETH (~$18.1M) · 06:51 UTC
-From: 0xf977…acec · wallet labelled &quot;Exchange (hot)&quot; [label: public address list, unverified]
-To: 0x690c…91cc
-Tx: https://etherscan.io/tx/0xb1befe7034e9fd3cb0b1e50e90de03937740d1b8d5d151fca906635dc11e4c05
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 49.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
