@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T16:29:40.117Z</updated>
+  <updated>2026-11-16T16:34:40.135Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 4 large moves</title>
+    <link href="https://t.me/sgnl_free/32936"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32936</id>
+    <updated>2026-11-16T16:33:45.281Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 4 large moves
+📊 Clusters in both directions in 6h: 60 large deposits ($736M) · 51 large withdrawals ($713M).
+
+📥 15.0M USDT ($15.0M)  →  Coinbase 10  0xdbecc7…
+📥 8.0M USDC ($8.0M)  →  Binance hot 0xce43  0x035ad7…
+📤 7.3M USDT ($7.3M)  ←  Bitget hot 0xed9a  0x54a679…
+📤 6.0M USDT ($6.0M)  ←  Binance hot 0x690c  0xda09fe…
+
+7d: $3460M in · $3501M out · net flow: outflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 4 large moves</title>
     <link href="https://t.me/sgnl_free/32935"/>
@@ -796,30 +814,5 @@ Total tracked: $259.6B  (24h: $-115M)
 
 Source: DeFiLlama stablecoin supply data.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-11-15</title>
-    <link href="https://t.me/sgnl_free/32884"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32884</id>
-    <updated>2026-11-16T12:00:03.928Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-15
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    n/a
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: → 0% (Jupiter median)
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 290.7K μlamp | Orca: 241.1K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
