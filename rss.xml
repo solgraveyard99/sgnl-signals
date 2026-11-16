@@ -5,7 +5,34 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T16:59:40.135Z</updated>
+  <updated>2026-11-16T17:04:40.123Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/32943"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32943</id>
+    <updated>2026-11-16T17:03:44.879Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 Clusters in both directions in 6h: 65 large deposits ($892M) · 53 large withdrawals ($811M).
+
+📥 50.0M USDC ($50.0M)  →  Coinbase 10  0x28c5b0…
+📤 26.8M USDC ($26.8M)  ←  Coinbase 10  0x5435bc…
+📤 20.1M USDC ($20.1M)  ←  Coinbase 10  0x5435bc…
+
+7d: $3609M in · $3592M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>☀️ SGNL Midday Snapshot</title>
+    <link href="https://t.me/sgnl_free/32942"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32942</id>
+    <updated>2026-11-16T17:00:28.837Z</updated>
+    <summary type="text">☀️ SGNL Midday Snapshot
+BTC: $64,944 | SOL: $71.43
+Market activity index: 30/100 (low band)
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/32941"/>
@@ -777,37 +804,5 @@ Top 5 by size:
 …and 4 more
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32891"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32891</id>
-    <updated>2026-11-16T12:18:55.454Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 42 large deposits ($468M) · 41 large withdrawals ($511M).
-
-📥 5.6M USDT ($5.6M)  →  Binance hot 0x690c  0xed89da…
-
-7d: $2808M in · $2949M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 5,625,411 USDT (~$5.6M) · 12:07 UTC</title>
-    <link href="https://t.me/sgnl_free/32890"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32890</id>
-    <updated>2026-11-16T12:16:38.327Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 5,625,411 USDT (~$5.6M) · 12:07 UTC
-From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0xed89…60e7
-Tx: https://etherscan.io/tx/0x6d21d9cbb838a5b25aab3af19480e08e2979db3fc76015c82b6e1a8c9ad52cfb
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2827.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
