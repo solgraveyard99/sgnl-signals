@@ -5,7 +5,97 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-16T00:04:40.055Z</updated>
+  <updated>2026-11-16T00:09:40.062Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32778"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32778</id>
+    <updated>2026-11-16T00:04:48.019Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Call — strike $1900 — expiry 27NOV26
+Direction: BUY
+Notional: ~$911K
+Contracts: 500
+Implied vol: 53.3%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32777"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32777</id>
+    <updated>2026-11-16T00:04:47.424Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $66000 — expiry 4DEC26
+Direction: SELL
+Notional: ~$521K
+Contracts: 8
+Implied vol: 40.9%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32776"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32776</id>
+    <updated>2026-11-16T00:04:47.068Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $63500 — expiry 16NOV26
+Direction: SELL
+Notional: ~$652K
+Contracts: 10
+Implied vol: 71.2%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32775"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32775</id>
+    <updated>2026-11-16T00:04:46.669Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $66500 — expiry 17NOV26
+Direction: BUY
+Notional: ~$1167K
+Contracts: 17.9
+Implied vol: 54.3%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/32774"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-32774</id>
+    <updated>2026-11-16T00:04:46.314Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $68000 — expiry 4DEC26
+Direction: BUY
+Notional: ~$1629K
+Contracts: 25
+Implied vol: 40.7%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/32773"/>
@@ -683,85 +773,6 @@ Statistical pattern. Not financial advice.</summary>
 Composite score: 10/100
 
 Raw composite reading. No directional interpretation.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 4 large moves</title>
-    <link href="https://t.me/sgnl_free/32723"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32723</id>
-    <updated>2026-11-15T13:48:58.352Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 4 large moves
-📊 Clusters in both directions in 6h: 18 large deposits ($241M) · 16 large withdrawals ($217M).
-
-📤 19.9M USDC ($19.9M)  ←  Binance hot 0xce43  0x6fa5b6…
-📤 19.9M USDC ($19.9M)  ←  Binance hot 0xce43  0x6fa5b6…
-📤 15.0M USDC ($15.0M)  ←  Binance hot 0xce43  0x6fa5b6…
-📤 15.0M USDC ($15.0M)  ←  Binance hot 0xce43  0x6fa5b6…
-
-7d: $1714M in · $1689M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/32722"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32722</id>
-    <updated>2026-11-15T13:44:41.183Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.216217868 gwei (fast)  ·  🟢 cheap
-Safe: 0.214217868  ·  Propose: 0.215742868  ·  BaseFee: 0.2142
-
-24h range: 0.13–3.24 gwei  (avg 0.57)
-
-Simple transfer cost now: ~$0.0114</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32721"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32721</id>
-    <updated>2026-11-15T13:43:43.143Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 19 large deposits ($246M) · 12 large withdrawals ($148M).
-
-📥 8.5M USDC ($8.5M)  →  OKX 233  0x1dfc6b…
-
-7d: $1705M in · $1689M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 3 large moves</title>
-    <link href="https://t.me/sgnl_free/32720"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32720</id>
-    <updated>2026-11-15T13:38:43.133Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 3 large moves
-📊 Clusters in both directions in 6h: 21 large deposits ($264M) · 13 large withdrawals ($153M).
-
-📥 53.0M USDT ($53.0M)  →  OKX 180  0x6ac38d…
-📥 40.0M USDC ($40.0M)  →  OKX 233  0x26704c…
-📥 10.4M USDC ($10.4M)  →  OKX 233  0x26704c…
-
-7d: $1602M in · $1689M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/32719"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32719</id>
-    <updated>2026-11-15T13:28:46.296Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 19 large deposits ($169M) · 14 large withdrawals ($158M).
-
-📥 12.8M USDT ($12.8M)  →  OKX 180  0xf88c57…
-
-7d: $1589M in · $1689M out · net flow: outflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
