@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-17T01:09:40.149Z</updated>
+  <updated>2026-11-17T01:14:40.153Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/33033"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33033</id>
+    <updated>2026-11-17T01:14:00.203Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 62 large deposits ($1141M) · 59 large withdrawals ($987M).
+
+📤 24.0M USDC ($24.0M)  ←  Coinbase Prime 1  0x1d245e…
+📤 5.0M USDC ($5.0M)  ←  Binance hot 0xce43  0xed9b63…
+
+7d: $4950M in · $4870M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/33032"/>
@@ -828,17 +844,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/32981"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-32981</id>
-    <updated>2026-11-16T20:44:42.868Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.169391051 gwei  ·  Safe: 0.168376874 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
