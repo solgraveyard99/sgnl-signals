@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-17T09:09:40.177Z</updated>
+  <updated>2026-11-17T09:14:40.173Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 4 large moves</title>
+    <link href="https://t.me/sgnl_free/33109"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33109</id>
+    <updated>2026-11-17T09:13:42.342Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 4 large moves
+📊 Clusters in both directions in 6h: 43 large deposits ($482M) · 34 large withdrawals ($535M).
+
+📥 20.0M USDC ($20.0M)  →  Binance hot 0xce43  0x483a91…
+📥 19.8M USDC ($19.8M)  →  Coinbase 10  0x18e2d6…
+📤 12.5M USDC ($12.5M)  ←  Binance hot 0xce43  0xd8a3c5…
+📤 11.0M USDT ($11.0M)  ←  Binance hot 0x690c  0x091d1c…
+
+7d: $5645M in · $5463M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/33108"/>
@@ -793,25 +811,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/33059"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33059</id>
-    <updated>2026-11-17T03:44:50.094Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-Final Proposal (Version 2): Comprehensive Reporting &amp; Audit Standards, Strategic Communications, and
-
-DAO: lido-snapshot.eth
-Votes cast: 20
-Total voting power: 4263080
-Voting ends: 2026-11-19 16:11 UTC
-
-https://snapshot.org/#/lido-snapshot.eth/proposal/0x3aabbd8287d143d0a6f695de0c209be7de59bb72faf5b9d2ed86078d0166b818
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
   </entry>
 </feed>
