@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-17T18:44:40.208Z</updated>
+  <updated>2026-11-17T18:49:40.205Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/33195"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33195</id>
+    <updated>2026-11-17T18:48:41.976Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 35 large deposits ($627M) · 34 large withdrawals ($616M).
+
+📤 20.0M USDC ($20.0M)  ←  Binance hot 0xce43  0xd70b25…
+📤 7.4M USDC ($7.4M)  ←  Binance hot 0xce43  0xd70b25…
+
+7d: $6735M in · $6412M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🕵️ Repeat-rug wallet fingerprint matched</title>
+    <link href="https://t.me/sgnl_free/33194"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33194</id>
+    <updated>2026-11-17T18:46:08.496Z</updated>
+    <summary type="text">🕵️ Repeat-rug wallet fingerprint matched
+
+Wallet DCjt..LQvx now tied to 2 prior rug events
+Cumulative peak liquidity: $10K
+
+Historical observation. Public on-chain data.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/33193"/>
@@ -754,38 +784,5 @@ Safe: 0.171403322  ·  Propose: 0.172403322  ·  BaseFee: 0.1714
 24h range: 0.12–1.54 gwei  (avg 0.21)
 
 Simple transfer cost now: ~$0.0100</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 4 large moves</title>
-    <link href="https://t.me/sgnl_free/33145"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33145</id>
-    <updated>2026-11-17T13:43:43.286Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 4 large moves
-📊 Clusters in both directions in 6h: 50 large deposits ($752M) · 33 large withdrawals ($561M).
-
-📥 8.0M USDC ($8.0M)  →  Binance hot 0xce43  0xea59bb…
-📤 7.7M USDT ($7.7M)  ←  Binance hot 0x690c  0x549d83…
-📥 5.0M USDT ($5.0M)  →  Binance hot 0x690c  0xecf0e8…
-📥 5.0M USDT ($5.0M)  →  OKX 180  0x863103…
-
-7d: $6184M in · $5898M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/33144"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33144</id>
-    <updated>2026-11-17T13:38:43.777Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 50 large deposits ($772M) · 32 large withdrawals ($553M).
-
-📥 5.8M USDC ($5.8M)  →  Kraken: Hot Wallet 4  0x493dc0…
-
-7d: $6178M in · $5898M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
