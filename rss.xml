@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-17T17:09:40.197Z</updated>
+  <updated>2026-11-17T17:14:40.217Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/33180"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33180</id>
+    <updated>2026-11-17T17:13:43.345Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 41 large deposits ($683M) · 35 large withdrawals ($719M).
+
+📤 50.0M USDC ($50.0M)  ←  Coinbase 10  0xc0a2bc…
+
+7d: $6657M in · $6304M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/33179"/>
@@ -758,27 +773,6 @@ On-chain observation, not advice.</summary>
 7d: $6025M in · $5749M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/33130"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33130</id>
-    <updated>2026-11-17T12:00:41.281Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $259.7B  (24h: $-128M)
-
-⚪ USDT: $175.24B  ($-71M)
-⚪ USDC: $69.42B  (+$79M)
-🔴 USDS: $5.24B  ($-111M)
-⚪ USDe: $4.85B  ($-35M)
-⚪ DAI: $4.63B  (+$9M)
-⚪ FDUSD: $0.28B  (+$2M)
-
-📊 Net supply Δ24h: $-128M (near-flat band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
