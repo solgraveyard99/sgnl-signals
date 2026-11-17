@@ -5,7 +5,48 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-17T08:59:40.173Z</updated>
+  <updated>2026-11-17T09:04:40.179Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/33107"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33107</id>
+    <updated>2026-11-17T09:03:41.717Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 43 large deposits ($459M) · 33 large withdrawals ($525M).
+
+📤 20.0M USDC ($20.0M)  ←  Coinbase 10  0x040d6d…
+📥 10.0M USDC ($10.0M)  →  Binance hot 0xce43  0xea59bb…
+
+7d: $5613M in · $5443M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-11-16</title>
+    <link href="https://t.me/sgnl_free/33106"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33106</id>
+    <updated>2026-11-17T09:00:02.846Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-11-16
+
+Top 5 whale-cluster events:
+• $1174M → CEX | 53 wallets | 02:14Z
+• $1169M → CEX | 52 wallets | 02:14Z
+• $1141M → CEX | 62 wallets | 01:24Z
+• $1141M → CEX | 62 wallets | 01:24Z
+• $1129M → CEX | 59 wallets | 01:24Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 197
+• Whale-cluster←CEX: 197
+• Whale-large→CEX: 88
+• Whale-large←CEX: 86
+• Rug wallet: 1
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 4 large moves</title>
     <link href="https://t.me/sgnl_free/33105"/>
@@ -777,40 +818,5 @@ https://snapshot.org/#/uniswapgovernance.eth/proposal/0x65503933c85b5c813a350603
 Statistical pattern. Not financial advice.
 
 #DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🗳️ Governance proposal active</title>
-    <link href="https://t.me/sgnl_free/33057"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33057</id>
-    <updated>2026-11-17T03:44:33.981Z</updated>
-    <summary type="text">🗳️ Governance proposal active
-
-Protocol Fee Expansion: v4 on Five More Chains
-
-DAO: uniswapgovernance.eth
-Votes cast: 20
-Total voting power: 5132
-Voting ends: 2026-11-21 18:30 UTC
-
-https://snapshot.org/#/uniswapgovernance.eth/proposal/0x28780882407a7a45326f0d72a036c02cb4a48591813d7847afd87e30e8e17f8c
-
-Statistical pattern. Not financial advice.
-
-#DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/33056"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33056</id>
-    <updated>2026-11-17T03:38:45.274Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 49 large deposits ($1074M) · 46 large withdrawals ($777M).
-
-📥 15.0M USDC ($15.0M)  →  Binance hot 0xce43  0x3284ac…
-
-7d: $5229M in · $4957M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
