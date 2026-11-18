@@ -5,7 +5,36 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-18T13:44:40.282Z</updated>
+  <updated>2026-11-18T13:49:40.280Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/33364"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33364</id>
+    <updated>2026-11-18T13:48:44.933Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 42 large deposits ($639M) · 40 large withdrawals ($772M).
+
+📤 6.4M USDC ($6.4M)  ←  Binance hot 0xce43  0x0f0933…
+
+7d: $8903M in · $8575M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/33363"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33363</id>
+    <updated>2026-11-18T13:44:48.775Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.170139734 gwei (fast)  ·  🟢 cheap
+Safe: 0.150139734  ·  Propose: 0.150153542  ·  BaseFee: 0.1501
+
+24h range: 0.10–2.18 gwei  (avg 0.22)
+
+Simple transfer cost now: ~$0.0089</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/33362"/>
@@ -779,45 +808,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/33314"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33314</id>
-    <updated>2026-11-18T09:08:43.402Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 28 large deposits ($500M) · 18 large withdrawals ($419M).
-
-📥 20.0M USDC ($20.0M)  →  Binance hot 0xce43  0x483a91…
-
-7d: $8338M in · $7916M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-11-17</title>
-    <link href="https://t.me/sgnl_free/33313"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33313</id>
-    <updated>2026-11-18T09:00:03.184Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-11-17
-
-Top 5 whale-cluster events:
-• $1066M → CEX | 43 wallets | 04:44Z
-• $1060M → CEX | 42 wallets | 04:44Z
-• $1023M → CEX | 43 wallets | 04:13Z
-• $1023M → CEX | 43 wallets | 04:13Z
-• $1015M → CEX | 42 wallets | 04:13Z
-
-Alerts fired (24h):
-• Whale-cluster→CEX: 187
-• Whale-cluster←CEX: 187
-• Whale-large→CEX: 82
-• Whale-large←CEX: 74
-• Rug wallet: 1
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
