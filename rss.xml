@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-18T06:04:40.264Z</updated>
+  <updated>2026-11-18T06:09:40.258Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/33292"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33292</id>
+    <updated>2026-11-18T06:04:48.484Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0100 SOL
+• 99th: 0.0116 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>⏰ DAO VOTE ENDING SOON · Aave</title>
     <link href="https://t.me/sgnl_free/33291"/>
@@ -810,25 +829,6 @@ New supply: $177.06B
 
 Net supply expansion event. Descriptive observation only.
 
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 5 large moves</title>
-    <link href="https://t.me/sgnl_free/33242"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33242</id>
-    <updated>2026-11-18T00:13:57.834Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 5 large moves
-📊 Clusters in both directions in 6h: 32 large deposits ($617M) · 40 large withdrawals ($608M).
-
-📤 26.8M USDC ($26.8M)  ←  Coinbase 10  0xefeca1…
-📤 11.0M USDC ($11.0M)  ←  Coinbase 10  0xc3f2f6…
-📥 8.0M USDT ($8.0M)  →  OKX 180  0x14681e…
-📥 8.0M USDT ($8.0M)  →  OKX 180  0x14681e…
-📤 7.8M USDC ($7.8M)  ←  Coinbase 10  0xefeca1…
-
-7d: $7321M in · $6957M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
