@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-18T04:04:40.243Z</updated>
+  <updated>2026-11-18T04:09:40.243Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/33280"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33280</id>
+    <updated>2026-11-18T04:08:41.846Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 Clusters in both directions in 6h: 42 large deposits ($1015M) · 41 large withdrawals ($910M).
+
+📤 26.8M USDC ($26.8M)  ←  Coinbase 10  0x5435bc…
+📤 19.0M USDC ($19.0M)  ←  Coinbase 10  0x5435bc…
+📤 7.0M USDT ($7.0M)  ←  OKX 180  0xd77743…
+
+7d: $7963M in · $7498M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/33279"/>
@@ -816,23 +833,5 @@ BTC: $64,970 (24h: +0.1%) | SOL: $75.16 (24h: +5.0%)
 Market activity index: 40/100 (low band)
 Next snapshot: 17:00 UTC
 On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 4 large moves</title>
-    <link href="https://t.me/sgnl_free/33230"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33230</id>
-    <updated>2026-11-17T23:58:43.777Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 4 large moves
-📊 Clusters in both directions in 6h: 29 large deposits ($528M) · 37 large withdrawals ($545M).
-
-📥 50.0M USDC ($50.0M)  →  Coinbase 10  0x28c5b0…
-📤 26.8M USDC ($26.8M)  ←  Coinbase 10  0x6a6cc8…
-📤 14.2M USDC ($14.2M)  ←  Coinbase 10  0x18e2d6…
-📤 8.6M USDC ($8.6M)  ←  Coinbase 10  0x6a6cc8…
-
-7d: $7186M in · $6858M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
