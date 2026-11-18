@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-18T17:19:40.288Z</updated>
+  <updated>2026-11-18T17:24:40.291Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 4 large moves</title>
+    <link href="https://t.me/sgnl_free/33398"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33398</id>
+    <updated>2026-11-18T17:23:43.456Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 4 large moves
+📊 Clusters in both directions in 6h: 60 large deposits ($1010M) · 52 large withdrawals ($1077M).
+
+📥 50.0M USDC ($50.0M)  →  Coinbase 10  0x28c5b0…
+📤 10534 ETH ($18.4M)  ←  Coinbase 10  0xc2bf39…
+📥 10000 ETH ($17.5M)  →  Binance hot 0x690c  0x3284ac…
+📤 5358 ETH ($9.4M)  ←  Coinbase 10  0xc2bf39…
+
+7d: $9563M in · $9241M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/33397"/>
@@ -781,22 +799,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 15 active observations</title>
-    <link href="https://t.me/sgnl_free/33348"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33348</id>
-    <updated>2026-11-18T12:19:53.067Z</updated>
-    <summary type="text">📊 Activity summary · 15 active observations
-
-Top 5 by size:
-• 🐋 Whale withdrawal cluster: 31 moves, $790M off exchanges
-• 🐋 Whale deposit cluster: 45 moves, $732M to exchanges
-• 🐋 Large withdrawal: $59M USDC ← Binance hot 0xce43
-• 🐋 Large withdrawal: $57M USDC ← Binance hot 0xce43
-• 🐋 Large withdrawal: $50M USDC ← Binance hot 0xce43
-…and 10 more
-
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
