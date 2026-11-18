@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-17T23:59:40.222Z</updated>
+  <updated>2026-11-18T00:04:40.229Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/33233"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33233</id>
+    <updated>2026-11-18T00:04:34.315Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $55000 — expiry 27NOV26
+Direction: SELL
+Notional: ~$519K
+Contracts: 8
+Implied vol: 56.7%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/33232"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33232</id>
+    <updated>2026-11-18T00:03:56.975Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 Clusters in both directions in 6h: 30 large deposits ($563M) · 38 large withdrawals ($573M).
+
+📥 35.0M USDC ($35.0M)  →  Coinbase Prime 1  0xbd05d8…
+📤 26.8M USDC ($26.8M)  ←  Coinbase 10  0x18e2d6…
+📤 23.2M USDC ($23.2M)  ←  Coinbase 10  0x18e2d6…
+
+7d: $7236M in · $6907M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/33231"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33231</id>
+    <updated>2026-11-18T00:00:19.923Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $64,970 (24h: +0.1%) | SOL: $75.16 (24h: +5.0%)
+Market activity index: 40/100 (low band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 4 large moves</title>
     <link href="https://t.me/sgnl_free/33230"/>
@@ -751,55 +797,5 @@ https://snapshot.org/#/ens.eth/proposal/0x90961e226c594e9619089c549355502ead9999
 Statistical pattern. Not financial advice.
 
 #DAO #governance #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/33183"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33183</id>
-    <updated>2026-11-17T17:23:43.447Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 41 large deposits ($714M) · 36 large withdrawals ($727M).
-
-📤 8.0M USDC ($8.0M)  ←  Binance hot 0xce43  0xed0c60…
-
-7d: $6708M in · $6354M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/33182"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33182</id>
-    <updated>2026-11-17T17:18:43.257Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 42 large deposits ($734M) · 35 large withdrawals ($719M).
-
-📥 51.3M USDC ($51.3M)  →  Coinbase 10  0x5435bc…
-
-7d: $6657M in · $6354M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 32.5% APY</title>
-    <link href="https://t.me/sgnl_free/33181"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33181</id>
-    <updated>2026-11-17T17:14:42.349Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 32.5% APY
-veranta / USDC on Base
-Base: 32.5%  ·  Rewards: n/a  ·  TVL: $9.6M
-
-Quoted APY is 25.5 points above a 7% lending benchmark.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol not on the established list; audit status not checked here
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e
-
-Not financial advice.</summary>
   </entry>
 </feed>
