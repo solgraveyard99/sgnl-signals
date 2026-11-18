@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-18T13:29:40.277Z</updated>
+  <updated>2026-11-18T13:34:40.274Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/33360"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33360</id>
+    <updated>2026-11-18T13:33:46.472Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 42 large deposits ($639M) · 36 large withdrawals ($736M).
+
+📥 8.0M USDC ($8.0M)  →  Kraken: Hot Wallet 4  0x17dc4d…
+📤 5.3M USDC ($5.3M)  ←  Coinbase Prime 1  0x879d8a…
+
+7d: $8895M in · $8540M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 4 large moves</title>
     <link href="https://t.me/sgnl_free/33359"/>
@@ -799,21 +815,5 @@ Fast: 0.113618659 gwei  ·  Safe: 0.10328969 gwei
 A cheaper time for routine transactions you already planned, for example revoking old token approvals.
 Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/33310"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33310</id>
-    <updated>2026-11-18T08:43:41.937Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 32 large deposits ($570M) · 20 large withdrawals ($474M).
-
-📤 60.8M USDC ($60.8M)  ←  Binance hot 0xce43  0x38aaef…
-📥 15.0M USDC ($15.0M)  →  Binance hot 0xce43  0x13f12f…
-
-7d: $8303M in · $7855M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
