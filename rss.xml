@@ -5,7 +5,58 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-19T00:04:40.319Z</updated>
+  <updated>2026-11-19T00:09:40.305Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/33460"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33460</id>
+    <updated>2026-11-19T00:09:34.440Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $20000 — expiry 25DEC26
+Direction: SELL
+Notional: ~$1884K
+Contracts: 30
+Implied vol: 123.7%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/33459"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33459</id>
+    <updated>2026-11-19T00:08:57.812Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 43 large deposits ($885M) · 55 large withdrawals ($1020M).
+
+📥 10.0M USDC ($10.0M)  →  Binance hot 0xce43  0xde46bd…
+
+7d: $10524M in · $10447M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/33458"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33458</id>
+    <updated>2026-11-19T00:04:40.591Z</updated>
+    <summary type="text">⚡ Large options flow
+
+ETH Call — strike $2100 — expiry 21NOV26
+Direction: BUY
+Notional: ~$884K
+Contracts: 500
+Implied vol: 93.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #ETH #derivatives</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/33457"/>
@@ -745,53 +796,6 @@ Statistical pattern. Not financial advice.</summary>
 📤 5.5M USDC ($5.5M)  ←  Coinbase Prime 1  0x879d8a…
 
 7d: $9727M in · $9504M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 3 large moves</title>
-    <link href="https://t.me/sgnl_free/33410"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33410</id>
-    <updated>2026-11-18T19:08:43.450Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 3 large moves
-📊 Clusters in both directions in 6h: 54 large deposits ($851M) · 48 large withdrawals ($1046M).
-
-📤 50.0M USDC ($50.0M)  ←  Coinbase 10  0xe725b2…
-📥 7.0M USDC ($7.0M)  →  Kraken: Hot Wallet 4  0xbacec9…
-📤 5.0M USDT ($5.0M)  ←  OKX 180  0x14681e…
-
-7d: $9720M in · $9449M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/33409"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33409</id>
-    <updated>2026-11-18T19:03:44.645Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 55 large deposits ($869M) · 48 large withdrawals ($1007M).
-
-📥 8.0M USDC ($8.0M)  →  Kraken: Hot Wallet 4  0x493dc0…
-
-7d: $9712M in · $9449M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/33408"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33408</id>
-    <updated>2026-11-18T18:48:43.402Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 57 large deposits ($881M) · 49 large withdrawals ($1018M).
-
-📤 13.1M USDC ($13.1M)  ←  Coinbase Prime 1  0x879d8a…
-
-7d: $9712M in · $9436M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
