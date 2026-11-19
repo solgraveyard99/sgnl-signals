@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-19T14:29:40.350Z</updated>
+  <updated>2026-11-19T14:34:40.371Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/33581"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33581</id>
+    <updated>2026-11-19T14:33:13.962Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 65 $5M+ moves into tracked hot wallets ($1264M) · 42 $5M+ moves out of tracked hot wallets ($791M).
+
+📥 8.3M USDT ($8.3M)  →  Coinbase 10  0xfaf517…
+📤 5.5M USDT ($5.5M)  ←  Bybit 25  0xe49806…
+
+since 14 Nov (5.5 days): $12277M into · $11749M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/33580"/>
@@ -839,29 +856,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-11-18</title>
-    <link href="https://t.me/sgnl_free/33531"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33531</id>
-    <updated>2026-11-19T09:00:02.773Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-11-18
-
-Top 5 whale-cluster events:
-• $1191M ← CEX | 58 wallets | 00:38Z
-• $1176M ← CEX | 60 wallets | 01:53Z
-• $1169M ← CEX | 56 wallets | 01:34Z
-• $1169M ← CEX | 56 wallets | 01:34Z
-• $1163M ← CEX | 59 wallets | 23:08Z
-
-Alerts fired (24h):
-• Whale-cluster→CEX: 173
-• Whale-cluster←CEX: 173
-• Whale-large←CEX: 81
-• Whale-large→CEX: 78
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
