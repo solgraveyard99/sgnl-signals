@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-19T20:14:40.367Z</updated>
+  <updated>2026-11-19T20:19:40.372Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/33634"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33634</id>
+    <updated>2026-11-19T20:19:39.075Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9950  (↓ 0.501% below peg)
+24h change: -0.016%
+Duration: 1045h 1min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/33633"/>
@@ -828,18 +843,6 @@ since 14 Nov (5.5 days): $12298M into · $11994M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/33584"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33584</id>
-    <updated>2026-11-19T14:44:50.200Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.42487911 gwei  ·  Safe: 0.381186057 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
   </entry>
 </feed>
