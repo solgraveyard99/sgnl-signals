@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-19T11:19:40.344Z</updated>
+  <updated>2026-11-19T11:24:40.337Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/33553"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33553</id>
+    <updated>2026-11-19T11:23:43.802Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 Clusters in both directions in 6h: 29 large deposits ($290M) · 23 large withdrawals ($198M).
+
+📤 16.0M USDT ($16.0M)  ←  Bitget hot 0xed9a  0xf6abd6…
+📥 8.0M USDT ($8.0M)  →  Binance hot 0x690c  0xecf0e8…
+
+7d: $11203M in · $11083M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔴 STABLECOIN BURN · USDC</title>
     <link href="https://t.me/sgnl_free/33552"/>
@@ -782,24 +798,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>💰 ETH/LST YIELD · 25.5% APY</title>
-    <link href="https://t.me/sgnl_free/33503"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33503</id>
-    <updated>2026-11-19T04:14:41.849Z</updated>
-    <summary type="text">💰 ETH/LST YIELD · 25.5% APY
-ipor-fusion / WETH on Ethereum
-Base: 22.9%  ·  Rewards: 2.7%  ·  TVL: $10.5M
-
-Quoted APY is 21.5 points above a 4% lending benchmark.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ protocol not on the established list; audit status not checked here
-
-Pool details: https://defillama.com/yields/pool/b01b6734-1ceb-4427-8a03-36fe9bd726b1
-
-Not financial advice.</summary>
   </entry>
 </feed>
