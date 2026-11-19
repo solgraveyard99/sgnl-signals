@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-19T10:24:40.334Z</updated>
+  <updated>2026-11-19T10:29:40.343Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/33544"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33544</id>
+    <updated>2026-11-19T10:28:42.462Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 20 large deposits ($208M) · 20 large withdrawals ($150M).
+
+📥 5.7M USDT ($5.7M)  →  Binance hot 0x690c  0xed89da…
+
+7d: $11123M in · $11045M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 5,662,733 USDT (~$5.7M) · 10:21 UTC</title>
+    <link href="https://t.me/sgnl_free/33543"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33543</id>
+    <updated>2026-11-19T10:27:01.389Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 5,662,733 USDT (~$5.7M) · 10:21 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xed89…60e7
+Tx: https://etherscan.io/tx/0x51f6fb8edb246cf10865ee95158d02a02f97267a67b419d06cbf0fd4a41a3c54
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2653.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/33542"/>
@@ -774,32 +806,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/33494"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33494</id>
-    <updated>2026-11-19T02:53:45.547Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 39 large deposits ($734M) · 49 large withdrawals ($996M).
-
-📥 8.0M USDC ($8.0M)  →  Binance hot 0xce43  0x30934b…
-
-7d: $10872M in · $10805M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/33493"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33493</id>
-    <updated>2026-11-19T02:44:44.216Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.110653424 gwei  ·  Safe: 0.105653424 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
