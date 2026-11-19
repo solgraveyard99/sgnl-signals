@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-19T00:49:40.317Z</updated>
+  <updated>2026-11-19T00:54:40.311Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/33473"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33473</id>
+    <updated>2026-11-19T00:54:39.495Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0001 SOL
+• 95th: 0.0026 SOL
+• 99th: 0.0101 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/33472"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33472</id>
+    <updated>2026-11-19T00:53:43.422Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 44 large deposits ($1023M) · 56 large withdrawals ($1169M).
+
+📥 31.2M USDC ($31.2M)  →  Binance hot 0xce43  0x787b46…
+
+7d: $10704M in · $10618M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/33471"/>
@@ -780,37 +814,6 @@ New stablecoin supply typically deploys into BTC/ETH within 24-48h — historica
 📤 5.4M USDC ($5.4M)  ←  Coinbase Prime 1  0xa7af2a…
 
 7d: $10037M in · $9740M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/33423"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33423</id>
-    <updated>2026-11-18T20:23:43.434Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 56 large deposits ($1035M) · 51 large withdrawals ($1066M).
-
-📥 125.0M USDC ($125.0M)  →  Kraken: Hot Wallet 4  0xcd53c9…
-📤 35.0M USDC ($35.0M)  ←  Coinbase 10  0x2d4d2a…
-
-7d: $9912M in · $9705M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/33422"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33422</id>
-    <updated>2026-11-18T20:18:51.114Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 55 large deposits ($910M) · 50 large withdrawals ($1031M).
-
-📤 6.0M USDC ($6.0M)  ←  Coinbase Prime 1  0x879d8a…
-
-7d: $9912M in · $9699M out · net flow: inflow-dominant
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
