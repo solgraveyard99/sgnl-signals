@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-19T11:14:40.339Z</updated>
+  <updated>2026-11-19T11:19:40.344Z</updated>
+  <entry>
+    <title>🔴 STABLECOIN BURN · USDC</title>
+    <link href="https://t.me/sgnl_free/33552"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33552</id>
+    <updated>2026-11-19T11:14:52.502Z</updated>
+    <summary type="text">🔴 STABLECOIN BURN · USDC
+Supply change 24h: -$863M
+New supply: $68.46B
+
+Net supply contraction event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⏰ DAO VOTE ENDING SOON · Aave</title>
     <link href="https://t.me/sgnl_free/33551"/>
@@ -788,20 +801,5 @@ Quoted APY is 21.5 points above a 4% lending benchmark.
 Pool details: https://defillama.com/yields/pool/b01b6734-1ceb-4427-8a03-36fe9bd726b1
 
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/33502"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33502</id>
-    <updated>2026-11-19T04:08:42.024Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 Clusters in both directions in 6h: 38 large deposits ($658M) · 45 large withdrawals ($730M).
-
-📤 5.2M USDC ($5.2M)  ←  Coinbase Prime 1  0x879d8a…
-
-7d: $10921M in · $10891M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
