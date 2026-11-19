@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-19T16:34:40.367Z</updated>
+  <updated>2026-11-19T16:39:40.361Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/33600"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33600</id>
+    <updated>2026-11-19T16:38:16.279Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 77 $5M+ moves into tracked hot wallets ($1776M) · 66 $5M+ moves out of tracked hot wallets ($1504M).
+
+📤 8.1M USDT ($8.1M)  ←  Binance hot 0x3d5d  0x43fed7…
+📤 5.0M USDC ($5.0M)  ←  Coinbase Prime 1  0xa7af2a…
+
+since 14 Nov (5.5 days): $12910M into · $12539M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/33599"/>
@@ -869,21 +886,5 @@ Status: High-impact keyword match
 If the outcome lands on a protocol-critical parameter, expect price reaction on token within 24h of close.
 
 https://snapshot.org/#/aavedao.eth/proposal/0x7ed3e17373060128618599b425fd0b4312bea86fcd903a1aa99c2622403f7f98</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/33550"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33550</id>
-    <updated>2026-11-19T11:08:43.669Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 28 large deposits ($282M) · 23 large withdrawals ($187M).
-
-📥 11.2M USDC ($11.2M)  →  Coinbase Prime 1  0x879d8a…
-📥 5.0M USDC ($5.0M)  →  Kraken: Hot Wallet 4  0xa4706c…
-
-7d: $11186M in · $11083M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
