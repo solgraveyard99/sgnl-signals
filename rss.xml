@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-19T01:14:40.310Z</updated>
+  <updated>2026-11-19T01:19:40.315Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/33480"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33480</id>
+    <updated>2026-11-19T01:18:43.434Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 Clusters in both directions in 6h: 42 large deposits ($968M) · 55 large withdrawals ($1123M).
+
+📤 9.0M USDC ($9.0M)  ←  Coinbase 10  0xc31602…
+
+7d: $10745M in · $10630M out · net flow: inflow-dominant
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 32.0% APY</title>
+    <link href="https://t.me/sgnl_free/33479"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33479</id>
+    <updated>2026-11-19T01:14:51.122Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 32.0% APY
+midas-rwa / USDC on Ethereum
+Base: 32.0%  ·  Rewards: n/a  ·  TVL: $19.7M
+
+Quoted APY is 25.0 points above a 7% lending benchmark.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ protocol not on the established list; audit status not checked here
+
+Pool details: https://defillama.com/yields/pool/15cc07d7-3ffc-49e6-8500-deaeb414e32d
+
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/33478"/>
@@ -794,33 +828,5 @@ Statistical pattern. Not financial advice.</summary>
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/33430"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33430</id>
-    <updated>2026-11-18T20:48:57.846Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 Clusters in both directions in 6h: 56 large deposits ($1052M) · 52 large withdrawals ($1022M).
-
-📥 8.0M USDT ($8.0M)  →  OKX 180  0x14681e…
-📥 8.0M USDT ($8.0M)  →  OKX 180  0x14681e…
-
-7d: $10130M in · $9810M out · net flow: inflow-dominant
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/33429"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33429</id>
-    <updated>2026-11-18T20:44:40.115Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.168314502 gwei  ·  Safe: 0.153013184 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
   </entry>
 </feed>
