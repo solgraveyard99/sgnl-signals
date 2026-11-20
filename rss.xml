@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-20T21:34:40.463Z</updated>
+  <updated>2026-11-20T21:39:40.468Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 7 large moves</title>
+    <link href="https://t.me/sgnl_free/33897"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33897</id>
+    <updated>2026-11-20T21:38:14.068Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 7 large moves
+📊 In 6h: 84 $5M+ moves into tracked hot wallets ($1480M) · 99 $5M+ moves out of tracked hot wallets ($1404M).
+
+📤 26.8M USDC ($26.8M)  ←  Coinbase 10  0x5435bc…
+📤 22.2M USDC ($22.2M)  ←  Coinbase 10  0x9a6881…
+📤 20.0M USDC ($20.0M)  ←  Binance hot 0xce43  0xf9de71…
+📥 20.0M USDC ($20.0M)  →  Coinbase Prime 1  0xf9de71…
+📤 19.5M USDC ($19.5M)  ←  Coinbase 10  0xa21c1c…
+…and 2 more
+
+since 14 Nov (6.8 days): $17369M into · $17054M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/33896"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33896</id>
+    <updated>2026-11-20T21:34:53.454Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9946  (↓ 0.539% below peg)
+24h change: -0.050%
+Duration: 1070h 16min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/33895"/>
@@ -815,41 +851,5 @@ since 14 Nov (6.6 days): $16547M into · $16302M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 4 large moves</title>
-    <link href="https://t.me/sgnl_free/33847"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33847</id>
-    <updated>2026-11-20T17:48:17.552Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 4 large moves
-📊 In 6h: 78 $5M+ moves into tracked hot wallets ($1311M) · 74 $5M+ moves out of tracked hot wallets ($1152M).
-
-📤 10.0M USDC ($10.0M)  ←  Binance hot 0xce43  0x43fed7…
-📥 8.0M USDT ($8.0M)  →  OKX 180  0x14681e…
-📥 8.0M USDT ($8.0M)  →  OKX 180  0x14681e…
-📤 6.0M USDC ($6.0M)  ←  Bitget hot 0xed9a  0x549d83…
-
-since 14 Nov (6.6 days): $16531M into · $16286M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⏰ DAO VOTE ENDING SOON · Uniswap</title>
-    <link href="https://t.me/sgnl_free/33846"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33846</id>
-    <updated>2026-11-20T17:44:25.204Z</updated>
-    <summary type="text">⏰ DAO VOTE ENDING SOON · Uniswap
-
-Upgrade VolatilePair hook and update X Layer Releaser
-
-Ends in: ~3h
-Token: $UNI  ·  Votes: 12.92M tokens
-Status: High-impact keyword match
-
-If the outcome lands on a protocol-critical parameter, expect price reaction on token within 24h of close.
-
-https://snapshot.org/#/uniswapgovernance.eth/proposal/0xd010fad9c1abd897c165f2ff93cee3d321251330c977cb354bb59ddf3ae713df</summary>
   </entry>
 </feed>
