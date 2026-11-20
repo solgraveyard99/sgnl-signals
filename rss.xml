@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-20T16:09:40.447Z</updated>
+  <updated>2026-11-20T16:14:40.450Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 4 large moves</title>
+    <link href="https://t.me/sgnl_free/33825"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33825</id>
+    <updated>2026-11-20T16:13:14.020Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 4 large moves
+📊 In 6h: 68 $5M+ moves into tracked hot wallets ($1203M) · 56 $5M+ moves out of tracked hot wallets ($1038M).
+
+📥 47.7M USDC ($47.7M)  →  Coinbase 10  0x6a6cc8…
+📥 8065 ETH ($13.3M)  →  Coinbase Prime 1  0x3606f0…
+📤 12.0M USDT ($12.0M)  ←  Bybit 25  0x549d83…
+📥 10.0M USDC ($10.0M)  →  Binance hot 0xce43  0xc195a2…
+
+since 14 Nov (6.5 days): $16100M into · $16003M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 8 large moves</title>
     <link href="https://t.me/sgnl_free/33824"/>
@@ -829,22 +848,5 @@ Cross-DEX yesterday medians:
 
 Source: live Solana RPC + Jupiter/Raydium/Orca quotes
 Fees change in seconds. DYOR before tx.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/33775"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33775</id>
-    <updated>2026-11-20T11:58:13.942Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 39 $5M+ moves into tracked hot wallets ($661M) · 27 $5M+ moves out of tracked hot wallets ($462M).
-
-📥 40565 ETH ($70.9M)  →  Coinbase Prime 1  0xc8c557…
-📥 40.7M USDC ($40.7M)  →  Coinbase 10  0x5435bc…
-
-since 14 Nov (6.4 days): $15236M into · $15182M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
