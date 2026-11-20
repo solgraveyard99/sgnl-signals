@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-20T21:09:40.460Z</updated>
+  <updated>2026-11-20T21:14:40.469Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/33891"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33891</id>
+    <updated>2026-11-20T21:13:26.909Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 89 $5M+ moves into tracked hot wallets ($1480M) · 90 $5M+ moves out of tracked hot wallets ($1301M).
+
+📥 10.0M USDC ($10.0M)  →  Binance hot 0xce43  0x3bde17…
+
+since 14 Nov (6.7 days): $17241M into · $16994M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/33890"/>
@@ -831,20 +847,5 @@ since 14 Nov (6.6 days): $16439M into · $16254M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/33841"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33841</id>
-    <updated>2026-11-20T17:19:39.252Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9950  (↓ 0.501% below peg)
-24h change: -0.022%
-Duration: 1066h 1min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
