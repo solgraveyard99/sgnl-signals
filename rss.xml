@@ -5,7 +5,59 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-20T19:14:40.473Z</updated>
+  <updated>2026-11-20T19:19:40.461Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/33865"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33865</id>
+    <updated>2026-11-20T19:19:39.201Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9949  (↓ 0.511% below peg)
+24h change: -0.033%
+Duration: 1068h 1min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 710.73 ETH (~$1.1M) · 19:11 UTC</title>
+    <link href="https://t.me/sgnl_free/33864"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33864</id>
+    <updated>2026-11-20T19:16:34.369Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 710.73 ETH (~$1.1M) · 19:11 UTC
+From: 0xed9a…8771
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xe38deb13e34911b93b1836193a4f706c55e88945a16842d75999edae726b38d9
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2416.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 34.6% APY</title>
+    <link href="https://t.me/sgnl_free/33863"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33863</id>
+    <updated>2026-11-20T19:14:50.125Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 34.6% APY
+veranta / USDC on Base
+Base: 34.6%  ·  Rewards: n/a  ·  TVL: $9.6M
+
+Quoted APY is 27.6 points above a 7% lending benchmark.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ TVL &lt; $10M (thin liquidity)
+⚠️ protocol not on the established list; audit status not checked here
+
+Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e
+
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 4 large moves</title>
     <link href="https://t.me/sgnl_free/33862"/>
@@ -805,61 +857,6 @@ Not financial advice.</summary>
 📥 5.7M USDC ($5.7M)  →  Coinbase 10  0xa21c1c…
 
 since 14 Nov (6.5 days): $15888M into · $15743M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 4 large moves</title>
-    <link href="https://t.me/sgnl_free/33815"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33815</id>
-    <updated>2026-11-20T15:33:13.914Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 4 large moves
-📊 In 6h: 52 $5M+ moves into tracked hot wallets ($935M) · 44 $5M+ moves out of tracked hot wallets ($783M).
-
-📥 20.0M USDC ($20.0M)  →  Binance hot 0xce43  0x483a91…
-📥 10.0M USDT ($10.0M)  →  Binance hot 0x690c  0x87ffb3…
-📥 9.1M USDT ($9.1M)  →  Binance hot 0x690c  0x112c56…
-📥 4954 ETH ($8.3M)  →  Binance hot 0x690c  0xeae738…
-
-since 14 Nov (6.5 days): $15841M into · $15743M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/33814"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33814</id>
-    <updated>2026-11-20T15:28:22.430Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 48 $5M+ moves into tracked hot wallets ($888M) · 44 $5M+ moves out of tracked hot wallets ($783M).
-
-📥 29.8M USDC ($29.8M)  →  Coinbase 10  0xa21c1c…
-📥 5.1M USDT ($5.1M)  →  Bybit 25  0xb94c0d…
-
-since 14 Nov (6.5 days): $15806M into · $15743M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 4 large moves</title>
-    <link href="https://t.me/sgnl_free/33813"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33813</id>
-    <updated>2026-11-20T15:23:24.781Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 4 large moves
-📊 In 6h: 46 $5M+ moves into tracked hot wallets ($853M) · 45 $5M+ moves out of tracked hot wallets ($797M).
-
-📤 50.0M USDC ($50.0M)  ←  Coinbase 10  0xe725b2…
-📥 21.9M USDC ($21.9M)  →  Coinbase 10  0x5435bc…
-📥 8.0M USDC ($8.0M)  →  Coinbase Prime 1  0x52cebb…
-📥 2961 ETH ($5.1M)  →  Coinbase Prime 1  0x28bbba…
-
-since 14 Nov (6.5 days): $15771M into · $15693M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
