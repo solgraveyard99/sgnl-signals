@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-20T00:24:40.395Z</updated>
+  <updated>2026-11-20T00:29:40.394Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,792,737 USDT (~$1.8M) · 00:16 UTC</title>
+    <link href="https://t.me/sgnl_free/33681"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33681</id>
+    <updated>2026-11-20T00:26:37.178Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,792,737 USDT (~$1.8M) · 00:16 UTC
+From: 0x3b98…5e4f
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0xc7a3df33545377216bd371e7a73ac5c0edae94c293a968d307c628b1b9faad22
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2516.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/33680"/>
@@ -838,26 +855,6 @@ Not financial advice.</summary>
 📥 7.7M USDC ($7.7M)  →  Coinbase Prime 1  0x52cebb…
 
 since 14 Nov (5.7 days): $13484M into · $13156M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 5 large moves</title>
-    <link href="https://t.me/sgnl_free/33631"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33631</id>
-    <updated>2026-11-19T20:03:14.036Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 5 large moves
-📊 In 6h: 63 $5M+ moves into tracked hot wallets ($1580M) · 60 $5M+ moves out of tracked hot wallets ($1482M).
-
-📥 50.0M USDC ($50.0M)  →  Coinbase 10  0x28c5b0…
-📤 47.8M USDC ($47.8M)  ←  Kraken: Hot Wallet 4  0x2744df…
-📥 14.0M USDC ($14.0M)  →  Coinbase 10  0x64825a…
-📤 14.0M USDC ($14.0M)  ←  Coinbase Prime 1  0x64825a…
-📥 10.0M USDC ($10.0M)  →  Kraken: Hot Wallet 4  0x000000…
-
-since 14 Nov (5.7 days): $13410M into · $13094M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
