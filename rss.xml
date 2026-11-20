@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-20T19:24:40.463Z</updated>
+  <updated>2026-11-20T19:29:40.462Z</updated>
+  <entry>
+    <title>🔴 Tether BURN · USDT</title>
+    <link href="https://t.me/sgnl_free/33869"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33869</id>
+    <updated>2026-11-20T19:29:30.055Z</updated>
+    <summary type="text">🔴 Tether BURN · USDT
+
+-$4.00B in last 24h
+Tier: TIER3
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,783,460 USDT (~$1.8M) · 19:22 UTC</title>
+    <link href="https://t.me/sgnl_free/33868"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33868</id>
+    <updated>2026-11-20T19:26:50.158Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,783,460 USDT (~$1.8M) · 19:22 UTC
+From: 0xde1c…fe78
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x7f8a56a6a76aba9b78827d9ea149eb6f9247d41ff63540d85c6fa44f96540e7e
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2428.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 2000.00 ETH (~$3.2M) · 19:17 UTC</title>
+    <link href="https://t.me/sgnl_free/33867"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33867</id>
+    <updated>2026-11-20T19:26:34.406Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 2000.00 ETH (~$3.2M) · 19:17 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x056c…fd92
+Tx: https://etherscan.io/tx/0xa97ae6630c68c47ee02db7957f47e4351befad9ae9d621869e20a764ebd6d5e3
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2427.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/33866"/>
@@ -812,50 +858,6 @@ Not financial advice.</summary>
 📥 5.0M USDT ($5.0M)  →  OKX 180  0x863103…
 
 since 14 Nov (6.5 days): $15943M into · $15775M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/33819"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33819</id>
-    <updated>2026-11-20T15:48:28.829Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 57 $5M+ moves into tracked hot wallets ($990M) · 46 $5M+ moves out of tracked hot wallets ($815M).
-
-📥 11850 ETH ($19.7M)  →  Bybit 28  0x0edae8…
-
-since 14 Nov (6.5 days): $15924M into · $15775M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low Gas</title>
-    <link href="https://t.me/sgnl_free/33818"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33818</id>
-    <updated>2026-11-20T15:44:51.545Z</updated>
-    <summary type="text">⛽🟢 Low Gas
-Fast: 9.35540744 gwei  ·  Safe: 8.50420517 gwei
-
-Good window for routine ETH transactions.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 3 large moves</title>
-    <link href="https://t.me/sgnl_free/33817"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33817</id>
-    <updated>2026-11-20T15:43:14.186Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 3 large moves
-📊 In 6h: 56 $5M+ moves into tracked hot wallets ($970M) · 46 $5M+ moves out of tracked hot wallets ($815M).
-
-📥 8.0M USDT ($8.0M)  →  Coinbase 10  0x1e5db3…
-📥 7.0M USDT ($7.0M)  →  Coinbase 10  0x97bcaa…
-📤 7.0M USDT ($7.0M)  ←  Coinbase 10  0x99f48f…
-
-since 14 Nov (6.5 days): $15909M into · $15768M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
