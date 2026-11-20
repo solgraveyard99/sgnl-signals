@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-20T17:14:40.455Z</updated>
+  <updated>2026-11-20T17:19:40.455Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/33841"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33841</id>
+    <updated>2026-11-20T17:19:39.252Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9950  (↓ 0.501% below peg)
+24h change: -0.022%
+Duration: 1066h 1min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/33840"/>
@@ -816,22 +831,6 @@ Not financial advice.</summary>
 📥 5.2M USDC ($5.2M)  →  Binance hot 0xce43  0x7a4aa3…
 
 since 14 Nov (6.4 days): $15570M into · $15474M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/33791"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33791</id>
-    <updated>2026-11-20T13:33:13.923Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 44 $5M+ moves into tracked hot wallets ($805M) · 39 $5M+ moves out of tracked hot wallets ($618M).
-
-📥 15.0M USDC ($15.0M)  →  Kraken: Hot Wallet 4  0x8ef03e…
-
-since 14 Nov (6.4 days): $15555M into · $15474M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
