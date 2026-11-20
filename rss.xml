@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-20T15:44:40.444Z</updated>
+  <updated>2026-11-20T15:49:40.452Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/33819"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33819</id>
+    <updated>2026-11-20T15:48:28.829Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 57 $5M+ moves into tracked hot wallets ($990M) · 46 $5M+ moves out of tracked hot wallets ($815M).
+
+📥 11850 ETH ($19.7M)  →  Bybit 28  0x0edae8…
+
+since 14 Nov (6.5 days): $15924M into · $15775M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽🟢 Low Gas</title>
+    <link href="https://t.me/sgnl_free/33818"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33818</id>
+    <updated>2026-11-20T15:44:51.545Z</updated>
+    <summary type="text">⛽🟢 Low Gas
+Fast: 9.35540744 gwei  ·  Safe: 8.50420517 gwei
+
+Good window for routine ETH transactions.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/33817"/>
@@ -815,34 +841,5 @@ since 14 Nov (6.3 days): $15151M into · $15123M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔴 Tether BURN · USDT</title>
-    <link href="https://t.me/sgnl_free/33769"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33769</id>
-    <updated>2026-11-20T11:29:33.620Z</updated>
-    <summary type="text">🔴 Tether BURN · USDT
-
--$4.00B in last 24h
-Tier: TIER3
-
-Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 3,419,424 USDT (~$3.4M) · 11:19 UTC</title>
-    <link href="https://t.me/sgnl_free/33768"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33768</id>
-    <updated>2026-11-20T11:26:36.752Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 3,419,424 USDT (~$3.4M) · 11:19 UTC
-From: 0xde1c…fe78
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x09ddbd48922f12590e19eed8f82c1907de5a5a3dc0d178f0e135dffdab89368d
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2483.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
