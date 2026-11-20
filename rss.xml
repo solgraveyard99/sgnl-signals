@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-20T17:39:40.457Z</updated>
+  <updated>2026-11-20T17:44:40.469Z</updated>
+  <entry>
+    <title>⏰ DAO VOTE ENDING SOON · Uniswap</title>
+    <link href="https://t.me/sgnl_free/33846"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33846</id>
+    <updated>2026-11-20T17:44:25.204Z</updated>
+    <summary type="text">⏰ DAO VOTE ENDING SOON · Uniswap
+
+Upgrade VolatilePair hook and update X Layer Releaser
+
+Ends in: ~3h
+Token: $UNI  ·  Votes: 12.92M tokens
+Status: High-impact keyword match
+
+If the outcome lands on a protocol-critical parameter, expect price reaction on token within 24h of close.
+
+https://snapshot.org/#/uniswapgovernance.eth/proposal/0xd010fad9c1abd897c165f2ff93cee3d321251330c977cb354bb59ddf3ae713df</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/33845"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33845</id>
+    <updated>2026-11-20T17:43:14.014Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 78 $5M+ moves into tracked hot wallets ($1342M) · 73 $5M+ moves out of tracked hot wallets ($1163M).
+
+📤 10.0M USDC ($10.0M)  ←  Binance hot 0xce43  0xb99a2c…
+
+since 14 Nov (6.6 days): $16531M into · $16276M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/33844"/>
@@ -809,36 +842,5 @@ Composite score: 0/100
 
 Raw composite reading. No directional interpretation.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/33796"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33796</id>
-    <updated>2026-11-20T13:53:14.028Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 42 $5M+ moves into tracked hot wallets ($741M) · 41 $5M+ moves out of tracked hot wallets ($648M).
-
-📤 20.0M USDC ($20.0M)  ←  Coinbase 10  0x040d6d…
-📥 19.4M USDC ($19.4M)  →  Coinbase 10  0x5435bc…
-
-since 14 Nov (6.4 days): $15591M into · $15484M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/33795"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33795</id>
-    <updated>2026-11-20T13:44:45.765Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.61392676 gwei (fast)  ·  🟢 cheap
-Safe: 0.57114332  ·  Propose: 0.57215332  ·  BaseFee: 0.5711
-
-24h range: 0.10–3.74 gwei  (avg 0.39)
-
-Simple transfer cost now: ~$0.0322</summary>
   </entry>
 </feed>
