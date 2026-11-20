@@ -5,7 +5,35 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-20T07:54:40.411Z</updated>
+  <updated>2026-11-20T07:59:40.412Z</updated>
+  <entry>
+    <title>🔴 Tether BURN · USDT</title>
+    <link href="https://t.me/sgnl_free/33741"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33741</id>
+    <updated>2026-11-20T07:59:30.071Z</updated>
+    <summary type="text">🔴 Tether BURN · USDT
+
+-$4.00B in last 24h
+Tier: TIER3
+
+Net burns suggest capital exit / redemption demand — can precede drawdowns.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/33740"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33740</id>
+    <updated>2026-11-20T07:58:13.911Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 25 $5M+ moves into tracked hot wallets ($385M) · 21 $5M+ moves out of tracked hot wallets ($393M).
+
+📤 6000 ETH ($10.5M)  ←  Binance hot 0x690c  0x90b220…
+
+since 14 Nov (6.2 days): $14870M into · $14856M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/33739"/>
@@ -780,42 +808,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 32.0% APY</title>
-    <link href="https://t.me/sgnl_free/33691"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33691</id>
-    <updated>2026-11-20T01:14:41.865Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 32.0% APY
-midas-rwa / USDC on Ethereum
-Base: 32.0%  ·  Rewards: n/a  ·  TVL: $19.7M
-
-Quoted APY is 25.0 points above a 7% lending benchmark.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ protocol not on the established list; audit status not checked here
-
-Pool details: https://defillama.com/yields/pool/15cc07d7-3ffc-49e6-8500-deaeb414e32d
-
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 3 large moves</title>
-    <link href="https://t.me/sgnl_free/33690"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33690</id>
-    <updated>2026-11-20T01:03:33.514Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 3 large moves
-📊 In 6h: 59 $5M+ moves into tracked hot wallets ($1164M) · 59 $5M+ moves out of tracked hot wallets ($1590M).
-
-📥 50.0M USDC ($50.0M)  →  Coinbase 10  0x28c5b0…
-📤 26.8M USDC ($26.8M)  ←  Coinbase 10  0x5435bc…
-📤 21.5M USDC ($21.5M)  ←  Coinbase 10  0xa21c1c…
-
-since 14 Nov (5.9 days): $14371M into · $14363M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
