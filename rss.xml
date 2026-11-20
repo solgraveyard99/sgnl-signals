@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-20T06:24:40.417Z</updated>
+  <updated>2026-11-20T06:29:40.406Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/33729"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33729</id>
+    <updated>2026-11-20T06:28:14.253Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 33 $5M+ moves into tracked hot wallets ($460M) · 28 $5M+ moves out of tracked hot wallets ($538M).
+
+📤 6.1M USDT ($6.1M)  ←  Binance hot 0x3d5d  0x191783…
+
+since 14 Nov (6.1 days): $14744M into · $14780M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/33728"/>
@@ -818,22 +834,5 @@ since 14 Nov (5.9 days): $14253M into · $14248M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 17 active observations</title>
-    <link href="https://t.me/sgnl_free/33679"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33679</id>
-    <updated>2026-11-20T00:19:39.993Z</updated>
-    <summary type="text">📊 Activity summary · 17 active observations
-
-Top 5 by size:
-• 🐋 Whale withdrawal cluster: 58 moves, $1465M off exchanges
-• 🐋 Whale deposit cluster: 56 moves, $1230M to exchanges
-• 🐋 Large deposit: $50M USDC → Coinbase 10
-• 🐋 Large deposit: $50M USDC → Binance hot 0xce43
-• 🐋 Large withdrawal: $42M USDC ← Kraken: Hot Wallet 4
-…and 12 more
-
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
