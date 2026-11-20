@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-20T23:19:40.472Z</updated>
+  <updated>2026-11-20T23:24:40.477Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 4 large moves</title>
+    <link href="https://t.me/sgnl_free/33920"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33920</id>
+    <updated>2026-11-20T23:23:14.022Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 4 large moves
+📊 In 6h: 85 $5M+ moves into tracked hot wallets ($1777M) · 112 $5M+ moves out of tracked hot wallets ($1870M).
+
+📥 50.0M USDC ($50.0M)  →  Coinbase 10  0x28c5b0…
+📤 17.5M USDC ($17.5M)  ←  Binance hot 0xce43  0x4b10df…
+📤 8434 ETH ($13.7M)  ←  Coinbase Prime 1  0x2ed1c6…
+📤 10.9M USDC ($10.9M)  ←  Binance hot 0xce43  0x4b10df…
+
+since 14 Nov (6.8 days): $18188M into · $18082M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 2,688,557 USDC (~$2.7M) · 23:14 UTC</title>
     <link href="https://t.me/sgnl_free/33919"/>
@@ -865,21 +884,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/33870"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33870</id>
-    <updated>2026-11-20T19:33:13.900Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 81 $5M+ moves into tracked hot wallets ($1177M) · 76 $5M+ moves out of tracked hot wallets ($1104M).
-
-📤 11.4M USDT ($11.4M)  ←  Binance hot 0x690c  0x51c728…
-
-since 14 Nov (6.7 days): $16747M into · $16566M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
