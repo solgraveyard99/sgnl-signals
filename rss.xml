@@ -5,7 +5,47 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-21T08:59:40.505Z</updated>
+  <updated>2026-11-21T09:04:40.504Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34045"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34045</id>
+    <updated>2026-11-21T09:03:14.194Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 38 $5M+ moves into tracked hot wallets ($848M) · 49 $5M+ moves out of tracked hot wallets ($725M).
+
+📥 10.0M USDT ($10.0M)  →  Binance hot 0x690c  0x322505…
+
+last 7 days: $19831M into · $19492M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-11-20</title>
+    <link href="https://t.me/sgnl_free/34044"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34044</id>
+    <updated>2026-11-21T09:00:03.491Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-11-20
+
+Top 5 whale-cluster events:
+• $2202M → CEX | 90 wallets | 00:38Z
+• $2152M → CEX | 89 wallets | 00:33Z
+• $2143M → CEX | 86 wallets | 02:03Z
+• $2140M → CEX | 86 wallets | 02:03Z
+• $2125M → CEX | 86 wallets | 01:14Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 203
+• Whale-cluster←CEX: 203
+• Whale-large←CEX: 169
+• Whale-large→CEX: 138
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34043"/>
@@ -810,33 +850,6 @@ Not financial advice.</summary>
 📥 5.0M USDC ($5.0M)  →  Coinbase 10  0x7de25e…
 
 last 7 days: $19205M into · $19066M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low Gas</title>
-    <link href="https://t.me/sgnl_free/33994"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33994</id>
-    <updated>2026-11-21T04:14:40.173Z</updated>
-    <summary type="text">⛽🟢 Low Gas
-Fast: 5.066027347 gwei  ·  Safe: 4.60498834 gwei
-
-Good window for routine ETH transactions.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/33993"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33993</id>
-    <updated>2026-11-21T04:13:35.344Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 61 $5M+ moves into tracked hot wallets ($1536M) · 69 $5M+ moves out of tracked hot wallets ($1532M).
-
-📤 17.0M USDC ($17.0M)  ←  Binance hot 0xce43  0xed0c60…
-📤 8.0M USDC ($8.0M)  ←  OKX 233  0x0134e4…
-
-last 7 days: $19205M into · $19041M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
