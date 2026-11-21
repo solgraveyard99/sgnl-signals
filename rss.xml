@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-21T02:54:40.492Z</updated>
+  <updated>2026-11-21T02:59:40.485Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/33975"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-33975</id>
+    <updated>2026-11-21T02:58:24.460Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 76 $5M+ moves into tracked hot wallets ($1909M) · 85 $5M+ moves out of tracked hot wallets ($1971M).
+
+📤 33.4M USDC ($33.4M)  ←  OKX 233  0x26704c…
+📤 6.2M USDC ($6.2M)  ←  OKX 233  0x1dfc6b…
+
+since 14 Nov (7.0 days): $18958M into · $18918M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 4 large moves</title>
     <link href="https://t.me/sgnl_free/33974"/>
@@ -824,20 +841,5 @@ since 14 Nov (6.8 days): $18325M into · $18239M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/33923"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33923</id>
-    <updated>2026-11-20T23:34:50.132Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9943  (↓ 0.567% below peg)
-24h change: -0.103%
-Duration: 1072h 16min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
