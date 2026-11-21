@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-21T05:59:40.493Z</updated>
+  <updated>2026-11-21T06:04:40.506Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34007"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34007</id>
+    <updated>2026-11-21T06:03:14.051Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 31 $5M+ moves into tracked hot wallets ($790M) · 31 $5M+ moves out of tracked hot wallets ($879M).
+
+📤 6.8M USDC ($6.8M)  ←  Kraken: Hot Wallet 4  0x2744df…
+
+last 7 days: $19255M into · $19026M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/34006"/>
@@ -819,20 +835,5 @@ since 14 Nov (6.9 days): $18755M into · $18466M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/33950"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33950</id>
-    <updated>2026-11-21T00:34:53.646Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9943  (↓ 0.571% below peg)
-24h change: -0.110%
-Duration: 1073h 16min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
