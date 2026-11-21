@@ -5,7 +5,40 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-21T06:29:40.496Z</updated>
+  <updated>2026-11-21T06:34:40.490Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/34014"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34014</id>
+    <updated>2026-11-21T06:34:39.128Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9947  (↓ 0.531% below peg)
+24h change: -0.083%
+Duration: 1079h 16min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/34013"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34013</id>
+    <updated>2026-11-21T06:33:25.063Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 In 6h: 29 $5M+ moves into tracked hot wallets ($575M) · 35 $5M+ moves out of tracked hot wallets ($745M).
+
+📥 36.0M USDC ($36.0M)  →  Coinbase 10  0x7de25e…
+📤 15.0M USDC ($15.0M)  ←  Binance hot 0xce43  0xed0c60…
+📤 5.4M USDC ($5.4M)  ←  Binance hot 0xce43  0x368426…
+
+last 7 days: $19286M into · $19080M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/34012"/>
@@ -804,41 +837,5 @@ Larger deviation from peg.
 Deviations can come from thin liquidity, redemptions or venue pricing.
 
 Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 2,510,451 USDC (~$2.5M) · 01:07 UTC</title>
-    <link href="https://t.me/sgnl_free/33957"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33957</id>
-    <updated>2026-11-21T01:16:34.206Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 2,510,451 USDC (~$2.5M) · 01:07 UTC
-From: 0xa9d1…3e43
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0x785533c832211b194019c724b5fdf717581b3655f9ee99d234264919506015b7
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2461.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 32.0% APY</title>
-    <link href="https://t.me/sgnl_free/33956"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-33956</id>
-    <updated>2026-11-21T01:14:45.684Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 32.0% APY
-midas-rwa / USDC on Ethereum
-Base: 32.0%  ·  Rewards: n/a  ·  TVL: $19.7M
-
-Quoted APY is 25.0 points above a 7% lending benchmark.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ protocol not on the established list; audit status not checked here
-
-Pool details: https://defillama.com/yields/pool/15cc07d7-3ffc-49e6-8500-deaeb414e32d
-
-Not financial advice.</summary>
   </entry>
 </feed>
