@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-21T13:34:40.516Z</updated>
+  <updated>2026-11-21T13:39:40.519Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/34081"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34081</id>
+    <updated>2026-11-21T13:34:50.495Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9948  (↓ 0.522% below peg)
+24h change: -0.045%
+Duration: 1086h 16min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34080"/>
@@ -833,21 +848,5 @@ last 7 days: $19671M into · $19296M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📡 SGNL Daily Digest · 2026-11-20</title>
-    <link href="https://t.me/sgnl_free/34031"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34031</id>
-    <updated>2026-11-21T08:00:18.095Z</updated>
-    <summary type="text">📡 SGNL Daily Digest · 2026-11-20
-What 30+ SGNL observers caught in the last 24h
-
-⚡ Aave V3 liquidations (24h, 352 total)
-USDT 4272985.90 → 2634.2256 WETH
-USDC 3870110.42 → 2462.0858 WETH
-USDT 2242307.41 → 38.6962 WBTC
-
-
-Free signals · No advice · t.me/sgnl_free</summary>
   </entry>
 </feed>
