@@ -5,7 +5,27 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-21T20:24:40.544Z</updated>
+  <updated>2026-11-21T20:29:40.549Z</updated>
+  <entry>
+    <title>📊 8 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/34122"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34122</id>
+    <updated>2026-11-21T20:24:52.732Z</updated>
+    <summary type="text">📊 8 inflow-heavy observations detected
+Sample: 8 concurrent observations · $1.46B total flow.
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 23 moves, $866M to exchanges
+• 🐋 Large deposit: $300M USDC → Coinbase Prime 1
+• 🐋 Large deposit: $93M USDC → Coinbase 10
+• 🐋 Large deposit: $67M USDC → Coinbase 10
+• 🐋 Large deposit: $50M USDC → Coinbase 10
+…and 3 more concurrent
+
+Opposing flow: $461M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/34121"/>
@@ -794,20 +814,5 @@ last 7 days: $20114M into · $19612M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/34071"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34071</id>
-    <updated>2026-11-21T12:34:39.185Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9947  (↓ 0.525% below peg)
-24h change: -0.041%
-Duration: 1085h 16min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
