@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-21T19:14:40.537Z</updated>
+  <updated>2026-11-21T19:19:40.545Z</updated>
+  <entry>
+    <title>🔴 STABLECOIN BURN · USDT</title>
+    <link href="https://t.me/sgnl_free/34110"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34110</id>
+    <updated>2026-11-21T19:14:46.176Z</updated>
+    <summary type="text">🔴 STABLECOIN BURN · USDT
+Supply change 24h: -$503M
+New supply: $174.45B
+
+Net supply contraction event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🟠 Concern · First Digital USD (FDUSD)</title>
     <link href="https://t.me/sgnl_free/34109"/>
@@ -809,20 +822,5 @@ last 7 days: $19769M into · $19514M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/34059"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34059</id>
-    <updated>2026-11-21T11:34:45.487Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9947  (↓ 0.533% below peg)
-24h change: -0.063%
-Duration: 1084h 16min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
