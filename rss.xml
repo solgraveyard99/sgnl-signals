@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-21T19:24:40.548Z</updated>
+  <updated>2026-11-21T19:29:40.533Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34112"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34112</id>
+    <updated>2026-11-21T19:28:14.021Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 15 $5M+ moves into tracked hot wallets ($260M) · 14 $5M+ moves out of tracked hot wallets ($257M).
+
+📥 5.7M USDC ($5.7M)  →  Coinbase Prime 1  0x83b849…
+
+last 7 days: $20127M into · $19666M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34111"/>
@@ -797,30 +813,5 @@ Total tracked: $256.0B  (24h: $-719M)
 
 Source: DeFiLlama stablecoin supply data.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-11-20</title>
-    <link href="https://t.me/sgnl_free/34061"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34061</id>
-    <updated>2026-11-21T12:00:12.398Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-20
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    n/a
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: → 0% (Jupiter median)
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 226.2K μlamp | Orca: 200.0K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
