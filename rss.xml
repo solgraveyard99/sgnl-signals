@@ -5,7 +5,41 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-22T00:19:40.549Z</updated>
+  <updated>2026-11-22T00:24:40.562Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/34169"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34169</id>
+    <updated>2026-11-22T00:24:34.774Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $60500 — expiry 22NOV26
+Direction: SELL
+Notional: ~$1806K
+Contracts: 30
+Implied vol: 52.3%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34168"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34168</id>
+    <updated>2026-11-22T00:23:17.365Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 33 $5M+ moves into tracked hot wallets ($1671M) · 59 $5M+ moves out of tracked hot wallets ($1310M).
+
+📥 30.4M USDC ($30.4M)  →  Binance hot 0xce43  0x33fc4c…
+
+last 7 days: $21470M into · $20752M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>📊 Activity summary · 16 active observations</title>
     <link href="https://t.me/sgnl_free/34167"/>
@@ -788,42 +822,6 @@ Not financial advice.</summary>
 …and 1 more
 
 last 7 days: $20188M into · $19681M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 33.6% APY</title>
-    <link href="https://t.me/sgnl_free/34119"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34119</id>
-    <updated>2026-11-21T20:14:42.007Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 33.6% APY
-veranta / USDC on Base
-Base: 33.6%  ·  Rewards: n/a  ·  TVL: $9.5M
-
-Quoted APY is 26.6 points above a 7% lending benchmark.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol not on the established list; audit status not checked here
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e
-
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/34118"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34118</id>
-    <updated>2026-11-21T20:03:27.056Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 15 $5M+ moves into tracked hot wallets ($304M) · 16 $5M+ moves out of tracked hot wallets ($266M).
-
-📤 7.4M USDC ($7.4M)  ←  Kraken: Hot Wallet 4  0x2744df…
-
-last 7 days: $20188M into · $19673M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
