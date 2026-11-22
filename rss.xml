@@ -5,7 +5,49 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-22T08:59:40.600Z</updated>
+  <updated>2026-11-22T09:04:40.603Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/34252"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34252</id>
+    <updated>2026-11-22T09:03:14.022Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 17 $5M+ moves into tracked hot wallets ($1064M) · 19 $5M+ moves out of tracked hot wallets ($673M).
+
+📥 237.3M USDC ($237.3M)  →  Coinbase 10  0xcd180a…
+📥 50.0M USDC ($50.0M)  →  Coinbase 10  0x28c5b0…
+
+last 7 days: $21988M into · $21115M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-11-21</title>
+    <link href="https://t.me/sgnl_free/34251"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34251</id>
+    <updated>2026-11-22T09:00:12.328Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-11-21
+
+Top 5 whale-cluster events:
+• $1924M → CEX | 42 wallets | 01:48Z
+• $1924M → CEX | 42 wallets | 01:55Z
+• $1920M → CEX | 41 wallets | 01:38Z
+• $1885M → CEX | 40 wallets | 01:43Z
+• $1876M → CEX | 40 wallets | 01:21Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 116
+• Whale-cluster←CEX: 116
+• Whale-large←CEX: 89
+• Whale-large→CEX: 67
+• Coord launch: 37
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/34250"/>
@@ -763,32 +805,5 @@ Not financial advice.</summary>
 Cluster launches often precede fast dumps. Observation only.
 
 #onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/34202"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34202</id>
-    <updated>2026-11-22T02:44:40.210Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.131749079 gwei  ·  Safe: 0.126906095 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/34201"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34201</id>
-    <updated>2026-11-22T02:34:41.098Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9945  (↓ 0.552% below peg)
-24h change: -0.045%
-Duration: 1099h 16min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
