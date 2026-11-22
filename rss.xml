@@ -5,7 +5,39 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-22T11:34:40.607Z</updated>
+  <updated>2026-11-22T11:39:40.607Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/34259"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34259</id>
+    <updated>2026-11-22T11:38:14.121Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 15 $5M+ moves into tracked hot wallets ($909M) · 29 $5M+ moves out of tracked hot wallets ($864M).
+
+📤 19.9M USDT ($19.9M)  ←  Binance hot 0x690c  0xf89d7b…
+📤 19.9M USDT ($19.9M)  ←  Binance hot 0x690c  0xf89d7b…
+
+last 7 days: $22233M into · $21327M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/34258"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34258</id>
+    <updated>2026-11-22T11:34:53.284Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9948  (↓ 0.518% below peg)
+24h change: +0.014%
+Duration: 1108h 16min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>🟠 Concern · First Digital USD (FDUSD)</title>
     <link href="https://t.me/sgnl_free/34257"/>
@@ -784,33 +816,5 @@ Contracts: 20000
 Statistical pattern. Not financial advice.
 
 #liquidation #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🔥 Large liquidation observed</title>
-    <link href="https://t.me/sgnl_free/34209"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34209</id>
-    <updated>2026-11-22T03:07:20.110Z</updated>
-    <summary type="text">🔥 Large liquidation observed
-
-BTC-USDT-SWAP — $12.1M SHORT liquidation on OKX perp
-Price: $60365.60
-Contracts: 20000
-
-Statistical pattern. Not financial advice.
-
-#liquidation #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/34208"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34208</id>
-    <updated>2026-11-22T03:06:24.177Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-16 cluster-buys within 5 minutes of deploy for D2fY..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
   </entry>
 </feed>
