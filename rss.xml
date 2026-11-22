@@ -5,7 +5,66 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-22T03:04:40.579Z</updated>
+  <updated>2026-11-22T03:09:40.574Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34211"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34211</id>
+    <updated>2026-11-22T03:08:14.116Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 30 $5M+ moves into tracked hot wallets ($993M) · 50 $5M+ moves out of tracked hot wallets ($1061M).
+
+📥 6.0M USDC ($6.0M)  →  Coinbase Prime 1  0x5dfa4b…
+
+last 7 days: $21520M into · $20831M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🔥 Large liquidation observed</title>
+    <link href="https://t.me/sgnl_free/34210"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34210</id>
+    <updated>2026-11-22T03:07:35.877Z</updated>
+    <summary type="text">🔥 Large liquidation observed
+
+BTC-USDT-SWAP — $12.1M SHORT liquidation on OKX perp
+Price: $60629.80
+Contracts: 20000
+
+Statistical pattern. Not financial advice.
+
+#liquidation #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>🔥 Large liquidation observed</title>
+    <link href="https://t.me/sgnl_free/34209"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34209</id>
+    <updated>2026-11-22T03:07:20.110Z</updated>
+    <summary type="text">🔥 Large liquidation observed
+
+BTC-USDT-SWAP — $12.1M SHORT liquidation on OKX perp
+Price: $60365.60
+Contracts: 20000
+
+Statistical pattern. Not financial advice.
+
+#liquidation #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/34208"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34208</id>
+    <updated>2026-11-22T03:06:24.177Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+16 cluster-buys within 5 minutes of deploy for D2fY..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34207"/>
@@ -741,70 +800,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/34159"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34159</id>
-    <updated>2026-11-22T00:04:37.410Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $125000 — expiry 25DEC26
-Direction: BUY
-Notional: ~$1805K
-Contracts: 30
-Implied vol: 83.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/34158"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34158</id>
-    <updated>2026-11-22T00:04:37.051Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $90000 — expiry 25DEC26
-Direction: BUY
-Notional: ~$9013K
-Contracts: 150
-Implied vol: 61.2%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/34157"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34157</id>
-    <updated>2026-11-22T00:04:36.691Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Call — strike $120000 — expiry 25DEC26
-Direction: SELL
-Notional: ~$9013K
-Contracts: 150
-Implied vol: 74.7%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>🌙 SGNL Evening Snapshot</title>
-    <link href="https://t.me/sgnl_free/34156"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34156</id>
-    <updated>2026-11-22T00:00:19.393Z</updated>
-    <summary type="text">🌙 SGNL Evening Snapshot
-BTC: $60,198 (24h: +2.2%) | SOL: $70.35 (24h: +2.1%)
-Market activity index: 40/100 (low band)
-Next snapshot: 17:00 UTC
-On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
   </entry>
 </feed>
