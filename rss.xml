@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-22T08:49:40.598Z</updated>
+  <updated>2026-11-22T08:54:40.600Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/34250"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34250</id>
+    <updated>2026-11-22T08:53:14.088Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 In 6h: 15 $5M+ moves into tracked hot wallets ($776M) · 22 $5M+ moves out of tracked hot wallets ($808M).
+
+📤 92.0M USDC ($92.0M)  ←  Coinbase Prime 1  0x78d060…
+📤 91.0M USDC ($91.0M)  ←  Coinbase Prime 1  0x78d060…
+📤 9.0M USDC ($9.0M)  ←  Coinbase Prime 1  0x2eec13…
+
+last 7 days: $21988M into · $20923M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⛽🟢 Low gas right now</title>
     <link href="https://t.me/sgnl_free/34249"/>
@@ -772,21 +790,5 @@ Larger deviation from peg.
 Deviations can come from thin liquidity, redemptions or venue pricing.
 
 Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/34200"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34200</id>
-    <updated>2026-11-22T02:28:22.623Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 35 $5M+ moves into tracked hot wallets ($1368M) · 62 $5M+ moves out of tracked hot wallets ($1387M).
-
-📥 6.0M USDT ($6.0M)  →  Binance hot 0x690c  0xe67821…
-
-last 7 days: $21520M into · $20694M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
