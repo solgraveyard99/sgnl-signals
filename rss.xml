@@ -5,7 +5,54 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-22T00:29:40.548Z</updated>
+  <updated>2026-11-22T00:34:40.560Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/34174"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34174</id>
+    <updated>2026-11-22T00:34:34.719Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $60000 — expiry 24NOV26
+Direction: SELL
+Notional: ~$505K
+Contracts: 8.4
+Implied vol: 61.5%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/34173"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34173</id>
+    <updated>2026-11-22T00:33:42.705Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+12 cluster-buys within 5 minutes of deploy for cZpz..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34172"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34172</id>
+    <updated>2026-11-22T00:33:14.102Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 33 $5M+ moves into tracked hot wallets ($1671M) · 61 $5M+ moves out of tracked hot wallets ($1331M).
+
+📤 13.0M USDT ($13.0M)  ←  Binance hot 0x690c  0x549d83…
+
+last 7 days: $21436M into · $20731M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/34171"/>
@@ -769,57 +816,5 @@ last 7 days: $20735M into · $19801M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/34124"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34124</id>
-    <updated>2026-11-21T20:38:16.450Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 22 $5M+ moves into tracked hot wallets ($861M) · 17 $5M+ moves out of tracked hot wallets ($375M).
-
-📤 15.0M USDC ($15.0M)  ←  Binance hot 0xce43  0xb99a2c…
-📤 5.4M USDT ($5.4M)  ←  Binance hot 0x0377  0x43fed7…
-
-last 7 days: $20750M into · $19781M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/34123"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34123</id>
-    <updated>2026-11-21T20:34:39.259Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9942  (↓ 0.578% below peg)
-24h change: -0.072%
-Duration: 1093h 16min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>📊 8 inflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/34122"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34122</id>
-    <updated>2026-11-21T20:24:52.732Z</updated>
-    <summary type="text">📊 8 inflow-heavy observations detected
-Sample: 8 concurrent observations · $1.46B total flow.
-
-Top observations (by size):
-• 🐋 Whale deposit cluster: 23 moves, $866M to exchanges
-• 🐋 Large deposit: $300M USDC → Coinbase Prime 1
-• 🐋 Large deposit: $93M USDC → Coinbase 10
-• 🐋 Large deposit: $67M USDC → Coinbase 10
-• 🐋 Large deposit: $50M USDC → Coinbase 10
-…and 3 more concurrent
-
-Opposing flow: $461M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
