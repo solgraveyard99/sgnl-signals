@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-22T02:34:40.563Z</updated>
+  <updated>2026-11-22T02:39:40.563Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/34201"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34201</id>
+    <updated>2026-11-22T02:34:41.098Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9945  (↓ 0.552% below peg)
+24h change: -0.045%
+Duration: 1099h 16min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34200"/>
@@ -793,22 +808,6 @@ Not financial advice.</summary>
 📤 23.4M USDC ($23.4M)  ←  Coinbase 10  0xb92775…
 
 last 7 days: $21386M into · $20685M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/34149"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34149</id>
-    <updated>2026-11-21T23:13:14.114Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 25 $5M+ moves into tracked hot wallets ($1475M) · 52 $5M+ moves out of tracked hot wallets ($1224M).
-
-📤 5.5M USDC ($5.5M)  ←  Binance hot 0xce43  0x43fed7…
-
-last 7 days: $21386M into · $20680M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
