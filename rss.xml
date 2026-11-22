@@ -5,7 +5,36 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-22T03:49:40.571Z</updated>
+  <updated>2026-11-22T03:54:40.562Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34218"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34218</id>
+    <updated>2026-11-22T03:53:14.091Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 26 $5M+ moves into tracked hot wallets ($942M) · 48 $5M+ moves out of tracked hot wallets ($971M).
+
+📤 10.0M USDT ($10.0M)  ←  Bitget hot 0xed9a  0x9aa0c9…
+
+last 7 days: $21510M into · $20706M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/34217"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34217</id>
+    <updated>2026-11-22T03:51:23.435Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+11 cluster-buys within 5 minutes of deploy for EpyS..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34216"/>
@@ -755,37 +784,5 @@ Top 5 by size:
 …and 11 more
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/34166"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34166</id>
-    <updated>2026-11-22T00:13:44.321Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-13 cluster-buys within 5 minutes of deploy for 4Fsa..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/34165"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34165</id>
-    <updated>2026-11-22T00:13:43.524Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0008 SOL
-• 99th: 0.1958 SOL (~$20)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
