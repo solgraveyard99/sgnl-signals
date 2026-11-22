@@ -5,7 +5,108 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-21T23:59:40.553Z</updated>
+  <updated>2026-11-22T00:04:40.560Z</updated>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/34161"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34161</id>
+    <updated>2026-11-22T00:04:38.461Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $66000 — expiry 27NOV26
+Direction: SELL
+Notional: ~$2980K
+Contracts: 49.7
+Implied vol: 55.4%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/34160"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34160</id>
+    <updated>2026-11-22T00:04:37.940Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $69000 — expiry 27NOV26
+Direction: BUY
+Notional: ~$761K
+Contracts: 12.7
+Implied vol: 60.1%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/34159"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34159</id>
+    <updated>2026-11-22T00:04:37.410Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $125000 — expiry 25DEC26
+Direction: BUY
+Notional: ~$1805K
+Contracts: 30
+Implied vol: 83.3%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/34158"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34158</id>
+    <updated>2026-11-22T00:04:37.051Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $90000 — expiry 25DEC26
+Direction: BUY
+Notional: ~$9013K
+Contracts: 150
+Implied vol: 61.2%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/34157"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34157</id>
+    <updated>2026-11-22T00:04:36.691Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Call — strike $120000 — expiry 25DEC26
+Direction: SELL
+Notional: ~$9013K
+Contracts: 150
+Implied vol: 74.7%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
+  <entry>
+    <title>🌙 SGNL Evening Snapshot</title>
+    <link href="https://t.me/sgnl_free/34156"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34156</id>
+    <updated>2026-11-22T00:00:19.393Z</updated>
+    <summary type="text">🌙 SGNL Evening Snapshot
+BTC: $60,198 (24h: +2.2%) | SOL: $70.35 (24h: +2.1%)
+Market activity index: 40/100 (low band)
+Next snapshot: 17:00 UTC
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34155"/>
@@ -726,97 +827,5 @@ last 7 days: $20127M into · $19666M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/34111"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34111</id>
-    <updated>2026-11-21T19:23:14.078Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 14 $5M+ moves into tracked hot wallets ($254M) · 14 $5M+ moves out of tracked hot wallets ($257M).
-
-📤 5.0M USDC ($5.0M)  ←  Coinbase Prime 1  0x755bc7…
-
-last 7 days: $20127M into · $19661M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDT</title>
-    <link href="https://t.me/sgnl_free/34110"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34110</id>
-    <updated>2026-11-21T19:14:46.176Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDT
-Supply change 24h: -$503M
-New supply: $174.45B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/34109"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34109</id>
-    <updated>2026-11-21T18:34:39.199Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9946  (↓ 0.539% below peg)
-24h change: -0.037%
-Duration: 1091h 16min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/34108"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34108</id>
-    <updated>2026-11-21T17:58:14.047Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 28 $5M+ moves into tracked hot wallets ($715M) · 26 $5M+ moves out of tracked hot wallets ($457M).
-
-📥 50.0M USDC ($50.0M)  →  Coinbase 10  0xb92775…
-📤 50.0M USDC ($50.0M)  ←  Coinbase 10  0xc0a2bc…
-
-last 7 days: $20077M into · $19629M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/34107"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34107</id>
-    <updated>2026-11-21T17:48:29.136Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 28 $5M+ moves into tracked hot wallets ($673M) · 25 $5M+ moves out of tracked hot wallets ($407M).
-
-📤 50.0M USDC ($50.0M)  ←  Coinbase 10  0xc0a2bc…
-
-last 7 days: $20077M into · $19589M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/34106"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34106</id>
-    <updated>2026-11-21T17:34:48.268Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9945  (↓ 0.555% below peg)
-24h change: -0.054%
-Duration: 1090h 16min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
