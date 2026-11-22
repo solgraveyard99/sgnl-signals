@@ -5,7 +5,53 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-22T11:59:40.612Z</updated>
+  <updated>2026-11-22T12:04:40.612Z</updated>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/34261"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34261</id>
+    <updated>2026-11-22T12:00:43.771Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $256.0B  (24h: +$24M)
+
+⚪ USDT: $174.52B  (+$35M)
+⚪ USDC: $68.68B  ($-14M)
+⚪ USDe: $4.87B  ($-5M)
+⚪ DAI: $4.55B  ($-8M)
+⚪ USDS: $3.13B  (+$16M)
+⚪ FDUSD: $0.28B  (+$0M)
+
+📊 Net supply Δ24h: +$24M (near-flat band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-11-21</title>
+    <link href="https://t.me/sgnl_free/34260"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34260</id>
+    <updated>2026-11-22T12:00:04.017Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-21
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    n/a
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 209.7K μlamp | Orca: 237.6K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/34259"/>
@@ -785,36 +831,5 @@ Cluster launches often precede fast dumps. Observation only.
 Cluster launches often precede fast dumps. Observation only.
 
 #onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/34211"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34211</id>
-    <updated>2026-11-22T03:08:14.116Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 30 $5M+ moves into tracked hot wallets ($993M) · 50 $5M+ moves out of tracked hot wallets ($1061M).
-
-📥 6.0M USDC ($6.0M)  →  Coinbase Prime 1  0x5dfa4b…
-
-last 7 days: $21520M into · $20831M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔥 Large liquidation observed</title>
-    <link href="https://t.me/sgnl_free/34210"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34210</id>
-    <updated>2026-11-22T03:07:35.877Z</updated>
-    <summary type="text">🔥 Large liquidation observed
-
-BTC-USDT-SWAP — $12.1M SHORT liquidation on OKX perp
-Price: $60629.80
-Contracts: 20000
-
-Statistical pattern. Not financial advice.
-
-#liquidation #BTC #derivatives</summary>
   </entry>
 </feed>
