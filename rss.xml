@@ -5,7 +5,20 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-22T04:39:40.573Z</updated>
+  <updated>2026-11-22T04:44:40.576Z</updated>
+  <entry>
+    <title>🚨 Coordinated launch buys observed</title>
+    <link href="https://t.me/sgnl_free/34223"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34223</id>
+    <updated>2026-11-22T04:43:42.815Z</updated>
+    <summary type="text">🚨 Coordinated launch buys observed
+
+12 cluster-buys within 5 minutes of deploy for G91Q..pump.
+
+Cluster launches often precede fast dumps. Observation only.
+
+#onchain #Solana</summary>
+  </entry>
   <entry>
     <title>🟠 Concern · First Digital USD (FDUSD)</title>
     <link href="https://t.me/sgnl_free/34222"/>
@@ -762,23 +775,5 @@ last 7 days: $21436M into · $20731M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/34171"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34171</id>
-    <updated>2026-11-22T00:29:34.736Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $60000 — expiry 24NOV26
-Direction: SELL
-Notional: ~$1806K
-Contracts: 30
-Implied vol: 62.4%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
