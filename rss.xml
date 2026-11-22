@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-22T05:29:40.575Z</updated>
+  <updated>2026-11-22T05:34:40.573Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/34231"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34231</id>
+    <updated>2026-11-22T05:34:39.213Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9945  (↓ 0.546% below peg)
+24h change: -0.027%
+Duration: 1102h 16min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/34230"/>
@@ -764,23 +779,5 @@ Not financial advice.</summary>
 Cluster launches often precede fast dumps. Observation only.
 
 #onchain #Solana</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/34179"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34179</id>
-    <updated>2026-11-22T00:44:50.573Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $59500 — expiry 24NOV26
-Direction: SELL
-Notional: ~$523K
-Contracts: 8.7
-Implied vol: 62.8%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
