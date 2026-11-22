@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-22T19:04:40.633Z</updated>
+  <updated>2026-11-22T19:09:40.630Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34280"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34280</id>
+    <updated>2026-11-22T19:08:14.781Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 6 $5M+ moves into tracked hot wallets ($157M) · 6 $5M+ moves out of tracked hot wallets ($123M).
+
+📥 50.0M USDC ($50.0M)  →  Coinbase 10  0x5435bc…
+
+last 7 days: $21996M into · $21155M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34279"/>
@@ -810,22 +826,5 @@ Larger deviation from peg.
 Deviations can come from thin liquidity, redemptions or venue pricing.
 
 Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/34230"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34230</id>
-    <updated>2026-11-22T05:28:14.047Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 23 $5M+ moves into tracked hot wallets ($604M) · 21 $5M+ moves out of tracked hot wallets ($497M).
-
-📤 32.5M USDC ($32.5M)  ←  Coinbase 10  0xfff2ed…
-📥 32.5M USDC ($32.5M)  →  Coinbase Prime 1  0xfff2ed…
-
-last 7 days: $21572M into · $20646M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
