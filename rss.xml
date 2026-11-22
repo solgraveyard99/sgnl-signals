@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-22T07:29:40.586Z</updated>
+  <updated>2026-11-22T07:34:40.591Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/34241"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34241</id>
+    <updated>2026-11-22T07:34:39.297Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9945  (↓ 0.547% below peg)
+24h change: -0.033%
+Duration: 1104h 16min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>⚡ Elevated Jito tip floor</title>
     <link href="https://t.me/sgnl_free/34240"/>
@@ -775,18 +790,5 @@ last 7 days: $21538M into · $20747M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🚨 Coordinated launch buys observed</title>
-    <link href="https://t.me/sgnl_free/34189"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34189</id>
-    <updated>2026-11-22T01:35:51.542Z</updated>
-    <summary type="text">🚨 Coordinated launch buys observed
-
-11 cluster-buys within 5 minutes of deploy for EVKT..pump.
-
-Cluster launches often precede fast dumps. Observation only.
-
-#onchain #Solana</summary>
   </entry>
 </feed>
