@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-23T07:19:40.675Z</updated>
+  <updated>2026-11-23T07:24:40.679Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/34373"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34373</id>
+    <updated>2026-11-23T07:19:50.657Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9950  (↓ 0.504% below peg)
+24h change: +0.038%
+Duration: 1128h 1min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34372"/>
@@ -824,21 +839,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/34323"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34323</id>
-    <updated>2026-11-23T01:23:14.574Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 11 $5M+ moves into tracked hot wallets ($256M) · 12 $5M+ moves out of tracked hot wallets ($149M).
-
-📥 7.0M USDC ($7.0M)  →  Binance hot 0xce43  0x9a21cf…
-
-last 7 days: $21965M into · $21009M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
