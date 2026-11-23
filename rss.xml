@@ -5,7 +5,38 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-23T21:09:40.743Z</updated>
+  <updated>2026-11-23T21:14:40.746Z</updated>
+  <entry>
+    <title>🟢 STABLECOIN MINT · USDC</title>
+    <link href="https://t.me/sgnl_free/34501"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34501</id>
+    <updated>2026-11-23T21:14:39.312Z</updated>
+    <summary type="text">🟢 STABLECOIN MINT · USDC
+Supply change 24h: +$540M
+New supply: $69.27B
+
+Net supply expansion event. Descriptive observation only.
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/34500"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34500</id>
+    <updated>2026-11-23T21:13:23.193Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 In 6h: 60 $5M+ moves into tracked hot wallets ($1123M) · 70 $5M+ moves out of tracked hot wallets ($1253M).
+
+📥 47.8M USDC ($47.8M)  →  Coinbase 10  0x5435bc…
+📥 3500 ETH ($6.0M)  →  Coinbase 10  0x7e2bd7…
+📥 5.0M USDT ($5.0M)  →  Binance hot 0x690c  0x410ed1…
+
+last 7 days: $22482M into · $21665M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/34499"/>
@@ -823,41 +854,5 @@ Exchange and market-maker wallets move funds often for operational reasons; a tr
 💬 discord.gg/zYJ9gKRych
 
 On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/34451"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34451</id>
-    <updated>2026-11-23T15:58:15.786Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 48 $5M+ moves into tracked hot wallets ($901M) · 49 $5M+ moves out of tracked hot wallets ($833M).
-
-📤 27.3M USDC ($27.3M)  ←  Coinbase Prime 1  0x52cebb…
-📥 8.2M USDC ($8.2M)  →  Binance hot 0xce43  0x89cec4…
-
-last 7 days: $22390M into · $21430M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 4 large moves</title>
-    <link href="https://t.me/sgnl_free/34450"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34450</id>
-    <updated>2026-11-23T15:48:14.571Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 4 large moves
-📊 In 6h: 47 $5M+ moves into tracked hot wallets ($893M) · 50 $5M+ moves out of tracked hot wallets ($816M).
-
-📤 70.0M USDC ($70.0M)  ←  Coinbase Prime 1  0xc876ad…
-📥 66.3M USDC ($66.3M)  →  Coinbase Prime 1  0x4b78eb…
-📥 33.4M USDC ($33.4M)  →  Coinbase Prime 1  0x2d3e6f…
-📤 10.0M USDC ($10.0M)  ←  Binance hot 0xce43  0x6fa5b6…
-
-last 7 days: $22385M into · $21365M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
