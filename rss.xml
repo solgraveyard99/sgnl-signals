@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-23T01:14:40.671Z</updated>
+  <updated>2026-11-23T01:19:40.654Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34322"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34322</id>
+    <updated>2026-11-23T01:18:17.097Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 10 $5M+ moves into tracked hot wallets ($249M) · 12 $5M+ moves out of tracked hot wallets ($149M).
+
+📤 7.0M USDC ($7.0M)  ←  Coinbase 10  0x091d1c…
+
+last 7 days: $21965M into · $21002M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34321"/>
@@ -802,20 +818,5 @@ Fast: 0.150822969 gwei  ·  Safe: 0.13711179 gwei
 A cheaper time for routine transactions you already planned, for example revoking old token approvals.
 Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/34272"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34272</id>
-    <updated>2026-11-22T14:34:39.441Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9949  (↓ 0.508% below peg)
-24h change: +0.007%
-Duration: 1111h 16min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
