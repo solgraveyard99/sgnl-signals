@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-23T16:24:40.730Z</updated>
+  <updated>2026-11-23T16:29:40.712Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/34455"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34455</id>
+    <updated>2026-11-23T16:28:15.475Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 In 6h: 52 $5M+ moves into tracked hot wallets ($1018M) · 53 $5M+ moves out of tracked hot wallets ($936M).
+
+📥 57.0M USDC ($57.0M)  →  Coinbase 10  0x5435bc…
+📤 50.0M USDC ($50.0M)  ←  Coinbase 10  0xc0a2bc…
+📥 5.7M USDT ($5.7M)  →  Coinbase 10  0x1e5db3…
+
+last 7 days: $22373M into · $21424M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 4 large moves</title>
     <link href="https://t.me/sgnl_free/34454"/>
@@ -847,31 +865,5 @@ Total tracked: $256.3B  (24h: +$194M)
 
 Source: DeFiLlama stablecoin supply data.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-11-22</title>
-    <link href="https://t.me/sgnl_free/34405"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34405</id>
-    <updated>2026-11-23T12:00:04.029Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-22
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    10.1K μlamp
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: → 0% (Jupiter median)
-⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 200.0K μlamp | Orca: 217.2K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
