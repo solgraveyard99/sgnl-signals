@@ -5,7 +5,32 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-23T08:59:40.687Z</updated>
+  <updated>2026-11-23T09:04:40.708Z</updated>
+  <entry>
+    <title>📊 Daily on-chain digest — 2026-11-22</title>
+    <link href="https://t.me/sgnl_free/34388"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34388</id>
+    <updated>2026-11-23T09:00:03.271Z</updated>
+    <summary type="text">📊 Daily on-chain digest — 2026-11-22
+
+Top 5 whale-cluster events:
+• $1107M → CEX | 20 wallets | 09:42Z
+• $1100M → CEX | 19 wallets | 09:42Z
+• $1094M → CEX | 18 wallets | 09:15Z
+• $1064M → CEX | 17 wallets | 09:09Z
+• $965M → CEX | 19 wallets | 15:14Z
+
+Alerts fired (24h):
+• Whale-cluster→CEX: 74
+• Whale-cluster←CEX: 74
+• Whale-large←CEX: 35
+• Whale-large→CEX: 31
+• Coord launch: 3
+
+All observations timestamped. Methodology public.
+
+#onchain #dailydigest</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34387"/>
@@ -813,22 +838,6 @@ Fast: 0.141878614 gwei  ·  Safe: 0.128980559 gwei
 
 A cheaper time for routine transactions you already planned, for example revoking old token approvals.
 Never claim an &quot;airdrop&quot; from a link someone sends you.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/34338"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34338</id>
-    <updated>2026-11-23T02:43:14.641Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 19 $5M+ moves into tracked hot wallets ($336M) · 18 $5M+ moves out of tracked hot wallets ($302M).
-
-📤 19.9M USDT ($19.9M)  ←  Binance hot 0x690c  0xf89d7b…
-
-last 7 days: $21998M into · $21125M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
   </entry>
 </feed>
