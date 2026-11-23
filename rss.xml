@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-23T17:49:40.730Z</updated>
+  <updated>2026-11-23T17:54:40.727Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 6 large moves</title>
+    <link href="https://t.me/sgnl_free/34470"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34470</id>
+    <updated>2026-11-23T17:53:17.286Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 6 large moves
+📊 In 6h: 65 $5M+ moves into tracked hot wallets ($1331M) · 71 $5M+ moves out of tracked hot wallets ($1308M).
+
+📥 50.0M USDC ($50.0M)  →  Coinbase 10  0x28c5b0…
+📤 50.0M USDC ($50.0M)  ←  Coinbase 10  0xc0a2bc…
+📥 19.3M USDT ($19.3M)  →  Binance hot 0x690c  0xeae738…
+📥 8.7M USDC ($8.7M)  →  Coinbase Prime 1  0x3066a0…
+📥 8.0M USDC ($8.0M)  →  Coinbase 10  0x25cc53…
+…and 1 more
+
+last 7 days: $22480M into · $21660M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 3,016,575 USDT (~$3.0M) · 17:36 UTC</title>
     <link href="https://t.me/sgnl_free/34469"/>
@@ -844,19 +865,5 @@ last 7 days: $22206M into · $21128M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Gas Check · 24h</title>
-    <link href="https://t.me/sgnl_free/34420"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34420</id>
-    <updated>2026-11-23T13:44:54.970Z</updated>
-    <summary type="text">⛽ Gas Check · 24h
-
-Right now: 0.234811041 gwei (fast)  ·  🟢 cheap
-Safe: 0.213458351  ·  Propose: 0.213464583  ·  BaseFee: 0.2135
-
-24h range: 0.09–0.26 gwei  (avg 0.13)
-
-Simple transfer cost now: ~$0.0123</summary>
   </entry>
 </feed>
