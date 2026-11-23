@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-23T18:49:40.763Z</updated>
+  <updated>2026-11-23T18:54:40.750Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/34481"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34481</id>
+    <updated>2026-11-23T18:53:20.468Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 In 6h: 68 $5M+ moves into tracked hot wallets ($1244M) · 78 $5M+ moves out of tracked hot wallets ($1375M).
+
+📥 6.2M USDC ($6.2M)  →  Coinbase 10  0xed79a9…
+📥 6.2M USDT ($6.2M)  →  Binance hot 0x690c  0xea59bb…
+📤 6.0M USDC ($6.0M)  ←  Coinbase Prime 1  0x83b849…
+
+last 7 days: $22573M into · $21670M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34480"/>
@@ -860,22 +878,5 @@ last 7 days: $22217M into · $21126M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 9,923,088 USDT (~$9.9M) · 14:31 UTC</title>
-    <link href="https://t.me/sgnl_free/34431"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34431</id>
-    <updated>2026-11-23T14:36:52.007Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 9,923,088 USDT (~$9.9M) · 14:31 UTC
-From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-To: 0xed89…60e7
-Tx: https://etherscan.io/tx/0x669b5e5a1aeb2d96f55b5b3a9a2aae95240bbe0a4616e580f3eee707cde48626
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2201.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
