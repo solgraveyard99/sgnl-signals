@@ -5,7 +5,18 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-23T13:59:40.727Z</updated>
+  <updated>2026-11-23T14:04:40.728Z</updated>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-11-23</title>
+    <link href="https://t.me/sgnl_free/34423"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34423</id>
+    <updated>2026-11-23T14:00:04.656Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-11-23
+Composite score: 60/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34422"/>
@@ -852,20 +863,5 @@ last 7 days: $22174M into · $21172M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/34373"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34373</id>
-    <updated>2026-11-23T07:19:50.657Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9950  (↓ 0.504% below peg)
-24h change: +0.038%
-Duration: 1128h 1min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
