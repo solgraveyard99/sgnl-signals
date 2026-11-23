@@ -5,7 +5,72 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-23T11:59:40.712Z</updated>
+  <updated>2026-11-23T12:04:40.716Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/34407"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34407</id>
+    <updated>2026-11-23T12:03:14.363Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 In 6h: 35 $5M+ moves into tracked hot wallets ($517M) · 29 $5M+ moves out of tracked hot wallets ($468M).
+
+📥 20000 ETH ($34.5M)  →  Coinbase Prime 1  0xc8c557…
+📥 10000 ETH ($17.3M)  →  Coinbase Prime 1  0xc8c557…
+📤 12.5M USDC ($12.5M)  ←  Kraken: Hot Wallet 4  0x2744df…
+
+last 7 days: $22135M into · $21134M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>💵 Stablecoin Supply Check</title>
+    <link href="https://t.me/sgnl_free/34406"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34406</id>
+    <updated>2026-11-23T12:00:44.133Z</updated>
+    <summary type="text">💵 Stablecoin Supply Check
+
+Total tracked: $256.3B  (24h: +$194M)
+
+⚪ USDT: $174.63B  (+$27M)
+⚪ USDC: $68.75B  (+$26M)
+⚪ USDe: $4.86B  ($-14M)
+⚪ DAI: $4.54B  ($-9M)
+🟢 USDS: $3.27B  (+$163M)
+⚪ FDUSD: $0.28B  (+$0M)
+
+📊 Net supply Δ24h: +$194M (near-flat band). Descriptive only.
+
+Source: DeFiLlama stablecoin supply data.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Solana Priority Fee Report — 2026-11-22</title>
+    <link href="https://t.me/sgnl_free/34405"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34405</id>
+    <updated>2026-11-23T12:00:04.029Z</updated>
+    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-22
+
+Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
+  Median: n/a
+  P90:    n/a
+  Max:    10.1K μlamp
+
+Recommended priority fee tiers (μlamports/CU):
+  Slow (eventual): n/a
+  Medium (~5s):   n/a
+  Fast (high probability): n/a
+
+vs prior 6-day baseline: → 0% (Jupiter median)
+⚠ SPIKE: yesterday p90 exceeded baseline p99 — elevated competition window
+
+Cross-DEX yesterday medians:
+  Jupiter: n/a | Raydium: 200.0K μlamp | Orca: 217.2K μlamp
+
+Source: live Solana RPC + Jupiter/Raydium/Orca quotes
+Fees change in seconds. DYOR before tx.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/34404"/>
@@ -798,54 +863,6 @@ Statistical pattern. Not financial advice.
 📤 5.0M USDT ($5.0M)  ←  Binance hot 0xf3e9  0xa7af2a…
 
 last 7 days: $22112M into · $21158M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/34357"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34357</id>
-    <updated>2026-11-23T05:13:14.246Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 24 $5M+ moves into tracked hot wallets ($348M) · 22 $5M+ moves out of tracked hot wallets ($343M).
-
-📥 50.0M USDC ($50.0M)  →  Coinbase 10  0x28c5b0…
-
-last 7 days: $22069M into · $21158M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/34356"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34356</id>
-    <updated>2026-11-23T05:04:39.462Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9950  (↓ 0.501% below peg)
-24h change: +0.049%
-Duration: 1125h 46min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/34355"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34355</id>
-    <updated>2026-11-23T04:43:33.632Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 24 $5M+ moves into tracked hot wallets ($303M) · 24 $5M+ moves out of tracked hot wallets ($373M).
-
-📥 17089 ETH ($29.6M)  →  OKX 167  0x730377…
-📥 2909 ETH ($5.0M)  →  OKX 167  0x730377…
-
-last 7 days: $22034M into · $21158M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
