@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-23T07:04:40.687Z</updated>
+  <updated>2026-11-23T07:09:40.689Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/34370"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34370</id>
+    <updated>2026-11-23T07:08:14.171Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 26 $5M+ moves into tracked hot wallets ($342M) · 27 $5M+ moves out of tracked hot wallets ($391M).
+
+📤 8.0M USDT ($8.0M)  ←  OKX 180  0x14681e…
+📤 8.0M USDT ($8.0M)  ←  OKX 180  0x14681e…
+
+last 7 days: $22169M into · $21156M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/34369"/>
@@ -823,20 +840,5 @@ last 7 days: $21960M into · $21002M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/34320"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34320</id>
-    <updated>2026-11-23T00:34:39.257Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9949  (↓ 0.505% below peg)
-24h change: +0.052%
-Duration: 1121h 16min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
