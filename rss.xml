@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-23T09:09:40.692Z</updated>
+  <updated>2026-11-23T09:14:40.695Z</updated>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/34389"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34389</id>
+    <updated>2026-11-23T09:11:43.427Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0009 SOL
+• 95th: 0.0098 SOL
+• 99th: 0.0121 SOL (~$1)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>📊 Daily on-chain digest — 2026-11-22</title>
     <link href="https://t.me/sgnl_free/34388"/>
@@ -826,18 +845,6 @@ last 7 days: $21993M into · $21145M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/34339"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34339</id>
-    <updated>2026-11-23T02:44:50.820Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.141878614 gwei  ·  Safe: 0.128980559 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
   </entry>
 </feed>
