@@ -5,7 +5,42 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-23T02:39:40.667Z</updated>
+  <updated>2026-11-23T02:44:40.660Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34338"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34338</id>
+    <updated>2026-11-23T02:43:14.641Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 19 $5M+ moves into tracked hot wallets ($336M) · 18 $5M+ moves out of tracked hot wallets ($302M).
+
+📤 19.9M USDT ($19.9M)  ←  Binance hot 0x690c  0xf89d7b…
+
+last 7 days: $21998M into · $21125M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/34337"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34337</id>
+    <updated>2026-11-23T02:41:38.499Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0004 SOL
+• 99th: 0.0689 SOL (~$7)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/34336"/>
@@ -809,41 +844,5 @@ Larger deviation from peg.
 Deviations can come from thin liquidity, redemptions or venue pricing.
 
 Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/34288"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34288</id>
-    <updated>2026-11-22T21:23:14.224Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 5 $5M+ moves into tracked hot wallets ($230M) · 6 $5M+ moves out of tracked hot wallets ($130M).
-
-📥 100.0M USDC ($100.0M)  →  Binance hot 0xce43  0x38aaef…
-
-last 7 days: $22030M into · $21065M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💰 STABLECOIN YIELD · 32.6% APY</title>
-    <link href="https://t.me/sgnl_free/34287"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34287</id>
-    <updated>2026-11-22T21:14:44.410Z</updated>
-    <summary type="text">💰 STABLECOIN YIELD · 32.6% APY
-veranta / USDC on Base
-Base: 32.6%  ·  Rewards: n/a  ·  TVL: $9.4M
-
-Quoted APY is 25.6 points above a 7% lending benchmark.
-
-✅ real base yield (mostly not reward-token inflated)
-
-⚠️ TVL &lt; $10M (thin liquidity)
-⚠️ protocol not on the established list; audit status not checked here
-
-Pool details: https://defillama.com/yields/pool/ae3397ed-1f0f-4aa4-ab62-44413ea8cd9e
-
-Not financial advice.</summary>
   </entry>
 </feed>
