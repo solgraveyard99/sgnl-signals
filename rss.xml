@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-24T06:44:40.775Z</updated>
+  <updated>2026-11-24T06:49:40.779Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/34589"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34589</id>
+    <updated>2026-11-24T06:48:14.306Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 In 6h: 27 $5M+ moves into tracked hot wallets ($447M) · 25 $5M+ moves out of tracked hot wallets ($557M).
+
+📥 38.6M USDC ($38.6M)  →  Coinbase 10  0x6a6cc8…
+📥 8.5M USDC ($8.5M)  →  Coinbase 10  0x18e2d6…
+📥 6.9M USDT ($6.9M)  →  Binance hot 0x690c  0xd29837…
+
+last 7 days: $22565M into · $21939M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/34588"/>
@@ -840,23 +858,5 @@ last 7 days: $22672M into · $21827M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/34539"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34539</id>
-    <updated>2026-11-24T00:04:54.064Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $1200 — expiry 27NOV26
-Direction: SELL
-Notional: ~$852K
-Contracts: 500
-Implied vol: 160.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
