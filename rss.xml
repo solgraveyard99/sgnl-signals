@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-24T14:19:40.805Z</updated>
+  <updated>2026-11-24T14:24:40.811Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34652"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34652</id>
+    <updated>2026-11-24T14:23:14.655Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 31 $5M+ moves into tracked hot wallets ($741M) · 28 $5M+ moves out of tracked hot wallets ($428M).
+
+📥 5.0M USDC ($5.0M)  →  Coinbase Prime 1  0x52cebb…
+
+last 7 days: $22699M into · $21778M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/34651"/>
@@ -828,29 +844,5 @@ last 7 days: $22639M into · $21965M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-11-23</title>
-    <link href="https://t.me/sgnl_free/34602"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34602</id>
-    <updated>2026-11-24T09:00:03.549Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-11-23
-
-Top 5 whale-cluster events:
-• $1462M ← CEX | 85 wallets | 00:33Z
-• $1462M ← CEX | 85 wallets | 00:33Z
-• $1436M ← CEX | 83 wallets | 00:33Z
-• $1418M ← CEX | 82 wallets | 00:33Z
-• $1418M ← CEX | 82 wallets | 00:33Z
-
-Alerts fired (24h):
-• Whale-cluster→CEX: 169
-• Whale-cluster←CEX: 169
-• Whale-large←CEX: 112
-• Whale-large→CEX: 91
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
   </entry>
 </feed>
