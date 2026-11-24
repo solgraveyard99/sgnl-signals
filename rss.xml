@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-24T16:24:40.819Z</updated>
+  <updated>2026-11-24T16:29:40.822Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34675"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34675</id>
+    <updated>2026-11-24T16:28:14.527Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 43 $5M+ moves into tracked hot wallets ($940M) · 56 $5M+ moves out of tracked hot wallets ($922M).
+
+📥 51.4M USDC ($51.4M)  →  Coinbase 10  0x5435bc…
+
+last 7 days: $22920M into · $22203M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/34674"/>
@@ -831,22 +847,5 @@ Cross-DEX yesterday medians:
 
 Source: live Solana RPC + Jupiter/Raydium/Orca quotes
 Fees change in seconds. DYOR before tx.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/34625"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34625</id>
-    <updated>2026-11-24T11:58:14.446Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 33 $5M+ moves into tracked hot wallets ($921M) · 27 $5M+ moves out of tracked hot wallets ($607M).
-
-📥 3790 ETH ($6.4M)  →  Coinbase 10  0x41070e…
-📤 5.2M USDT ($5.2M)  ←  Binance hot 0x690c  0x539211…
-
-last 7 days: $22746M into · $21965M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
