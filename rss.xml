@@ -5,7 +5,26 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-24T21:54:40.827Z</updated>
+  <updated>2026-11-24T21:59:40.832Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 4 large moves</title>
+    <link href="https://t.me/sgnl_free/34720"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34720</id>
+    <updated>2026-11-24T21:58:16.689Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 4 large moves
+📊 In 6h: 45 $5M+ moves into tracked hot wallets ($926M) · 59 $5M+ moves out of tracked hot wallets ($1034M).
+
+📥 50.0M USDC ($50.0M)  →  Coinbase 10  0x28c5b0…
+📤 50.0M USDC ($50.0M)  ←  Coinbase 10  0xc0a2bc…
+📤 10.0M USDC ($10.0M)  ←  Coinbase 10  0xb2dec7…
+📤 6.0M USDC ($6.0M)  ←  Coinbase Prime 1  0xdb06b6…
+
+last 7 days: $23309M into · $22554M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 4 large moves</title>
     <link href="https://t.me/sgnl_free/34719"/>
@@ -826,20 +845,5 @@ last 7 days: $22972M into · $21994M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/34670"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34670</id>
-    <updated>2026-11-24T16:04:51.703Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9950  (↓ 0.501% below peg)
-24h change: -0.070%
-Duration: 1160h 46min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
