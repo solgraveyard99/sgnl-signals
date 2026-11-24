@@ -5,7 +5,38 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-24T02:59:40.758Z</updated>
+  <updated>2026-11-24T03:04:40.768Z</updated>
+  <entry>
+    <title>⛽🟢 Low gas right now</title>
+    <link href="https://t.me/sgnl_free/34567"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34567</id>
+    <updated>2026-11-24T02:59:50.786Z</updated>
+    <summary type="text">⛽🟢 Low gas right now
+Fast: 0.127363396 gwei  ·  Safe: 0.115784906 gwei
+
+A cheaper time for routine transactions you already planned, for example revoking old token approvals.
+Never claim an &quot;airdrop&quot; from a link someone sends you.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/34566"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34566</id>
+    <updated>2026-11-24T02:59:50.390Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0001 SOL
+• 99th: 0.0175 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/34565"/>
@@ -835,38 +866,6 @@ Not financial advice.</summary>
 📥 8051 ETH ($13.8M)  →  Coinbase Prime 1  0xb06682…
 
 last 7 days: $22699M into · $21818M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/34517"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34517</id>
-    <updated>2026-11-23T22:43:21.221Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 60 $5M+ moves into tracked hot wallets ($1034M) · 64 $5M+ moves out of tracked hot wallets ($1087M).
-
-📤 8051 ETH ($13.8M)  ←  Coinbase 10  0xb06682…
-
-last 7 days: $22699M into · $21804M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/34516"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34516</id>
-    <updated>2026-11-23T22:28:19.474Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 62 $5M+ moves into tracked hot wallets ($1089M) · 68 $5M+ moves out of tracked hot wallets ($1175M).
-
-📥 8.0M USDC ($8.0M)  →  Coinbase 10  0xe96362…
-
-last 7 days: $22697M into · $21818M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
