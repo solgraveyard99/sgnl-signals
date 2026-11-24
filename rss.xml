@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-24T16:44:40.826Z</updated>
+  <updated>2026-11-24T16:49:40.819Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,084,115 USDT (~$1.1M) · 16:39 UTC</title>
+    <link href="https://t.me/sgnl_free/34677"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34677</id>
+    <updated>2026-11-24T16:46:34.732Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,084,115 USDT (~$1.1M) · 16:39 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0xed89…60e7
+Tx: https://etherscan.io/tx/0x5cec5ff7bfd70fc6e96f07d4b0ca0d0e56f36cb27507f77af34d9771188ed7fd
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2082.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34676"/>
@@ -817,26 +834,5 @@ last 7 days: $22733M into · $21904M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/34627"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34627</id>
-    <updated>2026-11-24T12:00:44.704Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $256.5B  (24h: +$273M)
-
-⚪ USDT: $174.64B  (+$43M)
-🟢 USDC: $69.01B  (+$334M)
-⚪ USDe: $4.88B  (+$3M)
-⚪ DAI: $4.53B  ($-11M)
-⚪ USDS: $3.16B  ($-96M)
-⚪ FDUSD: $0.28B  (+$0M)
-
-📊 Net supply Δ24h: +$273M (expansion band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
