@@ -5,7 +5,42 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-24T07:54:40.781Z</updated>
+  <updated>2026-11-24T07:59:40.787Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34596"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34596</id>
+    <updated>2026-11-24T07:58:27.507Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 31 $5M+ moves into tracked hot wallets ($599M) · 29 $5M+ moves out of tracked hot wallets ($637M).
+
+📥 5.0M USDT ($5.0M)  →  Binance hot 0x690c  0x128bf5…
+
+last 7 days: $22793M into · $22018M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/34595"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34595</id>
+    <updated>2026-11-24T07:54:50.464Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0006 SOL
+• 75th: 0.0011 SOL
+• 95th: 0.0016 SOL
+• 99th: 0.1130 SOL (~$11)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34594"/>
@@ -822,41 +857,6 @@ Not financial advice.</summary>
 📥 27.9M USDC ($27.9M)  →  Binance hot 0xce43  0x33fc4c…
 
 last 7 days: $22642M into · $21822M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 23 active observations</title>
-    <link href="https://t.me/sgnl_free/34546"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34546</id>
-    <updated>2026-11-24T00:19:40.326Z</updated>
-    <summary type="text">📊 Activity summary · 23 active observations
-
-Top 5 by size:
-• 🐋 Whale deposit cluster: 56 moves, $1165M to exchanges
-• 🐋 Whale withdrawal cluster: 66 moves, $1113M off exchanges
-• 🐋 Large deposit: $100M USDC → Binance hot 0xce43
-• 🐋 Large deposit: $50M USDC → Coinbase 10
-• 🐋 Large withdrawal: $27M USDC ← Coinbase Prime 1
-…and 18 more
-
-On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 3 large moves</title>
-    <link href="https://t.me/sgnl_free/34545"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34545</id>
-    <updated>2026-11-24T00:18:25.699Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 3 large moves
-📊 In 6h: 56 $5M+ moves into tracked hot wallets ($1165M) · 66 $5M+ moves out of tracked hot wallets ($1113M).
-
-📤 25.1M USDC ($25.1M)  ←  Coinbase 10  0x38deed…
-📤 25.0M USDC ($25.0M)  ←  Coinbase 10  0x5435bc…
-📤 10.0M USDC ($10.0M)  ←  Coinbase 10  0x091d1c…
-
-last 7 days: $22692M into · $21771M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
