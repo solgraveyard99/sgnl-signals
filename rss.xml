@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-24T08:24:40.793Z</updated>
+  <updated>2026-11-24T08:29:40.785Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34600"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34600</id>
+    <updated>2026-11-24T08:28:24.821Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 27 $5M+ moves into tracked hot wallets ($571M) · 32 $5M+ moves out of tracked hot wallets ($670M).
+
+📤 16.5M USDT ($16.5M)  ←  Binance hot 0x690c  0x42008c…
+
+last 7 days: $22731M into · $22020M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34599"/>
@@ -841,22 +857,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🔁 Exchange wallet flow · 675.98 ETH (~$1.2M) · 00:30 UTC</title>
-    <link href="https://t.me/sgnl_free/34550"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34550</id>
-    <updated>2026-11-24T00:36:34.474Z</updated>
-    <summary type="text">🔁 Exchange wallet flow · 675.98 ETH (~$1.2M) · 00:30 UTC
-From: 0x690c…91cc
-To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
-Tx: https://etherscan.io/tx/0xbfb7d0a9f07d1789d9c59800e2602bd1642808e367168e0d72dbe0f2b2605fd9
-Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 2171.
-Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
-
-📲 t.me/sgnl_free
-💬 discord.gg/zYJ9gKRych
-
-On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
   </entry>
 </feed>
