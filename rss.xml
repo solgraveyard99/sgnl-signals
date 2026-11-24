@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-24T17:04:40.830Z</updated>
+  <updated>2026-11-24T17:09:40.827Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/34680"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34680</id>
+    <updated>2026-11-24T17:08:16.617Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 42 $5M+ moves into tracked hot wallets ($840M) · 57 $5M+ moves out of tracked hot wallets ($934M).
+
+📤 7.0M USDT ($7.0M)  ←  Binance hot 0xc6fe  0xab5a9f…
+📤 5.0M USDT ($5.0M)  ←  OKX 180  0x14681e…
+
+last 7 days: $22900M into · $22175M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>☀️ SGNL Midday Snapshot</title>
     <link href="https://t.me/sgnl_free/34679"/>
@@ -811,22 +828,5 @@ last 7 days: $22766M into · $21901M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 16 active observations</title>
-    <link href="https://t.me/sgnl_free/34630"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34630</id>
-    <updated>2026-11-24T12:19:40.367Z</updated>
-    <summary type="text">📊 Activity summary · 16 active observations
-
-Top 5 by size:
-• 🐋 Whale deposit cluster: 34 moves, $991M to exchanges
-• 🐋 Whale withdrawal cluster: 28 moves, $612M off exchanges
-• 🐋 Large deposit: $100M USDC → Binance hot 0xce43
-• 🐋 Large withdrawal: $100M USDC ← Binance hot 0xce43
-• 🐋 Large deposit: $70M USDC → Binance hot 0xce43
-…and 11 more
-
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
