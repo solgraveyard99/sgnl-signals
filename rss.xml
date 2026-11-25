@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-25T02:09:40.843Z</updated>
+  <updated>2026-11-25T02:14:40.846Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/34774"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34774</id>
+    <updated>2026-11-25T02:13:16.549Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 50 $5M+ moves into tracked hot wallets ($1177M) · 54 $5M+ moves out of tracked hot wallets ($963M).
+
+📤 9.7M USDC ($9.7M)  ←  OKX 233  0x1dfc6b…
+📤 5.6M USDT ($5.6M)  ←  OKX 180  0x0a9100…
+
+last 7 days: $23424M into · $22510M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34773"/>
@@ -855,22 +872,5 @@ Larger deviation from peg.
 Deviations can come from thin liquidity, redemptions or venue pricing.
 
 Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/34724"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34724</id>
-    <updated>2026-11-24T22:18:30.277Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 44 $5M+ moves into tracked hot wallets ($890M) · 50 $5M+ moves out of tracked hot wallets ($863M).
-
-📥 50.0M USDC ($50.0M)  →  Coinbase 10  0x28c5b0…
-📤 7.6M USDT ($7.6M)  ←  OKX 180  0x3b98b9…
-
-last 7 days: $23391M into · $22610M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
