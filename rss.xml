@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-25T19:24:40.924Z</updated>
+  <updated>2026-11-25T19:29:40.890Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/34955"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34955</id>
+    <updated>2026-11-25T19:28:25.464Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 In 6h: 77 $5M+ moves into tracked hot wallets ($1356M) · 84 $5M+ moves out of tracked hot wallets ($1386M).
+
+📥 6.5M USDC ($6.5M)  →  Kraken: Hot Wallet 4  0x493dc0…
+📤 3000 ETH ($5.1M)  ←  Coinbase 10  0xd242ca…
+📥 3000 ETH ($5.1M)  →  Coinbase Prime 1  0xd242ca…
+
+last 7 days: $23962M into · $23057M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/34954"/>
@@ -840,20 +858,5 @@ last 7 days: $23676M into · $22725M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/34905"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34905</id>
-    <updated>2026-11-25T15:19:39.570Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9946  (↓ 0.543% below peg)
-24h change: -0.051%
-Duration: 1184h 1min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
