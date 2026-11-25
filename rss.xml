@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-25T05:14:40.872Z</updated>
+  <updated>2026-11-25T05:19:40.855Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/34806"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34806</id>
+    <updated>2026-11-25T05:19:39.545Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9949  (↓ 0.509% below peg)
+24h change: -0.030%
+Duration: 1174h 1min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>🗳️ Governance proposal active</title>
     <link href="https://t.me/sgnl_free/34805"/>
@@ -846,22 +861,5 @@ last 7 days: $23451M into · $22561M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 21 active observations</title>
-    <link href="https://t.me/sgnl_free/34756"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34756</id>
-    <updated>2026-11-25T00:19:55.295Z</updated>
-    <summary type="text">📊 Activity summary · 21 active observations
-
-Top 5 by size:
-• 🐋 Whale deposit cluster: 47 moves, $1075M to exchanges
-• 🐋 Whale withdrawal cluster: 52 moves, $892M off exchanges
-• 🐋 Large deposit: $110M USDC → Binance hot 0xce43
-• 🐋 Large withdrawal: $50M USDC ← Coinbase 10
-• 🐋 Large deposit: $50M USDC → Coinbase 10
-…and 16 more
-
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
