@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-25T15:54:40.887Z</updated>
+  <updated>2026-11-25T15:59:40.890Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 7 large moves</title>
+    <link href="https://t.me/sgnl_free/34913"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34913</id>
+    <updated>2026-11-25T15:58:16.639Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 7 large moves
+📊 In 6h: 58 $5M+ moves into tracked hot wallets ($1104M) · 64 $5M+ moves out of tracked hot wallets ($1076M).
+
+📥 55.9M USDC ($55.9M)  →  Coinbase 10  0x5435bc…
+📥 22.7M USDC ($22.7M)  →  Coinbase Prime 1  0x52cebb…
+📤 21.6M USDC ($21.6M)  ←  Coinbase Prime 1  0x774ae2…
+📤 8.0M USDT ($8.0M)  ←  Binance hot 0x0377  0x3e11a1…
+📥 8.0M USDT ($8.0M)  →  Coinbase Prime 1  0x3e11a1…
+…and 2 more
+
+last 7 days: $23676M into · $22759M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/34912"/>
@@ -820,30 +841,5 @@ Total tracked: $256.0B  (24h: $-842M)
 
 Source: DeFiLlama stablecoin supply data.
 Statistical pattern. Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽ Solana Priority Fee Report — 2026-11-24</title>
-    <link href="https://t.me/sgnl_free/34863"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34863</id>
-    <updated>2026-11-25T12:00:03.944Z</updated>
-    <summary type="text">⛽ Solana Priority Fee Report — 2026-11-24
-
-Yesterday&apos;s Jupiter route fee market (288 samples × 5min):
-  Median: n/a
-  P90:    n/a
-  Max:    n/a
-
-Recommended priority fee tiers (μlamports/CU):
-  Slow (eventual): n/a
-  Medium (~5s):   n/a
-  Fast (high probability): n/a
-
-vs prior 6-day baseline: → 0% (Jupiter median)
-
-Cross-DEX yesterday medians:
-  Jupiter: n/a | Raydium: 200.0K μlamp | Orca: 200.0K μlamp
-
-Source: live Solana RPC + Jupiter/Raydium/Orca quotes
-Fees change in seconds. DYOR before tx.</summary>
   </entry>
 </feed>
