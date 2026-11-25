@@ -5,7 +5,25 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-25T15:19:40.900Z</updated>
+  <updated>2026-11-25T15:24:40.890Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 3 large moves</title>
+    <link href="https://t.me/sgnl_free/34906"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34906</id>
+    <updated>2026-11-25T15:23:16.762Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 3 large moves
+📊 In 6h: 52 $5M+ moves into tracked hot wallets ($906M) · 55 $5M+ moves out of tracked hot wallets ($945M).
+
+📤 26.8M USDC ($26.8M)  ←  Coinbase 10  0x38deed…
+📤 10.3M USDC ($10.3M)  ←  Coinbase 10  0x6a6cc8…
+📥 5.0M USDC ($5.0M)  →  Binance hot 0xce43  0x47e420…
+
+last 7 days: $23676M into · $22725M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🟠 Concern · First Digital USD (FDUSD)</title>
     <link href="https://t.me/sgnl_free/34905"/>
@@ -820,22 +838,5 @@ Larger deviation from peg.
 Deviations can come from thin liquidity, redemptions or venue pricing.
 
 Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/34856"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34856</id>
-    <updated>2026-11-25T11:08:18.184Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 37 $5M+ moves into tracked hot wallets ($668M) · 38 $5M+ moves out of tracked hot wallets ($606M).
-
-📥 20.0M USDC ($20.0M)  →  Binance hot 0xce43  0x483a91…
-📤 6.1M USDT ($6.1M)  ←  OKX 180  0xfd2649…
-
-last 7 days: $23502M into · $22748M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
