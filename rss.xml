@@ -5,7 +5,43 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-25T05:09:40.844Z</updated>
+  <updated>2026-11-25T05:14:40.872Z</updated>
+  <entry>
+    <title>🗳️ Governance proposal active</title>
+    <link href="https://t.me/sgnl_free/34805"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34805</id>
+    <updated>2026-11-25T05:14:34.257Z</updated>
+    <summary type="text">🗳️ Governance proposal active
+
+[ARFC] Expand Coinbase Tokenized Equities on Base
+
+DAO: aavedao.eth
+Votes cast: 20
+Total voting power: 12302
+Voting ends: 2026-11-27 17:56 UTC
+
+https://snapshot.org/#/aavedao.eth/proposal/0xf17a31524dcdba99714f7e7283f2c05c22050257168f5f18f2fb4eb09e4fe8fd
+
+Statistical pattern. Not financial advice.
+
+#DAO #governance #onchain</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/34804"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34804</id>
+    <updated>2026-11-25T05:13:17.522Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 36 $5M+ moves into tracked hot wallets ($906M) · 49 $5M+ moves out of tracked hot wallets ($869M).
+
+📤 14.3M USDT ($14.3M)  ←  Bybit 25  0x76c891…
+
+last 7 days: $23419M into · $22701M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 4 large moves</title>
     <link href="https://t.me/sgnl_free/34803"/>
@@ -827,37 +863,5 @@ Top 5 by size:
 …and 16 more
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/34755"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34755</id>
-    <updated>2026-11-25T00:19:39.534Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9948  (↓ 0.524% below peg)
-24h change: -0.060%
-Duration: 1169h 1min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/34754"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34754</id>
-    <updated>2026-11-25T00:18:28.253Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 47 $5M+ moves into tracked hot wallets ($1075M) · 52 $5M+ moves out of tracked hot wallets ($892M).
-
-📥 23.1M USDC ($23.1M)  →  Binance hot 0xce43  0x38e2bb…
-📥 5.0M USDC ($5.0M)  →  Kraken: Hot Wallet 4  0x936dc2…
-
-last 7 days: $23443M into · $22611M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
