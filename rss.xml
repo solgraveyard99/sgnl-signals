@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-25T12:19:40.869Z</updated>
+  <updated>2026-11-25T12:24:40.882Z</updated>
+  <entry>
+    <title>📊 Activity summary · 11 active observations</title>
+    <link href="https://t.me/sgnl_free/34868"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34868</id>
+    <updated>2026-11-25T12:19:55.227Z</updated>
+    <summary type="text">📊 Activity summary · 11 active observations
+
+Top 5 by size:
+• 🐋 Whale deposit cluster: 41 moves, $736M to exchanges
+• 🐋 Whale withdrawal cluster: 39 moves, $583M off exchanges
+• 🐋 Large withdrawal: $108M USDC ← Binance hot 0xce43
+• 🐋 Large deposit: $37M ETH → Coinbase Prime 1
+• 🐋 Large deposit: $20M USDC → Binance hot 0xce43
+…and 6 more
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>🟠 Concern · First Digital USD (FDUSD)</title>
     <link href="https://t.me/sgnl_free/34867"/>
@@ -829,21 +846,5 @@ Larger deviation from peg.
 Deviations can come from thin liquidity, redemptions or venue pricing.
 
 Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/34818"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34818</id>
-    <updated>2026-11-25T07:18:19.273Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 33 $5M+ moves into tracked hot wallets ($668M) · 46 $5M+ moves out of tracked hot wallets ($809M).
-
-📥 5.0M USDC ($5.0M)  →  Kraken: Hot Wallet 4  0x39ef13…
-
-last 7 days: $23407M into · $22724M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
