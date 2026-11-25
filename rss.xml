@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-25T12:24:40.882Z</updated>
+  <updated>2026-11-25T12:29:40.875Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/34870"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34870</id>
+    <updated>2026-11-25T12:28:29.637Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 38 $5M+ moves into tracked hot wallets ($660M) · 40 $5M+ moves out of tracked hot wallets ($595M).
+
+📤 21679 ETH ($35.5M)  ←  Coinbase Prime 1  0x2ed1c6…
+📤 15916 ETH ($26.1M)  ←  Coinbase Prime 1  0x2ed1c6…
+
+last 7 days: $23456M into · $22563M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⏰ 1-hour warning · 🟡 Medium impact</title>
+    <link href="https://t.me/sgnl_free/34869"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34869</id>
+    <updated>2026-11-25T12:24:52.709Z</updated>
+    <summary type="text">⏰ 1-hour warning · 🟡 Medium impact
+US Personal Income and Outlays, incl. PCE prices (October 2026) macro
+When: Wed, 25 Nov 2026 13:30:00 UTC
+
+Includes the PCE price index. Release by the U.S. Bureau of Economic Analysis, 8:30 a.m. ET. Schedule reminder only, not advice.
+
+details ↗</summary>
+  </entry>
   <entry>
     <title>📊 Activity summary · 11 active observations</title>
     <link href="https://t.me/sgnl_free/34868"/>
@@ -815,36 +845,5 @@ last 7 days: $23356M into · $22724M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/34820"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34820</id>
-    <updated>2026-11-25T07:23:33.552Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 34 $5M+ moves into tracked hot wallets ($688M) · 46 $5M+ moves out of tracked hot wallets ($809M).
-
-📥 20.0M USDC ($20.0M)  →  Binance hot 0xce43  0x483a91…
-
-last 7 days: $23356M into · $22724M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/34819"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34819</id>
-    <updated>2026-11-25T07:19:39.623Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9948  (↓ 0.518% below peg)
-24h change: -0.036%
-Duration: 1176h 1min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
