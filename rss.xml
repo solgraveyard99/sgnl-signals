@@ -5,7 +5,76 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-25T00:14:40.856Z</updated>
+  <updated>2026-11-25T00:19:40.841Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/34755"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34755</id>
+    <updated>2026-11-25T00:19:39.534Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9948  (↓ 0.524% below peg)
+24h change: -0.060%
+Duration: 1169h 1min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/34754"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34754</id>
+    <updated>2026-11-25T00:18:28.253Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 47 $5M+ moves into tracked hot wallets ($1075M) · 52 $5M+ moves out of tracked hot wallets ($892M).
+
+📥 23.1M USDC ($23.1M)  →  Binance hot 0xce43  0x38e2bb…
+📥 5.0M USDC ($5.0M)  →  Kraken: Hot Wallet 4  0x936dc2…
+
+last 7 days: $23443M into · $22611M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⚡ Elevated Jito tip floor</title>
+    <link href="https://t.me/sgnl_free/34753"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34753</id>
+    <updated>2026-11-25T00:14:51.217Z</updated>
+    <summary type="text">⚡ Elevated Jito tip floor
+
+Landed-bundle tip percentiles right now:
+• 50th: 0.0000 SOL
+• 75th: 0.0000 SOL
+• 95th: 0.0017 SOL
+• 99th: 0.0158 SOL (~$2)
+
+Elevated tips indicate active MEV competition — searchers pricing block space.
+
+Statistical pattern. Not financial advice.
+
+#Solana #MEV #onchain</summary>
+  </entry>
+  <entry>
+    <title>⚡ Large options flow</title>
+    <link href="https://t.me/sgnl_free/34752"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-34752</id>
+    <updated>2026-11-25T00:14:50.794Z</updated>
+    <summary type="text">⚡ Large options flow
+
+BTC Put — strike $59500 — expiry 25NOV26
+Direction: BUY
+Notional: ~$620K
+Contracts: 10.4
+Implied vol: 55.4%
+Venue: Deribit
+
+Statistical pattern. Not financial advice.
+
+#options #BTC #derivatives</summary>
+  </entry>
   <entry>
     <title>⚡ Large options flow</title>
     <link href="https://t.me/sgnl_free/34751"/>
@@ -789,74 +858,6 @@ Not financial advice.</summary>
 📥 19.7M USDC ($19.7M)  →  Coinbase 10  0x6a6cc8…
 
 last 7 days: $23032M into · $22316M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/34705"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34705</id>
-    <updated>2026-11-24T20:38:16.626Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 44 $5M+ moves into tracked hot wallets ($845M) · 56 $5M+ moves out of tracked hot wallets ($995M).
-
-📤 10.0M USDT ($10.0M)  ←  OKX 180  0xac1ee1…
-📥 5.3M USDC ($5.3M)  →  Coinbase 10  0x12a5e5…
-
-last 7 days: $23033M into · $22306M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/34704"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34704</id>
-    <updated>2026-11-24T20:33:16.622Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 44 $5M+ moves into tracked hot wallets ($845M) · 59 $5M+ moves out of tracked hot wallets ($1040M).
-
-📤 50.0M USDC ($50.0M)  ←  Coinbase 10  0xe725b2…
-📥 8.0M USDT ($8.0M)  →  OKX 180  0x14681e…
-
-last 7 days: $23025M into · $22256M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/34703"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34703</id>
-    <updated>2026-11-24T20:28:16.659Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 45 $5M+ moves into tracked hot wallets ($897M) · 59 $5M+ moves out of tracked hot wallets ($1001M).
-
-📥 8.0M USDT ($8.0M)  →  OKX 180  0x14681e…
-📤 7.4M USDC ($7.4M)  ←  Coinbase 10  0x5435bc…
-
-last 7 days: $23017M into · $22248M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/34702"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-34702</id>
-    <updated>2026-11-24T20:18:16.678Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 46 $5M+ moves into tracked hot wallets ($901M) · 59 $5M+ moves out of tracked hot wallets ($1003M).
-
-📥 8578 ETH ($14.3M)  →  Coinbase 10  0xc2bf39…
-📥 5.0M USDT ($5.0M)  →  Binance hot 0x690c  0xe68d67…
-
-last 7 days: $23034M into · $22292M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
