@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-26T12:14:40.942Z</updated>
+  <updated>2026-11-26T12:19:40.944Z</updated>
+  <entry>
+    <title>📊 Activity summary · 13 active observations</title>
+    <link href="https://t.me/sgnl_free/35107"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35107</id>
+    <updated>2026-11-26T12:19:40.851Z</updated>
+    <summary type="text">📊 Activity summary · 13 active observations
+
+Top 5 by size:
+• 🐋 Whale deposit cluster: 47 moves, $677M to exchanges
+• 🐋 Whale withdrawal cluster: 33 moves, $666M off exchanges
+• 🐋 Large withdrawal: $116M USDC ← Binance hot 0xce43
+• 🐋 Large withdrawal: $111M USDC ← Binance hot 0xce43
+• 🐋 Large deposit: $20M USDC → Binance hot 0xce43
+…and 8 more
+
+On-chain observation, not advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/35106"/>
@@ -838,18 +855,5 @@ Larger deviation from peg.
 Deviations can come from thin liquidity, redemptions or venue pricing.
 
 Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🔴 STABLECOIN BURN · USDT</title>
-    <link href="https://t.me/sgnl_free/35057"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35057</id>
-    <updated>2026-11-26T07:14:52.856Z</updated>
-    <summary type="text">🔴 STABLECOIN BURN · USDT
-Supply change 24h: -$645M
-New supply: $173.54B
-
-Net supply contraction event. Descriptive observation only.
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
