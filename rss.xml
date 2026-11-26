@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-26T06:19:40.922Z</updated>
+  <updated>2026-11-26T06:24:40.923Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/35052"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35052</id>
+    <updated>2026-11-26T06:19:52.948Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9949  (↓ 0.510% below peg)
+24h change: +0.009%
+Duration: 1199h 1min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 5 large moves</title>
     <link href="https://t.me/sgnl_free/35051"/>
@@ -843,23 +858,5 @@ last 7 days: $23702M into · $22615M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/35002"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35002</id>
-    <updated>2026-11-26T00:04:52.673Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $1550 — expiry 11DEC26
-Direction: BUY
-Notional: ~$1446K
-Contracts: 856
-Implied vol: 70.3%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
   </entry>
 </feed>
