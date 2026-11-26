@@ -5,7 +5,28 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-26T12:59:40.947Z</updated>
+  <updated>2026-11-26T13:04:40.944Z</updated>
+  <entry>
+    <title>🌅 Morning Brief · 2026-11-26</title>
+    <link href="https://t.me/sgnl_free/35111"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35111</id>
+    <updated>2026-11-26T13:04:39.204Z</updated>
+    <summary type="text">🌅 Morning Brief · 2026-11-26
+
+🐋 Whale flow (24h)
+361 large moves · net +$155M 📥 toward exchanges
+
+⚡ Perp funding snapshot
+BTC ⚪ neutral funding (HL)
+ETH ⚪ neutral funding (HL)
+SOL ⚪ neutral funding (HL)
+
+💰 Top yields right now
+Stables: 32.0% · midas-rwa/USDC @ Ethereum
+ETH/LST: 14.3% · vesper/STETH @ Ethereum
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/35110"/>
@@ -837,24 +858,5 @@ Elevated tips indicate active MEV competition — searchers pricing block space.
 Statistical pattern. Not financial advice.
 
 #Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 4 large moves</title>
-    <link href="https://t.me/sgnl_free/35061"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35061</id>
-    <updated>2026-11-26T07:48:19.542Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 4 large moves
-📊 In 6h: 19 $5M+ moves into tracked hot wallets ($336M) · 21 $5M+ moves out of tracked hot wallets ($359M).
-
-📥 39899 ETH ($67.5M)  →  OKX 167  0x6969d3…
-📥 22.9M USDT ($22.9M)  →  OKX 180  0x3b98b9…
-📤 13.9M USDC ($13.9M)  ←  OKX 233  0x1dfc6b…
-📤 5159 ETH ($8.7M)  ←  OKX 167  0x0003b5…
-
-last 7 days: $23882M into · $22663M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
