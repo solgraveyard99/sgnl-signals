@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-26T09:04:40.932Z</updated>
+  <updated>2026-11-26T09:09:40.925Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/35074"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35074</id>
+    <updated>2026-11-26T09:08:17.277Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 23 $5M+ moves into tracked hot wallets ($344M) · 18 $5M+ moves out of tracked hot wallets ($282M).
+
+📥 20.0M USDC ($20.0M)  →  Binance hot 0xce43  0x483a91…
+📤 4999 ETH ($8.5M)  ←  OKX 167  0x914a91…
+
+last 7 days: $24018M into · $22817M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/35073"/>
@@ -830,24 +847,5 @@ last 7 days: $23729M into · $22630M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/35024"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35024</id>
-    <updated>2026-11-26T01:23:39.918Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0002 SOL
-• 95th: 0.0224 SOL
-• 99th: 0.0366 SOL (~$4)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
   </entry>
 </feed>
