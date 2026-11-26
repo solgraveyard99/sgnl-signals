@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-26T07:29:40.921Z</updated>
+  <updated>2026-11-26T07:34:40.920Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/35059"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35059</id>
+    <updated>2026-11-26T07:33:31.482Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 20 $5M+ moves into tracked hot wallets ($335M) · 17 $5M+ moves out of tracked hot wallets ($324M).
+
+📥 6.0M USDT ($6.0M)  →  Binance hot 0x690c  0xecf0e8…
+
+last 7 days: $23882M into · $22660M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🟠 Concern · First Digital USD (FDUSD)</title>
     <link href="https://t.me/sgnl_free/35058"/>
@@ -831,20 +847,5 @@ Top 5 by size:
 …and 12 more
 
 On-chain observation, not advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/35009"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35009</id>
-    <updated>2026-11-26T00:19:40.558Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9949  (↓ 0.507% below peg)
-24h change: +0.016%
-Duration: 1193h 1min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
