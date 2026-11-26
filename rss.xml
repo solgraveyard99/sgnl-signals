@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-26T18:09:40.959Z</updated>
+  <updated>2026-11-26T18:14:40.956Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/35161"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35161</id>
+    <updated>2026-11-26T18:13:27.294Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 37 $5M+ moves into tracked hot wallets ($637M) · 26 $5M+ moves out of tracked hot wallets ($474M).
+
+📥 8103 ETH ($13.7M)  →  Coinbase 10  0xb5d85c…
+📤 6678 ETH ($11.3M)  ←  Coinbase 10  0xc2bf39…
+
+last 7 days: $23028M into · $21870M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/35160"/>
@@ -772,26 +789,5 @@ Larger deviation from peg.
 Deviations can come from thin liquidity, redemptions or venue pricing.
 
 Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🌅 Morning Brief · 2026-11-26</title>
-    <link href="https://t.me/sgnl_free/35111"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35111</id>
-    <updated>2026-11-26T13:04:39.204Z</updated>
-    <summary type="text">🌅 Morning Brief · 2026-11-26
-
-🐋 Whale flow (24h)
-361 large moves · net +$155M 📥 toward exchanges
-
-⚡ Perp funding snapshot
-BTC ⚪ neutral funding (HL)
-ETH ⚪ neutral funding (HL)
-SOL ⚪ neutral funding (HL)
-
-💰 Top yields right now
-Stables: 32.0% · midas-rwa/USDC @ Ethereum
-ETH/LST: 14.3% · vesper/STETH @ Ethereum
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
