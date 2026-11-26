@@ -5,7 +5,35 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-26T13:59:40.949Z</updated>
+  <updated>2026-11-26T14:04:40.937Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/35122"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35122</id>
+    <updated>2026-11-26T14:03:16.752Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 49 $5M+ moves into tracked hot wallets ($693M) · 28 $5M+ moves out of tracked hot wallets ($585M).
+
+📥 15.0M USDT ($15.0M)  →  Binance hot 0x690c  0xc29bf2…
+📤 7.7M USDC ($7.7M)  ←  Kraken: Hot Wallet 4  0x2744df…
+
+last 7 days: $23738M into · $22540M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>📊 Daily Market Composite — 2026-11-26</title>
+    <link href="https://t.me/sgnl_free/35121"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35121</id>
+    <updated>2026-11-26T14:00:07.717Z</updated>
+    <summary type="text">📊 Daily Market Composite — 2026-11-26
+Composite score: 60/100
+
+Raw composite reading. No directional interpretation.
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/35120"/>
@@ -813,42 +841,6 @@ last 7 days: $24018M into · $22690M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Daily on-chain digest — 2026-11-25</title>
-    <link href="https://t.me/sgnl_free/35072"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35072</id>
-    <updated>2026-11-26T09:00:02.859Z</updated>
-    <summary type="text">📊 Daily on-chain digest — 2026-11-25
-
-Top 5 whale-cluster events:
-• $1544M ← CEX | 86 wallets | 18:36Z
-• $1533M ← CEX | 85 wallets | 18:36Z
-• $1528M ← CEX | 84 wallets | 18:36Z
-• $1528M ← CEX | 84 wallets | 18:36Z
-• $1507M ← CEX | 83 wallets | 18:36Z
-
-Alerts fired (24h):
-• Whale-cluster→CEX: 168
-• Whale-cluster←CEX: 168
-• Whale-large→CEX: 90
-• Whale-large←CEX: 87
-
-All observations timestamped. Methodology public.
-
-#onchain #dailydigest</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/35071"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35071</id>
-    <updated>2026-11-26T08:59:40.347Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.073382392 gwei  ·  Safe: 0.066711266 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
   </entry>
 </feed>
