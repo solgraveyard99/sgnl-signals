@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-27T17:29:41.027Z</updated>
+  <updated>2026-11-27T17:34:41.035Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/35357"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35357</id>
+    <updated>2026-11-27T17:33:35.515Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 47 $5M+ moves into tracked hot wallets ($964M) · 51 $5M+ moves out of tracked hot wallets ($941M).
+
+📤 8.0M USDC ($8.0M)  ←  Coinbase 10  0x8baccc…
+
+last 7 days: $21490M into · $20533M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/35356"/>
@@ -834,22 +850,5 @@ last 7 days: $21733M into · $20575M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 Activity summary · 12 active observations</title>
-    <link href="https://t.me/sgnl_free/35307"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35307</id>
-    <updated>2026-11-27T12:19:40.781Z</updated>
-    <summary type="text">📊 Activity summary · 12 active observations
-
-Top 5 by size:
-• 🐋 Whale deposit cluster: 38 moves, $695M to exchanges
-• 🐋 Whale withdrawal cluster: 44 moves, $609M off exchanges
-• 🐋 Large deposit: $100M USDC → Binance hot 0xce43
-• 🐋 Large deposit: $63M USDT → Binance hot 0x690c
-• 🐋 Large withdrawal: $31M USDC ← Binance hot 0xce43
-…and 7 more
-
-On-chain observation, not advice.</summary>
   </entry>
 </feed>
