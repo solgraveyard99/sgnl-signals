@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-27T05:04:40.996Z</updated>
+  <updated>2026-11-27T05:09:41.006Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/35242"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35242</id>
+    <updated>2026-11-27T05:04:53.380Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9949  (↓ 0.507% below peg)
+24h change: +0.001%
+Duration: 1221h 46min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/35241"/>
@@ -808,22 +823,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions.</summ
 📥 12.0M USDC ($12.0M)  →  Coinbase Prime 1  0xbd05d8…
 
 last 7 days: $21931M into · $20599M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/35192"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35192</id>
-    <updated>2026-11-26T23:48:17.828Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 11 $5M+ moves into tracked hot wallets ($146M) · 17 $5M+ moves out of tracked hot wallets ($169M).
-
-📥 10.0M USDC ($10.0M)  →  Coinbase Prime 1  0xbd05d8…
-
-last 7 days: $21971M into · $20599M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
