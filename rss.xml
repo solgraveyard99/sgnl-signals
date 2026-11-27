@@ -5,7 +5,35 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-27T03:54:40.986Z</updated>
+  <updated>2026-11-27T03:59:40.987Z</updated>
+  <entry>
+    <title>🟢 Circle MINT · USDC</title>
+    <link href="https://t.me/sgnl_free/35232"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35232</id>
+    <updated>2026-11-27T03:59:31.918Z</updated>
+    <summary type="text">🟢 Circle MINT · USDC
+
++$503.6M in last 24h
+Tier: TIER2
+
+New stablecoin supply typically deploys into BTC/ETH within 24-48h — historically precedes market absorption.</summary>
+  </entry>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/35231"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35231</id>
+    <updated>2026-11-27T03:58:16.802Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 17 $5M+ moves into tracked hot wallets ($313M) · 25 $5M+ moves out of tracked hot wallets ($524M).
+
+📤 120.3M USDC ($120.3M)  ←  Binance hot 0xce43  0x38aaef…
+
+last 7 days: $21831M into · $20479M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/35230"/>
@@ -796,32 +824,5 @@ last 7 days: $22060M into · $20683M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟢 Circle MINT · USDC</title>
-    <link href="https://t.me/sgnl_free/35182"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35182</id>
-    <updated>2026-11-26T22:14:31.863Z</updated>
-    <summary type="text">🟢 Circle MINT · USDC
-
-+$623.0M in last 24h
-Tier: TIER2
-
-New stablecoin supply typically deploys into BTC/ETH within 24-48h — historically precedes market absorption.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/35181"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35181</id>
-    <updated>2026-11-26T22:04:39.798Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9949  (↓ 0.507% below peg)
-24h change: +0.003%
-Duration: 1214h 46min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
