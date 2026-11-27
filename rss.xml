@@ -5,7 +5,33 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-27T16:59:41.028Z</updated>
+  <updated>2026-11-27T17:04:41.033Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/35353"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35353</id>
+    <updated>2026-11-27T17:03:30.266Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 45 $5M+ moves into tracked hot wallets ($936M) · 51 $5M+ moves out of tracked hot wallets ($964M).
+
+📤 20.0M USDT ($20.0M)  ←  Binance hot 0x690c  0xfc82b4…
+
+last 7 days: $21568M into · $20543M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>☀️ SGNL Midday Snapshot</title>
+    <link href="https://t.me/sgnl_free/35352"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35352</id>
+    <updated>2026-11-27T17:00:33.468Z</updated>
+    <summary type="text">☀️ SGNL Midday Snapshot
+BTC: $59,969 | SOL: $72.11
+Market activity index: 30/100 (low band)
+On-chain observation, not advice. No real-money trading. No paid mentions.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/35351"/>
@@ -822,42 +848,5 @@ last 7 days: $21677M into · $20648M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/35303"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35303</id>
-    <updated>2026-11-27T12:03:16.874Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 37 $5M+ moves into tracked hot wallets ($595M) · 46 $5M+ moves out of tracked hot wallets ($611M).
-
-📤 10.3M USDC ($10.3M)  ←  Kraken: Hot Wallet 4  0x2744df…
-
-last 7 days: $21694M into · $20677M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>💵 Stablecoin Supply Check</title>
-    <link href="https://t.me/sgnl_free/35302"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35302</id>
-    <updated>2026-11-27T12:00:59.092Z</updated>
-    <summary type="text">💵 Stablecoin Supply Check
-
-Total tracked: $255.5B  (24h: $-416M)
-
-🔴 USDT: $173.56B  ($-161M)
-🔴 USDC: $69.12B  ($-250M)
-⚪ USDe: $4.93B  (+$8M)
-⚪ DAI: $4.52B  ($-8M)
-⚪ USDS: $3.13B  ($-7M)
-⚪ FDUSD: $0.28B  (+$2M)
-
-📊 Net supply Δ24h: -$416M (contraction band). Descriptive only.
-
-Source: DeFiLlama stablecoin supply data.
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
