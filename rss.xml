@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-27T21:14:41.049Z</updated>
+  <updated>2026-11-27T21:19:41.052Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/35386"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35386</id>
+    <updated>2026-11-27T21:18:16.867Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 41 $5M+ moves into tracked hot wallets ($657M) · 46 $5M+ moves out of tracked hot wallets ($600M).
+
+📤 20.0M USDC ($20.0M)  ←  Binance hot 0xce43  0xfc82b4…
+📤 6.1M USDC ($6.1M)  ←  Coinbase Prime 1  0x52cebb…
+
+last 7 days: $21099M into · $20056M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/35385"/>
@@ -821,20 +838,5 @@ last 7 days: $21862M into · $20763M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🟠 Concern · First Digital USD (FDUSD)</title>
-    <link href="https://t.me/sgnl_free/35336"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35336</id>
-    <updated>2026-11-27T15:19:39.831Z</updated>
-    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
-Price: $0.9950  (↓ 0.501% below peg)
-24h change: +0.004%
-Duration: 1232h 1min off-peg
-
-Larger deviation from peg.
-Deviations can come from thin liquidity, redemptions or venue pricing.
-
-Source: CoinGecko cross-exchange avg · Not financial advice</summary>
   </entry>
 </feed>
