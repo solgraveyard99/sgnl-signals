@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-27T02:04:40.981Z</updated>
+  <updated>2026-11-27T02:09:40.976Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/35217"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35217</id>
+    <updated>2026-11-27T02:04:53.624Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9949  (↓ 0.512% below peg)
+24h change: +0.000%
+Duration: 1218h 46min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/35216"/>
@@ -788,22 +803,6 @@ New stablecoin supply typically deploys into BTC/ETH within 24-48h — historica
 📤 11.2M USDC ($11.2M)  ←  Binance hot 0xce43  0x47b869…
 
 last 7 days: $22666M into · $21587M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/35167"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35167</id>
-    <updated>2026-11-26T19:18:17.078Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 34 $5M+ moves into tracked hot wallets ($569M) · 26 $5M+ moves out of tracked hot wallets ($482M).
-
-📥 9.5M USDT ($9.5M)  →  OKX 180  0x14681e…
-
-last 7 days: $22790M into · $21661M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
