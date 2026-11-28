@@ -5,7 +5,44 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-28T06:19:41.072Z</updated>
+  <updated>2026-11-28T06:24:41.090Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 2 large moves</title>
+    <link href="https://t.me/sgnl_free/35466"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35466</id>
+    <updated>2026-11-28T06:23:31.255Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 2 large moves
+📊 In 6h: 28 $5M+ moves into tracked hot wallets ($971M) · 18 $5M+ moves out of tracked hot wallets ($333M).
+
+📤 40.0M USDC ($40.0M)  ←  Binance hot 0xce43  0x420ef1…
+📤 40.0M USDC ($40.0M)  ←  Binance hot 0xce43  0x420ef1…
+
+last 7 days: $20379M into · $18507M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>📊 6 inflow-heavy observations detected</title>
+    <link href="https://t.me/sgnl_free/35465"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35465</id>
+    <updated>2026-11-28T06:19:54.335Z</updated>
+    <summary type="text">📊 6 inflow-heavy observations detected
+Sample: 6 concurrent observations · $1.57B total flow.
+
+Top observations (by size):
+• 🐋 Whale deposit cluster: 28 moves, $971M to exchanges
+• 🐋 Large deposit: $500M USDC → Binance hot 0xce43
+• 🐋 Large deposit: $40M USDC → Binance hot 0xce43
+• 🐋 Large deposit: $24M USDT → Binance hot 0x690c
+• 🐋 Large deposit: $19M USDC → Coinbase 10
+…and 1 more concurrent
+
+Opposing flow: $277M (filtered — minority)
+
+Statistical pattern. Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/35464"/>
@@ -816,42 +853,6 @@ Direction: SELL
 Notional: ~$995K
 Contracts: 600
 Implied vol: 86.5%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/35416"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35416</id>
-    <updated>2026-11-28T00:05:03.832Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $1400 — expiry 4DEC26
-Direction: SELL
-Notional: ~$3362K
-Contracts: 2027
-Implied vol: 83.9%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/35415"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35415</id>
-    <updated>2026-11-28T00:05:03.405Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Put — strike $1400 — expiry 4DEC26
-Direction: SELL
-Notional: ~$1158K
-Contracts: 698
-Implied vol: 87.7%
 Venue: Deribit
 
 Statistical pattern. Not financial advice.
