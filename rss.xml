@@ -5,7 +5,59 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-28T06:14:41.079Z</updated>
+  <updated>2026-11-28T06:19:41.072Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/35464"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35464</id>
+    <updated>2026-11-28T06:18:18.150Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 28 $5M+ moves into tracked hot wallets ($971M) · 16 $5M+ moves out of tracked hot wallets ($253M).
+
+📥 500.0M USDC ($500.0M)  →  Binance hot 0xce43  0x38aaef…
+
+last 7 days: $19888M into · $18507M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,000,000 USDT (~$1.0M) · 06:14 UTC</title>
+    <link href="https://t.me/sgnl_free/35463"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35463</id>
+    <updated>2026-11-28T06:16:34.618Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,000,000 USDT (~$1.0M) · 06:14 UTC
+From: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+To: 0x76ec…66ed
+Tx: https://etherscan.io/tx/0x0168de785cd5623b54421df77250c4d2a9e163536ca609561ec66ee79ccb301a
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1985.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
+  <entry>
+    <title>💰 STABLECOIN YIELD · 32.0% APY</title>
+    <link href="https://t.me/sgnl_free/35462"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35462</id>
+    <updated>2026-11-28T06:14:53.392Z</updated>
+    <summary type="text">💰 STABLECOIN YIELD · 32.0% APY
+midas-rwa / USDC on Ethereum
+Base: 32.0%  ·  Rewards: n/a  ·  TVL: $19.7M
+
+Quoted APY is 25.0 points above a 7% lending benchmark.
+
+✅ real base yield (mostly not reward-token inflated)
+
+⚠️ protocol not on the established list; audit status not checked here
+
+Pool details: https://defillama.com/yields/pool/15cc07d7-3ffc-49e6-8500-deaeb414e32d
+
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🔁 Exchange wallet flow · 4,000,000 USDC (~$4.0M) · 06:03 UTC</title>
     <link href="https://t.me/sgnl_free/35461"/>
@@ -805,59 +857,5 @@ Venue: Deribit
 Statistical pattern. Not financial advice.
 
 #options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/35414"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35414</id>
-    <updated>2026-11-28T00:04:47.703Z</updated>
-    <summary type="text">⚡ Large options flow
-
-ETH Call — strike $1900 — expiry 1DEC26
-Direction: BUY
-Notional: ~$829K
-Contracts: 500
-Implied vol: 68.8%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #ETH #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/35413"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35413</id>
-    <updated>2026-11-28T00:04:47.301Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $52000 — expiry 29NOV26
-Direction: SELL
-Notional: ~$598K
-Contracts: 10
-Implied vol: 98.8%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
-  </entry>
-  <entry>
-    <title>⚡ Large options flow</title>
-    <link href="https://t.me/sgnl_free/35412"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35412</id>
-    <updated>2026-11-28T00:04:43.378Z</updated>
-    <summary type="text">⚡ Large options flow
-
-BTC Put — strike $60000 — expiry 25DEC26
-Direction: SELL
-Notional: ~$538K
-Contracts: 9
-Implied vol: 47.8%
-Venue: Deribit
-
-Statistical pattern. Not financial advice.
-
-#options #BTC #derivatives</summary>
   </entry>
 </feed>
