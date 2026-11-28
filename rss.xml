@@ -5,7 +5,37 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-28T13:44:41.122Z</updated>
+  <updated>2026-11-28T13:49:41.120Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/35527"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35527</id>
+    <updated>2026-11-28T13:48:30.096Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 16 $5M+ moves into tracked hot wallets ($313M) · 16 $5M+ moves out of tracked hot wallets ($245M).
+
+📥 6.1M USDC ($6.1M)  →  Binance hot 0xce43  0x28b0da…
+
+last 7 days: $19696M into · $18426M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
+  <entry>
+    <title>⛽ Gas Check · 24h</title>
+    <link href="https://t.me/sgnl_free/35526"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35526</id>
+    <updated>2026-11-28T13:44:53.054Z</updated>
+    <summary type="text">⛽ Gas Check · 24h
+
+Right now: 0.060131762 gwei (fast)  ·  🟢 cheap
+Safe: 0.054665239  ·  Propose: 0.059665239  ·  BaseFee: 0.0547
+
+24h range: 0.04–2.80 gwei  (avg 0.22)
+
+Simple transfer cost now: ~$0.0032</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/35525"/>
@@ -822,41 +852,6 @@ Landed-bundle tip percentiles right now:
 • 75th: 0.0000 SOL
 • 95th: 0.0026 SOL
 • 99th: 0.0276 SOL (~$3)
-
-Elevated tips indicate active MEV competition — searchers pricing block space.
-
-Statistical pattern. Not financial advice.
-
-#Solana #MEV #onchain</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/35477"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35477</id>
-    <updated>2026-11-28T07:03:16.891Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 32 $5M+ moves into tracked hot wallets ($987M) · 28 $5M+ moves out of tracked hot wallets ($706M).
-
-📥 7.9M USDT ($7.9M)  →  Binance hot 0x690c  0xdf3643…
-
-last 7 days: $20339M into · $18923M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⚡ Elevated Jito tip floor</title>
-    <link href="https://t.me/sgnl_free/35476"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35476</id>
-    <updated>2026-11-28T07:00:41.104Z</updated>
-    <summary type="text">⚡ Elevated Jito tip floor
-
-Landed-bundle tip percentiles right now:
-• 50th: 0.0000 SOL
-• 75th: 0.0000 SOL
-• 95th: 0.0002 SOL
-• 99th: 0.0102 SOL (~$1)
 
 Elevated tips indicate active MEV competition — searchers pricing block space.
 
