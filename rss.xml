@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-28T00:54:41.055Z</updated>
+  <updated>2026-11-28T00:59:41.061Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/35428"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35428</id>
+    <updated>2026-11-28T00:58:16.810Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 35 $5M+ moves into tracked hot wallets ($596M) · 41 $5M+ moves out of tracked hot wallets ($594M).
+
+📤 15.0M USDC ($15.0M)  ←  Coinbase 10  0x040d6d…
+
+last 7 days: $19945M into · $19003M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 1 large move</title>
     <link href="https://t.me/sgnl_free/35427"/>
@@ -826,22 +842,5 @@ Larger deviation from peg.
 Deviations can come from thin liquidity, redemptions or venue pricing.
 
 Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 2 large moves</title>
-    <link href="https://t.me/sgnl_free/35378"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35378</id>
-    <updated>2026-11-27T20:48:17.062Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 2 large moves
-📊 In 6h: 43 $5M+ moves into tracked hot wallets ($730M) · 54 $5M+ moves out of tracked hot wallets ($794M).
-
-📥 8.8M USDC ($8.8M)  →  Coinbase Prime 1  0xa2ea70…
-📤 7.0M USDT ($7.0M)  ←  Binance hot 0x6781  0x17dc4d…
-
-last 7 days: $21248M into · $20081M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
