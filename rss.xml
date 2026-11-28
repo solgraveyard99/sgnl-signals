@@ -5,7 +5,23 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-28T12:09:41.106Z</updated>
+  <updated>2026-11-28T12:14:41.112Z</updated>
+  <entry>
+    <title>🐋 Whale Flow Alert · 1 large move</title>
+    <link href="https://t.me/sgnl_free/35515"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35515</id>
+    <updated>2026-11-28T12:13:21.402Z</updated>
+    <summary type="text">🐋 Whale Flow Alert · 1 large move
+📊 In 6h: 26 $5M+ moves into tracked hot wallets ($419M) · 32 $5M+ moves out of tracked hot wallets ($755M).
+
+📥 10.1M USDC ($10.1M)  →  Binance hot 0xce43  0x28b0da…
+
+last 7 days: $19865M into · $18529M out of tracked hot wallets
+
+Wallet labels: public address lists, unverified. Labels can be wrong.
+A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
+Not financial advice.</summary>
+  </entry>
   <entry>
     <title>💵 Stablecoin Supply Check</title>
     <link href="https://t.me/sgnl_free/35514"/>
@@ -860,25 +876,5 @@ last 7 days: $20379M into · $18507M out of tracked hot wallets
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
 Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>📊 6 inflow-heavy observations detected</title>
-    <link href="https://t.me/sgnl_free/35465"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35465</id>
-    <updated>2026-11-28T06:19:54.335Z</updated>
-    <summary type="text">📊 6 inflow-heavy observations detected
-Sample: 6 concurrent observations · $1.57B total flow.
-
-Top observations (by size):
-• 🐋 Whale deposit cluster: 28 moves, $971M to exchanges
-• 🐋 Large deposit: $500M USDC → Binance hot 0xce43
-• 🐋 Large deposit: $40M USDC → Binance hot 0xce43
-• 🐋 Large deposit: $24M USDT → Binance hot 0x690c
-• 🐋 Large deposit: $19M USDC → Coinbase 10
-…and 1 more concurrent
-
-Opposing flow: $277M (filtered — minority)
-
-Statistical pattern. Not financial advice.</summary>
   </entry>
 </feed>
