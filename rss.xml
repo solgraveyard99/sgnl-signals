@@ -5,7 +5,22 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-28T12:29:41.113Z</updated>
+  <updated>2026-11-28T12:34:41.112Z</updated>
+  <entry>
+    <title>🟠 Concern · First Digital USD (FDUSD)</title>
+    <link href="https://t.me/sgnl_free/35518"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35518</id>
+    <updated>2026-11-28T12:34:39.940Z</updated>
+    <summary type="text">🟠 Concern · First Digital USD (FDUSD)
+Price: $0.9949  (↓ 0.512% below peg)
+24h change: -0.035%
+Duration: 1253h 16min off-peg
+
+Larger deviation from peg.
+Deviations can come from thin liquidity, redemptions or venue pricing.
+
+Source: CoinGecko cross-exchange avg · Not financial advice</summary>
+  </entry>
   <entry>
     <title>📊 Activity summary · 10 active observations</title>
     <link href="https://t.me/sgnl_free/35517"/>
@@ -852,26 +867,6 @@ On-chain observation, not advice. No real-money trading. No paid mentions. Label
 📥 10.0M USDC ($10.0M)  →  Binance hot 0xce43  0xed89da…
 
 last 7 days: $20346M into · $18692M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 5 large moves</title>
-    <link href="https://t.me/sgnl_free/35468"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35468</id>
-    <updated>2026-11-28T06:28:16.964Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 5 large moves
-📊 In 6h: 28 $5M+ moves into tracked hot wallets ($955M) · 22 $5M+ moves out of tracked hot wallets ($464M).
-
-📤 40.0M USDC ($40.0M)  ←  Binance hot 0xce43  0x420ef1…
-📤 40.0M USDC ($40.0M)  ←  Binance hot 0xce43  0x420ef1…
-📤 40.0M USDC ($40.0M)  ←  Binance hot 0xce43  0x420ef1…
-📤 6400 ETH ($10.6M)  ←  OKX 167  0x5a0036…
-📥 10.0M USDT ($10.0M)  →  Binance hot 0x690c  0xed89da…
-
-last 7 days: $20372M into · $18577M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
