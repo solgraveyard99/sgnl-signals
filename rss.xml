@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-28T08:34:41.097Z</updated>
+  <updated>2026-11-28T08:39:41.101Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 4,940,728 USDC (~$4.9M) · 08:34 UTC</title>
+    <link href="https://t.me/sgnl_free/35489"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35489</id>
+    <updated>2026-11-28T08:36:34.676Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 4,940,728 USDC (~$4.9M) · 08:34 UTC
+From: 0xa9d1…3e43
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x616c9a2544083b0814d7ce7cc362463360ffc36ef80a0c9b24802060263d72cd
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1985.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 2 large moves</title>
     <link href="https://t.me/sgnl_free/35488"/>
@@ -849,18 +866,6 @@ last 7 days: $19943M into · $18657M out of tracked hot wallets
 
 Wallet labels: public address lists, unverified. Labels can be wrong.
 A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
-  </entry>
-  <entry>
-    <title>⛽🟢 Low gas right now</title>
-    <link href="https://t.me/sgnl_free/35439"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35439</id>
-    <updated>2026-11-28T02:59:40.403Z</updated>
-    <summary type="text">⛽🟢 Low gas right now
-Fast: 0.053747743 gwei  ·  Safe: 0.047861585 gwei
-
-A cheaper time for routine transactions you already planned, for example revoking old token approvals.
-Never claim an &quot;airdrop&quot; from a link someone sends you.
 Not financial advice.</summary>
   </entry>
 </feed>
