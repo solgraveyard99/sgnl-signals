@@ -5,7 +5,24 @@
   <link href="https://solgraveyard99.github.io/sgnl-signals/"/>
   <link rel="self" href="https://solgraveyard99.github.io/sgnl-signals/rss.xml"/>
   <id>tag:solgraveyard99.github.io,2026:sgnl-signals</id>
-  <updated>2026-11-28T03:44:41.060Z</updated>
+  <updated>2026-11-28T03:49:41.057Z</updated>
+  <entry>
+    <title>🔁 Exchange wallet flow · 1,886,958 USDT (~$1.9M) · 03:43 UTC</title>
+    <link href="https://t.me/sgnl_free/35443"/>
+    <id>tag:solgraveyard99.github.io,2026:msg-35443</id>
+    <updated>2026-11-28T03:46:34.927Z</updated>
+    <summary type="text">🔁 Exchange wallet flow · 1,886,958 USDT (~$1.9M) · 03:43 UTC
+From: 0x3b98…5e4f
+To: 0xf584…d621 · wallet labelled &quot;Market maker&quot; [label: public address list, unverified]
+Tx: https://etherscan.io/tx/0x32a271cffd740ea62807241d55b48bae6c6e1012e94057f2186b57f18287b725
+Transfers of this wallet seen by this feed in the last 7 days (incl. this one): 1953.
+Exchange and market-maker wallets move funds often for operational reasons; a transfer alone does not show trading.
+
+📲 t.me/sgnl_free
+💬 discord.gg/zYJ9gKRych
+
+On-chain observation, not advice. No real-money trading. No paid mentions. Labels can be wrong.</summary>
+  </entry>
   <entry>
     <title>🐋 Whale Flow Alert · 3 large moves</title>
     <link href="https://t.me/sgnl_free/35442"/>
@@ -839,21 +856,5 @@ Larger deviation from peg.
 Deviations can come from thin liquidity, redemptions or venue pricing.
 
 Source: CoinGecko cross-exchange avg · Not financial advice</summary>
-  </entry>
-  <entry>
-    <title>🐋 Whale Flow Alert · 1 large move</title>
-    <link href="https://t.me/sgnl_free/35393"/>
-    <id>tag:solgraveyard99.github.io,2026:msg-35393</id>
-    <updated>2026-11-27T22:03:24.177Z</updated>
-    <summary type="text">🐋 Whale Flow Alert · 1 large move
-📊 In 6h: 42 $5M+ moves into tracked hot wallets ($574M) · 41 $5M+ moves out of tracked hot wallets ($482M).
-
-📤 14.2M USDC ($14.2M)  ←  Kraken: Hot Wallet 4  0x2744df…
-
-last 7 days: $20850M into · $19630M out of tracked hot wallets
-
-Wallet labels: public address lists, unverified. Labels can be wrong.
-A move can be the exchange&apos;s own or a market maker&apos;s wallet, not customer money.
-Not financial advice.</summary>
   </entry>
 </feed>
